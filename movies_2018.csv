@@ -1,0 +1,862 @@
+,movieId,title,genres,year
+27558,122910,Captain Marvel (2018),Action|Adventure|Sci-Fi,2018
+27559,122912,Avengers: Infinity War - Part I (2018),Action|Adventure|Sci-Fi,2018
+32528,135448,Avatar 4 (2018),Action|Adventure|Fantasy|Sci-Fi,2018
+35904,143347,Aquaman (2018),Action|Fantasy|Sci-Fi,2018
+53148,182369,Journey's End (2018),War,2018
+53311,182715,Annihilation (2018),Adventure|Mystery|Sci-Fi|Thriller,2018
+53369,182835,The 15:17 to Paris (2018),Drama|Thriller,2018
+53450,183011,The Commuter (2018),Crime|Drama|Mystery|Thriller,2018
+53468,183055,The Beyond (2018),Horror|Sci-Fi,2018
+53503,183155,Lean on Pete (2018),Adventure|Drama,2018
+53504,183157,Dark River (2018),Drama|Mystery|Thriller,2018
+53506,183161,Journeyman (2018),Drama,2018
+53569,183295,Insidious: The Last Key (2018),Horror|Mystery|Thriller,2018
+53576,183309,Every Day (2018),Children|Drama|Fantasy|Romance,2018
+53597,183353,Proud Mary (2018),Action|Thriller,2018
+53627,183413,Submergence (2018),Drama|Romance|Thriller,2018
+53630,183419,Acts of Violence (2018),Action,2018
+53631,183421,Red Sparrow (2018),Thriller,2018
+53648,183455,Scooby-Doo! & Batman: The Brave and the Bold (2018),Animation,2018
+53649,183457,Day of the Dead: Bloodline (2018),Action|Horror,2018
+53657,183475,Abe & Phil's Last Poker Game (2018),Comedy|Drama,2018
+53667,183497,The Polka King (2018),Comedy,2018
+53671,183507,Voldemort: Origins of the Heir (2018),Adventure|Drama|Fantasy,2018
+53675,183515,A Man of Integrity (2018),Drama,2018
+53712,183589,Fifty Shades Freed (2018),Drama|Romance,2018
+53713,183591,Winning Ticket (2018),Comedy|Drama,2018
+53723,183611,Game Night (2018),Action|Comedy|Crime|Horror,2018
+53724,183613,Thoroughbreds (2018),Drama|Thriller,2018
+53726,183619,Den of Thieves (2018),Crime,2018
+53734,183635,Maze Runner: The Death Cure (2018),Action|Mystery|Sci-Fi|Thriller,2018
+53764,183701,12 Strong (2018),Drama|War,2018
+53765,183703,Forever My Girl (2018),Romance,2018
+53807,183803,Oxidan (2018),Comedy,2018
+53813,183815,The Open House (2018),Horror|Thriller,2018
+53819,183827,Lizzie (2018),Crime|Drama,2018
+53820,183829,Loveling (2018),Drama,2018
+53822,183833,Early Man (2018),Animation|Children|Comedy,2018
+53827,183843,Mandy (2018),Action|Fantasy|Horror,2018
+53829,183847,Swinging Safari (2018),Comedy|Drama,2018
+53838,183865,I Think We're Alone Now (2018),(no genres listed),2018
+53839,183869,Hereditary (2018),(no genres listed),2018
+53849,183897,Isle of Dogs (2018),Animation|Comedy,2018
+53854,183907,American Folk (2018),(no genres listed),2018
+53855,183909,A Futile & Stupid Gesture (2018),(no genres listed),2018
+53856,183911,The Clapper (2018),Comedy,2018
+53858,183915,Batman: Gotham by Gaslight (2018),Action|Animation|Sci-Fi|Thriller,2018
+53880,183959,Tom Segura: Disgraceful (2018),Comedy,2018
+53907,184015,When We First Met (2018),Comedy,2018
+53908,184017,Mute (2018),Mystery|Sci-Fi|Thriller,2018
+53911,184023,Unsane (2018),Drama|Horror,2018
+53912,184025,Step Sisters (2018),Comedy,2018
+53918,184041,A Better Tomorrow (2018),Action|Crime|Drama,2018
+53919,184043,Panic Attack (2018),Comedy|Drama,2018
+53931,184069,Accident Man (2018),Action|Crime|Thriller,2018
+53939,184085,The Violin Player (2018),Drama|Romance,2018
+53941,184089,Winchester (2018),Fantasy|Horror,2018
+53944,184095,Beast Of Burden (2018),Action|Crime|Drama,2018
+53946,184099,Looking Glass (2018),(no genres listed),2018
+53950,184107,Sono tornato (2018),Comedy,2018
+53955,184119,Braven (2018),Action,2018
+53960,184133,Trump: The Art of the Insult (2018),Documentary,2018
+53975,184165,Padmaavat (2018),Drama,2018
+53984,184189,Mary Magdalene (2018),Drama,2018
+54007,184239,Peter Rabbit (2018),Animation,2018
+54012,184249,El cuaderno de Sara (2018),Adventure,2018
+54014,184253,The Cloverfield Paradox (2018),Horror|Mystery|Sci-Fi|Thriller,2018
+54020,184265,The Mercy (2018),Drama,2018
+54030,184289,Bilal: A New Breed of Hero (2018),Action|Adventure|Animation,2018
+54031,184291,Living Among Us (2018),Fantasy|Horror|Sci-Fi|Thriller,2018
+54042,184315,Hellraiser: Judgment (2018),Horror,2018
+54075,184393,The Criminal Excellency Fund (2018),Action|Comedy|Crime,2018
+54078,184399,Eighth Grade (2018),(no genres listed),2018
+54079,184401,Selfie (2018),(no genres listed),2018
+54104,184461,Lego DC Comics Super Heroes: The Flash (2018),Animation|Children,2018
+54106,184469,Chris Rock: Tamborine (2018),Comedy,2018
+54107,184471,Tomb Raider (2018),Action|Adventure|Fantasy,2018
+54108,184473,"Paul, Apostle of Christ (2018)",Drama,2018
+54118,184493,Entanglement (2018),Comedy|Drama,2018
+54122,184501,Samson (2018),Action|Drama,2018
+54123,184503,Monster Hunt 2 (2018),Adventure|Comedy|Sci-Fi,2018
+54147,184551,Aiyaary (2018),Action|Crime|Drama,2018
+54152,184561,Where Is Kyra? (2018),Drama,2018
+54163,184583,Love Per Square Foot (2018),Comedy|Romance,2018
+54181,184621,In the Cloud (2018),Thriller,2018
+54182,184623,Gringo (2018),Action|Comedy|Drama,2018
+54192,184643,Relentless (2018),Thriller,2018
+54193,184647,Varasto 2 (2018),Comedy,2018
+54194,184649,The Scent of Rain & Lightning (2018),Drama|Mystery|Western,2018
+54195,184651,Detective Chinatown 2 (2018),(no genres listed),2018
+54214,184697,The BBQ (2018),Comedy,2018
+54229,184729,Seeing Allred (2018),Documentary,2018
+54260,184791,Fred Armisen: Standup for Drummers (2018),Comedy,2018
+54261,184793,In the Aisles (2018),Drama,2018
+54263,184797,"Papers, Please: The Short Film (2018)",Drama|Thriller,2018
+54266,184803,Little Bitches (2018),Comedy,2018
+54268,184807,Padman (2018),Comedy|Drama,2018
+54280,184831,Guardians of the Tomb (2018),Action|Adventure|Horror,2018
+54292,184865,Sherlock Gnomes (2018),Animation|Children|Comedy|Fantasy|Mystery|Romance,2018
+54294,184869,Golden Slumber (2018),Drama|Thriller,2018
+54311,184907,Half Magic (2018),Comedy|Romance,2018
+54312,184909,Operation Red Sea (2018),Action|Adventure,2018
+54319,184925,Errementari (2018),Fantasy|Horror,2018
+54322,184931,Death Wish (2018),Action|Crime|Drama|Thriller,2018
+54323,184933,Kirk Cameron's Connect (2018),Documentary|Sci-Fi,2018
+54324,184935,Nostalgia (2018),Drama,2018
+54325,184937,Irreplaceable You (2018),Comedy|Drama|Romance,2018
+54326,184939,Broken (2018),Crime|Drama,2018
+54327,184941,Sonu Ke Titu Ki Sweety (2018),Comedy|Romance,2018
+54349,184987,A Wrinkle in Time (2018),Adventure|Children|Fantasy|Sci-Fi,2018
+54350,184989,Dovlatov (2018),Drama,2018
+54351,184991,Touch Me Not (2018),Drama,2018
+54354,184997,"Love, Simon (2018)",Comedy|Drama,2018
+54355,184999,Overboard (2018),Comedy|Romance,2018
+54356,185001,I Feel Pretty (2018),Comedy,2018
+54357,185003,Marlon Wayans: Woke-ish (2018),Comedy,2018
+54368,185025,Beyond the Edge (2018),Adventure|Fantasy,2018
+54370,185029,A Quiet Place (2018),Drama|Horror|Thriller,2018
+54371,185031,Alpha (2018),Adventure|Thriller,2018
+54372,185033,I Kill Giants (2018),Drama|Fantasy|Thriller,2018
+54406,185109,Disobedience (2018),Drama|Romance,2018
+54435,185169,The Strangers: Prey at Night (2018),Horror|Thriller,2018
+54436,185171,The Hurricane Heist (2018),Action|Crime|Thriller,2018
+54491,185285,Ice (2018),Comedy|Romance,2018
+54496,185295,The Outsider (2018),Crime|Drama|Mystery,2018
+54501,185307,Far Cry 5: Inside Eden's Gate (2018),Drama|Mystery,2018
+54504,185313,Я худею (2018),Children|Comedy,2018
+54507,185319,Prospect (2018),Sci-Fi|Western,2018
+54513,185335,Bent (2018),Crime|Thriller,2018
+54533,185375,East of Sweden (2018),Drama|Thriller,2018
+54538,185385,Midnight Sun (2018),Drama|Romance,2018
+54539,185387,Gad Elmaleh: American Dream (2018),Comedy,2018
+54540,185389,Natalia Valdebenito : The Special (2018),Comedy,2018
+54541,185391,Malena Pichot: Estupidez compleja (2018),Comedy,2018
+54542,185393,Adel Karam: Live from Beirut (2018),Comedy,2018
+54543,185395,Agustín Aristarán: Soy Rada (2018),Comedy,2018
+54544,185397,Kavin Jay: Everybody Calm Down! (2018),Comedy,2018
+54545,185399,Sebastián Marcelo Wainraich (2018),(no genres listed),2018
+54546,185401,Mau Nieto: Viviendo sobrio...desde el bar (2018),Comedy,2018
+54547,185403,Ricardo Quevedo: Hay gente así (2018),Comedy,2018
+54548,185405,Todd Glass: Act Happy (2018),Comedy,2018
+54549,185407,Harith Iskander: I Told You So (2018),Comedy,2018
+54550,185409,Arango y Sanint: Ríase el show (2018),Comedy,2018
+54551,185411,Katt Williams: Great America (2018),Comedy,2018
+54552,185413,Alejandro Riaño: Especial de stand up (2018),Comedy,2018
+54557,185423,First Match (2018),Drama,2018
+54558,185425,The Titan (2018),Sci-Fi,2018
+54559,185427,6 Balloons (2018),Drama,2018
+54561,185431,Come Sunday (2018),Drama,2018
+54562,185433,Benji (2018),Children,2018
+54563,185435,"Game Over, Man! (2018)",Action|Comedy,2018
+54564,185437,Take Your Pills (2018),Documentary,2018
+54565,185439,The Rachel Divide (2018),Documentary,2018
+54567,185443,Ricky Gervais: Humanity (2018),Comedy,2018
+54576,185471,The Stolen Princess (2018),Adventure|Animation|Comedy,2018
+54577,185473,Blockers (2018),Comedy,2018
+54578,185475,Custody (2018),Drama,2018
+54580,185481,Ghostland (2018),Horror,2018
+54586,185493,The Green Lie (2018),Documentary,2018
+54592,185517,Night of 7 Years (2018),(no genres listed),2018
+54600,185537,Nancy (2018),Thriller,2018
+54601,185539,Oh Lucy! (2018),Comedy|Drama,2018
+54604,185545,The Current War (2018),Drama,2018
+54615,185569,7 Days in Entebbe (2018),Drama|Thriller,2018
+54616,185571,I Can Only Imagine (2018),Children|Drama,2018
+54623,185585,Pacific Rim: Uprising (2018),Action|Fantasy|Sci-Fi,2018
+54628,185597,Dear Dictator (2018),Comedy,2018
+54630,185601,Raid (2018),Crime|Drama|Thriller,2018
+54692,185733,Furlough (2018),Comedy,2018
+54693,185735,Yoo Byung Jae: Too Much Information (2018),Comedy,2018
+54695,185739,That’s Not My Dog! (2018),Comedy,2018
+54702,185753,Selfie from Hell (2018),Horror|Mystery,2018
+54705,185759,Demon House (2018),Documentary|Horror|Thriller,2018
+54720,185791,Dark Night (2018),Drama,2018
+54721,185793,Allure (2018),Drama|Romance|Thriller,2018
+54740,185841,Heavy Trip (2018),Comedy,2018
+54753,185869,10x10 (2018),Thriller,2018
+54758,185883,Laugh or Die (2018),Comedy|Drama,2018
+54776,185927,Wild Wild Country (2018),Documentary,2018
+54798,185975,Fast Color (2018),Drama|Sci-Fi|Thriller,2018
+54799,185977,Bad Samaritan (2018),Crime|Drama,2018
+54800,185979,Ghost Stories (2018),Drama|Horror,2018
+54804,185987,The Rider (2018),Drama,2018
+54805,185989,Truth or Dare (2018),Horror|Thriller,2018
+54808,185995,Tårtgeneralen (2018),Comedy,2018
+54809,185997,Life of the Party (2018),Comedy,2018
+54810,185999,Beast (2018),Drama,2018
+54812,186003,On Chesil Beach (2018),Drama,2018
+54813,186005,Book Club (2018),Comedy|Romance,2018
+54816,186011,Rodeo (2018),Documentary,2018
+54912,186207,The Ashram (2018),Fantasy|Thriller,2018
+54915,186215,Lajkó - Gypsy in space (2018),Comedy,2018
+54916,186217,Hyper Hamster (2018),Children|Fantasy,2018
+54919,186223,The Executioners (2018),Horror|Thriller,2018
+54930,186249,Acrimony (2018),Drama,2018
+54931,186251,God's Not Dead: A Light in Darkness (2018),Drama,2018
+54937,186263,Suicide Squad: Hell to Pay (2018),Action|Animation,2018
+54942,186273,The Guardian Angel (2018),Crime|Thriller,2018
+54956,186305,Kodachrome (2018),Drama,2018
+54958,186311,The Guernsey Literary and Potato Peel Pie Society (2018),Drama|Romance,2018
+54961,186317,Golden Dawn Girls (2018),Documentary,2018
+54968,186331,Status Update (2018),Comedy|Fantasy,2018
+54970,186335,Eternal Winter (2018),Drama|Romance,2018
+54971,186337,Billy (2018),(no genres listed),2018
+54984,186363,The China Hustle (2018),Documentary,2018
+54986,186367,Operation Odessa (2018),Documentary,2018
+54993,186381,Campeones (2018),Comedy|Drama,2018
+55000,186395,The Ballerina (2018),Drama|Horror|Thriller,2018
+55037,186471,Battalion (2018),Sci-Fi,2018
+55038,186473,Gone Are the Days (2018),Western,2018
+55048,186495,Jesus Christ Superstar Live in Concert (2018),Children,2018
+55066,186533,The Miracle Season (2018),Drama,2018
+55069,186539,What Men Talk About 3 (2018),Comedy,2018
+55074,186551,Paradox (2018),Documentary|Western,2018
+55075,186553,Pass Over (2018),Drama,2018
+55076,186555,The Cleanse (2018),Comedy|Drama|Fantasy,2018
+55080,186565,Happy Anniversary (2018),Comedy|Romance,2018
+55084,186573,Do You Trust this Computer? (2018),Documentary,2018
+55088,186581,Thawed Carp (2018),Comedy|Drama,2018
+55090,186585,Gogol. Viy (2018),(no genres listed),2018
+55091,186587,Rampage (2018),Action|Adventure|Sci-Fi,2018
+55094,186593,Boro the Caterpillar (2018),Animation,2018
+55100,186605,Paradise 89 (2018),Drama,2018
+55101,186607,The Pagan King (2018),Action|Adventure,2018
+55107,186619,Rūta (2018),(no genres listed),2018
+55111,186631,Everybody Knows (2018),Drama,2018
+55112,186633,Sudani From Nigeria (2018),Comedy,2018
+55113,186635,Meerkat Moonship (2018),Fantasy,2018
+55115,186639,Kuttanadan Marpappa (2018),Comedy,2018
+55116,186641,Science Fair (2018),Documentary,2018
+55120,186649,DiwanjiMoola Grand Prix (2018),Comedy|Thriller,2018
+55125,186659,Carbon (2018),Adventure|Thriller,2018
+55126,186661,Hey Jude (2018),Drama|Romance,2018
+55128,186665,Aadhi (2018),Action|Thriller,2018
+55168,186749,Hichki (2018),Comedy|Drama,2018
+55200,186813,A Journey to the Fumigated Towns (2018),Documentary,2018
+55221,186861,Jeannette: The Childhood of Joan of Arc (2018),Drama,2018
+55222,186863,Beirut (2018),Action|Thriller,2018
+55223,186865,Io c'è (2018),(no genres listed),2018
+55242,186903,Greg Davies: You Magnificent Beast (2018),Comedy,2018
+55243,186905,Paterno (2018),Drama,2018
+55263,186947,I Am Not an Easy Man (2018),Comedy,2018
+55264,186949,The Resistance Banker (2018),Drama|War,2018
+55266,186953,Hearts Beat Loud (2018),Drama,2018
+55267,186955,Deep Blue Sea 2 (2018),Action|Horror|Sci-Fi,2018
+55273,186967,Aardvark (2018),Drama,2018
+55276,186973,Children of the Corn: Runaway (2018),Horror,2018
+55281,186983,Three Identical Strangers (2018),Documentary,2018
+55282,186985,Batman Ninja (2018),Action|Animation,2018
+55285,186993,Funny Cow (2018),Comedy|Drama,2018
+55289,187001,Wildling (2018),Fantasy|Horror,2018
+55299,187023,Andre the Giant (2018),Documentary,2018
+55303,187031,Jurassic World: Fallen Kingdom (2018),Action|Adventure|Drama|Sci-Fi|Thriller,2018
+55306,187037,Ana by Day (2018),Drama,2018
+55313,187051,Transit  (2018),Drama,2018
+55318,187067,Super Troopers 2 (2018),Comedy,2018
+55319,187069,Traffik (2018),Thriller,2018
+55327,187085,The Debt Collector (2018),Action,2018
+55328,187087,Wild Amsterdam (2018),Documentary,2018
+55337,187109,Tremors: A Cold Day in Hell (2018),Action|Horror|Sci-Fi,2018
+55338,187111,Mademoiselle Paradis (2018),Drama,2018
+55343,187123,Backstabbing for Beginners (2018),Thriller,2018
+55354,187145,Maquia: When the Promised Flower Blooms (2018),Animation,2018
+55356,187149,So Help Me God (2018),Documentary,2018
+55357,187151,Josie (2018),Drama|Thriller,2018
+55360,187157,Cooking with Love (2018),Comedy|Romance,2018
+55365,187167,Dude (2018),Comedy,2018
+55371,187179,Kyrsyä: Tuftland (2018),Horror|Mystery,2018
+55375,187189,Nana (2018),Documentary,2018
+55376,187191,After Auschwitz (2018),Documentary,2018
+55387,187213,Psychokinesis (2018),Action|Adventure|Fantasy,2018
+55388,187215,The Seagull (2018),Drama,2018
+55394,187229,Loro - Part 1 (2018),Documentary|Drama,2018
+55395,187231,American Animals (2018),Crime|Drama,2018
+55400,187245,Sgt. Stubby: An American Hero (2018),Adventure|Animation|Children,2018
+55407,187259,Kickboxer: Retaliation (2018),Action|Drama,2018
+55432,187309,The Week Of (2018),Comedy,2018
+55433,187311,Duck Butter (2018),(no genres listed),2018
+55501,187449,Kevin James: Never Don't Give Up (2018),Comedy,2018
+55504,187455,Sobibor (2018),(no genres listed),2018
+55505,187457,The Coach (2018),Drama,2018
+55506,187461,Most Likely to Murder (2018),Comedy,2018
+55508,187465,Little Forest (2018),Drama,2018
+55516,187481,The Beach House (2018),Drama|Romance,2018
+55520,187495,Candy Jar (2018),Comedy,2018
+55523,187501,Leave No Trace (2018),Drama,2018
+55525,187505,Tully (2018),Comedy,2018
+55527,187509,Vampire Clay (2018),Horror,2018
+55534,187523,The Captain (2018),Drama|War,2018
+55537,187529,Egg (2018),Comedy|Drama,2018
+55538,187531,John Mulaney: Kid Gorgeous at Radio City (2018),Comedy,2018
+55543,187541,Incredibles 2 (2018),Action|Adventure|Animation|Children,2018
+55548,187551,Bille (2018),Children,2018
+55552,187559,On Her Shoulders (2018),Documentary,2018
+55562,187579,A Kid Like Jake (2018),Children|Drama,2018
+55564,187583,The Game Changers (2018),Documentary,2018
+55569,187593,Deadpool 2 (2018),Action|Comedy|Sci-Fi,2018
+55570,187595,Solo: A Star Wars Story (2018),Action|Adventure|Children|Sci-Fi,2018
+55573,187601,Anon (2018),Sci-Fi|Thriller,2018
+55578,187611,Adrift (2018),Drama,2018
+55579,187613,The Kissing Booth (2018),Comedy|Romance,2018
+55580,187617,LEGO DC Super Hero Girls: Super-Villain High (2018),Action|Animation|Children,2018
+55588,187641,La tribu (2018),Comedy,2018
+55591,187649,Alex & The List (2018),Comedy|Romance,2018
+55594,187655,Genesis: The Fall of Eden (2018),Sci-Fi,2018
+55598,187663,Mukkabaaz (2018),Drama,2018
+55622,187713,211 (2018),(no genres listed),2018
+55623,187715,Zoo (2018),Children|War,2018
+55624,187717,Won't You Be My Neighbor? (2018),Documentary,2018
+55625,187719,McQueen (2018),Documentary,2018
+55626,187723,Set It Up (2018),Comedy|Romance,2018
+55627,187725,Woman Walks Ahead (2018),Drama,2018
+55628,187727,Love After Love (2018),Drama,2018
+55635,187743,Dumped (2018),Comedy,2018
+55638,187749,The Gospel According to André (2018),Documentary,2018
+55639,187751,Future World (2018),Sci-Fi,2018
+55640,187753,Pope Francis: A Man of His Word (2018),Documentary,2018
+55641,187755,The Manor (2018),Horror,2018
+55647,187769,Distant Sky - Nick Cave & The Bad Seeds Live in Copenhagen (2018),Documentary,2018
+55667,187815,RBG (2018),Documentary,2018
+55682,187847,Neat: The Story of Bourbon (2018),Documentary,2018
+55696,187875,Director's Cut (2018),Horror,2018
+55727,187937,Mug (2018),Drama,2018
+55730,187943,27: El club de los malditos (2018),Action|Comedy|Crime,2018
+55731,187945,Primal Rage: The Legend of Oh-Mah (2018),Horror,2018
+55737,187957,Hari Kondabolu: Warn Your Relatives (2018),Comedy,2018
+55738,187959,Gonjiam: Haunted Asylum (2018),Horror|Mystery,2018
+55746,187977,Not Cinderella's Type (2018),Romance,2018
+55827,188139,Leo Da Vinci: Mission Mona Lisa (2018),Adventure|Animation,2018
+55828,188141,Fishbowl California (2018),Comedy|Drama,2018
+55846,188179,My Perfect Romance (2018),Romance,2018
+55848,188183,Loro 2 (2018),Drama,2018
+55850,188187,Breaking In (2018),Thriller,2018
+55851,188189,Sorry to Bother You (2018),Comedy|Fantasy|Sci-Fi,2018
+55852,188191,The House of Tomorrow (2018),Drama,2018
+55860,188207,Cold War (2018),Drama,2018
+55863,188213,The Escape (2018),Drama,2018
+55865,188217,Summer (2018),Drama,2018
+55869,188225,All These Small Moments (2018),(no genres listed),2018
+55905,188299,Whitney (2018),Documentary,2018
+55906,188301,Ant-Man and the Wasp (2018),Action|Adventure|Comedy|Fantasy|Sci-Fi,2018
+55907,188303,The First Purge (2018),Action|Horror|Sci-Fi|Thriller,2018
+55908,188305,"Don't Worry, He Won't Get Far on Foot (2018)",Comedy|Drama,2018
+55909,188307,Hotel Transylvania 3: Summer Vacation (2018),Animation|Children|Comedy|Fantasy,2018
+55910,188309,Skyscraper (2018),Action|Drama|Thriller,2018
+55911,188311,Ideal Home (2018),Comedy|Drama,2018
+55913,188315,Hover (2018),Sci-Fi,2018
+55914,188317,Uncle Drew (2018),Comedy,2018
+55926,188341,Outside In (2018),Drama,2018
+55949,188387,Mahanati (2018),(no genres listed),2018
+55969,188433,The Scythian Lamb (2018),Crime|Drama,2018
+55975,188449,Family Blood (2018),Horror|Thriller,2018
+55977,188453,Another Kind of Wedding (2018),Comedy|Drama,2018
+55978,188455,306 Hollywood (2018),Documentary,2018
+55980,188459,Darc (2018),Action|Thriller,2018
+55984,188477,Ali Wong: Hard Knock Wife (2018),Comedy,2018
+55995,188513,End Game (2018),Documentary,2018
+55996,188515,Friend (2018),Drama,2018
+56000,188523,Obscuro Barroco (2018),Documentary,2018
+56005,188533,Trouble Is My Business (2018),Adventure|Crime,2018
+56006,188535,The Honor List (2018),Drama,2018
+56008,188539,The Assassin's Code (2018),Thriller,2018
+56018,188559,Kalakalappu 2 (2018),Action|Comedy,2018
+56025,188575,Zombies (2018),Adventure|Horror,2018
+56030,188585,Enissa Amani: Ehrenwort (2018),Comedy,2018
+56038,188603,Breath (2018),Drama,2018
+56041,188609,The Snatch Thief (2018),Drama,2018
+56043,188613,Lost in Vagueness (2018),Documentary,2018
+56048,188623,Burning (2018),Drama|Mystery,2018
+56049,188625,Evil Genius: The True Story of America's Most Diabolical Bank Heist (2018),Crime|Documentary,2018
+56066,188671,Glossary of Broken Dreams (2018),Animation|Comedy|Documentary,2018
+56068,188675,Dogman (2018),Crime|Drama,2018
+56069,188679,Fahrenheit 451 (2018),Drama|Sci-Fi,2018
+56072,188693,Once Upon a Time (2018),Comedy,2018
+56073,188695,The Cleaners (2018),Documentary,2018
+56074,188697,Happy as Lazzaro (2018),Drama,2018
+56078,188705,Girl in the Bunker (2018),Drama,2018
+56085,188731,Taxi 5 (2018),Action|Comedy,2018
+56094,188749,The Equalizer 2 (2018),Action|Crime|Thriller,2018
+56095,188751,Mamma Mia: Here We Go Again! (2018),Comedy|Romance,2018
+56096,188753,Unfriended: Dark Web (2018),Horror,2018
+56097,188757,Generation Wealth (2018),Documentary,2018
+56099,188761,Puzzle (2018),Drama,2018
+56105,188773,Shoplifters (2018),Drama,2018
+56111,188785,Gewoon Vrienden (2018),Comedy|Drama|Romance,2018
+56115,188793,Mother (2018),Thriller,2018
+56117,188797,Tag (2018),Comedy,2018
+56120,188803,Edge of Daybreak (2018),Documentary,2018
+56130,188823,Delirium (2018),Horror|Thriller,2018
+56131,188825,Incoming (2018),Action|Sci-Fi|Thriller,2018
+56132,188827,Lucia's Grace (2018),Comedy,2018
+56133,188829,Capernaum (2018),Drama,2018
+56134,188831,The Gentle Indifference of the World (2018),Drama,2018
+56135,188833,The Man Who Killed Don Quixote (2018),Adventure|Comedy|Fantasy,2018
+56139,188841,Kammara Sambhavam (2018),Thriller,2018
+56140,188843,Bhaagamathie (2018),Crime|Horror|Mystery|Thriller,2018
+56147,188857,They (2018),Drama,2018
+56157,188879,Welcome the Stranger (2018),Drama|Mystery|Sci-Fi|Thriller,2018
+56160,188885,Boys Cry (2018),Crime|Drama,2018
+56175,188917,Killing Jesus (2018),Crime|Drama,2018
+56186,188941,Under the Silver Lake (2018),Comedy|Crime|Drama|Mystery|Thriller,2018
+56190,188949,Soft Matter (2018),Comedy|Horror|Sci-Fi,2018
+56192,188953,Diamantino (2018),Comedy|Drama|Fantasy|Sci-Fi,2018
+56205,189011,Measure of a Man (2018),Comedy|Drama,2018
+56207,189015,Girl Lost (2018),Drama,2018
+56215,189031,Feral (2018),Action|Drama|Horror|Thriller,2018
+56216,189033,Daphne & Velma (2018),Action|Comedy|Crime|Horror,2018
+56218,189037,Tig Notaro: Happy To Be Here (2018),Comedy,2018
+56220,189041,Sicario: Day of the Soldado (2018),Action|Crime|Drama|Thriller,2018
+56221,189043,Boundaries (2018),Comedy|Drama,2018
+56229,189061,In Darkness (2018),Thriller,2018
+56231,189065,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life (2018),Comedy,2018
+56234,189071,The Tale (2018),Drama,2018
+56247,189099,Show Dogs (2018),Comedy,2018
+56250,189105,Class Rank (2018),Comedy,2018
+56252,189109,Pandas (2018),Documentary,2018
+56253,189111,Spiral (2018),Documentary,2018
+56254,189113,Love & Bananas: An Elephant Story (2018),Documentary,2018
+56255,189115,The Escape of Prisoner 614 (2018),Adventure|Comedy|Crime,2018
+56256,189117,They Remain (2018),Drama|Horror|Mystery|Thriller,2018
+56260,189125,Izzy Gets the F*ck Across Town (2018),Comedy,2018
+56261,189129,What We Started (2018),Documentary,2018
+56262,189131,Birthmarked (2018),Comedy,2018
+56264,189137,McKellen: Playing the Part (2018),Documentary,2018
+56266,189143,The Starry Sky Above Me (2018),(no genres listed),2018
+56269,189149,Black Water (2018),Action|Drama,2018
+56278,189167,A Dangerous Son (2018),Documentary,2018
+56281,189173,A Rough Draft (2018),Fantasy|Sci-Fi,2018
+56290,189191,Edie (2018),Drama,2018
+56291,189193,Cover Versions (2018),Mystery|Thriller,2018
+56296,189203,Upgrade (2018),Action|Comedy|Horror|Sci-Fi|Thriller,2018
+56297,189205,Action Point (2018),Comedy,2018
+56300,189211,The Redeeming (2018),Drama|Mystery|Thriller,2018
+56303,189217,Avengers Grimm: Time Wars (2018),Action|Adventure|Fantasy,2018
+56312,189235,A Tale of Two Coreys (2018),Drama,2018
+56315,189241,Hotel Artemis (2018),Sci-Fi|Thriller,2018
+56318,189249,Damsel (2018),Comedy|Drama|Western,2018
+56348,189329,The Catcher Was a Spy (2018),Drama|War,2018
+56349,189331,The Spy Who Dumped Me (2018),Action|Comedy,2018
+56350,189333,Mission: Impossible - Fallout (2018),Action|Adventure|Thriller,2018
+56361,189357,The Survivor's Guide to Prison (2018),Documentary,2018
+56364,189363,Ocean's 8 (2018),Action|Comedy|Crime|Thriller,2018
+56366,189367,Sunday's Illness (2018),Drama,2018
+56373,189381,SuperFly (2018),Action|Crime|Thriller,2018
+56381,189399,Ibiza (2018),Comedy|Romance,2018
+56382,189401,Astro (2018),Action|Sci-Fi|Thriller,2018
+56384,189405,Holy Goalie (2018),Comedy,2018
+56389,189417,"Thi Mai, rumbo a Vietnam (2018)",Comedy,2018
+56391,189423,"Human, Space, Time and Human (2018)",Drama,2018
+56393,189427,Harry & Meghan: A Royal Romance (2018),Romance,2018
+56394,189429,Royal Matchmaker (2018),(no genres listed),2018
+56395,189431,The Neighbor (2018),Drama|Thriller,2018
+56415,189471,Spivak (2018),Comedy,2018
+56417,189475,The Miseducation of Cameron Post (2018),Drama,2018
+56441,189533,The Fall of Sparta (2018),Drama,2018
+56442,189535,How Long Will I Love U (2018),Comedy|Fantasy|Romance,2018
+56443,189537,Prodigals (2018),(no genres listed),2018
+56448,189549,2036 Origin Unknown (2018),Sci-Fi,2018
+56457,189567,Alex Strangelove (2018),Comedy,2018
+56484,189625,Dirty Computer (2018),Drama|Romance|Sci-Fi,2018
+56485,189627,Katie Says Goodbye (2018),(no genres listed),2018
+56489,189641,Loving Pablo (2018),Crime|Drama,2018
+56492,189647,The Forgiven (2018),Thriller,2018
+56499,189669,King Lear (2018),Drama,2018
+56507,189693,Gurrumul (2018),Documentary,2018
+56508,189695,Nothing Like a Dame (2018),Documentary,2018
+56511,189701,Us and Them (2018),Drama,2018
+56516,189713,BlacKkKlansman (2018),Comedy|Crime|Drama,2018
+56517,189715,Anonymous 616 (2018),Horror|Thriller,2018
+56525,189745,Kevin Smith: Silent but Deadly (2018),Comedy,2018
+56532,189761,Les Tuche 3 (2018),Comedy,2018
+56539,189777,The Prayer (2018),Drama,2018
+56540,189781,Down a Dark Hall (2018),Drama|Fantasy|Thriller,2018
+56541,189783,Christopher Robin (2018),Adventure|Animation|Comedy,2018
+56542,189785,Charming (2018),Animation|Comedy,2018
+56546,189795,Eva (2018),Drama,2018
+56548,189799,Eugenio (2018),Documentary,2018
+56549,189803,Going West (2018),Comedy|Drama,2018
+56550,189805,Papillon (2018),Drama,2018
+56552,189809,The Night Eats the World (2018),Fantasy|Horror,2018
+56556,189819,Escape Plan 2: Hades (2018),Action|Crime|Thriller,2018
+56560,189827,Yours in Sisterhood (2018),Documentary,2018
+56562,189831,Affairs of State (2018),Drama|Romance|Thriller,2018
+56567,189843,Nine Meals from Chaos (2018),Drama,2018
+56572,189853,Studio 54 (2018),Documentary,2018
+56573,189855,The Happy Prince (2018),Comedy|Drama,2018
+56576,189861,Hate Story IV (2018),Crime|Thriller,2018
+56577,189863,The Silent Revolution (2018),Drama,2018
+56579,189867,"Hale County This Morning, This Evening (2018)",Documentary,2018
+56580,189869,Bathtubs Over Broadway (2018),Documentary,2018
+56582,189873,Bao (2018),Animation,2018
+56584,189877,"Mektoub, My Love: Canto Uno (2018)",Drama|Romance,2018
+56585,189879,The Children Act (2018),Drama,2018
+56588,189885,The Guilty (2018),Thriller,2018
+56590,189889,Shirkers (2018),Documentary,2018
+56591,189891,Hal (2018),Documentary,2018
+56605,189923,The Scythian (2018),Action|Adventure|Drama|Fantasy,2018
+56607,189929,Distorted (2018),Action|Mystery|Thriller,2018
+56615,189959,Le Retour du héros (2018),Adventure|Comedy|Drama,2018
+56621,189991,The Extraordinary Journey of the Fakir (2018),Comedy|Drama,2018
+56623,190009,Oh mio Dio! (2018),(no genres listed),2018
+56629,190023,At War (2018),Drama,2018
+56631,190027,Sorry Angel (2018),Drama,2018
+56632,190029,Beyond The Sky (2018),Horror|Mystery|Sci-Fi|Thriller,2018
+56645,190059,Prince In Exile (2018),Action|Drama,2018
+56649,190077,The Wild Pear Tree (2018),Drama,2018
+56652,190083,The King (2018),Documentary,2018
+56653,190085,How It Ends (2018),Action|Adventure|Mystery|Sci-Fi|Thriller,2018
+56654,190087,Lust Stories (2018),Drama|Romance,2018
+56655,190089,Hannah Gadsby: Nanette (2018),Comedy,2018
+56664,190129,The Dating Project (2018),Documentary,2018
+56670,190141,Casi 40 (2018),Comedy|Romance,2018
+56671,190155,The Year of Spectacular Men (2018),Comedy|Drama,2018
+56679,190171,The Lion Sleeps Tonight (2018),Drama,2018
+56682,190177,Insect (2018),Animation|Comedy,2018
+56683,190179,Araby (2018),Drama,2018
+56685,190183,The Darkest Minds (2018),Sci-Fi|Thriller,2018
+56689,190193,Museum (2018),Crime|Drama,2018
+56690,190195,"To Each, Her Own (2018)",Comedy|Romance,2018
+56692,190199,Believer (2018),Documentary,2018
+56714,190249,W. Kamau Bell: Private School Negro (2018),(no genres listed),2018
+56720,190269,Honey: Rise Up and Dance (2018),Drama,2018
+56728,190287,Slender Man (2018),Horror,2018
+56731,190293,The Unthinkable (2018),Thriller,2018
+56732,190295,Sid & Aya: Not a Love Story (2018),Drama|Romance,2018
+56737,190305,A Prayer Before Dawn (2018),Action|Crime|Drama,2018
+56738,190307,October (2018),Drama|Romance,2018
+56739,190309,Re Loca (2018),Comedy,2018
+56740,190311,La omisión (2018),Drama,2018
+56744,190321,Memoir of Pain (2018),Drama,2018
+56746,190329,Normandie nue (2018),Comedy|Drama,2018
+56749,190337,You Shall Not Sleep (2018),Horror|Thriller,2018
+56750,190339,White Fang (2018),Animation|Drama,2018
+56753,190349,"Juliet, Naked (2018)",Comedy|Drama,2018
+56756,190355,Rolling to You (2018),Comedy|Romance,2018
+56759,190361,My Generation (2018),Documentary,2018
+56774,190395,Frontier (2018),Adventure|Drama|Sci-Fi|War,2018
+56775,190397,The Domestics (2018),Horror|Thriller,2018
+56776,190399,Animal World (2018),Action|Adventure|Drama,2018
+56777,190401,Calibre (2018),Thriller,2018
+56790,190467,All the Reasons to Forget (2018),Comedy|Drama,2018
+56798,190483,PLOEY - You Never Fly Alone (2018),(no genres listed),2018
+56803,190495,Hot Dog (2018),Action|Comedy,2018
+56804,190497,Каникулы президента (2018),Comedy,2018
+56808,190505,Over the Limit (2018),Documentary,2018
+56809,190507,Woman at War (2018),Action|Thriller,2018
+56810,190509,The Spy Gone North (2018),Thriller,2018
+56814,190519,Bécassine ! (2018),Comedy,2018
+56815,190525,Ramen Shop (2018),Drama,2018
+56824,190543,Brothers' Nest (2018),Comedy|Thriller,2018
+56827,190551,Blindspotting (2018),Comedy|Drama,2018
+56828,190553,Shock and Awe (2018),Drama|Thriller,2018
+56829,190555,Searching (2018),Drama,2018
+56831,190559,Mario (2018),Drama,2018
+56853,190607,Recovery Boys (2018),Documentary,2018
+56855,190611,The Long Dumb Road (2018),Comedy,2018
+56856,190613,The Commodore Story (2018),Documentary,2018
+56857,190615,Mohawk (2018),Action|Drama|Western,2018
+56860,190621,Big Legend (2018),Action|Horror|Thriller,2018
+56861,190623,The Legacy of a Whitetail Deer Hunter (2018),Adventure|Comedy|Drama,2018
+56863,190629,West of Hell (2018),Fantasy|Horror|Western,2018
+56883,190707,1968 (2018),(no genres listed),2018
+56893,190737,Running for Grace (2018),Children|Romance,2018
+56894,190739,UFO (2018),Mystery,2018
+56895,190741,Summer of 84 (2018),Drama|Horror|Mystery|Thriller,2018
+56896,190743,Support the Girls (2018),Drama,2018
+56897,190745,Father of the Year (2018),Comedy,2018
+56899,190749,Madeline's Madeline (2018),Drama,2018
+56900,190751,Pick of the Litter (2018),Documentary,2018
+56901,190753,Dog Days (2018),Comedy|Romance,2018
+56902,190755,The Little Stranger (2018),Drama|Horror|Mystery,2018
+56903,190757,Pickings (2018),Action|Crime|Thriller,2018
+56904,190759,Occupation (2018),Action|Sci-Fi,2018
+56906,190763,Race 3 (2018),Action|Thriller,2018
+56907,190765,Sanju (2018),Comedy|Drama,2018
+56908,190767,Baaghi 2 (2018),Action|Romance,2018
+56912,190775,Kobiety mafii (2018),Action|Crime|Drama,2018
+56917,190801,King in the Wilderness (2018),Documentary,2018
+56922,190813,Kin (2018),Action|Sci-Fi,2018
+56926,190823,Parmanu: The Story of Pokhran (2018),Action|Drama,2018
+56927,190829,Veljeni vartija (2018),Documentary|Drama,2018
+56931,190837,Pin Cushion (2018),Drama,2018
+56943,190867,Walk Like a Panther (2018),Comedy,2018
+56949,190879,Kikoriki. Deja Vu (2018),Animation|Children|Comedy,2018
+56952,190885,"Numb, at the Edge of the End (2018)",Action|Drama|Sci-Fi|Thriller,2018
+56954,190889,The Skin of the Wolf (2018),Drama|Romance,2018
+56956,190893,Muse: Drones World Tour (2018),Documentary,2018
+56961,190903,Dracula in Love (2018),Fantasy|Horror,2018
+56977,190939,A Simple Favor (2018),Crime|Mystery|Thriller,2018
+56979,190943,Duck Duck Goose (2018),Animation,2018
+56980,190945,The Package (2018),Comedy,2018
+56981,190947,Mary Queen of Scots (2018),Drama,2018
+56982,190949,Sierra Burgess Is a Loser (2018),(no genres listed),2018
+56983,190951,Dark Money (2018),Documentary,2018
+56984,190953,7 Splinters in Time (2018),Mystery|Sci-Fi|Thriller,2018
+56985,190955,Soorma (2018),Drama,2018
+56986,190957,The Devil's Doorway (2018),Horror,2018
+56989,190963,Keep an Eye Out (2018),Comedy,2018
+56997,190979,Siberia (2018),Crime|Romance|Thriller,2018
+57004,191003,Gintama 2 (2018),Comedy,2018
+57018,191087,Krystal (2018),Comedy|Drama,2018
+57021,191093,5th Passenger (2018),Sci-Fi,2018
+57023,191101,The Jurassic Games (2018),Sci-Fi|Thriller,2018
+57025,191113,Jim Jefferies: This Is Me Now (2018),Comedy,2018
+57032,191141,The Honey Killer (2018),Comedy|Drama,2018
+57033,191143,The Trial (2018),Documentary,2018
+57069,191235,GODZILLA: City on the Edge of Battle (2018),Action|Animation|Sci-Fi,2018
+57072,191241,Kung Fu Traveler 2 (2018),Action|Fantasy|Sci-Fi,2018
+57076,191253,Billionaire Boys Club (2018),Crime|Drama|Thriller,2018
+57077,191255,Hell's Kitty (2018),Comedy|Horror,2018
+57080,191261,Metti la nonna in freezer (2018),Comedy,2018
+57082,191265,Triassic World (2018),Action|Horror|Sci-Fi,2018
+57120,191351,To All the Boys I've Loved Before (2018),Comedy|Romance,2018
+57123,191357,Midnighters (2018),Thriller,2018
+57124,191359,Zoe (2018),Romance|Sci-Fi,2018
+57127,191365,Indian Horse (2018),Drama,2018
+57128,191367,The Predator (2018),Action|Adventure|Horror|Sci-Fi,2018
+57133,191377,Dhadak (2018),Drama|Romance,2018
+57134,191379,Teefa In Trouble (2018),Comedy|Drama,2018
+57155,191421,Rosy (2018),Comedy|Romance|Thriller,2018
+57162,191437,Bill Maher: Live From Oklahoma (2018),Comedy,2018
+57163,191439,The Con Is On (2018),Comedy,2018
+57164,191441,The Happytime Murders (2018),Action|Comedy|Crime,2018
+57173,191459,The Sisters Brothers (2018),Western,2018
+57176,191469,Robin Hood (2018),Adventure,2018
+57181,191479,Smallfoot (2018),Animation|Comedy,2018
+57182,191483,The Nun (2018),Horror|Mystery|Thriller,2018
+57183,191485,American Chaos (2018),Documentary,2018
+57184,191487,God Bless the Broken Road (2018),Drama,2018
+57185,191489,Peppermint (2018),Action|Crime|Thriller,2018
+57186,191491,City of Lies (2018),Crime|Thriller,2018
+57187,191495,White Boy Rick (2018),Crime|Drama,2018
+57193,191511,In the Game (2018),Comedy,2018
+57205,191643,Little Pink House (2018),Drama,2018
+57222,191679,Scotty and the Secret History of Hollywood (2018),Documentary,2018
+57226,191687,Teen Titans Go! To the Movies (2018),Animation|Children,2018
+57230,191695,be vaght sham (2018),(no genres listed),2018
+57232,191699,Hezarpa (2018),Comedy,2018
+57239,191715,Snake Outta Compton (2018),Comedy|Horror|Sci-Fi,2018
+57281,191799,Extinction (2018),Sci-Fi,2018
+57282,191803,Dead Night (2018),Horror,2018
+57283,191805,Our House (2018),Drama|Horror|Thriller,2018
+57286,191811,Iliza Shlesinger: Elder Millennial (2018),Comedy,2018
+57297,191843,Strokes of Genius (2018),Documentary,2018
+57301,191857,The Bleeding Edge (2018),Documentary,2018
+57306,191869,The Old Man and the Gun (2018),(no genres listed),2018
+57312,191895,Blue Iguana (2018),Thriller,2018
+57314,191899,No Good Heroes (2018),Comedy|Drama|Horror,2018
+57315,191901,Damascus Cover (2018),Thriller,2018
+57326,191931,Ee. Ma. Yau (2018),Comedy|Drama,2018
+57327,191933,Abrahaminte Santhathikal (2018),Crime|Thriller,2018
+57331,191941,Robin Williams: Come Inside My Mind (2018),Documentary,2018
+57343,191965,Comedy Central Roast of Bruce Willis (2018),Comedy,2018
+57351,191983,Kapalak Kızı (2018),Horror,2018
+57355,191991,The Warning (2018),Drama|Thriller,2018
+57364,192013,Romina (2018),Horror|Thriller,2018
+57375,192035,There Is No Place Like Home (2018),Comedy,2018
+57376,192043,Red Cow (2018),Drama,2018
+57377,192045,If Beale Street Could Talk (2018),Drama|Romance,2018
+57380,192051,Luz (2018),Horror|Mystery|Romance,2018
+57382,192055,Never Goin' Back (2018),Comedy|Drama,2018
+57395,192081,Like Father (2018),Comedy,2018
+57397,192085,Deadly Still (2018),Horror|Thriller,2018
+57400,192091,The Royal Hibiscus Hotel (2018),Comedy|Romance,2018
+57407,192105,Black 47 (2018),Drama|Western,2018
+57408,192107,Anthropocene (2018),Documentary,2018
+57409,192109,Minding the Gap (2018),Documentary,2018
+57415,192121,Just a Breath Away (2018),Sci-Fi,2018
+57416,192123,The Breaker Upperers (2018),Comedy,2018
+57417,192125,The Ceiling (2018),(no genres listed),2018
+57420,192133,Bad Influence (2018),Comedy|Drama,2018
+57431,192159,Mi obra maestra (2018),Comedy,2018
+57433,192163,An Unexpected Love (2018),Comedy|Romance,2018
+57437,192177,Solo (2018),Thriller,2018
+57444,192197,The Row (2018),Thriller,2018
+57449,192209,Flavors of Youth (2018),Animation|Drama|Romance,2018
+57451,192213,Counterfeiting in Suburbia (2018),Thriller,2018
+57453,192217,We Make Antiques! (2018),Comedy,2018
+57454,192219,My Big Gay Italian Wedding (2018),Comedy,2018
+57456,192223,The Apparition (2018),Drama,2018
+57461,192237,Hello Oksana Sokolova! (2018),Comedy,2018
+57472,192265,The Witch: Part 1. The Subversion (2018),Action|Mystery,2018
+57476,192275,Farmlands (2018),Crime|Documentary,2018
+57480,192283,Crazy Rich Asians (2018),Comedy,2018
+57481,192285,Birds of Passage (2018),Crime|Drama,2018
+57489,192301,Night Shift (2018),Comedy,2018
+57491,192307,The Meg (2018),Action|Horror|Sci-Fi|Thriller,2018
+57496,192319,Operation Finale (2018),Drama,2018
+57501,192333,Maradona (2018),Action|Comedy|Thriller,2018
+57510,192357,Colette (2018),Drama,2018
+57511,192359,Demetri Martin: The Overthinker (2018),Comedy,2018
+57512,192361,Royal Hearts (2018),Romance,2018
+57515,192369,Odds Are (2018),Thriller,2018
+57516,192373,Quanto basta (2018),(no genres listed),2018
+57517,192375,Elizabeth Harvest (2018),Sci-Fi|Thriller,2018
+57518,192385,A Star Is Born (2018),Drama|Romance,2018
+57519,192393,Night School (2018),Comedy,2018
+57526,192411,Freaky Friday (2018),Children|Fantasy,2018
+57532,192431,The Eyes of Orson Welles (2018),Documentary,2018
+57537,192451,Dead Men (2018),Action|Drama|Western,2018
+57538,192453,A Dog and Pony Show (2018),Children|Comedy,2018
+57539,192455,A. I. Tales (2018),(no genres listed),2018
+57546,192469,Genesis 2.0 (2018),Documentary,2018
+57554,192487,Enter The Wild (2018),Horror,2018
+57555,192489,Skate Kitchen (2018),Drama,2018
+57556,192491,Blaze (2018),Drama,2018
+57559,192497,Swimming with Men (2018),Comedy,2018
+57562,192503,Thunder Road (2018),Comedy|Drama,2018
+57563,192505,Monsters at Large (2018),(no genres listed),2018
+57564,192507,Killing Joan (2018),Action|Crime|Drama,2018
+57578,192537,Vitamania: The Sense and Nonsense of Vitamins (2018),Documentary,2018
+57582,192545,Pity (2018),Drama,2018
+57583,192547,Winter Flies (2018),Comedy|Drama,2018
+57585,192551,Mile 22 (2018),Action,2018
+57587,192559,The House with a Clock in Its Walls (2018),Children|Fantasy|Horror|Mystery|Sci-Fi|Thriller,2018
+57589,192565,We the Animals (2018),Drama,2018
+57593,192579,Johnny English Strikes Again (2018),Action|Adventure|Children|Comedy,2018
+57594,192581,The Matchmaker's Playbook (2018),Romance,2018
+57595,192587,The Grand Son (2018),Crime|Drama,2018
+57603,192615,Perdida (2018),Crime|Drama|Mystery,2018
+57607,192633,Five Seasons: The Gardens of Piet Oudolf (2018),Documentary,2018
+57609,192639,Office Uprising (2018),Action|Comedy|Horror,2018
+57614,192649,My Hero Academia the Movie: The Two Heroes (2018),Action|Animation,2018
+57618,192675,Benched (2018),(no genres listed),2018
+57625,192693,The Most Unknown (2018),Documentary,2018
+57627,192697,Destination Wedding (2018),Comedy|Drama|Romance,2018
+57629,192701,The Little Mermaid (2018),Adventure|Fantasy|Romance,2018
+57634,192713,Compulsion (2018),Fantasy|Horror|Thriller,2018
+57639,192729,If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd (2018),Documentary,2018
+57640,192731,Mrs. Hyde (2018),Comedy|Fantasy,2018
+57642,192737,The Ninth Passenger (2018),Horror,2018
+57645,192749,Along With the Gods: The Last 49 Days (2018),Action|Adventure|Drama|Fantasy,2018
+57647,192753,Domino (2018),Crime|Thriller,2018
+57648,192755,Hurricane Bianca: From Russia with Hate (2018),Comedy,2018
+57651,192761,Arizona (2018),Comedy|Drama,2018
+57653,192765,The Festival (2018),Comedy,2018
+57659,192777,The After Party (2018),Comedy,2018
+57660,192783,Headgame (2018),Horror,2018
+57661,192785,Never Be Boring: Billy Wilder (2018),Documentary,2018
+57662,192787,What Keeps You Alive (2018),Thriller,2018
+57666,192795,Decision: Liquidation (2018),Action|Drama|War,2018
+57671,192823,Crime + Punishment (2018),Documentary,2018
+57672,192825,Who We Are Now (2018),Drama,2018
+57673,192827,Jawani Phir Nahi Ani 2 (2018),Comedy,2018
+57676,192835,Lake Placid: Legacy (2018),Horror,2018
+57678,192841,Das schönste Mädchen der Welt (2018),Comedy,2018
+57682,192849,Bert Kreischer: Secret Time (2018),Comedy,2018
+57685,192855,"Happier times, Grump (2018)",Comedy|Drama,2018
+57688,192861,Corbin Nash (2018),Action|Horror|Thriller,2018
+57693,192875,Yardie (2018),Crime|Drama,2018
+57704,192901,Les Vieux Fourneaux (2018),Comedy,2018
+57705,192903,"Tonight, At the Movies (2018)",Drama|Fantasy|Romance,2018
+57709,192911,A.X.L. (2018),Sci-Fi,2018
+57717,192931,Jan Palach (2018),Drama,2018
+57718,192933,Rosie (2018),Drama,2018
+57734,192981,Penguin Highway (2018),Adventure|Animation|Children|Comedy|Fantasy,2018
+57741,192999,Blood Fest (2018),Comedy|Horror,2018
+57747,193011,The Bobot (2018),Adventure|Children|Sci-Fi,2018
+57748,193013,Première année (2018),(no genres listed),2018
+57749,193015,Rust (2018),Drama,2018
+57752,193021,The Mermaid: Lake of the Dead (2018),Fantasy|Horror|Romance,2018
+57754,193025,Hyperlight (2018),Sci-Fi,2018
+57765,193065,Roma (2018),Drama,2018
+57766,193067,The Mountain (2018),Drama,2018
+57767,193069,Close Enemies (2018),Drama,2018
+57769,193073,Stree (2018),Horror,2018
+57783,193133,Alien Siege (2018),Sci-Fi,2018
+57785,193137,Reprisal (2018),Action|Crime|Thriller,2018
+57786,193139,Satyameva Jayate (2018),Action|Thriller,2018
+57788,193145,La Bolduc (2018),Drama,2018
+57795,193177,Djon África (2018),Crime|Drama,2018
+57798,193183,Death of a Nation (2018),Documentary,2018
+57799,193185,Fahrenheit 11/9 (2018),Documentary,2018
+57807,193201,RX 100 (2018),Action|Drama|Romance,2018
+57814,193219,(Girl)Friend (2018),Comedy|Romance,2018
+57816,193223,Breaking & Exiting (2018),Comedy,2018
+57818,193227,Sick For Toys (2018),Horror,2018
+57823,193243,Next Gen (2018),Action|Adventure|Animation,2018
+57827,193253,Active Measures (2018),Documentary,2018
+57829,193257,Familie Brasch (2018),Documentary,2018
+57830,193259,Gundermann (2018),Drama,2018
+57831,193261,The Most Assassinated Woman in the World (2018),Mystery|Thriller,2018
+57832,193263,Her Worst Nightmare (2018),Thriller,2018
+57834,193267,RedBad (2018),Adventure,2018
+57835,193269,The River (2018),(no genres listed),2018
+57836,193271,American Dharma (2018),Documentary,2018
+57837,193273,Manta Ray (2018),(no genres listed),2018
+57838,193275,José (2018),(no genres listed),2018
+57839,193277,Your Face (2018),Documentary,2018
+57840,193279,Pearl (2018),Drama,2018
+57841,193281,Emma Peeters (2018),(no genres listed),2018
+57842,193283,102 Not Out (2018),Children|Comedy|Drama,2018
+57843,193285,Gaston Lagaffe (2018),Comedy,2018
+57844,193287,The World Is Yours (2018),Comedy|Crime|Drama,2018
+57848,193295,Hurricane (2018),War,2018
+57849,193297,Scooby-Doo! and the Gourmet Ghost (2018),Adventure|Animation|Crime,2018
+57850,193299,44 Pages (2018),Documentary,2018
+57854,193321,Pledges (2018),Comedy|Horror,2018
+57855,193323,Puppet Master: The Littlest Reich (2018),Horror,2018
+57856,193325,LasseMajas detektivbyrå - Det första mysteriet (2018),Children,2018
+57857,193327,Best F(r)iends: Volume One (2018),Comedy|Drama|Thriller,2018
+57876,193371,Leading Lady Parts (2018),Comedy,2018
+57887,193395,Slice (2018),Comedy|Horror,2018
+57891,193407,Mr. Know-It-All (2018),Comedy,2018
+57895,193417,The Laws of Thermodynamics (2018),Comedy|Romance,2018
+57901,193439,On My Skin (2018),Drama,2018
+57902,193441,The Crescent (2018),Horror|Mystery,2018
+57904,193445,Assassination Nation (2018),Thriller,2018
+57905,193455,Aniara (2018),Sci-Fi,2018
+57910,193465,Boarding School (2018),(no genres listed),2018
+57913,193471,The Inhabitant (2018),Horror,2018
+57914,193473,Warning Shot (2018),(no genres listed),2018
+57915,193475,Goodachari (2018),Action|Thriller,2018
+57916,193479,Mercury 13 (2018),Documentary,2018
+57917,193481,Rangasthalam (2018),Action|Drama,2018
+57931,193509,How to Get Girls (2018),(no genres listed),2018
+57932,193511,Public Disturbance (2018),Comedy,2018
+57938,193523,Bharat Ane Nenu (2018),Action|Drama,2018
+57942,193533,Bleach (2018),Action|Fantasy,2018
+57947,193543,The Surrounding Game (2018),Documentary,2018
+57949,193547,Pet Names (2018),Comedy|Drama,2018
+57954,193561,55 Steps (2018),Drama,2018
+57955,193563,Gutland (2018),Drama|Mystery|Thriller,2018
+57958,193569,Enchanted Princess (2018),Animation|Children|Fantasy,2018
+57961,193575,Another Time (2018),Comedy|Drama|Romance|Sci-Fi,2018
+57966,193587,Bungo Stray Dogs: Dead Apple (2018),Action|Animation,2018
+57969,193595,The Land of Steady Habits (2018),Comedy|Drama,2018
+57970,193597,I Do Not Care If We Go Down in History as Barbarians (2018),Drama,2018
+57971,193599,Climax (2018),Drama|Horror,2018
+57972,193603,A Faithful Man (2018),Comedy|Drama,2018
+57973,193605,In Fabric (2018),Comedy|Horror,2018
+57978,193617,Nelly & Simon:  Mission Yeti (2018),Adventure|Animation|Children,2018
+57981,193629,Slut In A Good Way (2018),Comedy|Drama,2018
+57983,193633,Bulbul Can Sing (2018),Drama,2018
+57984,193635,Manto (2018),Drama,2018
+57985,193637,Giant Little Ones (2018),Drama,2018
+58003,193677,Shéhérazade (2018),Drama,2018
+58008,193691,Craving (2018),Comedy|Drama,2018
+58009,193693,Üç Harfliler: Beddua (2018),(no genres listed),2018
+58010,193695,Raccoon Valley (2018),Drama|Horror|Thriller,2018
+58013,193705,Crystal Swan (2018),Comedy,2018
+58020,193725,Where Hands Touch (2018),Drama|Romance|War,2018
+58032,193749,Final Score (2018),Action,2018
+58033,193751,The Riot Act (2018),Thriller,2018
+58038,193761,Bel Canto (2018),Drama|Thriller,2018
+58042,193769,A Boy. A Girl. A Dream: Love on Election Night (2018),Romance,2018
+58043,193771,Little Italy (2018),Comedy|Romance,2018
+58047,193779,We Have Always Lived in the Castle (2018),Drama|Mystery|Thriller,2018
+58048,193781,Matangi / Maya / M.I.A. (2018),Documentary,2018
+58053,193793,Empowered (2018),Comedy,2018
+58055,193797,Curse of the Nun (2018),Horror,2018
+58062,193811,Burning Shadow (2018),Thriller,2018
+58063,193813,"Love, Gilda (2018)",Documentary,2018
+58067,193821,Nappily Ever After (2018),Comedy|Romance,2018
+58077,193843,Raazi (2018),Action|Drama|Thriller,2018
+58078,193845,Dywizjon 303 (2018),War,2018
+58079,193849,Rafinha Bastos: Ultimatum (2018),(no genres listed),2018
+58080,193851,U: July 22 (2018),Drama|Thriller,2018
+58084,193859,"You, Me and Him (2018)",Comedy,2018
+58088,193866,Tales from the Hood 2 (2018),Horror,2018
+58091,193872,Room Laundering (2018),Drama,2018
+58097,193886,Leal (2018),Action|Crime|Drama,2018
