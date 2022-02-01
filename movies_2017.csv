@@ -1,1892 +1,590 @@
-,movieId,title,genres,year
-27552,122896,Pirates of the Caribbean: Dead Men Tell No Tales (2017),(no genres listed),2017
-27553,122898,Justice League (2017),Action|Adventure|Sci-Fi,2017
-27557,122906,Black Panther (2017),Action|Adventure|Sci-Fi,2017
-27560,122916,Thor: Ragnarok (2017),Action|Adventure|Sci-Fi,2017
-27561,122918,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,2017
-27565,122926,Untitled Spider-Man Reboot (2017),Action|Adventure|Fantasy,2017
-32402,135139,Allegiant: Part 2 (2017),Adventure|Romance|Sci-Fi,2017
-32527,135446,Avatar 3 (2017),Action|Adventure|Fantasy|Sci-Fi,2017
-35905,143349,Sky Sharks (2017),Comedy|Horror,2017
-35906,143351,The Fantastic Four 2 (2017),(no genres listed),2017
-35907,143353,The Croods 2 (2017),Adventure|Animation|Children|Comedy|Fantasy,2017
-35908,143355,Wonder Woman (2017),Action|Adventure|Fantasy,2017
-35909,143357,Independence Day 3 (2017),(no genres listed),2017
-35923,143387,Pitch Perfect 3 (2017),(no genres listed),2017
-45866,166532,Live by Night (2017),Crime|Drama,2017
-45867,166534,Split (2017),Drama|Horror|Thriller,2017
-46114,167064,I Am Not Your Negro (2017),Documentary,2017
-46254,167380,A Dog's Purpose (2017),Comedy|Drama,2017
-46342,167564,The Little Hours (2017),Comedy,2017
-46374,167634,Fist Fight (2017),Comedy,2017
-46376,167638,Sleepless (2017),Action|Thriller,2017
-46377,167640,A Cure for Wellness (2017),Drama|Horror|Mystery|Thriller,2017
-46405,167700,The Snow Queen 3 (2017),Animation,2017
-46414,167718,The Man (2017),(no genres listed),2017
-46424,167738,xXx: Return of Xander Cage (2017),Action|Adventure|Crime|Thriller,2017
-46425,167740,The Bye Bye Man (2017),Horror|Thriller,2017
-46428,167746,The Lego Batman Movie (2017),Action|Animation|Comedy,2017
-46461,167814,A Wedding (2017),(no genres listed),2017
-46473,167840,Rangoon (2017),Drama|Romance,2017
-46474,167842,Death Race 2050 (2017),Action|Comedy|Sci-Fi,2017
-46480,167856,Bright Lights: Starring Carrie Fisher and Debbie Reynolds (2017),Documentary,2017
-46481,167858,Trespass Against Us (2017),Action|Crime|Drama|Thriller,2017
-46536,167980,Coin Heist (2017),Crime|Drama,2017
-46576,168060,Rings (2017),Horror,2017
-46605,168122,Raw (2017),Drama,2017
-46607,168126,Clinical (2017),Thriller,2017
-46631,168174,Jim Gaffigan: Cinco (2017),Comedy,2017
-46641,168204,Eu Fico Loko (2017),Comedy,2017
-46646,168214,The Crash (2017),Crime|Thriller,2017
-46648,168218,Kizumonogatari III: Cold Blood (2017),Animation|Fantasy|Mystery,2017
-46657,168240,Afterimage (2017),Drama,2017
-46661,168248,John Wick: Chapter Two (2017),Action|Crime|Thriller,2017
-46662,168250,Get Out (2017),Horror,2017
-46663,168252,Logan (2017),Action|Sci-Fi,2017
-46664,168254,Kong: Skull Island (2017),Action|Adventure|Fantasy,2017
-46670,168266,T2: Trainspotting (2017),Crime|Drama,2017
-46674,168274,Patient Zero (2017),Action|Drama|Horror|Thriller,2017
-46680,168286,Before I Fall (2017),Drama,2017
-46681,168288,The Belko Experiment (2017),Action|Horror|Thriller,2017
-46700,168326,The Big Sick (2017),Comedy|Romance,2017
-46701,168328,Ingrid Goes West (2017),Comedy|Drama,2017
-46702,168330,I Don't Feel at Home in This World Anymore (2017),Crime|Drama,2017
-46709,168344,King Arthur: Legend of the Sword (2017),Action|Adventure|Drama|Fantasy,2017
-46720,168366,Beauty and the Beast (2017),Fantasy|Romance,2017
-46722,168370,Take the L (2017),Comedy,2017
-46742,168418,The Boss Baby (2017),Animation|Children|Comedy,2017
-46743,168420,Justice League Dark (2017),Action|Animation|Fantasy|Horror,2017
-46764,168462,The other me (2017),Mystery|Thriller,2017
-46778,168492,Call Me by Your Name (2017),Drama|Romance,2017
-46780,168498,Resident Evil: The Final Chapter (2017),Action|Horror|Sci-Fi,2017
-46802,168554,iBoy (2017),Action|Crime|Sci-Fi|Thriller,2017
-46803,168556,L'ora legale (2017),Comedy,2017
-46823,168608,Mudbound (2017),Drama,2017
-46824,168610,A Ghost Story (2017),Drama,2017
-46825,168612,Ghost in the Shell (2017),Action|Drama|Sci-Fi,2017
-46832,168626,Pork Pie (2017),Action|Comedy,2017
-46835,168632,Bill Burr: Walk Your Way Out (2017),Comedy,2017
-46842,168646,Dalida (2017),Comedy|Drama,2017
-46844,168650,XX (2017),Horror,2017
-46847,168656,Ok Jaanu (2017),Drama|Romance,2017
-46873,168712,Fifty Shades Darker (2017),Drama|Romance,2017
-46874,168714,Wilson (2017),Comedy,2017
-46877,168720,Lost & Found (2017),Adventure|Children|Mystery,2017
-46878,168722,Attraction (2017),Sci-Fi,2017
-46879,168724,Mes trésors (2017),Comedy,2017
-46886,168738,Don't Knock Twice (2017),Horror,2017
-46904,168774,Detour (2017),Thriller,2017
-46906,168778,The Book of Love (2017),Drama,2017
-46919,168806,The Other Side Of Hope (2017),(no genres listed),2017
-46920,168808,Trumped: Inside the Greatest Political Upset of All Time (2017),Documentary,2017
-46928,168826,Hickey (2017),Comedy,2017
-46931,168832,The Man Who Was Too Free (2017),(no genres listed),2017
-46932,168834,Orphan (2017),Drama,2017
-46934,168838,Nieve negra (2017),Thriller,2017
-46937,168846,Neal Brennan: 3 Mics (2017),Comedy,2017
-46945,168862,"Michael Bolton's Big, Sexy Valentine's Day Special (2017)",Comedy,2017
-46959,168898,Lost in Florence (2017),Adventure|Drama|Romance,2017
-46962,168904,Bad Kids of Crestview Academy (2017),Comedy|Fantasy|Mystery|Sci-Fi|Thriller,2017
-47003,168996,Smetto quando voglio: Masterclass (2017),Comedy,2017
-47015,169020,In Dubious Battle (2017),Drama,2017
-47019,169028,Berlin Syndrome (2017),Drama|Thriller,2017
-47020,169030,Az állampolgár (2017),Drama,2017
-47053,169106,Youth in Oregon (2017),Comedy|Drama,2017
-47080,169164,Song to Song (2017),Drama,2017
-47081,169166,To the Bone (2017),Drama,2017
-47082,169168,Girlfriend's Day (2017),Comedy|Drama,2017
-47084,169172,Have a Nice Day (2017),(no genres listed),2017
-47088,169180,American Fable (2017),Thriller,2017
-47092,169188,Katherine Ryan: In Trouble (2017),Comedy,2017
-47097,169198,Almost Adults (2017),Comedy|Drama|Romance,2017
-47100,169204,Mein Blind Date mit dem Leben (2017),Comedy,2017
-47103,169210,A Good Wife (2017),Drama,2017
-47106,169216,Spoor (2017),Drama,2017
-47107,169218,God's Own Country (2017),Drama|Romance,2017
-47108,169220,A Fantastic Woman (2017),Drama,2017
-47109,169222,Colo (2017),Drama,2017
-47119,169242,"Ana, mon amour (2017)",Drama,2017
-47120,169244,Hostages (2017),(no genres listed),2017
-47126,169256,Lovesong (2017),Drama,2017
-47130,169264,Jen Kirkman: Just Keep Livin’? (2017),Comedy,2017
-47141,169288,Major Grom (2017),Action|Adventure|Drama|Sci-Fi,2017
-47144,169294,Becoming Warren Buffett (2017),Documentary,2017
-47148,169302,Everybody Loves Somebody (2017),Comedy,2017
-47192,169390,RAID Dingue (2017),Comedy,2017
-47200,169406,Britney Ever After (2017),Drama,2017
-47232,169472,"Nick Cannon: Stand Up, Don't Shoot (2017)",Comedy,2017
-47235,169478,Fair Haven (2017),Children|Drama,2017
-47240,169488,Oklahoma City (2017),Documentary,2017
-47249,169506,Asteria (2017),Animation|Comedy|Sci-Fi,2017
-47323,169654,Don't Hang Up (2017),Horror|Thriller,2017
-47329,169666,Mean Dreams (2017),Thriller,2017
-47335,169682,Fare (2017),Drama|Thriller,2017
-47340,169692,Tom of Finland (2017),Drama,2017
-47342,169696,Deconstructing The Beatles | Sgt. Peppers Lonely Hearts Club Band (2017),(no genres listed),2017
-47357,169744,Zombie Pizza (2017),Comedy|Horror,2017
-47362,169754,Wolves (2017),Drama,2017
-47363,169756,Their Finest (2017),Comedy|Drama|Romance|War,2017
-47364,169758,The Ottoman Lieutenant (2017),Drama|Romance|War,2017
-47365,169760,Lady Macbeth (2017),Drama,2017
-47366,169762,The Sense of an Ending (2017),Drama,2017
-47371,169772,Tim Timmerman: Hope of America (2017),Comedy,2017
-47385,169800,The Institute (2017),Horror|Thriller,2017
-47387,169804,Internet - O Filme (2017),Comedy,2017
-47391,169812,Patients (2017),Comedy|Drama,2017
-47406,169842,The Shack (2017),Drama|Fantasy,2017
-47410,169850,The Bride (2017),Horror,2017
-47415,169862,Kundschafter des Friedens (2017),Comedy,2017
-47416,169864,Life (2017),Horror|Sci-Fi|Thriller,2017
-47424,169880,Don't Kill It (2017),Fantasy|Horror,2017
-47428,169888,Kaabil (2017),Action|Romance,2017
-47430,169892,The Raking (2017),Horror,2017
-47434,169900,The Lost City of Z (2017),Action|Adventure|Drama,2017
-47435,169902,Sleight (2017),Action|Drama|Sci-Fi|Thriller,2017
-47447,169926,Kurt Braunohler: Trust Me (2017),Comedy,2017
-47457,169950,Disappearance (2017),Drama,2017
-47461,169958,Buster's Mal Heart (2017),Drama|Mystery,2017
-47465,169966,The King (2017),Crime|Drama,2017
-47467,169970,Ghosts of Darkness (2017),Horror,2017
-47473,169982,Power Rangers (2017),Action|Adventure|Sci-Fi,2017
-47474,169984,Alien: Covenant (2017),Action|Horror|Sci-Fi|Thriller,2017
-47475,169986,Beata ignoranza (2017),(no genres listed),2017
-47478,169992,Free Fire (2017),Action|Crime|Drama,2017
-47491,170024,Casting JonBenet (2017),Documentary,2017
-47492,170026,Django (2017),Drama,2017
-47500,170046,Amy Schumer: The Leather Special (2017),Comedy,2017
-47514,170105,Saattokeikka (2017),Comedy|Drama,2017
-47532,170151,The Party (2017),Comedy,2017
-47533,170153,The Dinner (2017),Drama|Mystery|Thriller,2017
-47534,170155,Wild Mouse (2017),Comedy|Crime|Drama,2017
-47535,170157,The Avenue (2017),Crime|Drama,2017
-47543,170183,Arsenal (2017),Thriller,2017
-47549,170199,Zona hostil (2017),Action|Drama|War,2017
-47550,170201,Jim Norton: Mouthful of Shame (2017),Comedy,2017
-47554,170209,From Straight A's to XXX (2017),Drama,2017
-47559,170221,Stray Bullets (2017),Crime|Drama|Thriller,2017
-47566,170235,The Invisible Guardian (2017),Crime|Thriller,2017
-47569,170241,Born in China (2017),Documentary|Drama,2017
-47573,170253,Gemini (2017),Thriller,2017
-47578,170263,Trevor Noah: Afraid of the Dark (2017),Comedy,2017
-47604,170317,Lost in Paris (2017),(no genres listed),2017
-47624,170357,Dave Chappelle: The Age of Spin (2017),Comedy,2017
-47625,170359,David Bowie: The Last Five Years (2017),Documentary,2017
-47630,170369,The Evil Within (2017),Horror|Thriller,2017
-47641,170393,The Last Word (2017),Comedy,2017
-47644,170399,CHiPS (2017),Action|Comedy|Drama,2017
-47645,170401,Table 19 (2017),Comedy|Drama,2017
-47646,170403,Going in Style (2017),Comedy,2017
-47647,170405,Bokeh (2017),Drama|Sci-Fi,2017
-47648,170407,Alibi.com (2017),Comedy,2017
-47650,170411,Dave Chappelle: Deep in the Heart of Texas (2017),Comedy,2017
-47655,170423,All Nighter (2017),Comedy,2017
-47656,170425,Monsieur & Madame Adelman (2017),Comedy|Drama,2017
-47667,170447,Deidra & Laney Rob a Train (2017),Comedy|Crime|Drama,2017
-47670,170453,Carnage: Swallowing the Past (2017),Comedy|Drama,2017
-47682,170477,Atomica (2017),Sci-Fi|Thriller,2017
-47684,170481,The Most Hated Woman in America (2017),Crime|Drama,2017
-47688,170489,Sidney Hall (2017),Drama,2017
-47694,170501,Bitter Harvest (2017),Drama|Romance|War,2017
-47712,170537,Vengeance: A Love Story (2017),Thriller,2017
-47720,170555,The Bar (2017),Comedy|Thriller,2017
-47755,170627,Smurfs: The Lost Village (2017),Adventure|Animation|Children|Comedy,2017
-47756,170629,The Discovery (2017),Drama|Romance|Sci-Fi,2017
-47760,170637,Viceroy's House (2017),Drama,2017
-47763,170643,The Devotion of Suspect X (2017) (2017),Mystery|Thriller,2017
-47764,170645,The Zookeeper's Wife (2017),Drama,2017
-47771,170661,Female Fight Club (2017),Action,2017
-47784,170691,Eloise (2017),Horror|Mystery|Thriller,2017
-47787,170697,Gifted (2017),Drama,2017
-47793,170709,Teen Titans: The Judas Contract (2017),Action|Animation|Sci-Fi,2017
-47801,170729,Louis C.K. 2017 (2017),Comedy,2017
-47807,170741,Cantábrico (2017),(no genres listed),2017
-47812,170751,Aftermath (2017),Drama|Thriller,2017
-47814,170755,Small Town Killers (2017),Comedy|Crime,2017
-47824,170779,The Bigfoot Project (2017),Comedy,2017
-47825,170781,The Case for Christ (2017),Drama,2017
-47826,170783,1 Mile to You (2017),(no genres listed),2017
-47827,170785,Spark: A Space Tail (2017),Animation|Children,2017
-47828,170787,"Everything, Everything (2017)",Drama|Romance,2017
-47829,170789,Diary of a Wimpy Kid: The Long Haul (2017),Children|Comedy,2017
-47832,170795,Felicity (2017),Drama,2017
-47838,170807,Dance to Death (2017),Action|Fantasy,2017
-47839,170809,The Spacewalker (2017),Drama,2017
-47841,170813,Baywatch (2017),Action|Comedy,2017
-47842,170815,Unforgettable (2017),Thriller,2017
-47843,170817,Snatched (2017),Action|Comedy,2017
-47848,170827,The Mummy (2017),Action|Adventure|Fantasy|Horror|Thriller,2017
-47852,170835,From a House on Willow Street (2017),Horror,2017
-47862,170857,"Blood, Sand & Gold (2017)",Action,2017
-47867,170867,Dear Diary I Died (2017),Drama,2017
-47871,170875,The Fate of the Furious (2017),Action|Crime|Drama|Thriller,2017
-47874,170881,After Porn Ends 2 (2017),Documentary,2017
-47875,170885,Burning Sands (2017),Drama,2017
-47879,170893,Teleios (2017),Sci-Fi,2017
-47881,170897,Sandy Wexler (2017),Comedy,2017
-47883,170901,Extortion (2017),Adventure|Crime|Drama,2017
-47891,170917,The Transfiguration (2017),Drama|Horror,2017
-47901,170937,Win It All (2017),Comedy,2017
-47902,170939,Captain Underpants: The First Epic Movie (2017),Action|Animation|Children|Comedy,2017
-47903,170941,3 Idiotas (2017),(no genres listed),2017
-47904,170943,Band Aid (2017),(no genres listed),2017
-47905,170945,It Comes at Night (2017),Horror|Mystery|Thriller,2017
-47906,170947,Megan Leavey (2017),Adventure|Drama|War,2017
-47907,170949,My Cousin Rachel (2017),Drama|Romance,2017
-47910,170957,Cars 3 (2017),Adventure|Animation|Comedy,2017
-47911,170959,Maudie (2017),Drama|Romance,2017
-47912,170961,Resident Evil: Vendetta (2017),Animation|Horror,2017
-47915,170967,Mad Families (2017),Comedy,2017
-47916,170969,The False Secrets (2017),Comedy,2017
-47924,170985,The Marine 5 Battleground (2017),Action,2017
-47925,170987,The Covenant (2017),Horror,2017
-47934,171005,Rufus 2 (2017),Children|Comedy|Fantasy,2017
-47935,171007,The Book of Henry (2017),Drama,2017
-47943,171023,The Hero (2017),Drama,2017
-47955,171049,The Wall (2017),Drama|Thriller,2017
-47960,171061,Diamond Cartel (2017),Action,2017
-47965,171071,Genocidal Organ (2017),Animation|Sci-Fi,2017
-47971,171085,The Snare (2017),Horror|Thriller,2017
-47982,171109,Phoenix Forgotten (2017),Horror|Mystery|Sci-Fi,2017
-47983,171111,Skins (2017),Comedy|Drama,2017
-47984,171113,The Immortal Life of Henrietta Lacks (2017),Drama,2017
-47986,171117,Boiling Point (2017),Documentary,2017
-48002,171157,Lowriders (2017),Drama,2017
-48006,171165,Hell (2017),Crime|Horror|Thriller,2017
-48020,171193,The Dark Tapes (2017),Horror|Sci-Fi|Thriller,2017
-48027,171207,Beyond Skyline (2017),Action|Sci-Fi,2017
-48028,171209,Punching Henry (2017),Comedy,2017
-48037,171227,How to Be a Latin Lover (2017),Comedy,2017
-48040,171233,The Trip to Spain (2017),Comedy|Drama,2017
-48049,171251,"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press (2017)",Documentary,2017
-48050,171253,Brigsby Bear (2017),Comedy,2017
-48054,171261,Lucas Brothers: On Drugs (2017),Comedy,2017
-48056,171265,I Am Heath Ledger (2017),Documentary,2017
-48081,171315,Sand Castle (2017),Drama|War,2017
-48091,171337,Moontrap Target Earth (2017),Action|Adventure|Sci-Fi,2017
-48093,171341,The Yellow Birds (2017),Drama|War,2017
-48094,171345,Uncertain (2017),Documentary,2017
-48138,171439,A Dark Song (2017),Drama|Horror,2017
-48140,171443,"Have Fun, Vasya! (2017)",Comedy,2017
-48146,171455,Fabricated City (2017),Action|Crime,2017
-48164,171491,Unlocked (2017),Action|Thriller,2017
-48167,171497,Voice from the Stone (2017),Drama|Mystery|Romance|Thriller,2017
-48169,171501,Small Crimes (2017),Comedy|Crime|Thriller,2017
-48177,171517,Kolonya Cumhuriyeti (2017),Comedy,2017
-48209,171581,Flower (2017),(no genres listed),2017
-48210,171583,Super Dark Times (2017),Drama|Thriller,2017
-48217,171599,Bottom of the World (2017),Drama|Mystery|Thriller,2017
-48218,171601,Stratton (2017),Action|Thriller,2017
-48222,171609,The Lovers (2017),Comedy,2017
-48223,171611,Baahubali 2: The Conclusion (2017),Action|Adventure|War,2017
-48228,171623,Tomato Red (2017),Drama|Thriller,2017
-48229,171625,Taking Earth (2017),Sci-Fi,2017
-48247,171661,Omicidio all'italiana (2017),Comedy,2017
-48261,171689,Norman: The Moderate Rise and Tragic Fall of a New York Fixer (2017),Drama|Thriller,2017
-48294,171755,Seizure (2017),Horror,2017
-48295,171757,Amityville: The Awakening (2017),Horror|Thriller,2017
-48296,171759,The Beguiled (2017),Drama|Thriller|Western,2017
-48297,171761,The Reagan Show (2017),Documentary,2017
-48298,171763,Baby Driver (2017),Action|Crime|Thriller,2017
-48299,171765,Okja (2017),Action|Adventure|Drama|Sci-Fi,2017
-48316,171801,Asylum of Darkness (2017),Horror,2017
-48348,171867,Rough Night (2017),Comedy|Drama,2017
-48354,171879,Hidden Kisses (2017),Drama,2017
-48355,171881,Mindhorn (2017),Comedy,2017
-48359,171889,Oasis (2017),Drama|Sci-Fi,2017
-48368,171907,The Shadow Effect (2017),Action|Thriller,2017
-48370,171911,Commando 2: The Black Money Trail (2017),Action,2017
-48377,171925,Hounds of Love (2017),Crime,2017
-48381,171937,Monster High: Electrified (2017),Animation|Children,2017
-48403,171983,Patti Cake$ (2017),Drama,2017
-48416,172009,Loveless (2017),Drama,2017
-48435,172051,Moonlight in Vermont (2017),Romance,2017
-48441,172065,Handsome: A Netflix Mystery Movie (2017),Comedy,2017
-48442,172067,Batman & Bill (2017),Documentary,2017
-48474,172131,The Axe Murders of Villisca (2017),Horror,2017
-48488,172159,Sorceress (2017),Drama|Fantasy|Horror,2017
-48600,172385,We Still Steal the Old Way (2017),Crime|Drama,2017
-48603,172391,Permission (2017),Comedy|Romance,2017
-48613,172413,Ismael's Ghosts (2017),Drama,2017
-48623,172433,The Hunter's Prayer (2017),Action|Thriller,2017
-48631,172449,He Even Has Your Eyes (2017),Comedy,2017
-48634,172455,Beatriz at Dinner (2017),Comedy,2017
-48637,172461,Get Me Roger Stone (2017),Documentary,2017
-48639,172465,Bolshoi (2017),(no genres listed),2017
-48652,172491,Blue World Order (2017),(no genres listed),2017
-48675,172537,Boone: The Bounty Hunter (2017),Action,2017
-48680,172547,Despicable Me 3 (2017),Adventure|Animation|Children|Comedy,2017
-48707,172601,The Levelling (2017),Drama,2017
-48715,172617,Tracktown (2017),Drama,2017
-48738,172663,King Charles III (2017),Drama,2017
-48740,172667,First They Killed My Father (2017),Drama,2017
-48756,172699,Mommy Dead and Dearest (2017),Documentary,2017
-48757,172701,Alcoholist (2017),Thriller,2017
-48759,172705,Tickling Giants (2017),Documentary,2017
-48761,172709,Dead Awake (2017),Horror|Thriller,2017
-48807,172803,The Midwife (2017),Comedy|Drama,2017
-48809,172807,A Family Man (2017),Drama,2017
-48810,172809,Paris Can Wait (2017),Romance,2017
-48811,172813,The Wizard of Lies (2017),Drama,2017
-48873,172937,Oceans Rising (2017),Sci-Fi,2017
-48903,173007,Blame! (2017),Action|Animation|Drama|Horror|Sci-Fi,2017
-48959,173119,Kill 'em All (2017),Action,2017
-48968,173137,Kill Switch (2017),Sci-Fi,2017
-48969,173139,The Bad Batch (2017),Horror|Romance|Thriller,2017
-48971,173143,Maigrets Night at the Crossroads (2017),Crime|Mystery|Thriller,2017
-48972,173145,War for the Planet of the Apes (2017),Action|Adventure|Drama|Sci-Fi,2017
-48980,173161,Kidnap (2017),Drama|Thriller,2017
-48986,173173,This Is Not What I Expected (2017),Comedy|Romance,2017
-48987,173175,Badrinath Ki Dulhania (2017),Comedy|Drama|Romance,2017
-48998,173197,The Square (2017),Drama,2017
-49001,173203,How to Talk to Girls at Parties (2017),Comedy|Romance|Sci-Fi,2017
-49002,173205,The Meyerowitz Stories (2017),Comedy,2017
-49004,173209,War Machine (2017),Comedy|Drama|War,2017
-49017,173235,Tokyo Idols (2017),Documentary,2017
-49020,173241,Becoming Bond (2017),Comedy|Documentary,2017
-49024,173253,Vir Das: Abroad Understanding (2017),Comedy,2017
-49025,173255,"Norm Macdonald: Hitler's Dog, Gossip & Trickery (2017)",Comedy,2017
-49033,173273,Wakefield (2017),Drama,2017
-49037,173281,The Wedding Plan (2017),Comedy|Romance,2017
-49038,173283,Red Nose Day Actually (2017),Comedy|Romance,2017
-49039,173285,Whitney: Can I Be Me (2017),Documentary,2017
-49042,173291,Valerian and the City of a Thousand Planets (2017),Action|Adventure|Sci-Fi,2017
-49054,173315,Long Strange Trip (2017),Documentary,2017
-49056,173319,Warning: This Drug May Kill You (2017),Documentary,2017
-49058,173323,The Mars Generation (2017),Documentary,2017
-49062,173331,Kincsem (2017),Adventure|Drama|Romance,2017
-49081,173369,You Were Never Really Here (2017),Drama,2017
-49105,173429,Hasan Minhaj: Homecoming King (2017),Comedy,2017
-49110,173439,Happy Burnout (2017),Comedy,2017
-49123,173467,Sarah Silverman: A Speck of Dust (2017),Comedy,2017
-49130,173481,Three heroes and the King of the Sea (2017),(no genres listed),2017
-49131,173483,Vamps (2017),Action|Fantasy|Horror|Thriller,2017
-49136,173493,Breakdown Lane (2017),Drama|Horror|Thriller,2017
-49137,173495,Rock 'n Roll (2017),Comedy,2017
-49139,173499,Black Butterfly (2017),Thriller,2017
-49140,173501,I am Jane Doe (2017),Crime|Documentary,2017
-49245,173711,Dumb: The Story of Big Brother Magazine (2017),Documentary,2017
-49255,173731,Sweet Virginia (2017),(no genres listed),2017
-49256,173733,Mobile Homes (2017),Drama,2017
-49257,173735,The Farthest (2017),Documentary,2017
-49262,173745,A Stork's Journey (2017),Adventure|Animation,2017
-49274,173769,The Journey (2017),Drama,2017
-49281,173783,All About the Money (2017),(no genres listed),2017
-49298,173817,Он вам не Димон (2017),Documentary|Mystery,2017
-49301,173823,Brain on Fire (2017),Drama,2017
-49305,173831,Lucid Dream (2017),Sci-Fi|Thriller,2017
-49307,173835,Drone (2017),Thriller,2017
-49308,173837,Dragonheart: Battle for the Heartfire (2017),Fantasy,2017
-49313,173847,Stasis (2017),Sci-Fi,2017
-49314,173849,Amor.com (2017),Romance,2017
-49318,173857,Growing Up Smith (2017),Children|Comedy|Drama,2017
-49329,173879,Shimmer Lake (2017),(no genres listed),2017
-49338,173897,Extraordinary Mission (2017),Action|Crime|Thriller,2017
-49352,173925,Seven Sisters (2017),Sci-Fi|Thriller,2017
-49356,173933,The Son of Bigfoot (2017),Animation|Children,2017
-49357,173935,Tokyo Ghoul (2017),Action|Drama|Horror|Thriller,2017
-49359,173939,On Body and Soul (2017),Drama|Romance,2017
-49360,173941,Atomic Blonde (2017),Thriller,2017
-49375,173975,God of War (2017),Action,2017
-49389,174005,Aaron's Blood (2017),(no genres listed),2017
-49392,174013,New Trial (2017),Drama,2017
-49393,174015,Saving Banksy (2017),Documentary,2017
-49394,174017,The Exception (2017),Drama,2017
-49407,174045,Goon: Last of the Enforcers (2017),Comedy,2017
-49412,174055,Dunkirk (2017),Action|Drama|Thriller|War,2017
-49435,174111,Bairavaa (2017),Action,2017
-49465,174181,The Keepers (2017),Crime|Documentary|Drama,2017
-49532,174365,The Summoning (2017),Drama|Mystery|Thriller,2017
-49533,174367,Go North (2017),Adventure|Drama|Romance|Thriller,2017
-49535,174371,Once Upon a Time in Venice (2017),Comedy,2017
-49549,174403,The Putin Interviews (2017),(no genres listed),2017
-49550,174407,An Inconvenient Sequel (2017),Documentary,2017
-49558,174423,Rakka (2017),Action|Sci-Fi,2017
-49560,174427,Savage Dog (2017),Action,2017
-49562,174431,Jawbone (2017),Action|Drama,2017
-49581,174471,Confidential Assignment (2017),Action|Comedy,2017
-49582,174473,Altitude (2017),Action|Thriller,2017
-49586,174481,Strong Island (2017),Documentary,2017
-49592,174493,Cream (2017),Animation|Comedy|Horror|Sci-Fi,2017
-49597,174503,Orbiter 9 (2017),Romance|Sci-Fi,2017
-49609,174527,Chasing Trane: The John Coltrane Documentary (2017),Documentary,2017
-49620,174549,Mutafukaz (2017),Animation|Sci-Fi,2017
-49627,174565,Abacus: Small Enough to Jail (2017),Documentary,2017
-49636,174585,Transformers: The Last Knight (2017),Action|Adventure|Sci-Fi|Thriller,2017
-49665,174645,Churchill (2017),Drama|Thriller|War,2017
-49670,174655,Dina (2017),Documentary,2017
-49673,174661,Tubelight (2017),Drama|War,2017
-49674,174663,The Hatton Garden Job (2017),Crime,2017
-49675,174665,Hampstead (2017),Comedy|Romance,2017
-49682,174679,1 Night (2017),Drama|Romance,2017
-49683,174681,"Oh, Hello: On Broadway (2017)",Comedy,2017
-49684,174683,Site Unseen: An Emma Fielding Mystery (2017),Drama|Mystery,2017
-49691,174697,Savageland (2017),Horror|Mystery,2017
-49692,174701,Ava (2017),Drama,2017
-49697,174711,You Get Me (2017),Drama|Romance|Thriller,2017
-49698,174713,Grey Lady (2017),(no genres listed),2017
-49705,174727,Good Time (2017),Crime|Drama,2017
-49711,174743,Eat Local (2017),Action|Comedy|Horror,2017
-49712,174745,Instant Death (2017),Action|Crime,2017
-49714,174751,Tuintje in mijn hart (2017),Drama|Romance,2017
-49716,174755,Selfie (2017),Comedy,2017
-49727,174795,Duckweed (2017),Comedy|Drama,2017
-49728,174797,Kavan (2017),Drama|Thriller,2017
-49732,174805,Hell on Earth: The Fall of Syria and the Rise of ISIS (2017),Documentary,2017
-49737,174815,The House (2017),Comedy,2017
-49739,174819,Five Came Back (2017),Documentary|War,2017
-49740,174821,The Babymoon (2017),Action|Adventure|Comedy|Drama|Romance,2017
-49743,174827,Legion of Brothers (2017),Documentary,2017
-49745,174831,Summer 1993 (2017),Children|Drama,2017
-49746,174833,Miss Impossible (2017),Drama,2017
-49752,174845,Return to Montauk (2017),Drama,2017
-49757,174859,120 Beats Per Minute (2017),(no genres listed),2017
-49771,174887,Chuck (2017),Drama,2017
-49774,174893,2:22 (2017),Drama|Thriller,2017
-49778,174901,A Bag of Marbles (2017),Drama,2017
-49781,174909,Logan Lucky (2017),Comedy,2017
-49782,174911,Addicted to Porn: Chasing the Cardboard Butterfly (2017),Documentary,2017
-49787,174921,Lasciati andare (2017),Comedy,2017
-49791,174929,Ripped (2017),Comedy,2017
-49793,174933,Firebase (2017),Sci-Fi|War,2017
-49865,175141,City of Ghosts (2017),Documentary,2017
-49866,175143,Chasing Coral (2017),Documentary,2017
-49867,175145,Whose Streets? (2017),Documentary,2017
-49868,175147,This Is Everything: Gigi Gorgeous (2017),Documentary,2017
-49870,175151,78/52 (2017),Documentary,2017
-49871,175153,Cries from Syria (2017),Documentary,2017
-49872,175155,Unacknowledged (2017),Documentary,2017
-49873,175157,Tell Them We Are Rising: The Story of Black Colleges and Universities (2017),Documentary,2017
-49874,175159,Water & Power: A California Heist (2017),Documentary,2017
-49875,175161,Bobbi Jene (2017),Documentary,2017
-49877,175165,What the Health (2017),Documentary,2017
-49878,175167,Joshua: Teenager vs. Superpower (2017),Documentary,2017
-49879,175169,Rumble: The Indians Who Rocked the World (2017),Documentary,2017
-49880,175171,Served Like a Girl (2017),Documentary,2017
-49881,175173,Give Me Future: Major Lazer in Cuba (2017),Documentary,2017
-49882,175175,Unrest (2017),Documentary,2017
-49883,175177,The Force (2017),Documentary,2017
-49884,175179,Bill Nye: Science Guy (2017),Documentary,2017
-49886,175187,Revolt (2017),Sci-Fi,2017
-49888,175191,Hickok (2017),(no genres listed),2017
-49890,175195,Polaroid (2017),Horror,2017
-49891,175197,The Dark Tower (2017),Fantasy|Horror|Sci-Fi|Western,2017
-49892,175199,Annabelle: Creation (2017),Horror,2017
-49894,175205,Soundtrack (2017),Drama,2017
-49902,175221,The Story of High Noon (2017),Action|Crime,2017
-49907,175233,Inconceivable (2017),Drama|Thriller,2017
-49910,175239,Bon Cop Bad Cop 2 (2017),Action|Comedy|Crime,2017
-49912,175243,Security (2017),Action,2017
-49917,175253,Overdrive (2017),Action|Thriller,2017
-49924,175267,Speech & Debate (2017),Comedy|Drama,2017
-49929,175277,"Faces, Places (2017)",Documentary,2017
-49931,175281,Tour De Pharmacy (2017),Comedy,2017
-49940,175299,The Survival Family (2017),(no genres listed),2017
-49941,175301,Lemon (2017),Comedy|Drama,2017
-49942,175303,It (2017),Horror,2017
-49952,175323,Dirty Dancing (2017),Drama|Romance,2017
-49966,175351,Devil's Gate (2017),Sci-Fi|Thriller,2017
-49968,175355,Obit (2017),Documentary,2017
-49974,175367,The Truth Is in the Stars (2017),Documentary,2017
-50028,175475,The Emoji Movie (2017),Animation|Children|Comedy,2017
-50030,175479,Detective Conan: Crimson Love Letter (2017),Action|Adventure|Animation|Children|Crime|Mystery,2017
-50033,175485,Death Note (2017),Horror|Thriller,2017
-50034,175487,Bedeviled (2017),Horror|Thriller,2017
-50041,175505,The Saint (2017),Action|Adventure|Crime,2017
-50045,175513,Mamma o papà? (2017),Comedy,2017
-50046,175515,The Merciless (2017),Action|Crime,2017
-50053,175531,The Hippopotamus (2017),Comedy,2017
-50069,175569,Wind River (2017),Action|Crime|Mystery|Thriller,2017
-50073,175577,Rory Scovel Tries Stand-Up for the First Time (2017),Comedy,2017
-50074,175579,The Nile Hilton Incident (2017),Drama|Thriller,2017
-50076,175583,Blockbuster (2017),Comedy|Crime,2017
-50077,175585,Shot Caller (2017),Action|Crime|Drama|Thriller,2017
-50081,175593,Mike Birbiglia: Thank God for Jokes (2017),Comedy,2017
-50082,175595,Chris D'Elia: Man on Fire (2017),Comedy,2017
-50093,175617,Given (2017),Documentary,2017
-50103,175637,First Round Down (2017),Action|Comedy,2017
-50106,175643,Zygote (2017),Horror|Sci-Fi,2017
-50108,175649,Wish Upon (2017),Fantasy|Horror|Thriller,2017
-50111,175655,Girls Trip (2017),Comedy,2017
-50112,175657,Landline (2017),Comedy,2017
-50113,175659,Detroit (2017),Crime|Drama|Thriller,2017
-50114,175661,The Hitman's Bodyguard (2017),Action|Comedy,2017
-50116,175665,The Only Living Boy in New York (2017),Drama,2017
-50117,175667,Columbus (2017),Drama,2017
-50118,175669,Tulip Fever (2017),Drama|Romance,2017
-50119,175671,Birth of the Dragon (2017),Action,2017
-50120,175673,The Life and Death of John Gotti (2017),Crime|Drama,2017
-50132,175699,Fittest On Earth: A Decade Of Fitness (2017),Documentary,2017
-50133,175701,Zero 3 (2017),Thriller,2017
-50143,175723,Feed (2017),Drama,2017
-50151,175741,The Girl from the Song (2017),Drama|Romance,2017
-50152,175743,Self-criticism of a Bourgeois Dog (2017),Comedy,2017
-50155,175749,Country Crush (2017),Drama|Romance,2017
-50157,175753,Sahara (2017),Adventure|Animation|Children|Comedy,2017
-50158,175755,The Double Lover (2017),Thriller,2017
-50172,175783,First Kill (2017),Action|Thriller,2017
-50176,175791,LA 92 (2017),Documentary,2017
-50178,175795,Descendants 2 (2017),Action|Adventure|Children|Comedy,2017
-50185,175809,Jungle (2017),Action|Adventure|Drama,2017
-50191,175821,Ivanka Trump- America's Real First Lady? (2017),Documentary,2017
-50194,175829,Chris Gethard: Career Suicide (2017),Comedy,2017
-50195,175831,Lou (2017),Animation,2017
-50214,175869,The Art of Loving. Story of Michalina Wislocka (2017),Drama,2017
-50258,175957,Austin Found (2017),Comedy|Drama,2017
-50265,175973,Bye Bye Germany (2017),Comedy|Drama|War,2017
-50268,175979,American Violence (2017),Crime|Drama|Thriller,2017
-50272,175987,With Open Arms (2017),Comedy,2017
-50274,175991,Scribe (2017),Thriller,2017
-50304,176051,LEGO DC Super Hero Girls: Brain Drain (2017),Animation,2017
-50307,176057,Take Me (2017),Comedy|Crime,2017
-50310,176063,Phillauri (2017),Comedy|Drama|Fantasy|Romance,2017
-50315,176073,The Incredible Jessica James (2017),Comedy|Romance,2017
-50316,176075,The Defiant Ones (2017),Documentary,2017
-50326,176099,The Resurrection of Gavin Stone (2017),Comedy|Drama,2017
-50327,176101,Kingsman: The Golden Circle (2017),Action|Adventure|Comedy,2017
-50328,176103,The LEGO Ninjago Movie (2017),Action|Animation|Comedy,2017
-50329,176105,Flatliners (2017),Drama|Horror|Sci-Fi,2017
-50332,176111,Wheeler (2017),Drama,2017
-50333,176113,Can't Buy My Love (2017),Romance,2017
-50359,176165,Cop and a Half: New Recruit (2017),Action|Children|Comedy|Crime,2017
-50363,176173,Killing Ground (2017),Horror|Thriller,2017
-50371,176189,The Sublet (2017),Drama|Horror|Mystery|Thriller,2017
-50381,176211,In a Heartbeat (2017),Animation|Romance,2017
-50398,176247,Person to Person (2017),Drama,2017
-50399,176249,Mom (2017),Crime|Drama|Thriller,2017
-50414,176279,Queerama (2017),(no genres listed),2017
-50420,176295,Scooby-Doo! Shaggy's Showdown (2017),Animation|Children|Comedy|Mystery|Western,2017
-50421,176297,Lego Scooby-Doo! Blowout Beach Bash (2017),Comedy|Mystery,2017
-50422,176299,Tom and Jerry: Willy Wonka and the Chocolate Factory (2017),Adventure|Animation|Children|Comedy,2017
-50423,176301,DC Super Hero Girls: Intergalactic Games (2017),Animation|Children,2017
-50433,176323,Ella - Die Stimme des Jazz (2017),(no genres listed),2017
-50435,176327,Joe Mande's Award-Winning Comedy Special (2017),Comedy,2017
-50436,176329,Ari Shaffir: Double Negative (2017),Comedy,2017
-50437,176331,Jab Harry met Sejal (2017),Drama|Romance,2017
-50438,176333,The Black Prince (2017),Drama,2017
-50441,176339,68 Kill (2017),Comedy|Crime,2017
-50443,176343,A Movie Life (2017),Drama,2017
-50446,176349,Bad Genius (2017),Thriller,2017
-50447,176351,The Vault (2017),(no genres listed),2017
-50449,176355,The Mountain Between Us (2017),Action|Adventure|Drama,2017
-50454,176365,Below Her Mouth (2017),Drama|Romance,2017
-50457,176371,Blade Runner 2049 (2017),Sci-Fi,2017
-50458,176373,Armed Response (2017),Horror|Thriller,2017
-50459,176375,Something Like Summer (2017),Drama|Romance,2017
-50465,176389,The Nut Job 2: Nutty by Nature (2017),Adventure|Animation|Children|Comedy,2017
-50466,176391,Sharknado 5: Global Swarming (2017),Sci-Fi,2017
-50472,176403,The Divine Order (2017),Drama,2017
-50480,176419,Mother! (2017),Drama|Horror|Mystery|Thriller,2017
-50482,176423,Icarus (2017),Documentary,2017
-50488,176437,England Is Mine (2017),Drama,2017
-50513,176487,Marjorie Prime (2017),Comedy|Drama|Mystery|Sci-Fi,2017
-50529,176519,Fun Mom Dinner (2017),Comedy,2017
-50530,176521,The Layover (2017),Comedy,2017
-50531,176523,Goodbye Christopher Robin (2017),Children,2017
-50535,176533,My Happy Family (2017),Drama,2017
-50540,176545,mon mon mon MONSTERS (2017),Drama|Horror,2017
-50541,176551,The Limehouse Golem (2017),Horror|Thriller,2017
-50549,176567,The Endless (2017),Horror|Sci-Fi|Thriller,2017
-50554,176579,Cage Dive (2017),Drama|Horror|Thriller,2017
-50563,176599,Naked (2017),Comedy,2017
-50565,176603,The Snowman (2017),Crime|Thriller,2017
-50566,176605,Menashe (2017),Drama,2017
-50568,176609,Final Portrait (2017),Drama,2017
-50571,176615,Bluebeard (2017),Thriller,2017
-50576,176625,Message from the King (2017),Thriller,2017
-50577,176627,Let It Fall: Los Angeles 1982-1992 (2017),Documentary,2017
-50581,176635,Voor Elkaar Gemaakt (2017),Comedy|Romance,2017
-50588,176651,Time Toys (2017),Children|Sci-Fi,2017
-50600,176677,Kuso (2017),Horror,2017
-50602,176681,Batman & Harley Quinn (2017),Action|Animation,2017
-50603,176683,The Jetsons & WWE: Robo-WrestleMania! (2017),Animation|Children|Comedy,2017
-50604,176685,Blind (2017),Drama,2017
-50609,176697,Lipstick Under My Burkha (2017),Comedy|Drama,2017
-50611,176701,Williams (2017),Documentary,2017
-50636,176751,American Made (2017),Crime|Thriller,2017
-50637,176753,Bingo - The King of the Mornings (2017),Comedy|Drama,2017
-50639,176757,Mission Control: The Unsung Heroes of Apollo (2017),Documentary,2017
-50641,176761,Deep (2017),Animation,2017
-50643,176765,Hailey Dean Mystery: Deadly Estate (2017),Mystery,2017
-50644,176767,O Matador (2017),(no genres listed),2017
-50649,176779,Darkland (2017),Action|Drama|Thriller,2017
-50651,176783,Pornocracy: The New Sex Multinationals (2017),Documentary,2017
-50653,176787,Djam (2017),(no genres listed),2017
-50658,176799,Superswede: A Film About Ronnie Peterson (2017),Documentary,2017
-50659,176801,Suspiria (2017),Horror|Thriller,2017
-50661,176805,Little Boxes (2017),Comedy|Drama,2017
-50663,176809,The Summit (2017),Drama,2017
-50672,176829,6 Days (2017),Action,2017
-50682,176859,Step (2017),Documentary,2017
-50704,176909,"Diana, Our Mother: Her Life and Legacy (2017)",Documentary,2017
-50707,176917,All Saints (2017),Drama,2017
-50708,176919,Beach Rats (2017),Drama,2017
-50709,176921,The Villainess (2017),Action|Drama,2017
-50710,176923,Bushwick (2017),Action|Thriller,2017
-50712,176927,Woodshock (2017),Drama|Thriller,2017
-50713,176929,Happy Death Day (2017),Horror|Mystery|Thriller,2017
-50715,176933,The Foreigner (2017),Action|Thriller,2017
-50716,176935,Geostorm (2017),Action,2017
-50717,176937,Jigsaw (2017),Horror|Thriller,2017
-50718,176939,Gook (2017),Drama,2017
-50719,176941,Crown Heights (2017),Drama,2017
-50720,176943,Dave Made a Maze (2017),Adventure|Comedy|Horror,2017
-50721,176945,The Wound (2017),Drama,2017
-50722,176947,The Ghoul (2017),Drama,2017
-50726,176955,It's Gawd! (2017),Comedy|Drama,2017
-50737,176979,King Arthur and the Knights of the Round Table (2017),Action,2017
-50748,177003,Madame (2017),Comedy|Drama,2017
-50764,177037,Puss in Book: Trapped in an Epic Tale (2017),Adventure|Animation|Children|Comedy|Fantasy,2017
-50769,177047,Jasper Jones (2017),Drama|Mystery|Thriller,2017
-50771,177053,Alive and Kicking (2017),Documentary,2017
-50774,177059,7 Witches (2017),Horror|Thriller,2017
-50776,177063,Devil in the Dark (2017),Horror|Thriller,2017
-50778,177067,Lapland Odyssey 3 (2017),Adventure|Comedy,2017
-50790,177091,Surf's Up 2: WaveMania (2017),Animation|Children|Comedy,2017
-50792,177095,Hindi Medium (2017),Comedy|Drama,2017
-50794,177099,JoJo's Bizarre Adventure: Diamond Is Unbreakable - Chapter 1 (2017),Action|Adventure,2017
-50795,177101,Rememory (2017),Drama|Mystery|Sci-Fi,2017
-50798,177107,Eagles of Death Metal: Nos Amis (Our Friends) (2017),Documentary,2017
-50804,177119,Starship Troopers: Traitor of Mars (2017),Action|Animation|Sci-Fi,2017
-50805,177121,Goliath (2017),(no genres listed),2017
-50806,177123,Wonderstruck (2017),Drama,2017
-50821,177157,Scales: Mermaids Are Real (2017),Fantasy,2017
-50826,177167,Nothingwood (2017),Documentary,2017
-50829,177173,The Night Shift (2017),(no genres listed),2017
-50835,177185,Maz Jobrani: Immigrant (2017),Comedy,2017
-50838,177191,The Dissidents (2017),(no genres listed),2017
-50840,177195,"Literally, Right Before Aaron (2017)",Comedy|Drama,2017
-50841,177197,Sundowners (2017),Comedy,2017
-50844,177203,Bullyparade - Der Film (2017),Comedy,2017
-50854,177225,Home Again (2017),Comedy|Drama,2017
-50855,177227,9/11 (2017),Action|Drama,2017
-50856,177229,Ancien and the Magic Tablet (2017),Animation,2017
-50857,177231,Brad's Status (2017),Comedy,2017
-50858,177233,Rebel in the Rye (2017),Drama,2017
-50860,177237,Battle of the Sexes (2017),Comedy,2017
-50861,177239,Stronger (2017),Drama,2017
-50862,177241,My Little Pony: The Movie (2017),Adventure|Animation|Children|Fantasy,2017
-50863,177243,Marshall (2017),Drama,2017
-50864,177245,Same Kind of Different as Me (2017),Drama,2017
-50872,177261,Jackals (2017),Horror|Thriller,2017
-50875,177267,Pitching Tents (2017),Comedy,2017
-50876,177269,Get the Girl (2017),Action|Comedy|Crime|Thriller,2017
-50879,177275,Among Us (2017),Drama|Horror|Thriller,2017
-50880,177277,Same Time Next Week (2017),Romance,2017
-50881,177279,The Good Nanny (2017),Thriller,2017
-50882,177281,Off the Rails (2017),(no genres listed),2017
-50884,177285,Sword Art Online The Movie: Ordinal Scale (2017),Action|Adventure|Animation|Fantasy|Sci-Fi,2017
-50885,177287,Little Evil (2017),Comedy|Horror,2017
-50886,177289,Vixen: The Movie (2017),Action|Animation,2017
-50887,177291,Trinity Seven - Eternity Library & Alchemic Girl (2017),Action|Comedy|Fantasy,2017
-50889,177297,Temple (2017),Horror,2017
-50891,177301,Dolores (2017),Documentary,2017
-50892,177303,Mike Boy (2017),Crime|Mystery|Thriller,2017
-50893,177305,I Do... Until I Don't (2017),Comedy,2017
-50896,177313,After The Wedding (2017),Drama,2017
-50897,177315,The Mothman of Point Pleasant (2017),Documentary|Horror,2017
-50898,177317,Illicit (2017),Thriller,2017
-50904,177337,Bring It On: Worldwide #Cheersmack (2017),Comedy|Romance,2017
-50905,177339,Kim Dotcom: Caught in the Web (2017),Documentary,2017
-50907,177343,Valley of Bones (2017),Adventure|Crime|Thriller|Western,2017
-50918,177379,Gogol. The Beginning (2017),Adventure|Thriller,2017
-50919,177381,Lost in London (2017),Comedy|Drama,2017
-50940,177431,The Recall (2017),Sci-Fi,2017
-50948,177451,Just Like Our Parents (2017),Drama,2017
-50949,177453,"Like Mother, Like Daughter (2017)",Comedy,2017
-50958,177471,The Atoning (2017),Drama|Horror|Thriller,2017
-50970,177495,Score: A Film Music Documentary (2017),Documentary,2017
-50971,177497,Hostiles (2017),Adventure|Drama|Western,2017
-50974,177503,Amelia 2.0 (2017),Drama|Sci-Fi,2017
-50981,177521,Photon (2017),Documentary,2017
-50982,177523,El mar la mar (2017),(no genres listed),2017
-50985,177529,Dying Laughing (2017),Documentary,2017
-50987,177533,Cruel (2017),Drama|Thriller,2017
-50991,177545,#realityhigh (2017),Comedy,2017
-50996,177555,Ali's Wedding (2017),Comedy,2017
-50999,177561,Do It Like An Hombre (2017),Comedy,2017
-51001,177565,Marc Maron: Too Real (2017),Comedy,2017
-51002,177567,Gun Shy (2017),Action|Adventure|Comedy,2017
-51003,177569,Circus Kane (2017),Horror,2017
-51006,177575,Polina (2017),Drama,2017
-51011,177585,Star Boys (2017),Drama,2017
-51012,177587,L'Ascension (2017),Comedy,2017
-51015,177593,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,2017
-51019,177601,Western (2017),Drama,2017
-51020,177603,Rock and a Hard Place (2017),Documentary,2017
-51021,177605,Operation Dunkirk (2017),Action|War,2017
-51022,177607,American Assassin (2017),Action|Thriller,2017
-51024,177611,Pyewacket (2017),(no genres listed),2017
-51026,177615,Lady Bird (2017),Comedy,2017
-51027,177617,Polícia Federal - A Lei é Para Todos (2017),Action|Thriller,2017
-51028,177619,Cold Tango (2017),Drama|Romance|War,2017
-51043,177651,The Florida Project (2017),Drama,2017
-51045,177655,Man in Red Bandana (2017),Documentary,2017
-51060,177689,The Killing of a Sacred Deer (2017),Drama|Horror|Mystery|Thriller,2017
-51068,177705,Rogue Warrior: Robot Fighter (2017),Action|Sci-Fi,2017
-51070,177709,The B-Side: Elsa Dorfman's Portrait Photography (2017),Documentary,2017
-51078,177725,Redoubtable (2017),Drama|Romance,2017
-51083,177737,Memoir of a Murderer (2017),Crime|Thriller,2017
-51096,177763,Murder on the Orient Express (2017),Crime|Drama|Mystery,2017
-51097,177765,Coco (2017),Adventure|Animation|Children,2017
-51099,177769,Euphoria (2017),Drama,2017
-51100,177771,Suburbicon (2017),Comedy|Crime|Mystery,2017
-51108,177787,Chappaquiddick (2017),Drama|Thriller,2017
-51110,177791,Going to Brazil (2017),Comedy,2017
-51112,177795,Z-Office (2017),Action|Horror,2017
-51118,177807,Bodied (2017),Comedy|Drama,2017
-51123,177819,Kiss and Cry (2017),Drama|Romance,2017
-51124,177821,Bloody Milk (2017),Comedy|Drama,2017
-51142,177857,David Gilmour - Live at Pompeii (2017),Documentary,2017
-51146,177865,Un Profil pour deux (2017),Comedy|Romance,2017
-51147,177867,Borg vs McEnroe (2017),Drama,2017
-51149,177871,Victoria & Abdul (2017),Drama,2017
-51152,177877,Slasher.com (2017),Horror|Thriller,2017
-51153,177879,Ryan Hamilton: Happy Face (2017),Comedy,2017
-51155,177883,Jerry Before Seinfeld (2017),Comedy,2017
-51169,177913,Back to Burgundy (2017),Drama,2017
-51170,177915,Elementary (2017),Comedy|Drama,2017
-51182,177939,"The Night Is Short, Walk on Girl (2017)",Animation|Romance,2017
-51188,177951,Happy! (2017),Fantasy,2017
-51209,177993,Escape Room (2017),(no genres listed),2017
-51231,178041,La Cicciolina. Godmother of Scandal (2017),Documentary,2017
-51233,178045,Another Yeti a Love Story: Life on the Streets (2017),Comedy|Horror,2017
-51234,178047,Call of the Wolf (2017),Adventure|Drama|Thriller,2017
-51241,178061,"I, Tonya (2017)",Drama,2017
-51242,178063,Zama (2017),Drama,2017
-51244,178067,We Don't Belong Here (2017),Children|Drama,2017
-51252,178083,Walking Out (2017),Adventure|Drama,2017
-51253,178085,November Criminals (2017),Crime|Drama,2017
-51254,178087,The Wilde Wedding (2017),Comedy,2017
-51266,178111,"Fireworks, Should We See It from the Side or the Bottom? (2017)",Animation,2017
-51267,178113,Filth City (2017),Action|Comedy|Crime|Drama,2017
-51268,178115,King Arthur: Excalibur Rising (2017),Action,2017
-51298,178311,I See You (2017),Comedy|Romance,2017
-51300,178317,Justice (2017),Western,2017
-51301,178319,Happy Hunting (2017),Horror|Thriller,2017
-51303,178323,Gaga: Five Foot Two (2017),Documentary,2017
-51309,178335,Thelma (2017),Fantasy|Romance|Thriller,2017
-51312,178341,Human Flow (2017),Documentary,2017
-51314,178345,This Is Your Death (2017),Drama,2017
-51319,178355,Killing Gunther (2017),Action|Comedy,2017
-51324,178365,The Rizen (2017),Action|Horror|Sci-Fi,2017
-51327,178371,Closeness (2017),Drama,2017
-51329,178375,Jolly LLB 2 (2017),Comedy|Crime,2017
-51331,178379,Beauty and the Dogs (2017),Thriller,2017
-51339,178401,Lucky (2017),Drama,2017
-51341,178407,Lake Alice (2017),Horror,2017
-51347,178419,Let the Sunshine In (2017),(no genres listed),2017
-51348,178421,The Road Movie (2017),Documentary,2017
-51354,178447,Cult of Chucky (2017),Horror|Thriller,2017
-51365,178477,On the Beach at Night Alone (2017),Drama,2017
-51381,178509,Our Souls at Night (2017),Drama,2017
-51384,178517,Sniper: Ultimate Kill (2017),Action|Drama|Thriller,2017
-51386,178521,The Babysitter (2017),Horror,2017
-51387,178523,1922 (2017),Crime|Drama|Mystery,2017
-51433,178617,Напарник (2017),(no genres listed),2017
-51443,178637,Date of the Dead (2017),Comedy|Horror,2017
-51444,178639,Wolf Warrior 2 (2017),Action,2017
-51445,178641,Chasing the Dragon (2017),(no genres listed),2017
-51447,178645,Diana: In Her Own Words (2017),Documentary,2017
-51448,178647,Girls in the Dark (2017),Mystery,2017
-51449,178649,Wedding Unplanned (2017),Comedy|Romance,2017
-51450,178651,Empire of the Sharks (2017),Action|Sci-Fi,2017
-51455,178663,Restless Creature: Wendy Whelan (2017),Documentary,2017
-51456,178665,Бабушка лёгкого поведения (2017),Comedy,2017
-51457,178667,Gerald's Game (2017),Horror|Thriller,2017
-51458,178669,Daphne (2017),Comedy|Drama,2017
-51462,178679,The Eternal Road (2017),Drama|War,2017
-51467,178693,Spettacolo (2017),Documentary,2017
-51472,178707,Honnouji Hotel (2017),Comedy|Mystery,2017
-51475,178713,Bomb Scared (2017),Comedy,2017
-51478,178719,Shock Wave (2017),Action|Crime|Drama,2017
-51482,178727,Everything is Free (2017),Drama,2017
-51486,178735,Jeff Dunham: Relative Disaster (2017),(no genres listed),2017
-51492,178747,Def Comedy Jam 25 (2017),Comedy,2017
-51529,178825,Lommbock (2017),Comedy,2017
-51530,178827,Paddington 2 (2017),Adventure|Animation|Children|Comedy,2017
-51534,178835,An Ordinary Man (2017),Action|Drama,2017
-51535,178837,Let's Play Two (2017),Documentary,2017
-51536,178839,Crooked House (2017),Mystery,2017
-51538,178843,Long Shot (2017),Documentary,2017
-51543,178853,Sarah Plays a Werewolf (2017),(no genres listed),2017
-51544,178855,A Ciambra (2017),Drama,2017
-51547,178861,Loving (2017),Drama|Romance|Thriller,2017
-51551,178869,Kojot (2017),(no genres listed),2017
-51557,178885,Princess Cyd (2017),Drama,2017
-51562,178895,Veronica (2017),Drama|Mystery|Thriller,2017
-51568,178907,Blade Runner: Black Out 2022 (2017),Action|Animation|Sci-Fi,2017
-51581,178933,Newton (2017),Comedy|Drama,2017
-51592,178955,Killing Hasselhoff (2017),Comedy,2017
-51596,178963,The Crucifixion (2017),Horror|Mystery|Thriller,2017
-51597,178965,Redwood (2017),Horror|Thriller,2017
-51613,178997,Batman vs. Two-Face (2017),Animation,2017
-51617,179005,Newness (2017),Drama|Romance,2017
-51631,179033,Finally Found Someone (2017),Comedy|Romance,2017
-51632,179035,Immigration Game (2017),Action|Drama|Thriller,2017
-51641,179053,2048: Nowhere to Run (2017),Sci-Fi|Thriller,2017
-51642,179055,2036: Nexus Dawn (2017),Sci-Fi|Thriller,2017
-51655,179085,The Ritual (2017),Horror,2017
-51658,179091,Novitiate (2017),Drama,2017
-51659,179093,The Stray (2017),Children|Drama,2017
-51662,179099,HHhH (2017),Action|Thriller,2017
-51663,179101,Nocturne (2017),Horror,2017
-51667,179109,April's Daughter (2017),Drama,2017
-51668,179111,Montparnasse Bienvenüe (2017),(no genres listed),2017
-51669,179113,Close-Knit (2017),Children|Drama,2017
-51670,179115,The Workshop (2017),(no genres listed),2017
-51672,179119,The Death of Stalin (2017),Comedy,2017
-51675,179129,The Sound (2017),Horror|Mystery|Thriller,2017
-51677,179133,Loving Vincent (2017),Animation|Crime|Drama,2017
-51678,179135,Blue Planet II (2017),Documentary,2017
-51679,179137,Professor Marston & the Wonder Women (2017),(no genres listed),2017
-51680,179139,Man Divided (2017),Drama|Sci-Fi,2017
-51687,179153,The Little Vampire 3D (2017),Animation,2017
-51688,179155,Racer and the Jailbird (2017),Crime|Drama,2017
-51689,179157,The Death and Life of Marsha P. Johnson (2017),Documentary,2017
-51692,179163,Unicorn Store (2017),Comedy|Drama|Fantasy,2017
-51694,179167,Land of Smiles (2017),Adventure|Horror|Thriller,2017
-51698,179175,6 Below: Miracle on the Mountain (2017),Drama|Thriller,2017
-51709,179197,Picture of Beauty (2017),Drama|Romance,2017
-51716,179211,Christina P: Mother Inferior (2017),Comedy,2017
-51721,179221,Brawl in Cell Block 99 (2017),Action|Crime|Thriller,2017
-51723,179225,Mr. Long (2017),Drama,2017
-51729,179241,American Gothic (2017),Horror|Thriller,2017
-51731,179245,Jupiter's Moon (2017),Drama|Sci-Fi,2017
-51732,179247,Revenge (2017),Action|Thriller,2017
-51733,179251,To Kill God (2017),(no genres listed),2017
-51734,179253,Dancing Quietly (2017),Comedy|Drama,2017
-51745,179275,Happy End (2017),Drama,2017
-51750,179285,Tragedy Girls (2017),Comedy|Horror,2017
-51751,179287,Breathe (2017),Drama,2017
-51754,179293,November (2017),Drama|Fantasy|Romance,2017
-51755,179295,My Friend Dahmer (2017),Crime|Drama|Horror|Thriller,2017
-51756,179297,The Work (2017),Documentary,2017
-51757,179299,Disney's Newsies the Broadway Musical (2017),Romance,2017
-51758,179301,Salyut 7 (2017),(no genres listed),2017
-51759,179303,Rabbit (2017),Thriller,2017
-51760,179305,The Man in the Shadows (2017),Drama|Horror|Thriller,2017
-51761,179307,The Miner (2017),(no genres listed),2017
-51765,179315,Get My Gun (2017),Horror|Thriller,2017
-51769,179325,The Stronghold (2017),(no genres listed),2017
-51771,179329,Film Stars Don't Die in Liverpool (2017),Drama|Romance,2017
-51772,179331,Only the Brave (2017),Drama,2017
-51773,179333,Veronica (2017),Horror,2017
-51775,179337,Residue (2017),Action|Horror|Thriller,2017
-51779,179345,Arrhythmia (2017),Drama,2017
-51785,179357,Hobbyhorse Revolution (2017),(no genres listed),2017
-51792,179371,The Child in Time (2017),Drama,2017
-51793,179373,Sleepwalker (2017),Thriller,2017
-51794,179375,Blood Money (2017),Horror|Thriller,2017
-51795,179377,The Forest of the Lost Souls (2017),Drama|Horror,2017
-51797,179381,Budapest Noir (2017),Crime|Drama,2017
-51800,179387,Never Say Die (2017),Comedy,2017
-51801,179389,Chef (2017),Children|Comedy|Drama,2017
-51804,179397,Secret Superstar (2017),Drama,2017
-51806,179401,Jumanji: Welcome to the Jungle (2017),Action|Adventure|Children,2017
-51807,179403,Ryde (2017),Horror|Thriller,2017
-51809,179409,OtherLife (2017),Crime|Mystery|Sci-Fi,2017
-51810,179411,Blade of the Immortal (2017),Action|Drama,2017
-51812,179415,Wheelman (2017),Action|Thriller,2017
-51813,179417,Patton Oswalt: Annihilation (2017),Comedy,2017
-51819,179429,Saving Brinton (2017),Documentary,2017
-51822,179435,The Adventurers (2017),Action|Adventure|Crime|Drama,2017
-51823,179437,Bad Match (2017),Horror|Thriller,2017
-51826,179443,Tad Jones and the Secret of King Midas (2017),Adventure|Animation|Comedy,2017
-51829,179449,Marie-Francine (2017),Comedy,2017
-51846,179491,Mayhem (2017),Action|Horror,2017
-51848,179495,All I See Is You (2017),Drama|Thriller,2017
-51849,179497,Boo 2! A Madea Halloween (2017),Comedy|Horror,2017
-51855,179509,Dance Academy: The Movie (2017),Drama,2017
-51857,179513,Lucky's Treasure (2017),Adventure|Children,2017
-51859,179517,The Horse Dancer (2017),Romance,2017
-51866,179531,Apple of My Eye (2017),Drama,2017
-51871,179541,An Uncommon Grace (2017),Drama|Romance,2017
-51872,179543,The Art of Us (2017),Comedy|Drama|Romance,2017
-51883,179565,Love at First Bark (2017),Romance,2017
-51885,179569,Like Cats & Dogs (2017),Comedy|Romance,2017
-51889,179577,Mommy I Didn't Do It (2017),Drama,2017
-51891,179581,Love Blossoms (2017),Drama|Romance,2017
-51892,179583,Love Locks (2017),Drama|Romance,2017
-51894,179587,A Dash of Love (2017),Romance,2017
-51896,179591,A Royal Winter (2017),Drama|Romance,2017
-51904,179607,A Moving Romance (2017),Drama|Romance,2017
-51905,179609,Love on Ice (2017),Romance,2017
-51906,179611,The Perfect Catch (2017),Drama,2017
-51907,179613,Summer in the Vineyard (2017),Romance,2017
-51908,179615,"Eat, Play, Love (2017)",Comedy|Romance,2017
-51919,179637,Harvest Love (2017),Comedy|Romance,2017
-51924,179647,The Young Karl Marx (2017),Drama,2017
-51941,179681,Spaghettiman (2017),Action|Comedy|Crime,2017
-51944,179689,Chervonyy (2017),Drama,2017
-51948,179697,Meri Pyaari Bindu (2017),Drama|Romance,2017
-51949,179701,One of Us (2017),Documentary,2017
-51953,179709,Wonder Wheel (2017),Drama,2017
-51958,179719,Sisters of the Groom (2017),(no genres listed),2017
-51971,179747,Crimea (2017),Action|Drama,2017
-51972,179749,Creep 2 (2017),Comedy|Horror,2017
-51973,179751,Sexy Durga (2017),Drama,2017
-51979,179763,DRIB (2017),(no genres listed),2017
-51982,179769,Rey (2017),(no genres listed),2017
-51987,179779,A Taxi Driver (2017),Action|Drama,2017
-51989,179783,Let There Be Light (2017),(no genres listed),2017
-51990,179785,Thank You for Your Service (2017),Drama|War,2017
-51994,179795,Joan Didion: The Center Will Not Hold (2017),Documentary,2017
-51995,179797,It Was Fifty Years Ago Today! The Beatles: Sgt. Pepper & Beyond (2017),Documentary,2017
-52001,179811,Last Flag Flying (2017),Comedy|Drama,2017
-52002,179813,LBJ (2017),Drama,2017
-52003,179815,"Roman J. Israel, Esq. (2017)",Drama|Thriller,2017
-52004,179817,Darkest Hour (2017),Drama|War,2017
-52005,179819,Star Wars: The Last Jedi (2017),Action|Adventure|Fantasy|Sci-Fi,2017
-52006,179821,Acts of Vengeance (2017),Action,2017
-52007,179823,Matilda (2017),(no genres listed),2017
-52008,179825,M.F.A. (2017),Thriller,2017
-52009,179827,I Am Not a Witch (2017),Drama,2017
-52018,179845,Brackenmore (2017),(no genres listed),2017
-52027,179863,Radius (2017),Sci-Fi|Thriller,2017
-52031,179873,Sex Guaranteed (2017),Comedy,2017
-52032,179875,The Sex Trip (2017),Comedy|Fantasy,2017
-52035,179881,Downsizing (2017),Comedy|Drama|Sci-Fi,2017
-52036,179883,Deadly Sorority (2017),Thriller,2017
-52038,179889,Insyriated (2017),Drama,2017
-52044,179901,Mark Felt: The Man Who Brought Down the White House (2017),Drama|Thriller,2017
-52045,179903,Charismata (2017),Horror,2017
-52048,179909,Gremlin (2017),Horror,2017
-52051,179915,1945 (2017),Drama,2017
-52055,179923,Man and a Baby (2017),Comedy,2017
-52056,179925,The Unknown Soldier (2017),Drama|War,2017
-52064,179941,C'est la vie! (2017),Comedy,2017
-52070,179953,A Bad Moms Christmas (2017),Comedy,2017
-52071,179955,L.A. Times (2017),(no genres listed),2017
-52081,179977,In the Fade (2017),Drama,2017
-52082,179979,Heroes Above All (2017),Adventure|Children,2017
-52083,179981,The Veil (2017),Action|Adventure|Sci-Fi,2017
-52084,179983,Werk ohne Autor (2017),Drama,2017
-52085,179985,Romeo Is Bleeding (2017),Documentary,2017
-52100,180015,66 kinos (2017),(no genres listed),2017
-52101,180017,Spyder (2017),Action|Thriller,2017
-52108,180031,The Shape of Water (2017),Adventure|Drama|Fantasy,2017
-52109,180033,The Leisure Seeker (2017),Drama,2017
-52111,180037,24 Hours to Live (2017),Thriller,2017
-52112,180039,Most Beautiful Island (2017),Drama|Thriller,2017
-52113,180041,Holy Camp! (2017),Comedy|Romance,2017
-52114,180043,Suck Me Shakespeer 3 (2017),Comedy,2017
-52115,180045,Molly's Game (2017),Drama,2017
-52123,180063,Wasteland No. 1: Ardent Verdant (2017),Animation,2017
-52124,180065,Three Summers (2017),Comedy,2017
-52126,180069,Love and Goodbye and Hawaii (2017),(no genres listed),2017
-52132,180081,Oro (2017),Drama,2017
-52136,180091,Pokémon the Movie: I Choose You! (2017),Adventure|Animation|Children|Comedy|Drama|Fantasy,2017
-52137,180093,Singularity (2017),Sci-Fi,2017
-52138,180095,Wonder (2017),Drama,2017
-52139,180097,Christmas Crime Story (2017),(no genres listed),2017
-52140,180099,The Big Bad Fox and Other Tales (2017),Animation|Children,2017
-52144,180109,Człowiek z magicznym pudełkiem (2017),Romance|Sci-Fi,2017
-52156,180133,Big Sonia (2017),Documentary,2017
-52158,180137,See You Up There (2017),Comedy|Drama,2017
-52167,180155,The Paris Opera (2017),Documentary,2017
-52168,180157,Et les mistrals gagnants (2017),Documentary,2017
-52200,180221,Walk with Me (2017),Documentary,2017
-52203,180227,God: Serengeti (2017),Comedy,2017
-52205,180231,Daddy's Home 2 (2017),Comedy|Drama,2017
-52212,180245,Ittefaq: It happened one night (2017),Mystery|Thriller,2017
-52214,180249,"No Date, No Signature (2017)",Drama,2017
-52215,180251,Geo-Disaster (2017),Action|Sci-Fi,2017
-52216,180253,Gabriel and the Mountain (2017),Comedy|Drama,2017
-52220,180261,The Bookshop (2017),Drama|Romance,2017
-52222,180265,Jim & Andy: The Great Beyond (2017),Documentary,2017
-52223,180267,Blame (2017),Drama,2017
-52230,180283,Catch the Wind (2017),Drama,2017
-52233,180291,Journey to the West: The Demons Strike Back (2017),Action|Adventure|Fantasy,2017
-52236,180297,The Disaster Artist (2017),Comedy|Drama,2017
-52242,180309,My Pet Dinosaur (2017),Action|Adventure|Children,2017
-52250,180325,"I Love You, Daddy (2017)",Comedy|Drama,2017
-52265,180367,Hot Summer Nights (2017),Drama,2017
-52279,180405,One Ticket Please (2017),Documentary,2017
-52282,180411,The Sleep Curse (2017),Horror|Thriller,2017
-52283,180413,Kreatura (2017),(no genres listed),2017
-52284,180415,Amok (2017),Crime|Thriller,2017
-52289,180427,Thumper (2017),Crime|Drama|Thriller,2017
-52290,180429,Bitch (2017),Children|Comedy|Drama|Thriller,2017
-52291,180431,Totem (2017),Horror,2017
-52292,180435,Jeepers Creepers 3 (2017),Horror|Mystery|Thriller,2017
-52293,180437,Dead Shack (2017),Comedy|Horror,2017
-52294,180439,Double Date (2017),Comedy|Horror,2017
-52295,180441,Still/Born (2017),Horror|Thriller,2017
-52296,180443,Victor Crowley (2017),Comedy|Horror,2017
-52297,180445,I Remember You (2017),Drama|Horror|Mystery|Thriller,2017
-52298,180447,The Strange Ones (2017),Drama|Thriller,2017
-52299,180449,Snowflake (2017),Action|Comedy|Crime|Fantasy|Thriller,2017
-52300,180451,Sicilian Ghost Story (2017),Drama|Mystery,2017
-52301,180453,Lowlife (2017),Action|Crime|Drama|Thriller,2017
-52303,180465,Escape Room (2017),Horror,2017
-52305,180469,I'll Just Live in Bando (2017),Animation|Comedy|Drama,2017
-52306,180471,The Venerable W. (2017),Documentary,2017
-52307,180473,Barbara (2017),(no genres listed),2017
-52310,180479,This Is Our Land (2017),Drama,2017
-52311,180481,Black Hollow Cage (2017),Drama|Horror|Sci-Fi|Thriller,2017
-52319,180497,The Post (2017),Drama|Thriller,2017
-52328,180531,Invisible (2017),(no genres listed),2017
-52331,180537,Barbie: Dolphin Magic (2017),Adventure|Animation|Children|Fantasy,2017
-52332,180539,Bullet Head (2017),(no genres listed),2017
-52333,180543,The Last Note (2017),(no genres listed),2017
-52336,180549,Le mystère de Fatima (2017),Documentary,2017
-52337,180555,Mom and Dad (2017),Horror|Thriller,2017
-52339,180559,Winter Brothers (2017),Drama,2017
-52343,180567,Check Point (2017),Action|Thriller|War,2017
-52344,180569,The Star (2017),Adventure|Animation|Comedy,2017
-52345,180571,The Mayor (2017),Drama,2017
-52353,180587,The Wife (2017),Drama,2017
-52354,180589,Leaning Into the Wind: Andy Goldsworthy (2017),Documentary,2017
-52355,180591,Jane (2017),Documentary,2017
-52406,180735,Hello Again (2017),Drama|Romance,2017
-52407,180737,A Christmas Prince (2017),Romance,2017
-52437,180833,The Humanity Bureau (2017),Action|Sci-Fi,2017
-52438,180835,The Lost Wife of Robert Durst (2017),Crime|Drama|Thriller,2017
-52439,180837,Tokyo Project (2017),Drama|Romance,2017
-52441,180841,Interlude In Prague (2017),(no genres listed),2017
-52450,180861,Ceasefire (2017),Drama,2017
-52486,180957,Eric Clapton: Life in 12 Bars (2017),Documentary,2017
-52490,180965,The Healer (2017),Children|Comedy|Drama,2017
-52493,180975,Agadah (2017),Adventure|Drama|Fantasy,2017
-52495,180979,Long Time Running (2017),Documentary,2017
-52496,180981,Look & See: A Portrait of Wendell Berry (2017),Documentary,2017
-52498,180985,The Greatest Showman (2017),Drama,2017
-52499,180987,Ferdinand (2017),Animation|Children|Comedy,2017
-52523,181045,Verna (2017),Drama|Thriller,2017
-52524,181047,Villain (2017),Action|Crime|Thriller,2017
-52532,181065,Jack Whitehall: At Large (2017),Comedy,2017
-52535,181073,Mariah Carey's All I Want for Christmas Is You (2017),Animation|Children,2017
-52536,181075,The Man Who Invented Christmas (2017),Drama,2017
-52537,181077,Almost Friends (2017),Comedy|Drama,2017
-52538,181079,Tumhari Sulu (2017),Comedy|Drama,2017
-52549,181105,Black Water (2017),Horror|Thriller,2017
-52550,181111,Theeran Adhigaram Ondru (2017),Action|Thriller,2017
-52552,181115,Hangman (2017),Crime|Mystery|Thriller,2017
-52560,181135,A Bad Idea Gone Wrong (2017),Comedy,2017
-52561,181137,Rodney Carrington: Here Comes The Truth (2017),Comedy,2017
-52562,181139,Lynne Koplitz: Hormonal Beast (2017),Comedy,2017
-52563,181141,Trophy (2017),Documentary,2017
-52569,181155,Gilbert (2017),Documentary,2017
-52585,181203,200 Degrees (2017),Thriller,2017
-52586,181205,Control (2017),Action|Crime|Drama,2017
-52588,181209,Judah Friedlander: America Is the Greatest Country in the United States (2017),Comedy,2017
-52591,181215,The Hatred (2017),Horror,2017
-52598,181229,Bad Blood: The Movie (2017),Horror,2017
-52601,181235,Hey Arnold! The Jungle Movie (2017),Adventure|Animation|Comedy,2017
-52604,181245,Toilet - Ek Prem Katha (2017),Comedy|Drama,2017
-52605,181247,Yaman (2017),Action|Thriller,2017
-52609,181257,Cherry Pop (2017),Comedy,2017
-52613,181267,Perfectos desconocidos (2017),Comedy|Drama,2017
-52617,181275,A Horrible Woman (2017),Drama,2017
-52618,181277,Furious (2017),Fantasy,2017
-52619,181279,Tutto quello che vuoi (2017),Comedy|Drama,2017
-52637,181315,Phantom Thread (2017),Drama|Romance,2017
-52644,181329,Lucky (2017),Drama,2017
-52654,181349,Darkness Rising (2017),Horror,2017
-52682,181405,Obey Giant (2017),Documentary,2017
-52686,181413,Too Funny to Fail: The Life and Death of The Dana Carvey Show (2017),(no genres listed),2017
-52688,181417,Out of the Wild (2017),(no genres listed),2017
-52697,181441,On Wings of Eagles (2017),Drama,2017
-52699,181445,Juleblod (2017),Horror|Thriller,2017
-52701,181449,Mansfield 66/67 (2017),(no genres listed),2017
-52703,181453,Euthanizer (2017),Drama|Thriller,2017
-52704,181459,Animals (2017),Drama|Mystery|Thriller,2017
-52705,181461,Untitled (2017),Documentary,2017
-52706,181463,Equilibrium (2017),(no genres listed),2017
-52707,181465,Dead Again in Tombstone (2017),Western,2017
-52710,181473,Rendel (2017),Action|Crime|Fantasy,2017
-52711,181475,Dismissed (2017),Horror|Thriller,2017
-52714,181483,Flesh and Blood (2017),Drama,2017
-52722,181499,Smetto quando voglio: Ad honorem (2017),Action|Comedy,2017
-52723,181501,Golden Exits (2017),Drama,2017
-52725,181505,"If You're Not In The Obit, Eat Breakfast (2017)",Documentary,2017
-52726,181507,From Nowhere (2017),Drama,2017
-52729,181513,Es por tu bien (2017),Comedy,2017
-52730,181515,Pop Aye (2017),Drama,2017
-52731,181517,ReLIFE (2017),Comedy|Drama|Romance,2017
-52733,181521,Manchester: 100 Days After The Attack (2017),Documentary,2017
-52743,181543,Son of Sofia (2017),(no genres listed),2017
-52744,181545,Voyeur (2017),Documentary,2017
-52745,181547,House of the Witch (2017),Horror,2017
-52748,181553,Ferrari: Race to Immortality (2017),Documentary,2017
-52749,181555,Slamma Jamma (2017),Drama,2017
-52753,181565,Alone (2017),Fantasy|Sci-Fi,2017
-52754,181567,La Colle (2017),Comedy,2017
-52761,181583,Braguino (2017),Documentary,2017
-52762,181585,Plug Love (2017),Crime|Drama|Romance,2017
-52767,181595,Sara and Ayda (2017),Children|Drama,2017
-52769,181601,Olaf's Frozen Adventure (2017),Adventure|Animation|Children|Comedy|Fantasy,2017
-52770,181603,Forbidden Games: The Justin Fashanu Story (2017),Documentary,2017
-52771,181605,Miami (2017),Drama,2017
-52772,181607,Laerte-se (2017),Documentary,2017
-52773,181609,Linnan juhlat (2017),Comedy|Drama,2017
-52775,181613,Victoria's Secret Fashion  Show 2017 (2017),(no genres listed),2017
-52782,181627,Alien Invasion: S.U.M.1 (2017),Sci-Fi,2017
-52785,181633,Bruno & Boots: This Can't Be Happening at Macdonald Hall (2017),Children,2017
-52791,181647,Dear Other Self (2017),Comedy,2017
-52792,181649,100 Poems for Stella (2017),Romance,2017
-52795,181655,Detour (2017),Thriller,2017
-52796,181659,Craig Ferguson: Tickle Fight (2017),Comedy,2017
-52798,181663,Everything Beautiful Is Far Away (2017),Drama|Sci-Fi,2017
-52799,181665,Småstad (2017),Drama,2017
-52800,181667,The Legend of 420 (2017),(no genres listed),2017
-52802,181671,The Breadwinner (2017),Animation|Drama|War,2017
-53088,182243,The Best of All Worlds (2017),Drama,2017
-53124,182315,Sherlock: The Final Problem (2017),Drama|Mystery,2017
-53126,182319,The Tribes of Palos Verdes (2017),Drama,2017
-53130,182329,The Long Summer of Theory (2017),(no genres listed),2017
-53136,182341,Just Getting Started (2017),Action|Comedy,2017
-53138,182347,Hollow in the Land (2017),Drama|Thriller,2017
-53141,182353,Satan's Slaves (2017),Horror,2017
-53143,182359,El Camino Christmas (2017),Comedy,2017
-53147,182367,Out of Thin Air (2017),(no genres listed),2017
-53149,182371,Uncertain Glory (2017),Drama,2017
-53150,182373,Из Уфы с любовью! (2017),Comedy,2017
-53153,182379,Kingdom of Us (2017),Documentary,2017
-53157,182387,Foxtrot (2017),Drama,2017
-53161,182395,Judwaa 2 (2017),Action|Comedy|Romance,2017
-53163,182399,March Goes out Like a Lamb (2017),(no genres listed),2017
-53165,182403,The Whiskey Bandit (2017),Action|Crime,2017
-53166,182407,The Pirates of Somalia (2017),Drama,2017
-53172,182419,The Last Warrior (2017),(no genres listed),2017
-53184,182445,Based on a True Story (2017),Drama|Thriller,2017
-53190,182457,The Pearl of Africa (2017),Documentary,2017
-53199,182475,The Ballad of Lefty Brown (2017),Western,2017
-53200,182477,Bleeding Steel (2017),Action|Comedy|Sci-Fi,2017
-53201,182479,Mary and the Witch's Flower (2017),Adventure|Animation,2017
-53203,182483,Love & Saucers (2017),Documentary|Mystery|Romance|Sci-Fi,2017
-53204,182485,Cook-Off! (2017),Comedy,2017
-53205,182487,Bethany (2017),Horror,2017
-53209,182495,Father and Guns 2 (2017),Comedy|Crime,2017
-53235,182547,Under an Arctic Sky (2017),Adventure|Documentary,2017
-53236,182549,Infinity Baby (2017),Comedy,2017
-53237,182551,Mr. Roosevelt (2017),Comedy,2017
-53240,182557,Psych: The Movie (2017),Children|Comedy|Crime,2017
-53243,182563,Golmaal Again (2017),Comedy|Drama|Horror,2017
-53249,182581,The Cutlass (2017),Drama|Thriller,2017
-53250,182585,Dementia 13 (2017),Horror,2017
-53252,182591,Witchcraft XIV: Angel of Death (2017),Horror|Mystery,2017
-53276,182645,Last Rampage: The Escape of Gary Tison (2017),Drama,2017
-53280,182653,Dream Boat (2017),(no genres listed),2017
-53281,182655,Witchcraft 16: Hollywood Coven (2017),(no genres listed),2017
-53283,182659,Once Upon a Time at Christmas (2017),Horror,2017
-53287,182667,Serpent (2017),Thriller,2017
-53290,182673,The Carmilla Movie (2017),Adventure|Comedy|Fantasy|Romance,2017
-53293,182679,Christmas Inheritance (2017),Romance,2017
-53294,182681,Breaking the Cycle (2017),Documentary,2017
-53307,182707,Losing In Love (2017),Drama,2017
-53310,182713,Ex Libris: New York Public Library (2017),Documentary,2017
-53317,182727,A Christmas Story Live! (2017),(no genres listed),2017
-53320,182733,The Dance Exponents: Why Does Love? (2017),Drama,2017
-53321,182735,Fuck Off 2 - Images from Finland (2017),Documentary,2017
-53322,182737,Youth (2017),Drama,2017
-53325,182743,Wonderland (2017),Comedy|Drama,2017
-53327,182747,Discovering Bigfoot (2017),(no genres listed),2017
-53328,182749,Judd Apatow: The Return (2017),Comedy,2017
-53330,182755,Easy Living (2017),Comedy|Drama|Thriller,2017
-53331,182757,Pwera Usog (2017),Horror,2017
-53332,182759,Sleep Has Her House (2017),Mystery,2017
-53338,182771,Wild Men (2017),Adventure|Comedy|Horror,2017
-53340,182775,Maze (2017),Adventure|Crime|Drama|Mystery|Thriller,2017
-53342,182779,"Nico, 1988 (2017)",Drama,2017
-53343,182781,Amori che non sanno stare al mondo (2017),Comedy|Drama,2017
-53344,182783,The Insult (2017),Drama,2017
-53348,182791,Il padre d'Italia (2017),Drama,2017
-53355,182805,Plot 35 (2017),Documentary,2017
-53358,182813,Saving Capitalism (2017),Documentary,2017
-53359,182815,Russell Howard: Recalibrate (2017),Comedy,2017
-53361,182819,Father Figures (2017),Comedy,2017
-53363,182823,Bright (2017),Action|Crime|Fantasy,2017
-53364,182825,All the Money in the World (2017),Crime|Drama|Mystery|Thriller,2017
-53366,182829,Pottersville (2017),Comedy,2017
-53370,182837,Hey Bunny (2017),Children|Comedy,2017
-53376,182851,Sgt Pepper's Musical Revolution with Howard Goodall (2017),Documentary,2017
-53377,182853,"How Viktor ""The Garlic"" Took Alexey ""The Stud"" to the Nursing Home (2017)",Drama,2017
-53382,182863,Let Me Eat Your Pancreas (2017),Drama,2017
-53383,182865,You Can't Fight Christmas (2017),Comedy,2017
-53386,182871,The Cyborgs (2017),Action|Drama|War,2017
-53404,182913,Doctor Who: Twice Upon A Time (2017),Drama|Sci-Fi,2017
-53407,182925,A Place in the Caribbean (2017),Drama|Romance,2017
-53414,182939,The Girl Who Invented Kissing (2017),Drama|Romance,2017
-53415,182941,The Motive (2017),Drama|Thriller,2017
-53417,182945,Mission Pays Basque (2017),Comedy,2017
-53420,182951,The Woman Who Left (2017),Drama,2017
-53423,182957,The Kitchen: World Chef Battle (2017),Comedy,2017
-53442,182995,Pretty Far from Okay (2017),Comedy,2017
-53452,183015,Dayveon (2017),(no genres listed),2017
-53459,183029,Crash Pad (2017),Comedy,2017
-53464,183047,Awakening the Zodiac (2017),Crime|Drama|Mystery|Thriller,2017
-53465,183049,Emmanuel Macron : les coulisses d'une victoire (2017),Documentary,2017
-53477,183073,Mountain (2017),Documentary,2017
-53479,183077,Cold Skin (2017),Sci-Fi|Thriller,2017
-53480,183079,Dara Ju (2017),Crime|Drama,2017
-53483,183087,Going Vertical (2017),Drama,2017
-53484,183089,Myths (2017),(no genres listed),2017
-53491,183125,Vikram Vedha (2017),Action|Romance|Thriller,2017
-53496,183139,Permanent (2017),Comedy,2017
-53497,183141,Toxic Shark (2017),Horror|Sci-Fi,2017
-53500,183147,Tomorrow Ever After (2017),Comedy|Drama|Fantasy|Sci-Fi,2017
-53501,183149,The Ash Lad: In the Hall of the Mountain King (2017),Adventure|Fantasy,2017
-53505,183159,Sweet Country (2017),Western,2017
-53507,183163,5 Headed Shark Attack (2017),Horror|Sci-Fi,2017
-53513,183177,Letters to Santa 3 (2017),Comedy|Romance,2017
-53523,183197,Dave Chappelle: Equanimity (2017),Comedy,2017
-53524,183199,Quest (2017),Documentary,2017
-53526,183203,I Am Another You (2017),Documentary,2017
-53527,183205,The Departure (2017),Documentary,2017
-53529,183209,Malasartes e o Duelo com a Morte (2017),Comedy,2017
-53532,183219,The Christmas Train (2017),Children|Drama|Romance,2017
-53533,183221,Veiled Naples (2017),(no genres listed),2017
-53534,183223,Bonne pomme (2017),Comedy,2017
-53535,183225,"Ron Goossens, Low Budget Stuntman (2017)",Action|Comedy,2017
-53536,183227,Dave Chappelle: The Bird Revelation (2017),Comedy,2017
-53538,183231,Trapped (2017),Thriller,2017
-53542,183241,Si 3 (2017),Action|Crime,2017
-53544,183245,The Untold Tales of Armistead Maupin (2017),Documentary,2017
-53547,183251,Scorched Earth (2017),Action|Sci-Fi,2017
-53556,183269,The Stolen (2017),Action|Adventure|Drama|Western,2017
-53561,183279,Aurore (2017),Comedy,2017
-53563,183283,The Demonic Tapes (2017),(no genres listed),2017
-53564,183285,Infoholic (2017),Comedy,2017
-53567,183291,Cantantes en Guerra (2017),Comedy,2017
-53568,183293,A Very Country Christmas (2017),Drama,2017
-53570,183297,The Wicked One (2017),Horror|Thriller,2017
-53573,183303,You Disappear (2017),Drama,2017
-53578,183313,Non-Transferable (2017),Comedy|Romance,2017
-53579,183315,Suck It Up (2017),(no genres listed),2017
-53583,183323,Small Town Crime (2017),Crime|Thriller,2017
-53584,183325,Ghost House (2017),Horror|Thriller,2017
-53586,183329,Cuba and the Cameraman (2017),Documentary,2017
-53591,183339,Earth: One Amazing Day (2017),Documentary,2017
-53596,183349,Conor McGregor: Notorious (2017),Documentary,2017
-53605,183369,Last Men in Aleppo (2017),Documentary,2017
-53608,183375,Three Heroes and the Princess of Egypt (2017),(no genres listed),2017
-53610,183379,Renegades (2017),Action|Thriller,2017
-53611,183381,Brand New Yolki (2017),Comedy,2017
-53613,183385,Fukrey Returns (2017),Comedy|Drama,2017
-53615,183389,Desire (2017),Drama|Romance,2017
-53616,183391,Unwanted (2017),Horror,2017
-53619,183397,Along with the Gods: The Two Worlds (2017),Drama|Fantasy,2017
-53622,183403,Just to Be Sure (2017),Comedy|Drama,2017
-53629,183417,The Battleship Island (2017),Drama|Thriller|War,2017
-53632,183423,AlphaGo (2017),Documentary,2017
-53639,183437,World of Tomorrow Episode Two: The Burden of Other People's Thoughts (2017),Animation|Sci-Fi,2017
-53643,183445,Aile Arasında (2017),Children|Comedy,2017
-53651,183461,Godless (2017),Crime|Drama|Western,2017
-53654,183467,Treasure Hounds (2017),Children|Fantasy,2017
-53660,183483,I peggiori (2017),Action|Comedy,2017
-53662,183487,Valentine's Again (2017),Romance,2017
-53663,183489,Life Ahead (2017),Comedy,2017
-53664,183491,My Name Is Lenny (2017),Drama,2017
-53668,183499,Promise at Dawn (2017),Drama,2017
-53677,183519,Kenny (2017),Documentary,2017
-53678,183521,Don't Sleep (2017),Horror|Thriller,2017
-53680,183525,Nothing Really Happened (2017),Drama,2017
-53682,183529,Bad Day for the Cut (2017),Thriller,2017
-53684,183533,Ice Mother (2017),Comedy|Drama|Romance,2017
-53691,183547,T.J. Miller: Meticulously Ridiculous (2017),Comedy,2017
-53700,183565,Come un gatto in tangenziale (2017),Comedy,2017
-53701,183567,F*&% the Prom (2017),Comedy,2017
-53702,183569,Gangsterdam (2017),Action|Comedy,2017
-53703,183571,Mystic Game (2017),Adventure|Fantasy,2017
-53704,183573,Trafficked (2017),Drama,2017
-53709,183583,The King's Case Note (2017),Action|Adventure|Comedy,2017
-53714,183593,The Gateway (2017),Sci-Fi,2017
-53715,183595,Meow (2017),Children|Comedy|Drama|Fantasy|Sci-Fi,2017
-53716,183597,Please Stand By (2017),Comedy|Drama,2017
-53717,183599,Dreaming of a Jewish Christmas (2017),Documentary,2017
-53721,183607,Negar (2017),Crime|Mystery|Thriller,2017
-53722,183609,The Female Brain (2017),Comedy,2017
-53729,183625,Gangster Land (2017),Crime|Thriller,2017
-53732,183631,Lover for a Day (2017),Drama,2017
-53733,183633,The Final Year (2017),Documentary,2017
-53737,183641,Bombshell: The Hedy Lamarr Story (2017),Documentary,2017
-53742,183651,Truth or Dare (2017),Horror,2017
-53743,183653,Dating Game Killer (2017),Crime|Thriller,2017
-53746,183659,"Never Steady, Never Still (2017)",Drama,2017
-53747,183661,Godzilla: Planet of the Monsters (2017),Animation|Sci-Fi,2017
-53751,183669,One In The Other (2017),Comedy,2017
-53752,183671,Spielberg (2017),Documentary,2017
-53761,183695,Marrowbone (2017),Drama|Horror|Thriller,2017
-53763,183699,Forgotten (2017),Thriller,2017
-53769,183711,Sister of Mine (2017),Drama|Thriller,2017
-53771,183715,Happening: A Clean Energy Revolution (2017),Documentary,2017
-53777,183727,The Man from Earth: Holocene (2017),Drama|Sci-Fi,2017
-53780,183733,Espionage Tonight (2017),Action|Comedy,2017
-53783,183739,What Will People Say (2017),Drama,2017
-53784,183741,Aruvi (2017),Drama,2017
-53787,183747,Yoga arquitetura da paz (2017),Documentary,2017
-53795,183771,Directions (2017),Drama,2017
-53798,183781,The Forlorned (2017),Horror,2017
-53802,183793,Devil's Acid (2017),Horror,2017
-53803,183795,The Bachelors (2017),Comedy|Drama,2017
-53804,183797,Larceny (2017),Action|Thriller,2017
-53808,183805,"The Good, the Bad & the Corny (2017)",Comedy,2017
-53814,183817,Le Brio (2017),Comedy,2017
-53815,183819,Getaway Plan (2017),Action|Thriller,2017
-53821,183831,The Lodgers (2017),Horror,2017
-53823,183835,The Nothing Factory (2017),Drama,2017
-53826,183841,Fate (2017),Drama|Sci-Fi|Thriller,2017
-53835,183859,Amityville Exorcism (2017),Horror,2017
-53841,183873,Like Me (2017),Crime|Drama,2017
-53846,183891,Dear Basketball (2017),Animation|Documentary|Drama,2017
-53851,183901,#Captured (2017),Horror,2017
-53873,183945,Les Ex (2017),Comedy,2017
-53878,183955,Todd Barry: Spicy Honey (2017),Comedy,2017
-53882,183965,Face 2 Face (2017),Drama,2017
-53886,183973,Room(h)ates (2017),Comedy,2017
-53892,183985,Let the Corpses Tan (2017),Thriller,2017
-53893,183987,I Am Sam Kinison (2017),Documentary,2017
-53898,183997,Sugar Sand (2017),Drama,2017
-53904,184009,The Cured (2017),Horror,2017
-53905,184011,American Satan (2017),Drama|Thriller,2017
-53910,184021,The Idea of a Lake (2017),Drama,2017
-53921,184047,Alien Domicile (2017),Horror,2017
-53922,184049,The Mystery of Green Hill (2017),Adventure|Children|Mystery,2017
-53923,184051,Bad Frank (2017),Drama|Thriller,2017
-53930,184067,Without Name (2017),Drama|Horror|Mystery,2017
-53943,184093,The Boy Downstairs (2017),Comedy|Drama|Romance,2017
-53945,184097,Curvature (2017),Drama|Sci-Fi,2017
-53951,184109,A Violent Life (2017),(no genres listed),2017
-53953,184115,Real (2017),Action,2017
-53956,184123,42 Grams (2017),(no genres listed),2017
-53957,184125,Brave New Jersey (2017),Comedy,2017
-53958,184127,How the Beatles Changed the World (2017),Documentary,2017
-53971,184157,Downrange (2017),Thriller,2017
-53977,184169,Wild Boys (2017),(no genres listed),2017
-53985,184191,The Last Shaman (2017),Documentary,2017
-53986,184193,Raees (2017),Action|Crime|Thriller,2017
-53994,184211,Shaadi Mein Zaroor Aana (2017),Children|Drama|Romance,2017
-53995,184213,Bareilly Ki Barfi (2017),Comedy|Romance,2017
-53996,184215,Behen Hogi Teri (2017),Comedy|Drama|Romance,2017
-53997,184217,Raabta (2017),Comedy|Drama|Mystery|Romance,2017
-54002,184229,Tiger Zinda Hai (2017),Action|Thriller,2017
-54003,184231,Jagga Jasoos (2017),Adventure|Comedy|Mystery|Romance,2017
-54005,184235,Qarib Qarib Singlle (2017),Comedy|Drama|Romance,2017
-54008,184241,Submission (2017),Drama,2017
-54011,184247,Fikkefuchs (2017),Comedy|Drama,2017
-54013,184251,Handia (2017),Drama,2017
-54024,184273,Bella Donna's (2017),Comedy|Romance,2017
-54025,184275,Before We Vanish (2017),Drama|Sci-Fi,2017
-54029,184287,Woody Woodpecker (2017),Animation|Children|Comedy,2017
-54033,184295,London Heist (2017),Action|Thriller,2017
-54038,184307,Shadowman (2017),Documentary,2017
-54041,184313,Happy Family (2017),Animation,2017
-54044,184319,Patient Seventeen (2017),Documentary,2017
-54051,184339,Thirst Street (2017),Drama|Romance|Thriller,2017
-54058,184353,Bomb City (2017),Action|Crime|Drama|Thriller|Western,2017
-54060,184359,Problemos (2017),Comedy,2017
-54064,184367,King of Peking (2017),Comedy|Drama,2017
-54065,184369,Saturday Church (2017),Drama|Romance,2017
-54066,184371,It's Not My Fault and I Don't Care Anyway (2017),Drama,2017
-54069,184379,May It Last: A Portrait of the Avett Brothers (2017),Documentary,2017
-54071,184383,1987: When the Day Comes (2017),Drama|Thriller,2017
-54076,184395,Before Summer Ends (2017),Documentary,2017
-54077,184397,Becks (2017),Drama|Romance,2017
-54081,184405,Garden Party (2017),Animation,2017
-54082,184407,Negative Space (2017),Animation|Drama,2017
-54083,184409,Weeds (2017),Animation,2017
-54087,184417,Residente (2017),Documentary,2017
-54088,184421,Épouse-moi mon pote (2017),Comedy,2017
-54089,184423,Maigret in Montmartre (2017),Crime|Drama|Mystery,2017
-54091,184427,Keep Watching (2017),Horror|Thriller,2017
-54094,184433,The Monster Project (2017),Action|Horror,2017
-54095,184435,Haunted (2017),Horror|Thriller,2017
-54097,184441,29+1 (2017),Drama,2017
-54098,184443,Red Eye (2017),Horror,2017
-54099,184445,The Girl in the Fog (2017),Crime|Thriller,2017
-54100,184447,A Very Sordid Wedding (2017),Comedy,2017
-54126,184509,Harmonium (2017),Thriller,2017
-54129,184515,Knife Skills (2017),Documentary,2017
-54132,184521,Despido procedente (2017),Comedy,2017
-54142,184541,Planeta Petrila (2017),Documentary,2017
-54154,184565,Sylvio (2017),Comedy,2017
-54157,184571,The Silent Child (2017),Drama,2017
-54158,184573,DeKalb Elementary (2017),Drama,2017
-54159,184575,Watu Wote: All of Us (2017),Drama,2017
-54161,184579,My Nephew Emmett (2017),Drama,2017
-54171,184599,The Houses October Built 2 (2017),Horror,2017
-54177,184613,The Moorside (2017),Crime|Drama,2017
-54180,184619,EMO the Musical (2017),Comedy|Romance,2017
-54189,184637,The Ravenous (2017),Horror,2017
-54191,184641,Fullmetal Alchemist 2018 (2017),Action|Adventure|Fantasy,2017
-54197,184655,Krotoa (2017),Drama|Romance,2017
-54198,184657,The Recce (2017),Drama,2017
-54202,184667,Expedition Happiness (2017),Documentary,2017
-54203,184673,Sinister Minister (2017),Drama|Thriller,2017
-54206,184679,Blackmail (2017),Comedy,2017
-54208,184685,Legend of the Demon Cat (2017),Drama|Fantasy|Mystery,2017
-54209,184687,Muse (2017),Thriller,2017
-54210,184689,Hostile (2017),Drama|Horror|Romance,2017
-54211,184691,Game of Death (2017),Horror|Thriller,2017
-54212,184693,It Came from the Desert (2017),Action|Comedy|Horror,2017
-54215,184699,Traces of Sin (2017),Thriller,2017
-54220,184709,I Am Elizabeth Smart (2017),Documentary,2017
-54221,184713,SPF-18 (2017),Romance,2017
-54222,184715,Edith+Eddie (2017),Documentary,2017
-54223,184717,Lost Property Office (2017),Animation|Drama,2017
-54224,184719,Achoo (2017),Animation|Comedy,2017
-54225,184721,First Reformed (2017),Drama|Thriller,2017
-54226,184723,Little Boy Blue (2017),Crime|Drama,2017
-54227,184725,Traffic Stop (2017),Documentary,2017
-54230,184731,Nightworld (2017),Horror|Thriller,2017
-54234,184739,Knock (2017),Comedy,2017
-54235,184741,Finding Your Feet (2017),Comedy,2017
-54237,184745,Alamara (2017),Children|Comedy,2017
-54238,184747,Sakhavu (2017),Drama,2017
-54239,184749,Solo (2017),Action|Romance|Thriller,2017
-54240,184751,Take Off (2017),Drama|Thriller|War,2017
-54241,184753,The Mainour and the Witness (2017),Comedy|Drama|Thriller,2017
-54242,184755,Oru Mexican Aparatha (2017),Action|Drama,2017
-54254,184779,Simran (2017),Crime|Drama|Romance|Thriller,2017
-54255,184781,Sachin: A Billion Dreams (2017),Documentary|Drama,2017
-54265,184801,Born Strong (2017),Documentary,2017
-54275,184821,The Pulitzer At 100 (2017),Documentary,2017
-54279,184829,Zombillénium (2017),Animation|Comedy|Fantasy,2017
-54281,184835,Lu Over the Wall (2017),Animation|Children|Fantasy,2017
-54288,184855,A Gentle Creature (2017),Drama,2017
-54291,184861,The Founding Of An Army (2017),Drama,2017
-54293,184867,People You May Know (2017),Comedy|Drama|Romance,2017
-54295,184871,Western World (2017),Western,2017
-54300,184885,Erase and Forget (2017),Documentary,2017
-54301,184887,Meditation Park (2017),(no genres listed),2017
-54302,184889,Mary Goes Round (2017),Drama,2017
-54303,184891,Don't Talk to Irene (2017),(no genres listed),2017
-54304,184893,Ava (2017),(no genres listed),2017
-54306,184897,In-Shadow: A Modern Odyssey (2017),Animation|Mystery,2017
-54310,184905,Manolo: The Boy Who Made Shoes for Lizards (2017),Documentary|Drama,2017
-54320,184927,Cherchez la Femme (2017),Comedy,2017
-54328,184943,Oscar Pistorius: Blade Runner Killer (2017),Drama,2017
-54332,184951,The Twin (2017),Drama|Horror|Mystery|Thriller,2017
-54344,184977,And So We Put Goldfish in the Pool (2017),Drama,2017
-54345,184979,Big Bear (2017),Comedy,2017
-54352,184993,Shubh Mangal Saavdhan (2017),Comedy|Romance,2017
-54358,185005,Heartthrob (2017),Thriller,2017
-54362,185013,The Place (2017),Comedy|Drama,2017
-54365,185019,Infidelity in Suburbia (2017),Thriller,2017
-54367,185023,A Beautiful Star (2017),(no genres listed),2017
-54374,185037,Never Here (2017),Drama|Thriller,2017
-54381,185051,Haunters: The Art of the Scare (2017),Documentary,2017
-54394,185077,Hanson and the Beast (2017),Comedy|Fantasy,2017
-54399,185087,A Trip to the Moon (2017),Drama,2017
-54415,185129,Niñas Araña (2017),Drama,2017
-54431,185161,The Elf (2017),Horror,2017
-54434,185167,Battle of the Drones (2017),Action|Sci-Fi,2017
-54472,185245,Martírio (2017),Documentary,2017
-54479,185261,Number One (2017),Comedy|Drama,2017
-54480,185263,Deaf child (2017),Documentary,2017
-54482,185267,Paradox (2017),Action|Crime|Drama,2017
-54484,185271,The Intruder (2017),Drama,2017
-54492,185287,Nature Boy (2017),Documentary,2017
-54500,185303,The Dead Nation (2017),Documentary,2017
-54505,185315,Gauguin : Voyage de Tahiti (2017),(no genres listed),2017
-54506,185317,The Empty Hands (2017),Drama,2017
-54508,185321,A River Below (2017),Documentary,2017
-54511,185329,La tenerezza (2017),(no genres listed),2017
-54514,185337,Hans Zimmer: Live in Prague (2017),(no genres listed),2017
-54515,185339,The Lost Brother (2017),Crime|Drama|Thriller,2017
-54519,185347,About Love. Adults Only (2017),Comedy|Drama|Romance,2017
-54527,185363,Instant Dreams (2017),Documentary|Sci-Fi,2017
-54528,185365,Good Manners (2017),Drama|Fantasy|Horror,2017
-54532,185373,Muppet Guys Talking: Secrets Behind the Show the Whole World Watched (2017),Documentary,2017
-54553,185415,Brian Regan: Nunchucks and Flamethrowers (2017),Comedy,2017
-54554,185417,DeRay Davis: How to Act Black (2017),Comedy,2017
-54555,185419,Alexis de Anda: Mea Culpa (2017),(no genres listed),2017
-54560,185429,Sun Dogs (2017),Comedy|Drama,2017
-54574,185467,VHS Revolution (2017),Documentary,2017
-54582,185485,Nude (2017),Documentary,2017
-54584,185489,To Each His Own (2017),Comedy|Drama,2017
-54587,185497,Brexitannia (2017),Documentary,2017
-54593,185519,I Can Speak (2017),Comedy|Drama,2017
-54607,185551,Grillo vs Grillo (2017),Comedy,2017
-54620,185579,California Typewriter (2017),Documentary,2017
-54622,185583,Valley of Shadows (2017),Horror,2017
-54625,185591,Death of a Poetess (2017),Drama,2017
-54626,185593,Magnum Opus (2017),Drama|Thriller,2017
-54634,185611,Hermia & Helena (2017),Drama,2017
-54667,185681,Bruno & Boots: The Wizzle War (2017),Children|Comedy,2017
-54668,185683,Screwed (2017),Drama|Romance,2017
-54671,185689,Shalom Italia (2017),Documentary,2017
-54683,185713,The Cambridge Squatter (2017),Documentary|Drama,2017
-54691,185731,Rock (2017),Adventure|Drama,2017
-54694,185737,"We Love You, Sally Carmichael! (2017)",Comedy|Romance,2017
-54696,185741,Five Fingers for Marseilles (2017),Western,2017
-54698,185745,All the Queen's Horses (2017),(no genres listed),2017
-54706,185761,Throne of Elves (2017),Animation|Fantasy,2017
-54707,185763,Weg van jou (2017),Comedy|Romance,2017
-54739,185839,Black Level (2017),Drama,2017
-54741,185843,Ammore e Malavita (2017),Comedy|Romance,2017
-54742,185845,The Royal Exchange (2017),(no genres listed),2017
-54745,185851,The Last Movie Star (2017),Drama,2017
-54746,185853,Mustang Island (2017),Comedy|Drama,2017
-54750,185861,Soccer Killer (2017),Action|Comedy|Fantasy,2017
-54752,185867,Iron Men (2017),Documentary,2017
-54756,185877,Memoirs of a Murderer (2017),Drama|Thriller,2017
-54766,185901,The Light of the Moon (2017),Drama,2017
-54767,185903,La Barracuda (2017),Drama|Thriller,2017
-54768,185905,The Third Murder (2017),Drama|Mystery,2017
-54784,185947,Xibalba (2017),Horror|Sci-Fi,2017
-54786,185951,Coexister (2017),Comedy,2017
-54788,185955,Devil's Freedom (2017),Documentary,2017
-54789,185957,I Dream in Another Language (2017),Drama|Fantasy,2017
-54790,185959,Wajib (2017),Drama,2017
-54793,185965,Murder on the Cape (2017),Drama,2017
-54801,185981,Spinning Man (2017),Drama|Mystery|Thriller,2017
-54802,185983,Kings (2017),Crime|Drama|Romance,2017
-54806,185991,The Devil and Father Amorth (2017),Documentary,2017
-54807,185993,20 Weeks (2017),Drama|Romance,2017
-54826,186033,Lumière ! L'aventure commence (2017),Documentary,2017
-54888,186159,Tangled: Before Ever After (2017),Adventure|Animation|Children|Comedy|Fantasy,2017
-54893,186169,Jurassic School (2017),Adventure|Children,2017
-54894,186171,Barbie Video Game Hero (2017),Animation,2017
-54896,186175,Fireman Sam: Alien Alert! (2017),Animation,2017
-54897,186177,Trolls Holiday (2017),Adventure|Animation|Children|Comedy|Fantasy,2017
-54898,186179,Peppa Pig: My First Cinema Experience (2017),Children,2017
-54913,186209,Smartass (2017),Comedy|Drama,2017
-54914,186213,Nokia Mobile - We were connecting people (2017),Documentary,2017
-54918,186221,Seitokai Yakuindomo Movie (2017),Animation|Comedy,2017
-54929,186247,Angels Wear White (2017),(no genres listed),2017
-54944,186277,Solsidan (2017),Comedy,2017
-54948,186287,Bad Grandmas (2017),Action|Comedy|Crime,2017
-54951,186293,The Rolling Stones - From The Vault - Sticky Fingers Live At The Fonda Theatre 2015 (2017),(no genres listed),2017
-54954,186299,Thirty Souls (2017),Documentary,2017
-54969,186333,Arjun Reddy (2017),Drama|Romance,2017
-54972,186339,Prodigy (2017),Drama|Sci-Fi|Thriller,2017
-54985,186365,Tigers Are Not Afraid (2017),Fantasy|Horror|Thriller,2017
-54999,186393,A Day (2017),Drama|Mystery|Thriller,2017
-55002,186401,Those Left Behind (2017),Drama,2017
-55044,186487,Lane 1974 (2017),Adventure|Drama,2017
-55058,186515,Cook Up a Storm (2017),Drama,2017
-55060,186519,Frank Serpico (2017),Documentary,2017
-55070,186543,Claire's Camera (2017),(no genres listed),2017
-55082,186569,Imitation Girl (2017),Drama|Sci-Fi,2017
-55083,186571,Jugend ohne Gott (2017),Crime|Drama|Sci-Fi|Thriller,2017
-55086,186577,Ghost in the Machine (2017),Crime|Sci-Fi|Thriller,2017
-55087,186579,Rip Tide (2017),Children|Drama,2017
-55092,186589,Big Time (2017),Documentary,2017
-55095,186595,Sekigahara (2017),War,2017
-55096,186597,Mix (2017),(no genres listed),2017
-55097,186599,Keep the Change (2017),Comedy,2017
-55103,186611,Kung Fu Traveler (2017),Action|Sci-Fi,2017
-55117,186643,LavaKusha (2017),Comedy|Drama,2017
-55118,186645,Sherlock Toms (2017),Comedy|Drama,2017
-55119,186647,Varnyathil Aashanka (2017),Comedy,2017
-55127,186663,Njandukalude Naattil Oridavela (2017),Children|Comedy|Drama,2017
-55132,186673,Adventures of Omanakuttan (2017),Comedy|Thriller,2017
-55133,186675,Ramaleela (2017),Thriller,2017
-55135,186679,Parava (2017),Comedy,2017
-55139,186689,Ramante Edanthottam (2017),Drama|Romance,2017
-55140,186691,Sunday Holiday (2017),Comedy|Romance,2017
-55144,186699,Ezra (2017),Horror|Thriller,2017
-55151,186713,We've Forgotten More Than We Ever Knew (2017),Drama,2017
-55159,186729,C/O Saira Banu (2017),Children|Drama,2017
-55166,186745,Role Models (2017),Comedy,2017
-55185,186783,A Suitable Girl (2017),Documentary,2017
-55186,186785,A Gentleman (2017),Comedy|Romance,2017
-55189,186791,2017 Oscar Nominated Short Films - Live Action (2017),(no genres listed),2017
-55201,186815,12 Days (2017),Documentary,2017
-55202,186817,Love Me Not (2017),Drama,2017
-55216,186847,Neil Stryker and The Tyrant of Time (2017),Comedy|Fantasy|Sci-Fi,2017
-55224,186867,Vegan 2017 (2017),Documentary,2017
-55225,186869,Axis (2017),Drama,2017
-55226,186871,Heal (2017),Documentary,2017
-55228,186875,MUMON: The Land of Stealth (2017),Action|War,2017
-55244,186907,Humor Me (2017),Comedy,2017
-55248,186915,The Miracles of the Namiya General Store (2017),Drama|Fantasy,2017
-55257,186935,Gnome Alone (2017),Adventure|Animation|Children,2017
-55268,186957,A Question of Faith (2017),Drama,2017
-55279,186979,The Revival (2017),Drama,2017
-55284,186991,About Love (2017),Romance,2017
-55288,186999,Mazinger Z: Infinity (2017),Action|Animation|Sci-Fi,2017
-55315,187057,The Time of Their Lives (2017),Comedy,2017
-55317,187065,Attack Of The Southern Fried Zombies (2017),Horror,2017
-55324,187079,The Eyes (2017),Crime|Drama|Mystery|Thriller,2017
-55329,187089,The Bottomless Bag (2017),Drama|Mystery,2017
-55331,187093,Blurred Lines: Inside the Art World (2017),Documentary,2017
-55332,187095,The House by the Sea (2017),Drama,2017
-55333,187097,The Chase (2017),Thriller,2017
-55336,187107,Eye on Juliet (2017),(no genres listed),2017
-55339,187113,Troy the Odyssey (2017),Action|Adventure,2017
-55345,187127,David Lynch: The Art Life (2017),Documentary,2017
-55351,187139,The Teacher (2017),Comedy|Drama,2017
-55362,187161,Patient (2017),(no genres listed),2017
-55367,187171,The Swindlers (2017),Crime|Drama,2017
-55373,187185,Confessions of a Teenage Jesus Jerk (2017),Comedy|Drama|Romance,2017
-55374,187187,This is Bob Hope... (2017),Comedy|Documentary,2017
-55377,187193,Infiltration (2017),Drama|Thriller,2017
-55379,187197,Hitler's Hollywood (2017),Documentary,2017
-55385,187209,Swingers (2017),(no genres listed),2017
-55389,187217,Bad Lucky Goat (2017),Comedy|Drama,2017
-55393,187225,And Then I Go (2017),Drama,2017
-55434,187315,Rusty Boys (2017),Comedy|Drama,2017
-55435,187317,Silent Night (2017),Comedy|Drama,2017
-55436,187319,"Ram Dass, Going Home (2017)",Documentary,2017
-55507,187463,Stephanie (2017),Drama|Fantasy|Horror|Mystery,2017
-55509,187467,Tremble All You Want (2017),Comedy|Romance,2017
-55510,187469,Smaller and Smaller Circles (2017),Crime,2017
-55512,187473,Love Education (2017),Drama,2017
-55514,187477,Night Bus (2017),Drama|Thriller,2017
-55515,187479,Steel Rain (2017),Action|Drama,2017
-55526,187507,The Problem with Apu (2017),Documentary,2017
-55528,187511,The Delinquent Season (2017),Drama,2017
-55530,187515,Corporate (2017),Drama,2017
-55531,187517,Michelle Wolf: Nice Lady (2017),Comedy,2017
-55546,187547,Take Every Wave: The Life of Laird Hamilton (2017),Documentary,2017
-55547,187549,Wonderful Losers: A Different World (2017),(no genres listed),2017
-55553,187561,Of Fathers and Sons (2017),Documentary,2017
-55566,187587,High Society (2017),Comedy,2017
-55574,187603,Light Up! (2017),Drama,2017
-55585,187627,Auditorium 6 (2017),Comedy|Horror,2017
-55589,187643,Juarez 2045 (2017),Action|Adventure|Sci-Fi,2017
-55592,187651,3 Hours till Dead (2017),Horror,2017
-55597,187661,Daddy (2017),Crime|Drama,2017
-55602,187671,Dead Lucky (2017),Comedy|Horror,2017
-55687,187857,Vivegam (2017),Action|Crime|Thriller,2017
-55691,187865,My Son (2017),Drama|Thriller,2017
-55692,187867,Jailbreak (2017),Action,2017
-55729,187941,"Roxanne, Roxanne (2017)",Drama,2017
-55740,187963,Altered Perception (2017),Fantasy|Mystery|Sci-Fi,2017
-55766,188017,The Maus (2017),Drama|Fantasy|Horror,2017
-55768,188021,You Choose! (2017),Comedy|Romance,2017
-55769,188023,Garde alternée (2017),Comedy,2017
-55791,188067,Toc Toc (2017),Comedy,2017
-55832,188149,Abracadabra (2017),Comedy,2017
-55849,188185,No Man's Land (2017),Documentary,2017
-55853,188193,That's Not Me (2017),Comedy,2017
-55862,188211,Boom for Real: The Late Teenage Years of Jean-Michel Basquiat (2017),Documentary,2017
-55864,188215,Filmworker (2017),Documentary,2017
-55867,188221,Bigger Fatter Liar (2017),Adventure|Children|Comedy,2017
-55872,188231,Cut Shoot Kill (2017),Action|Horror|Thriller,2017
-55873,188233,Emma (2017),Drama|Romance,2017
-55892,188273,Fits and Starts (2017),Comedy,2017
-55925,188339,The Magic Pill (2017),Documentary,2017
-55947,188383,Time Trap (2017),Action|Adventure|Sci-Fi,2017
-55960,188411,George Michael: Freedom (2017),Documentary,2017
-55963,188417,7333 seconds of Johanna (2017),Drama,2017
-55966,188427,Husband & Wife (2017),Comedy,2017
-55985,188491,Desolation (2017),Horror,2017
-55992,188505,The 12th Man (2017),Drama|War,2017
-55998,188519,ManHunt (2017),Action,2017
-55999,188521,Vento di soave (2017),Documentary,2017
-56001,188525,Luk'Luk'I (2017),Drama,2017
-56002,188527,The Little Girl Who Was Too Fond of Matches (2017),Drama|Horror,2017
-56003,188529,Unarmed Verses (2017),Documentary,2017
-56009,188541,Cargo (2017),Drama|Horror,2017
-56015,188553,Mersal (2017),Action|Drama|Thriller,2017
-56017,188557,Meesaya Murukku (2017),Comedy|Drama|Romance,2017
-56029,188583,The Strange Name Movie (2017),Documentary,2017
-56039,188605,The Sower (2017),Drama,2017
-56040,188607,The Green Fog (2017),Mystery,2017
-56046,188619,Denmark (2017),Drama,2017
-56055,188641,Pilgrimage (2017),Action|Adventure|Drama,2017
-56057,188645,Exorcism (2017),Horror,2017
-56065,188663,Itzhak (2017),Documentary,2017
-56093,188747,The Adventure Club (2017),Children,2017
-56098,188759,Vishwa Vikhyatharaya Payyanma (2017),Comedy,2017
-56110,188783,Lazer Team 2 (2017),Action|Adventure|Comedy|Sci-Fi,2017
-56136,188835,A Demon Within (2017),Horror,2017
-56137,188837,Inside (2017),Horror|Thriller,2017
-56146,188855,Orchestra Class (2017),Comedy|Drama,2017
-56148,188859,Hagazussa (2017),Horror,2017
-56156,188877,Us and Them (2017),Crime|Drama|Thriller,2017
-56158,188881,Habit (2017),Horror,2017
-56178,188923,49 Pulses (2017),(no genres listed),2017
-56185,188939,Waru (2017),Drama,2017
-56189,188947,The Debutantes (2017),Horror,2017
-56193,188957,Kurara: The Dazzling Life of Hokusai's Daughter (2017),Drama,2017
-56209,189019,The Rape of Recy Taylor (2017),Documentary,2017
-56210,189021,Vampire Cleanup Department (2017),Action|Comedy|Horror,2017
-56213,189027,Louis Theroux: Talking to Anorexia (2017),Documentary,2017
-56217,189035,Beauty Mark (2017),Drama,2017
-56219,189039,Hunting Emma (2017),Action|Thriller,2017
-56224,189049,Adventures In Public School (2017),Comedy,2017
-56226,189055,Pound for Pound (2017),Drama,2017
-56230,189063,Brad Paisley's Comedy Rodeo (2017),Comedy,2017
-56246,189097,The Misandrists (2017),Drama,2017
-56248,189101,The Desert Bride (2017),Drama,2017
-56249,189103,The Guardians (2017),Drama,2017
-56251,189107,Anything (2017),Drama|Romance,2017
-56258,189121,Ramen Heads (2017),Documentary,2017
-56259,189123,Maineland (2017),Documentary,2017
-56263,189133,After Louie (2017),Drama|Romance,2017
-56279,189169,Ugly Nasty People (2017),Comedy,2017
-56283,189177,Recep İvedik 5 (2017),Comedy,2017
-56289,189189,Wait for Your Laugh (2017),Documentary,2017
-56299,189209,The Guest House (2017),Thriller,2017
-56301,189213,DJ: Duvvada Jagannadham (2017),Action|Comedy,2017
-56302,189215,Finding Momo (2017),Comedy,2017
-56305,189221,The Toymaker (2017),Horror,2017
-56307,189225,Love And Other Cults (2017),Comedy|Drama,2017
-56359,189353,Apache Warrior (2017),Documentary,2017
-56371,189377,Pappa pia (2017),Comedy|Romance,2017
-56383,189403,Tulipani (2017),Comedy|Drama,2017
-56410,189461,Midnight Runners (2017),Action|Comedy,2017
-56419,189479,The Swan Princess: Royally Undercover (2017),Animation|Children,2017
-56427,189497,Reset (2017),Action|Sci-Fi,2017
-56437,189525,The Carter Effect (2017),Documentary,2017
-56444,189539,Demi Lovato: Simply Complicated (2017),Documentary,2017
-56456,189565,Birds Without Names (2017),Drama|Mystery,2017
-56470,189595,Alternative Math (2017),Comedy,2017
-56490,189643,The Cakemaker (2017),Drama,2017
-56498,189667,Ayla: The Daughter of War (2017),Drama|War,2017
-56509,189697,Twenty Twenty-Four (2017),Drama|Mystery|Thriller,2017
-56512,189703,Four Christmases and a Wedding (2017),(no genres listed),2017
-56522,189725,Lek and the Dogs (2017),(no genres listed),2017
-56524,189743,Radiance (2017),Drama|Romance,2017
-56536,189769,Money (2017),Thriller,2017
-56538,189775,Kissing Candice (2017),Drama|Thriller,2017
-56547,189797,Everyone's Life (2017),Comedy|Romance,2017
-56558,189823,Hailey Dean Mystery: Dating is Murder (2017),Mystery,2017
-56578,189865,A Murder in Mansfield (2017),Documentary,2017
-56587,189883,Nibunan (2017),Action|Crime|Thriller,2017
-56592,189893,Terrifier (2017),Horror|Thriller,2017
-56610,189941,Camp Cool Kids (2017),Children,2017
-56613,189955,Da Hu Fa (2017),Action|Animation|Drama,2017
-56622,190007,The Village of No Return (2017),Comedy,2017
-56624,190011,Legend of the Naga Pearls (2017),Adventure|Comedy|Fantasy|Romance,2017
-56628,190021,Cardinals (2017),Crime|Drama|Thriller,2017
-56641,190051,Favola (2017),Comedy,2017
-56666,190133,Stranger Fruit (2017),Documentary,2017
-56667,190135,Catching Feelings (2017),Comedy|Drama|Romance,2017
-56669,190139,Nobody's Watching (2017),(no genres listed),2017
-56672,190157,Wrath of Silence (2017),Crime|Thriller,2017
-56681,190175,Hannah (2017),Drama,2017
-56684,190181,24 Frames (2017),(no genres listed),2017
-56687,190187,The Graduation (2017),Documentary,2017
-56693,190201,Busjack Returns (2017),Comedy,2017
-56694,190203,Kaleidoscope (2017),Thriller,2017
-56697,190209,Jeff Ross Roasts the Border (2017),Comedy,2017
-56700,190215,Liquid Truth (2017),Drama,2017
-56712,190245,Loue-moi ! (2017),Comedy,2017
-56713,190247,"Sex, Pity and Loneliness (2017)",Comedy|Drama,2017
-56734,190299,"I'm Drunk, I Love You (2017)",Romance,2017
-56741,190313,The Scourge (2017),(no genres listed),2017
-56742,190315,Las olas (2017),(no genres listed),2017
-56743,190317,Praça Paris (2017),Drama|Thriller,2017
-56745,190327,In Times of Fading Light (2017),Comedy|Drama,2017
-56748,190335,Diane Has the Right Shape (2017),Comedy,2017
-56752,190347,Foam Party! (2017),Comedy|Romance,2017
-56755,190353,Tarak (2017),Action|Romance,2017
-56758,190359,Dim the Fluorescents (2017),Comedy|Drama|Romance,2017
-56773,190391,Axolotl Overkill (2017),Drama,2017
-56800,190487,Napalm (2017),Documentary,2017
-56805,190499,Buy Me (2017),Drama,2017
-56817,190529,This is Congo (2017),Documentary|War,2017
-56826,190547,The Wicked Gift (2017),Horror|Thriller,2017
-56835,190569,Paths (2017),Drama,2017
-56836,190571,Sunday Morning (2017),Children|Drama|Thriller,2017
-56859,190619,Mindhack: #savetheworld (2017),Sci-Fi,2017
-56870,190647,Future '38 (2017),Comedy|Romance|Sci-Fi,2017
-56872,190651,Under the Tree (2017),Drama,2017
-56875,190657,Velaiilla Pattadhari 2 (2017),Action|Comedy|Romance,2017
-56877,190695,Sleepwalking in Suburbia (2017),Drama,2017
-56882,190705,Ryuichi Sakamoto: CODA (2017),(no genres listed),2017
-56905,190761,Gurgaon (2017),Crime|Thriller,2017
-56919,190805,How to Train Your Husband or (How to Pick Your Second Husband First) (2017),Comedy,2017
-56929,190833,Lola Pater (2017),Comedy,2017
-56930,190835,The Miniaturist (2017),Drama,2017
-56936,190853,Icaros: A Vision (2017),Drama,2017
-56942,190865,Addio fottuti musi verdi (2017),Comedy,2017
-56953,190887,The Perfect Bride (2017),Romance,2017
-56978,190941,A Crooked Somebody (2017),(no genres listed),2017
-56987,190959,A Midsummer Night's Dream (2017),Comedy,2017
-56991,190967,We Are Thr3e (2017),(no genres listed),2017
-56994,190973,Hidden Reserves (2017),Drama|Sci-Fi,2017
-56995,190975,Chi m'ha visto (2017),Comedy,2017
-57005,191005,Gintama (2017),Action|Adventure|Comedy|Sci-Fi,2017
-57031,191139,Mad to Be Normal (2017),Drama,2017
-57041,191177,C'est tout pour moi! (2017),Comedy,2017
-57042,191179,Maryline (2017),Drama,2017
-57056,191207,The Heart of Man (2017),(no genres listed),2017
-57060,191217,Magellan (2017),Mystery|Sci-Fi|Thriller,2017
-57073,191243,The Archer (2017),Action,2017
-57081,191263,Carne Y Arena (2017),(no genres listed),2017
-57083,191267,The Chinese Exclusion Act (2017),Documentary,2017
-57087,191277,Ruin Me (2017),Horror|Thriller,2017
-57088,191279,G-Funk (2017),Documentary,2017
-57090,191283,Disgraced (2017),Documentary,2017
-57108,191321,Skybound (2017),Action|Thriller,2017
-57152,191415,The Mimic (2017),Horror|Thriller,2017
-57156,191423,The Punk Voyage (2017),Documentary,2017
-57159,191429,Arcadia (2017),(no genres listed),2017
-57174,191465,Black Cop (2017),Drama,2017
-57194,191513,American Jihad (2017),Documentary,2017
-57202,191635,Pretty Little Dead Girl (2017),Mystery|Thriller,2017
-57208,191651,Red Istanbul (2017),Drama|Romance,2017
-57209,191653,The Envelope (2017),Horror|Thriller,2017
-57214,191663,Apostasy (2017),Drama,2017
-57217,191669,The Ice Cream Truck (2017),Comedy|Horror|Thriller,2017
-57241,191719,Mercy Christmas (2017),Action|Comedy|Horror,2017
-57243,191723,The Day After (2017),Drama|Romance,2017
-57244,191725,Makala (2017),Documentary|Drama,2017
-57248,191733,Le passé devant nous (2017),Drama,2017
-57260,191757,A Hustler's Diary (2017),(no genres listed),2017
-57299,191853,The Receptionist (2017),Drama,2017
-57305,191867,Let There Be Light (2017),Documentary,2017
-57308,191873,The Outlaws (2017),Action|Crime,2017
-57320,191911,The Mansion (2017),Comedy|Horror,2017
-57344,191967,Reinventing Marvin (2017),Drama,2017
-57365,192015,Wormwood (2017),Documentary,2017
-57406,192103,Broken Darkness (2017),Action|Drama|Sci-Fi|Thriller,2017
-57418,192127,Aurora Borealis - Northern Light (2017),Drama,2017
-57462,192239,Ernesto (2017),Drama,2017
-57469,192257,Destiny: The Tale of Kamakura (2017),Drama|Mystery,2017
-57475,192273,Grace Jones: Bloodlight and Bami (2017),Documentary,2017
-57478,192279,Chavela (2017),Documentary,2017
-57484,192291,Rift (2017),Drama|Horror|Mystery,2017
-57492,192309,Sivalinga (2017),Horror|Thriller,2017
-57506,192345,While We Live (2017),Drama,2017
-57530,192427,Beside Bowie: The Mick Ronson Story (2017),Documentary,2017
-57531,192429,Nails (2017),Horror,2017
-57551,192479,Avicii: True Stories (2017),Documentary,2017
-57557,192493,The Mountains of Mourne (2017),Drama,2017
-57560,192499,Hydrangea (2017),Drama,2017
-57561,192501,"It’s All Right, It’s Ok (2017)",Drama,2017
-57569,192517,Mostly Sunny (2017),Documentary,2017
-57619,192677,The Last Scout (2017),Sci-Fi,2017
-57650,192759,The Capture (2017),Sci-Fi,2017
-57654,192767,Vazante (2017),Drama,2017
-57658,192775,Dark Web (2017),Horror,2017
-57664,192791,Replace (2017),Horror|Sci-Fi|Thriller,2017
-57690,192865,Meteors (2017),Drama|Mystery|Sci-Fi,2017
-57699,192889,Liberated: The New Sexual Revolution (2017),Documentary,2017
-57715,192927,The Last Suit (2017),Drama,2017
-57716,192929,A Touch of Spring (2017),Drama,2017
-57726,192963,FTL (2017),Drama|Sci-Fi,2017
-57736,192985,Roof Culture Asia (2017),Documentary,2017
-57737,192987,Storm - Letter of Fire (2017),Adventure|Children,2017
-57757,193033,"No Pussy, No Groupie (2017)",Comedy|Drama,2017
-57760,193041,One Cut of the Dead (2017),Comedy|Horror,2017
-57764,193063,Ana & Bruno (2017),(no genres listed),2017
-57773,193109,Ach śpij kochanie (2017),Crime|Thriller,2017
-57777,193119,Perfect Bid: The Contestant Who Knew Too Much (2017),Documentary,2017
-57810,193209,Questione di karma (2017),Comedy,2017
-57812,193215,The Honor Farm (2017),Thriller,2017
-57815,193221,Trench 11 (2017),Thriller|War,2017
-57925,193497,So auf Erden (2017),Drama,2017
-57930,193507,Where's The Money? (2017),Comedy,2017
-57937,193521,Santa & Cie (2017),Comedy,2017
-57948,193545,Primas (2017),(no genres listed),2017
-57952,193557,Love Pret-a-porte (2017),Comedy|Romance,2017
-57953,193559,Cargo (2017),Drama,2017
-57963,193581,Black Butler: Book of the Atlantic (2017),Action|Animation|Comedy|Fantasy,2017
-57964,193583,No Game No Life: Zero (2017),Animation|Comedy|Fantasy,2017
-57965,193585,Flint (2017),Drama,2017
-57982,193631,"Hochelaga, Terra das Almas (2017)",Adventure|Drama,2017
-57989,193649,PSV Garuda Vega (2017),Action|Comedy|Thriller,2017
-58002,193675,The Big Call (2017),Action|Thriller,2017
-58005,193683,Alien Code (2017),Mystery|Sci-Fi|Thriller,2017
-58017,193719,The Mistletoe Inn (2017),Drama|Romance,2017
-58019,193723,Vorwärts immer! (2017),Comedy,2017
-58022,193729,A Single Rider (2017),Drama|Mystery,2017
-58024,193733,Homecoming (2017),Children|Drama,2017
-58025,193735,Rattrapage (2017),Comedy,2017
-58026,193737,iGirlfriend (2017),Comedy,2017
-58036,193757,Francis Bacon: A Brush with Violence (2017),Documentary,2017
-58037,193759,Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe (2017),Documentary,2017
-58057,193801,Lupin the Third: The Blood Spray of Goemon Ishikawa (2017),Action|Animation|Crime,2017
-58059,193805,95 (2017),Comedy|Drama,2017
-58076,193841,The Precipice Game (2017),Horror,2017
-58081,193853,Wu Kong (2017),Action|Adventure|Fantasy,2017
-58086,193863,Cocaine Godmother (2017),Documentary|Drama,2017
-58096,193882,Flora (2017),Adventure|Drama|Horror|Sci-Fi,2017
+movieId,count,title,genres,year,rating
+122896,1370,Pirates of the Caribbean: Dead Men Tell No Tales (2017),(no genres listed),2017,3.2536496350364965
+122898,922,Justice League (2017),Action|Adventure|Sci-Fi,2017,2.9522776572668112
+122906,1853,Black Panther (2017),Action|Adventure|Sci-Fi,2017,3.6840259039395575
+122916,3410,Thor: Ragnarok (2017),Action|Adventure|Sci-Fi,2017,3.8501466275659824
+122918,4942,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,2017,3.8598745447187373
+122926,2662,Untitled Spider-Man Reboot (2017),Action|Adventure|Fantasy,2017,3.767468069120962
+135139,15,Allegiant: Part 2 (2017),Adventure|Romance|Sci-Fi,2017,2.8666666666666667
+135446,16,Avatar 3 (2017),Action|Adventure|Fantasy|Sci-Fi,2017,2.9375
+143349,13,Sky Sharks (2017),Comedy|Horror,2017,1.8461538461538463
+143351,44,The Fantastic Four 2 (2017),(no genres listed),2017,1.4659090909090908
+143353,30,The Croods 2 (2017),Adventure|Animation|Children|Comedy|Fantasy,2017,3.216666666666667
+143355,3064,Wonder Woman (2017),Action|Adventure|Fantasy,2017,3.6374020887728458
+143357,16,Independence Day 3 (2017),(no genres listed),2017,3.8125
+143387,207,Pitch Perfect 3 (2017),(no genres listed),2017,2.9468599033816427
+166532,144,Live by Night (2017),Crime|Drama,2017,3.079861111111111
+166534,1976,Split (2017),Drama|Horror|Thriller,2017,3.596406882591093
+167064,136,I Am Not Your Negro (2017),Documentary,2017,3.7904411764705883
+167380,272,A Dog's Purpose (2017),Comedy|Drama,2017,3.6544117647058822
+167564,103,The Little Hours (2017),Comedy,2017,2.8592233009708736
+167634,155,Fist Fight (2017),Comedy,2017,2.8451612903225807
+167638,74,Sleepless (2017),Action|Thriller,2017,2.810810810810811
+167640,411,A Cure for Wellness (2017),Drama|Horror|Mystery|Thriller,2017,3.201946472019465
+167700,19,The Snow Queen 3 (2017),Animation,2017,2.289473684210526
+167738,377,xXx: Return of Xander Cage (2017),Action|Adventure|Crime|Thriller,2017,2.7997347480106103
+167740,68,The Bye Bye Man (2017),Horror|Thriller,2017,2.0294117647058822
+167746,949,The Lego Batman Movie (2017),Action|Animation|Comedy,2017,3.5811380400421498
+167842,38,Death Race 2050 (2017),Action|Comedy|Sci-Fi,2017,2.3157894736842106
+167856,27,Bright Lights: Starring Carrie Fisher and Debbie Reynolds (2017),Documentary,2017,3.611111111111111
+167858,26,Trespass Against Us (2017),Action|Crime|Drama|Thriller,2017,2.75
+167980,23,Coin Heist (2017),Crime|Drama,2017,2.347826086956522
+168060,113,Rings (2017),Horror,2017,2.3805309734513274
+168122,307,Raw (2017),Drama,2017,3.550488599348534
+168126,29,Clinical (2017),Thriller,2017,2.6379310344827585
+168174,38,Jim Gaffigan: Cinco (2017),Comedy,2017,3.263157894736842
+168240,13,Afterimage (2017),Drama,2017,2.8461538461538463
+168248,1947,John Wick: Chapter Two (2017),Action|Crime|Thriller,2017,3.6879815100154083
+168250,3871,Get Out (2017),Horror,2017,3.9515629036424698
+168252,5209,Logan (2017),Action|Sci-Fi,2017,3.898924937607986
+168254,1080,Kong: Skull Island (2017),Action|Adventure|Fantasy,2017,3.2050925925925924
+168266,585,T2: Trainspotting (2017),Crime|Drama,2017,3.5863247863247865
+168274,15,Patient Zero (2017),Action|Drama|Horror|Thriller,2017,2.3
+168286,159,Before I Fall (2017),Drama,2017,3.2264150943396226
+168288,158,The Belko Experiment (2017),Action|Horror|Thriller,2017,3.0949367088607596
+168326,1136,The Big Sick (2017),Comedy|Romance,2017,3.8151408450704225
+168328,179,Ingrid Goes West (2017),Comedy|Drama,2017,3.2039106145251397
+168330,319,I Don't Feel at Home in This World Anymore (2017),Crime|Drama,2017,3.523510971786834
+168344,651,King Arthur: Legend of the Sword (2017),Action|Adventure|Drama|Fantasy,2017,3.334101382488479
+168366,1442,Beauty and the Beast (2017),Fantasy|Romance,2017,3.5332871012482663
+168370,17,Take the L (2017),Comedy,2017,2.823529411764706
+168418,598,The Boss Baby (2017),Animation|Children|Comedy,2017,3.1187290969899664
+168420,110,Justice League Dark (2017),Action|Animation|Fantasy|Horror,2017,3.2454545454545456
+168492,920,Call Me by Your Name (2017),Drama|Romance,2017,3.8239130434782607
+168498,370,Resident Evil: The Final Chapter (2017),Action|Horror|Sci-Fi,2017,2.848648648648649
+168554,133,iBoy (2017),Action|Crime|Sci-Fi|Thriller,2017,2.9586466165413534
+168608,177,Mudbound (2017),Drama,2017,3.6497175141242937
+168610,271,A Ghost Story (2017),Drama,2017,3.5867158671586714
+168612,1378,Ghost in the Shell (2017),Action|Drama|Sci-Fi,2017,3.234034833091437
+168626,16,Pork Pie (2017),Action|Comedy,2017,3.375
+168632,67,Bill Burr: Walk Your Way Out (2017),Comedy,2017,3.470149253731343
+168650,62,XX (2017),Horror,2017,2.629032258064516
+168712,383,Fifty Shades Darker (2017),Drama|Romance,2017,2.450391644908616
+168714,67,Wilson (2017),Comedy,2017,2.6940298507462686
+168722,61,Attraction (2017),Sci-Fi,2017,2.8688524590163933
+168738,30,Don't Knock Twice (2017),Horror,2017,2.8333333333333335
+168774,15,Detour (2017),Thriller,2017,3.466666666666667
+168778,15,The Book of Love (2017),Drama,2017,3.066666666666667
+168806,73,The Other Side Of Hope (2017),(no genres listed),2017,3.6575342465753424
+168832,13,The Man Who Was Too Free (2017),(no genres listed),2017,2.4615384615384617
+168838,19,Nieve negra (2017),Thriller,2017,3.236842105263158
+168846,29,Neal Brennan: 3 Mics (2017),Comedy,2017,3.706896551724138
+168862,29,"Michael Bolton's Big, Sexy Valentine's Day Special (2017)",Comedy,2017,3.0
+168996,23,Smetto quando voglio: Masterclass (2017),Comedy,2017,3.369565217391304
+169028,65,Berlin Syndrome (2017),Drama|Thriller,2017,3.0153846153846153
+169164,81,Song to Song (2017),Drama,2017,3.253086419753086
+169166,128,To the Bone (2017),Drama,2017,3.6328125
+169168,22,Girlfriend's Day (2017),Comedy|Drama,2017,2.3636363636363638
+169172,13,Have a Nice Day (2017),(no genres listed),2017,3.1923076923076925
+169180,22,American Fable (2017),Thriller,2017,2.6136363636363638
+169188,15,Katherine Ryan: In Trouble (2017),Comedy,2017,3.3333333333333335
+169198,13,Almost Adults (2017),Comedy|Drama|Romance,2017,2.8846153846153846
+169204,18,Mein Blind Date mit dem Leben (2017),Comedy,2017,3.8333333333333335
+169216,13,Spoor (2017),Drama,2017,2.6923076923076925
+169218,67,God's Own Country (2017),Drama|Romance,2017,3.783582089552239
+169220,56,A Fantastic Woman (2017),Drama,2017,3.5
+169244,15,Hostages (2017),(no genres listed),2017,2.8666666666666667
+169256,23,Lovesong (2017),Drama,2017,2.9347826086956523
+169264,18,Jen Kirkman: Just Keep Livin’? (2017),Comedy,2017,3.5833333333333335
+169288,25,Major Grom (2017),Action|Adventure|Drama|Sci-Fi,2017,3.24
+169294,26,Becoming Warren Buffett (2017),Documentary,2017,3.8653846153846154
+169390,18,RAID Dingue (2017),Comedy,2017,3.111111111111111
+169478,11,Fair Haven (2017),Children|Drama,2017,2.6818181818181817
+169488,31,Oklahoma City (2017),Documentary,2017,3.8225806451612905
+169654,28,Don't Hang Up (2017),Horror|Thriller,2017,2.6785714285714284
+169666,19,Mean Dreams (2017),Thriller,2017,3.1052631578947367
+169692,19,Tom of Finland (2017),Drama,2017,3.6842105263157894
+169756,79,Their Finest (2017),Comedy|Drama|Romance|War,2017,3.4683544303797467
+169758,14,The Ottoman Lieutenant (2017),Drama|Romance|War,2017,2.7857142857142856
+169760,76,Lady Macbeth (2017),Drama,2017,3.3223684210526314
+169762,22,The Sense of an Ending (2017),Drama,2017,3.1818181818181817
+169800,16,The Institute (2017),Horror|Thriller,2017,2.21875
+169842,70,The Shack (2017),Drama|Fantasy,2017,3.092857142857143
+169864,1026,Life (2017),Horror|Sci-Fi|Thriller,2017,3.23635477582846
+169880,16,Don't Kill It (2017),Fantasy|Horror,2017,3.03125
+169900,274,The Lost City of Z (2017),Action|Adventure|Drama,2017,3.1204379562043796
+169902,35,Sleight (2017),Action|Drama|Sci-Fi|Thriller,2017,2.857142857142857
+169958,34,Buster's Mal Heart (2017),Drama|Mystery,2017,2.9558823529411766
+169982,431,Power Rangers (2017),Action|Adventure|Sci-Fi,2017,2.7482598607888633
+169984,1242,Alien: Covenant (2017),Action|Horror|Sci-Fi|Thriller,2017,3.095410628019324
+169992,220,Free Fire (2017),Action|Crime|Drama,2017,3.0454545454545454
+170024,51,Casting JonBenet (2017),Documentary,2017,2.892156862745098
+170026,15,Django (2017),Drama,2017,3.3
+170046,59,Amy Schumer: The Leather Special (2017),Comedy,2017,1.805084745762712
+170151,55,The Party (2017),Comedy,2017,3.081818181818182
+170153,44,The Dinner (2017),Drama|Mystery|Thriller,2017,2.340909090909091
+170155,16,Wild Mouse (2017),Comedy|Crime|Drama,2017,3.46875
+170201,16,Jim Norton: Mouthful of Shame (2017),Comedy,2017,3.5625
+170235,16,The Invisible Guardian (2017),Crime|Thriller,2017,3.46875
+170241,22,Born in China (2017),Documentary|Drama,2017,3.1818181818181817
+170253,21,Gemini (2017),Thriller,2017,2.5
+170263,38,Trevor Noah: Afraid of the Dark (2017),Comedy,2017,3.526315789473684
+170317,19,Lost in Paris (2017),(no genres listed),2017,3.263157894736842
+170357,228,Dave Chappelle: The Age of Spin (2017),Comedy,2017,3.7565789473684212
+170393,34,The Last Word (2017),Comedy,2017,3.485294117647059
+170399,146,CHiPS (2017),Action|Comedy|Drama,2017,3.0205479452054793
+170401,118,Table 19 (2017),Comedy|Drama,2017,2.9957627118644066
+170403,370,Going in Style (2017),Comedy,2017,3.377027027027027
+170405,53,Bokeh (2017),Drama|Sci-Fi,2017,2.688679245283019
+170407,27,Alibi.com (2017),Comedy,2017,3.388888888888889
+170411,84,Dave Chappelle: Deep in the Heart of Texas (2017),Comedy,2017,3.6785714285714284
+170423,23,All Nighter (2017),Comedy,2017,3.0
+170425,19,Monsieur & Madame Adelman (2017),Comedy|Drama,2017,3.8421052631578947
+170477,22,Atomica (2017),Sci-Fi|Thriller,2017,2.590909090909091
+170481,25,The Most Hated Woman in America (2017),Crime|Drama,2017,2.9
+170489,30,Sidney Hall (2017),Drama,2017,2.816666666666667
+170537,13,Vengeance: A Love Story (2017),Thriller,2017,2.8461538461538463
+170555,54,The Bar (2017),Comedy|Thriller,2017,3.462962962962963
+170627,58,Smurfs: The Lost Village (2017),Adventure|Animation|Children|Comedy,2017,2.956896551724138
+170629,220,The Discovery (2017),Drama|Romance|Sci-Fi,2017,3.234090909090909
+170637,14,Viceroy's House (2017),Drama,2017,3.4642857142857144
+170645,131,The Zookeeper's Wife (2017),Drama,2017,3.8244274809160306
+170697,1000,Gifted (2017),Drama,2017,3.886
+170709,69,Teen Titans: The Judas Contract (2017),Action|Animation|Sci-Fi,2017,3.13768115942029
+170729,228,Louis C.K. 2017 (2017),Comedy,2017,3.567982456140351
+170751,56,Aftermath (2017),Drama|Thriller,2017,2.7142857142857144
+170781,33,The Case for Christ (2017),Drama,2017,3.1666666666666665
+170787,70,"Everything, Everything (2017)",Drama|Romance,2017,3.0285714285714285
+170789,22,Diary of a Wimpy Kid: The Long Haul (2017),Children|Comedy,2017,2.590909090909091
+170809,58,The Spacewalker (2017),Drama,2017,3.706896551724138
+170813,464,Baywatch (2017),Action|Comedy,2017,2.836206896551724
+170815,35,Unforgettable (2017),Thriller,2017,2.742857142857143
+170817,119,Snatched (2017),Action|Comedy,2017,2.5294117647058822
+170827,620,The Mummy (2017),Action|Adventure|Fantasy|Horror|Thriller,2017,2.649193548387097
+170835,25,From a House on Willow Street (2017),Horror,2017,2.46
+170875,732,The Fate of the Furious (2017),Action|Crime|Drama|Thriller,2017,3.203551912568306
+170881,16,After Porn Ends 2 (2017),Documentary,2017,3.09375
+170897,56,Sandy Wexler (2017),Comedy,2017,2.5714285714285716
+170901,17,Extortion (2017),Adventure|Crime|Drama,2017,3.3823529411764706
+170917,16,The Transfiguration (2017),Drama|Horror,2017,3.09375
+170937,31,Win It All (2017),Comedy,2017,2.9838709677419355
+170939,102,Captain Underpants: The First Epic Movie (2017),Action|Animation|Children|Comedy,2017,2.9607843137254903
+170943,34,Band Aid (2017),(no genres listed),2017,3.411764705882353
+170945,373,It Comes at Night (2017),Horror|Mystery|Thriller,2017,3.2319034852546915
+170947,71,Megan Leavey (2017),Adventure|Drama|War,2017,3.647887323943662
+170949,57,My Cousin Rachel (2017),Drama|Romance,2017,2.8596491228070176
+170957,292,Cars 3 (2017),Adventure|Animation|Comedy,2017,3.1284246575342465
+170959,51,Maudie (2017),Drama|Romance,2017,3.4901960784313726
+170961,50,Resident Evil: Vendetta (2017),Animation|Horror,2017,2.73
+171007,69,The Book of Henry (2017),Drama,2017,3.028985507246377
+171023,37,The Hero (2017),Drama,2017,3.2837837837837838
+171049,58,The Wall (2017),Drama|Thriller,2017,3.0344827586206895
+171109,22,Phoenix Forgotten (2017),Horror|Mystery|Sci-Fi,2017,2.7045454545454546
+171111,16,Skins (2017),Comedy|Drama,2017,2.90625
+171113,30,The Immortal Life of Henrietta Lacks (2017),Drama,2017,3.466666666666667
+171207,65,Beyond Skyline (2017),Action|Sci-Fi,2017,2.623076923076923
+171227,42,How to Be a Latin Lover (2017),Comedy,2017,3.2976190476190474
+171233,52,The Trip to Spain (2017),Comedy|Drama,2017,3.1153846153846154
+171251,20,"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press (2017)",Documentary,2017,3.225
+171253,102,Brigsby Bear (2017),Comedy,2017,3.843137254901961
+171265,23,I Am Heath Ledger (2017),Documentary,2017,3.4347826086956523
+171315,63,Sand Castle (2017),Drama|War,2017,3.1507936507936507
+171439,77,A Dark Song (2017),Drama|Horror,2017,3.0324675324675323
+171443,27,"Have Fun, Vasya! (2017)",Comedy,2017,3.3518518518518516
+171491,65,Unlocked (2017),Action|Thriller,2017,3.2384615384615385
+171497,28,Voice from the Stone (2017),Drama|Mystery|Romance|Thriller,2017,2.607142857142857
+171501,30,Small Crimes (2017),Comedy|Crime|Thriller,2017,2.783333333333333
+171581,25,Flower (2017),(no genres listed),2017,2.84
+171583,61,Super Dark Times (2017),Drama|Thriller,2017,3.5163934426229506
+171601,11,Stratton (2017),Action|Thriller,2017,2.3181818181818183
+171609,22,The Lovers (2017),Comedy,2017,3.1363636363636362
+171611,52,Baahubali 2: The Conclusion (2017),Action|Adventure|War,2017,3.2596153846153846
+171689,35,Norman: The Moderate Rise and Tragic Fall of a New York Fixer (2017),Drama|Thriller,2017,3.142857142857143
+171757,27,Amityville: The Awakening (2017),Horror|Thriller,2017,2.3703703703703702
+171759,225,The Beguiled (2017),Drama|Thriller|Western,2017,3.151111111111111
+171763,2895,Baby Driver (2017),Action|Crime|Thriller,2017,3.8031088082901556
+171765,530,Okja (2017),Action|Adventure|Drama|Sci-Fi,2017,3.5462264150943397
+171867,182,Rough Night (2017),Comedy|Drama,2017,2.510989010989011
+171879,17,Hidden Kisses (2017),Drama,2017,3.264705882352941
+171881,60,Mindhorn (2017),Comedy,2017,2.9916666666666667
+171925,40,Hounds of Love (2017),Crime,2017,3.175
+171983,42,Patti Cake$ (2017),Drama,2017,3.1666666666666665
+172009,116,Loveless (2017),Drama,2017,3.6594827586206895
+172065,11,Handsome: A Netflix Mystery Movie (2017),Comedy,2017,2.8636363636363638
+172067,12,Batman & Bill (2017),Documentary,2017,3.5416666666666665
+172131,11,The Axe Murders of Villisca (2017),Horror,2017,2.4545454545454546
+172433,20,The Hunter's Prayer (2017),Action|Thriller,2017,2.625
+172455,46,Beatriz at Dinner (2017),Comedy,2017,3.152173913043478
+172461,43,Get Me Roger Stone (2017),Documentary,2017,3.5348837209302326
+172465,12,Bolshoi (2017),(no genres listed),2017,3.5
+172547,539,Despicable Me 3 (2017),Adventure|Animation|Children|Comedy,2017,3.079777365491651
+172601,11,The Levelling (2017),Drama,2017,3.1363636363636362
+172667,33,First They Killed My Father (2017),Drama,2017,3.772727272727273
+172699,28,Mommy Dead and Dearest (2017),Documentary,2017,3.7857142857142856
+172709,11,Dead Awake (2017),Horror|Thriller,2017,2.409090909090909
+172803,16,The Midwife (2017),Comedy|Drama,2017,3.4375
+172807,29,A Family Man (2017),Drama,2017,3.413793103448276
+172809,22,Paris Can Wait (2017),Romance,2017,3.0454545454545454
+172813,69,The Wizard of Lies (2017),Drama,2017,3.369565217391304
+173007,56,Blame! (2017),Action|Animation|Drama|Horror|Sci-Fi,2017,3.330357142857143
+173137,34,Kill Switch (2017),Sci-Fi,2017,2.4558823529411766
+173139,76,The Bad Batch (2017),Horror|Romance|Thriller,2017,2.8552631578947367
+173143,12,Maigrets Night at the Crossroads (2017),Crime|Mystery|Thriller,2017,3.5
+173145,1006,War for the Planet of the Apes (2017),Action|Adventure|Drama|Sci-Fi,2017,3.5357852882703775
+173161,82,Kidnap (2017),Drama|Thriller,2017,3.0853658536585367
+173197,317,The Square (2017),Drama,2017,3.6498422712933754
+173203,39,How to Talk to Girls at Parties (2017),Comedy|Romance|Sci-Fi,2017,3.076923076923077
+173205,184,The Meyerowitz Stories (2017),Comedy,2017,3.407608695652174
+173209,227,War Machine (2017),Comedy|Drama|War,2017,2.9405286343612334
+173255,26,"Norm Macdonald: Hitler's Dog, Gossip & Trickery (2017)",Comedy,2017,3.1538461538461537
+173273,59,Wakefield (2017),Drama,2017,3.2203389830508473
+173281,14,The Wedding Plan (2017),Comedy|Romance,2017,3.0357142857142856
+173283,27,Red Nose Day Actually (2017),Comedy|Romance,2017,3.1296296296296298
+173285,17,Whitney: Can I Be Me (2017),Documentary,2017,3.176470588235294
+173291,874,Valerian and the City of a Thousand Planets (2017),Action|Adventure|Sci-Fi,2017,3.188787185354691
+173315,11,Long Strange Trip (2017),Documentary,2017,4.136363636363637
+173369,241,You Were Never Really Here (2017),Drama,2017,3.5539419087136928
+173429,36,Hasan Minhaj: Homecoming King (2017),Comedy,2017,3.763888888888889
+173467,39,Sarah Silverman: A Speck of Dust (2017),Comedy,2017,3.5256410256410255
+173499,30,Black Butterfly (2017),Thriller,2017,3.4
+173731,18,Sweet Virginia (2017),(no genres listed),2017,3.1944444444444446
+173735,28,The Farthest (2017),Documentary,2017,4.053571428571429
+173817,26,Он вам не Димон (2017),Documentary|Mystery,2017,3.5384615384615383
+173823,29,Brain on Fire (2017),Drama,2017,3.5344827586206895
+173831,11,Lucid Dream (2017),Sci-Fi|Thriller,2017,2.9545454545454546
+173835,12,Drone (2017),Thriller,2017,3.0416666666666665
+173837,17,Dragonheart: Battle for the Heartfire (2017),Fantasy,2017,2.6470588235294117
+173847,23,Stasis (2017),Sci-Fi,2017,2.282608695652174
+173879,45,Shimmer Lake (2017),(no genres listed),2017,2.9555555555555557
+173925,439,Seven Sisters (2017),Sci-Fi|Thriller,2017,3.3940774487471526
+173933,14,The Son of Bigfoot (2017),Animation|Children,2017,2.7857142857142856
+173939,83,On Body and Soul (2017),Drama|Romance,2017,3.8674698795180724
+173941,835,Atomic Blonde (2017),Thriller,2017,3.2946107784431136
+174017,28,The Exception (2017),Drama,2017,3.7857142857142856
+174045,45,Goon: Last of the Enforcers (2017),Comedy,2017,2.8555555555555556
+174055,3318,Dunkirk (2017),Action|Drama|Thriller|War,2017,3.7991259795057264
+174181,47,The Keepers (2017),Crime|Documentary|Drama,2017,3.7127659574468086
+174371,56,Once Upon a Time in Venice (2017),Comedy,2017,2.4642857142857144
+174403,16,The Putin Interviews (2017),(no genres listed),2017,3.0
+174407,35,An Inconvenient Sequel (2017),Documentary,2017,3.0142857142857142
+174423,47,Rakka (2017),Action|Sci-Fi,2017,3.425531914893617
+174427,11,Savage Dog (2017),Action,2017,2.409090909090909
+174481,14,Strong Island (2017),Documentary,2017,3.4642857142857144
+174493,12,Cream (2017),Animation|Comedy|Horror|Sci-Fi,2017,2.875
+174503,43,Orbiter 9 (2017),Romance|Sci-Fi,2017,2.9186046511627906
+174527,11,Chasing Trane: The John Coltrane Documentary (2017),Documentary,2017,3.409090909090909
+174565,23,Abacus: Small Enough to Jail (2017),Documentary,2017,3.782608695652174
+174585,423,Transformers: The Last Knight (2017),Action|Adventure|Sci-Fi|Thriller,2017,2.358156028368794
+174645,30,Churchill (2017),Drama|Thriller|War,2017,3.1333333333333333
+174661,14,Tubelight (2017),Drama|War,2017,1.0714285714285714
+174665,14,Hampstead (2017),Comedy|Romance,2017,2.857142857142857
+174679,12,1 Night (2017),Drama|Romance,2017,3.375
+174681,34,"Oh, Hello: On Broadway (2017)",Comedy,2017,3.4705882352941178
+174711,32,You Get Me (2017),Drama|Romance|Thriller,2017,2.546875
+174727,342,Good Time (2017),Crime|Drama,2017,3.742690058479532
+174815,171,The House (2017),Comedy,2017,2.926900584795322
+174819,24,Five Came Back (2017),Documentary|War,2017,3.5625
+174831,13,Summer 1993 (2017),Children|Drama,2017,3.3076923076923075
+174859,37,120 Beats Per Minute (2017),(no genres listed),2017,3.472972972972973
+174887,12,Chuck (2017),Drama,2017,2.75
+174893,50,2:22 (2017),Drama|Thriller,2017,2.92
+174901,11,A Bag of Marbles (2017),Drama,2017,3.6363636363636362
+174909,648,Logan Lucky (2017),Comedy,2017,3.482253086419753
+174933,29,Firebase (2017),Sci-Fi|War,2017,3.913793103448276
+175141,17,City of Ghosts (2017),Documentary,2017,3.588235294117647
+175143,32,Chasing Coral (2017),Documentary,2017,4.03125
+175151,14,78/52 (2017),Documentary,2017,3.2857142857142856
+175165,38,What the Health (2017),Documentary,2017,3.236842105263158
+175187,29,Revolt (2017),Sci-Fi,2017,2.6724137931034484
+175191,12,Hickok (2017),(no genres listed),2017,1.4166666666666667
+175197,496,The Dark Tower (2017),Fantasy|Horror|Sci-Fi|Western,2017,2.7328629032258065
+175199,252,Annabelle: Creation (2017),Horror,2017,3.1746031746031744
+175233,17,Inconceivable (2017),Drama|Thriller,2017,3.0
+175243,44,Security (2017),Action,2017,2.875
+175253,16,Overdrive (2017),Action|Thriller,2017,3.03125
+175277,47,"Faces, Places (2017)",Documentary,2017,3.8085106382978724
+175281,59,Tour De Pharmacy (2017),Comedy,2017,3.152542372881356
+175303,1456,It (2017),Horror,2017,3.550480769230769
+175323,18,Dirty Dancing (2017),Drama|Romance,2017,1.8888888888888888
+175475,100,The Emoji Movie (2017),Animation|Children|Comedy,2017,1.755
+175485,370,Death Note (2017),Horror|Thriller,2017,2.2824324324324325
+175487,11,Bedeviled (2017),Horror|Thriller,2017,2.3636363636363638
+175505,22,The Saint (2017),Action|Adventure|Crime,2017,1.9545454545454546
+175531,23,The Hippopotamus (2017),Comedy,2017,3.5
+175569,1104,Wind River (2017),Action|Crime|Mystery|Thriller,2017,3.8278985507246377
+175579,23,The Nile Hilton Incident (2017),Drama|Thriller,2017,3.5217391304347827
+175585,323,Shot Caller (2017),Action|Crime|Drama|Thriller,2017,3.674922600619195
+175593,14,Mike Birbiglia: Thank God for Jokes (2017),Comedy,2017,3.6785714285714284
+175643,23,Zygote (2017),Horror|Sci-Fi,2017,3.6956521739130435
+175649,39,Wish Upon (2017),Fantasy|Horror|Thriller,2017,2.3205128205128207
+175655,141,Girls Trip (2017),Comedy,2017,2.9113475177304964
+175657,30,Landline (2017),Comedy,2017,3.2666666666666666
+175659,115,Detroit (2017),Crime|Drama|Thriller,2017,3.4304347826086956
+175661,839,The Hitman's Bodyguard (2017),Action|Comedy,2017,3.504171632896305
+175665,27,The Only Living Boy in New York (2017),Drama,2017,3.6666666666666665
+175667,60,Columbus (2017),Drama,2017,3.691666666666667
+175669,42,Tulip Fever (2017),Drama|Romance,2017,3.119047619047619
+175671,17,Birth of the Dragon (2017),Action,2017,3.2058823529411766
+175673,18,The Life and Death of John Gotti (2017),Crime|Drama,2017,1.8888888888888888
+175755,27,The Double Lover (2017),Thriller,2017,3.185185185185185
+175783,24,First Kill (2017),Action|Thriller,2017,2.375
+175791,16,LA 92 (2017),Documentary,2017,4.15625
+175795,52,Descendants 2 (2017),Action|Adventure|Children|Comedy,2017,3.0288461538461537
+175809,87,Jungle (2017),Action|Adventure|Drama,2017,3.4367816091954024
+175831,29,Lou (2017),Animation,2017,3.689655172413793
+176057,14,Take Me (2017),Comedy|Crime,2017,3.5714285714285716
+176073,30,The Incredible Jessica James (2017),Comedy|Romance,2017,3.3
+176075,19,The Defiant Ones (2017),Documentary,2017,3.9210526315789473
+176101,1285,Kingsman: The Golden Circle (2017),Action|Adventure|Comedy,2017,3.40272373540856
+176103,77,The LEGO Ninjago Movie (2017),Action|Animation|Comedy,2017,2.9155844155844157
+176105,125,Flatliners (2017),Drama|Horror|Sci-Fi,2017,2.732
+176173,25,Killing Ground (2017),Horror|Thriller,2017,3.52
+176211,98,In a Heartbeat (2017),Animation|Romance,2017,3.811224489795918
+176349,33,Bad Genius (2017),Thriller,2017,3.6666666666666665
+176351,28,The Vault (2017),(no genres listed),2017,2.5
+176355,153,The Mountain Between Us (2017),Action|Adventure|Drama,2017,3.0326797385620914
+176365,18,Below Her Mouth (2017),Drama|Romance,2017,4.027777777777778
+176371,4154,Blade Runner 2049 (2017),Sci-Fi,2017,3.8886615310544053
+176389,21,The Nut Job 2: Nutty by Nature (2017),Adventure|Animation|Children|Comedy,2017,2.5238095238095237
+176391,20,Sharknado 5: Global Swarming (2017),Sci-Fi,2017,1.6
+176419,759,Mother! (2017),Drama|Horror|Mystery|Thriller,2017,3.525691699604743
+176423,287,Icarus (2017),Documentary,2017,3.9721254355400695
+176487,44,Marjorie Prime (2017),Comedy|Drama|Mystery|Sci-Fi,2017,3.2386363636363638
+176521,46,The Layover (2017),Comedy,2017,2.597826086956522
+176523,65,Goodbye Christopher Robin (2017),Children,2017,3.6153846153846154
+176551,59,The Limehouse Golem (2017),Horror|Thriller,2017,3.110169491525424
+176567,84,The Endless (2017),Horror|Sci-Fi|Thriller,2017,3.357142857142857
+176579,12,Cage Dive (2017),Drama|Horror|Thriller,2017,1.625
+176599,57,Naked (2017),Comedy,2017,2.517543859649123
+176603,157,The Snowman (2017),Crime|Thriller,2017,2.4713375796178343
+176605,15,Menashe (2017),Drama,2017,3.2333333333333334
+176615,11,Bluebeard (2017),Thriller,2017,3.272727272727273
+176625,18,Message from the King (2017),Thriller,2017,3.5277777777777777
+176681,55,Batman & Harley Quinn (2017),Action|Animation,2017,2.9727272727272727
+176751,624,American Made (2017),Crime|Thriller,2017,3.6266025641025643
+176753,27,Bingo - The King of the Mornings (2017),Comedy|Drama,2017,3.7222222222222223
+176761,13,Deep (2017),Animation,2017,2.8461538461538463
+176829,46,6 Days (2017),Action,2017,3.1630434782608696
+176917,11,All Saints (2017),Drama,2017,2.727272727272727
+176919,35,Beach Rats (2017),Drama,2017,3.2
+176921,44,The Villainess (2017),Action|Drama,2017,3.2386363636363638
+176923,21,Bushwick (2017),Action|Thriller,2017,2.619047619047619
+176927,11,Woodshock (2017),Drama|Thriller,2017,3.272727272727273
+176929,352,Happy Death Day (2017),Horror|Mystery|Thriller,2017,3.3863636363636362
+176933,343,The Foreigner (2017),Action|Thriller,2017,3.4183673469387754
+176935,267,Geostorm (2017),Action,2017,2.7827715355805243
+176937,156,Jigsaw (2017),Horror|Thriller,2017,2.78525641025641
+176943,34,Dave Made a Maze (2017),Adventure|Comedy|Horror,2017,3.338235294117647
+177003,16,Madame (2017),Comedy|Drama,2017,3.53125
+177067,12,Lapland Odyssey 3 (2017),Adventure|Comedy,2017,3.0
+177101,62,Rememory (2017),Drama|Mystery|Sci-Fi,2017,2.9193548387096775
+177119,25,Starship Troopers: Traitor of Mars (2017),Action|Animation|Sci-Fi,2017,2.84
+177123,45,Wonderstruck (2017),Drama,2017,3.311111111111111
+177225,92,Home Again (2017),Comedy|Drama,2017,3.0597826086956523
+177231,72,Brad's Status (2017),Comedy,2017,3.326388888888889
+177233,24,Rebel in the Rye (2017),Drama,2017,3.6666666666666665
+177237,301,Battle of the Sexes (2017),Comedy,2017,3.3421926910299002
+177239,81,Stronger (2017),Drama,2017,3.3333333333333335
+177241,30,My Little Pony: The Movie (2017),Adventure|Animation|Children|Fantasy,2017,2.783333333333333
+177243,64,Marshall (2017),Drama,2017,3.4609375
+177245,13,Same Kind of Different as Me (2017),Drama,2017,3.230769230769231
+177287,79,Little Evil (2017),Comedy|Horror,2017,2.9050632911392404
+177297,19,Temple (2017),Horror,2017,2.1052631578947367
+177339,12,Kim Dotcom: Caught in the Web (2017),Documentary,2017,3.3333333333333335
+177379,23,Gogol. The Beginning (2017),Adventure|Thriller,2017,3.0869565217391304
+177495,20,Score: A Film Music Documentary (2017),Documentary,2017,3.85
+177497,150,Hostiles (2017),Adventure|Drama|Western,2017,3.4166666666666665
+177545,18,#realityhigh (2017),Comedy,2017,3.361111111111111
+177565,17,Marc Maron: Too Real (2017),Comedy,2017,3.6176470588235294
+177593,2749,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,2017,4.009094216078574
+177601,12,Western (2017),Drama,2017,3.8333333333333335
+177607,182,American Assassin (2017),Action|Thriller,2017,2.868131868131868
+177611,13,Pyewacket (2017),(no genres listed),2017,2.8076923076923075
+177615,1464,Lady Bird (2017),Comedy,2017,3.790983606557377
+177651,503,The Florida Project (2017),Drama,2017,3.783300198807157
+177689,494,The Killing of a Sacred Deer (2017),Drama|Horror|Mystery|Thriller,2017,3.6224696356275303
+177725,15,Redoubtable (2017),Drama|Romance,2017,3.466666666666667
+177737,13,Memoir of a Murderer (2017),Crime|Thriller,2017,3.923076923076923
+177763,746,Murder on the Orient Express (2017),Crime|Drama|Mystery,2017,3.326407506702413
+177765,2701,Coco (2017),Adventure|Animation|Children,2017,4.061828952239911
+177769,14,Euphoria (2017),Drama,2017,2.5714285714285716
+177771,125,Suburbicon (2017),Comedy|Crime|Mystery,2017,2.72
+177787,49,Chappaquiddick (2017),Drama|Thriller,2017,3.163265306122449
+177865,15,Un Profil pour deux (2017),Comedy|Romance,2017,3.6333333333333333
+177867,51,Borg vs McEnroe (2017),Drama,2017,3.519607843137255
+177871,87,Victoria & Abdul (2017),Drama,2017,3.5057471264367814
+177883,72,Jerry Before Seinfeld (2017),Comedy,2017,3.111111111111111
+177913,13,Back to Burgundy (2017),Drama,2017,3.269230769230769
+177939,17,"The Night Is Short, Walk on Girl (2017)",Animation|Romance,2017,3.735294117647059
+177951,24,Happy! (2017),Fantasy,2017,3.6041666666666665
+177993,13,Escape Room (2017),(no genres listed),2017,2.423076923076923
+178061,741,"I, Tonya (2017)",Drama,2017,3.7233468286099867
+178063,16,Zama (2017),Drama,2017,3.5
+178083,13,Walking Out (2017),Adventure|Drama,2017,2.8461538461538463
+178085,24,November Criminals (2017),Crime|Drama,2017,2.7916666666666665
+178319,11,Happy Hunting (2017),Horror|Thriller,2017,2.9545454545454546
+178323,34,Gaga: Five Foot Two (2017),Documentary,2017,3.2205882352941178
+178335,119,Thelma (2017),Fantasy|Romance|Thriller,2017,3.4201680672268906
+178345,11,This Is Your Death (2017),Drama,2017,2.409090909090909
+178355,30,Killing Gunther (2017),Action|Comedy,2017,2.316666666666667
+178371,11,Closeness (2017),Drama,2017,3.727272727272727
+178375,13,Jolly LLB 2 (2017),Comedy|Crime,2017,3.9615384615384617
+178401,67,Lucky (2017),Drama,2017,3.6940298507462686
+178419,18,Let the Sunshine In (2017),(no genres listed),2017,2.9444444444444446
+178447,54,Cult of Chucky (2017),Horror|Thriller,2017,2.3425925925925926
+178477,14,On the Beach at Night Alone (2017),Drama,2017,3.5357142857142856
+178509,30,Our Souls at Night (2017),Drama,2017,3.3666666666666667
+178521,229,The Babysitter (2017),Horror,2017,3.2423580786026203
+178523,152,1922 (2017),Crime|Drama|Mystery,2017,3.0921052631578947
+178667,257,Gerald's Game (2017),Horror|Thriller,2017,3.3249027237354087
+178679,15,The Eternal Road (2017),Drama|War,2017,3.4
+178735,17,Jeff Dunham: Relative Disaster (2017),(no genres listed),2017,2.911764705882353
+178827,246,Paddington 2 (2017),Adventure|Animation|Children|Comedy,2017,3.709349593495935
+178839,50,Crooked House (2017),Mystery,2017,3.15
+178843,23,Long Shot (2017),Documentary,2017,3.4782608695652173
+178885,18,Princess Cyd (2017),Drama,2017,3.4722222222222223
+178907,67,Blade Runner: Black Out 2022 (2017),Action|Animation|Sci-Fi,2017,3.3955223880597014
+178933,15,Newton (2017),Comedy|Drama,2017,3.9
+178955,12,Killing Hasselhoff (2017),Comedy,2017,2.75
+178997,21,Batman vs. Two-Face (2017),Animation,2017,2.5952380952380953
+179005,32,Newness (2017),Drama|Romance,2017,3.46875
+179053,27,2048: Nowhere to Run (2017),Sci-Fi|Thriller,2017,3.4074074074074074
+179055,27,2036: Nexus Dawn (2017),Sci-Fi|Thriller,2017,3.3703703703703702
+179085,176,The Ritual (2017),Horror,2017,3.2670454545454546
+179091,20,Novitiate (2017),Drama,2017,3.525
+179099,14,HHhH (2017),Action|Thriller,2017,3.4285714285714284
+179119,373,The Death of Stalin (2017),Comedy,2017,3.6595174262734584
+179133,253,Loving Vincent (2017),Animation|Crime|Drama,2017,3.725296442687747
+179135,349,Blue Planet II (2017),Documentary,2017,4.236389684813753
+179137,78,Professor Marston & the Wonder Women (2017),(no genres listed),2017,3.6153846153846154
+179155,11,Racer and the Jailbird (2017),Crime|Drama,2017,3.5
+179175,19,6 Below: Miracle on the Mountain (2017),Drama|Thriller,2017,3.1842105263157894
+179211,16,Christina P: Mother Inferior (2017),Comedy,2017,3.375
+179221,199,Brawl in Cell Block 99 (2017),Action|Crime|Thriller,2017,3.472361809045226
+179247,65,Revenge (2017),Action|Thriller,2017,3.2846153846153845
+179275,31,Happy End (2017),Drama,2017,3.403225806451613
+179285,41,Tragedy Girls (2017),Comedy|Horror,2017,3.048780487804878
+179287,38,Breathe (2017),Drama,2017,3.460526315789474
+179295,63,My Friend Dahmer (2017),Crime|Drama|Horror|Thriller,2017,3.1904761904761907
+179301,45,Salyut 7 (2017),(no genres listed),2017,3.7222222222222223
+179325,15,The Stronghold (2017),(no genres listed),2017,3.7
+179329,26,Film Stars Don't Die in Liverpool (2017),Drama|Romance,2017,3.423076923076923
+179331,180,Only the Brave (2017),Drama,2017,3.7
+179333,84,Veronica (2017),Horror,2017,3.1488095238095237
+179345,49,Arrhythmia (2017),Drama,2017,3.9081632653061225
+179401,981,Jumanji: Welcome to the Jungle (2017),Action|Adventure|Children,2017,3.570336391437309
+179409,47,OtherLife (2017),Crime|Mystery|Sci-Fi,2017,3.276595744680851
+179411,31,Blade of the Immortal (2017),Action|Drama,2017,3.532258064516129
+179415,54,Wheelman (2017),Action|Thriller,2017,3.0833333333333335
+179417,39,Patton Oswalt: Annihilation (2017),Comedy,2017,3.4871794871794872
+179437,11,Bad Match (2017),Horror|Thriller,2017,3.1818181818181817
+179491,41,Mayhem (2017),Action|Horror,2017,3.1463414634146343
+179495,15,All I See Is You (2017),Drama|Thriller,2017,3.066666666666667
+179497,18,Boo 2! A Madea Halloween (2017),Comedy|Horror,2017,2.0555555555555554
+179647,21,The Young Karl Marx (2017),Drama,2017,3.4047619047619047
+179701,18,One of Us (2017),Documentary,2017,3.25
+179709,54,Wonder Wheel (2017),Drama,2017,2.9722222222222223
+179747,14,Crimea (2017),Action|Drama,2017,1.1428571428571428
+179749,87,Creep 2 (2017),Comedy|Horror,2017,3.5229885057471266
+179779,25,A Taxi Driver (2017),Action|Drama,2017,3.84
+179785,30,Thank You for Your Service (2017),Drama|War,2017,3.0833333333333335
+179795,14,Joan Didion: The Center Will Not Hold (2017),Documentary,2017,3.0714285714285716
+179811,71,Last Flag Flying (2017),Comedy|Drama,2017,3.73943661971831
+179813,24,LBJ (2017),Drama,2017,3.4791666666666665
+179815,80,"Roman J. Israel, Esq. (2017)",Drama|Thriller,2017,3.31875
+179817,670,Darkest Hour (2017),Drama|War,2017,3.791044776119403
+179819,2273,Star Wars: The Last Jedi (2017),Action|Adventure|Fantasy|Sci-Fi,2017,3.5206775186977564
+179821,25,Acts of Vengeance (2017),Action,2017,3.16
+179823,22,Matilda (2017),(no genres listed),2017,2.6363636363636362
+179863,52,Radius (2017),Sci-Fi|Thriller,2017,3.2596153846153846
+179881,323,Downsizing (2017),Comedy|Drama|Sci-Fi,2017,2.9055727554179565
+179901,35,Mark Felt: The Man Who Brought Down the White House (2017),Drama|Thriller,2017,3.2
+179925,37,The Unknown Soldier (2017),Drama|War,2017,3.7837837837837838
+179941,24,C'est la vie! (2017),Comedy,2017,3.4375
+179953,87,A Bad Moms Christmas (2017),Comedy,2017,2.6666666666666665
+179977,34,In the Fade (2017),Drama,2017,3.3823529411764706
+180031,1473,The Shape of Water (2017),Adventure|Drama|Fantasy,2017,3.599456890699253
+180033,20,The Leisure Seeker (2017),Drama,2017,3.0
+180037,33,24 Hours to Live (2017),Thriller,2017,2.8181818181818183
+180043,14,Suck Me Shakespeer 3 (2017),Comedy,2017,3.5
+180045,526,Molly's Game (2017),Drama,2017,3.7785171102661597
+180093,39,Singularity (2017),Sci-Fi,2017,1.8076923076923077
+180095,783,Wonder (2017),Drama,2017,3.8607918263090677
+180137,18,See You Up There (2017),Comedy|Drama,2017,3.6944444444444446
+180231,149,Daddy's Home 2 (2017),Comedy|Drama,2017,3.0671140939597317
+180261,13,The Bookshop (2017),Drama|Romance,2017,2.1923076923076925
+180265,122,Jim & Andy: The Great Beyond (2017),Documentary,2017,3.5737704918032787
+180297,656,The Disaster Artist (2017),Comedy|Drama,2017,3.6417682926829267
+180325,17,"I Love You, Daddy (2017)",Comedy|Drama,2017,2.764705882352941
+180367,16,Hot Summer Nights (2017),Drama,2017,2.59375
+180435,27,Jeepers Creepers 3 (2017),Horror|Mystery|Thriller,2017,2.2962962962962963
+180497,574,The Post (2017),Drama|Thriller,2017,3.6332752613240418
+180539,15,Bullet Head (2017),(no genres listed),2017,2.533333333333333
+180555,50,Mom and Dad (2017),Horror|Thriller,2017,2.6
+180587,11,The Wife (2017),Drama,2017,2.6363636363636362
+180591,12,Jane (2017),Documentary,2017,3.8333333333333335
+180737,53,A Christmas Prince (2017),Romance,2017,2.811320754716981
+180833,14,The Humanity Bureau (2017),Action|Sci-Fi,2017,2.7142857142857144
+180985,537,The Greatest Showman (2017),Drama,2017,3.659217877094972
+180987,144,Ferdinand (2017),Animation|Children|Comedy,2017,3.0868055555555554
+181065,13,Jack Whitehall: At Large (2017),Comedy,2017,3.423076923076923
+181075,33,The Man Who Invented Christmas (2017),Drama,2017,3.4242424242424243
+181077,16,Almost Friends (2017),Comedy|Drama,2017,2.71875
+181115,28,Hangman (2017),Crime|Mystery|Thriller,2017,3.125
+181155,11,Gilbert (2017),Documentary,2017,3.5
+181235,17,Hey Arnold! The Jungle Movie (2017),Adventure|Animation|Comedy,2017,3.0
+181267,35,Perfectos desconocidos (2017),Comedy|Drama,2017,3.8857142857142857
+181277,14,Furious (2017),Fantasy,2017,3.8214285714285716
+181315,426,Phantom Thread (2017),Drama|Romance,2017,3.6161971830985915
+181413,17,Too Funny to Fail: The Life and Death of The Dana Carvey Show (2017),(no genres listed),2017,3.5588235294117645
+181545,18,Voyeur (2017),Documentary,2017,3.111111111111111
+181601,37,Olaf's Frozen Adventure (2017),Adventure|Animation|Children|Comedy|Fantasy,2017,2.5135135135135136
+181659,16,Craig Ferguson: Tickle Fight (2017),Comedy,2017,3.21875
+181671,71,The Breadwinner (2017),Animation|Drama|War,2017,3.7816901408450705
+182315,59,Sherlock: The Final Problem (2017),Drama|Mystery,2017,3.983050847457627
+182341,24,Just Getting Started (2017),Action|Comedy,2017,2.5208333333333335
+182359,16,El Camino Christmas (2017),Comedy,2017,2.5625
+182387,12,Foxtrot (2017),Drama,2017,3.3333333333333335
+182407,21,The Pirates of Somalia (2017),Drama,2017,3.238095238095238
+182419,24,The Last Warrior (2017),(no genres listed),2017,3.4583333333333335
+182475,19,The Ballad of Lefty Brown (2017),Western,2017,2.8157894736842106
+182477,19,Bleeding Steel (2017),Action|Comedy|Sci-Fi,2017,2.5526315789473686
+182479,55,Mary and the Witch's Flower (2017),Adventure|Animation,2017,3.4727272727272727
+182547,11,Under an Arctic Sky (2017),Adventure|Documentary,2017,3.590909090909091
+182557,28,Psych: The Movie (2017),Children|Comedy|Crime,2017,3.625
+182679,34,Christmas Inheritance (2017),Romance,2017,2.6470588235294117
+182727,15,A Christmas Story Live! (2017),(no genres listed),2017,2.6333333333333333
+182749,20,Judd Apatow: The Return (2017),Comedy,2017,2.95
+182783,41,The Insult (2017),Drama,2017,3.5853658536585367
+182819,42,Father Figures (2017),Comedy,2017,2.869047619047619
+182823,668,Bright (2017),Action|Crime|Fantasy,2017,3.0149700598802394
+182825,186,All the Money in the World (2017),Crime|Drama|Mystery|Thriller,2017,3.3440860215053765
+182853,32,"How Viktor ""The Garlic"" Took Alexey ""The Stud"" to the Nursing Home (2017)",Drama,2017,3.71875
+182913,65,Doctor Who: Twice Upon A Time (2017),Drama|Sci-Fi,2017,3.730769230769231
+183077,27,Cold Skin (2017),Sci-Fi|Thriller,2017,2.8703703703703702
+183087,35,Going Vertical (2017),Drama,2017,3.4571428571428573
+183159,18,Sweet Country (2017),Western,2017,3.4166666666666665
+183197,91,Dave Chappelle: Equanimity (2017),Comedy,2017,3.6263736263736264
+183227,82,Dave Chappelle: The Bird Revelation (2017),Comedy,2017,3.6341463414634148
+183323,30,Small Town Crime (2017),Crime|Thriller,2017,3.3666666666666667
+183369,11,Last Men in Aleppo (2017),Documentary,2017,3.3181818181818183
+183379,13,Renegades (2017),Action|Thriller,2017,3.1538461538461537
+183381,13,Brand New Yolki (2017),Comedy,2017,2.4615384615384617
+183397,16,Along with the Gods: The Two Worlds (2017),Drama|Fantasy,2017,3.5625
+183423,70,AlphaGo (2017),Documentary,2017,4.0928571428571425
+183437,39,World of Tomorrow Episode Two: The Burden of Other People's Thoughts (2017),Animation|Sci-Fi,2017,3.9871794871794872
+183461,40,Godless (2017),Crime|Drama|Western,2017,3.9
+183597,28,Please Stand By (2017),Comedy|Drama,2017,3.732142857142857
+183641,25,Bombshell: The Hedy Lamarr Story (2017),Documentary,2017,3.76
+183661,26,Godzilla: Planet of the Monsters (2017),Animation|Sci-Fi,2017,2.8653846153846154
+183671,16,Spielberg (2017),Documentary,2017,3.8125
+183695,28,Marrowbone (2017),Drama|Horror|Thriller,2017,3.4107142857142856
+183699,13,Forgotten (2017),Thriller,2017,3.3076923076923075
+183727,16,The Man from Earth: Holocene (2017),Drama|Sci-Fi,2017,2.5625
+183831,12,The Lodgers (2017),Horror,2017,2.7916666666666665
+183891,17,Dear Basketball (2017),Animation|Documentary|Drama,2017,3.1470588235294117
+183955,12,Todd Barry: Spicy Honey (2017),Comedy,2017,3.4583333333333335
+184009,21,The Cured (2017),Horror,2017,2.6666666666666665
+184353,15,Bomb City (2017),Action|Crime|Drama|Thriller|Western,2017,3.7666666666666666
+184405,11,Garden Party (2017),Animation,2017,3.1818181818181817
+184445,17,The Girl in the Fog (2017),Crime|Thriller,2017,3.8529411764705883
+184637,19,The Ravenous (2017),Horror,2017,3.0789473684210527
+184641,21,Fullmetal Alchemist 2018 (2017),Action|Adventure|Fantasy,2017,2.3095238095238093
+184721,61,First Reformed (2017),Drama|Thriller,2017,3.459016393442623
+184741,15,Finding Your Feet (2017),Comedy,2017,2.966666666666667
+185013,24,The Place (2017),Comedy|Drama,2017,3.7708333333333335
+185905,12,The Third Murder (2017),Drama|Mystery,2017,3.375
+185981,17,Spinning Man (2017),Drama|Mystery|Thriller,2017,3.088235294117647
+186339,18,Prodigy (2017),Drama|Sci-Fi|Thriller,2017,2.8055555555555554
+188541,54,Cargo (2017),Drama|Horror,2017,3.361111111111111
+189893,12,Terrifier (2017),Horror|Thriller,2017,3.3333333333333335

@@ -1,2220 +1,719 @@
-,movieId,title,genres,year
-27548,122888,Ben-hur (2016),(no genres listed),2016
-27549,122890,Warcraft (2016),Action|Adventure|Fantasy,2016
-27551,122894,Avatar 2 (2016),Action|Adventure|Fantasy,2016
-27556,122904,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi,2016
-27562,122920,Captain America: Civil War (2016),Action|Sci-Fi|Thriller,2016
-27563,122922,Doctor Strange (2016),Action|Adventure|Sci-Fi,2016
-27564,122924,X-Men: Apocalypse (2016),Action|Adventure|Fantasy|Sci-Fi,2016
-32403,135141,Allegiant: Part 1 (2016),Adventure|Sci-Fi,2016
-32404,135143,Fantastic Beasts and Where to Find Them (2016),Fantasy,2016
-32522,135436,The Secret Life of Pets (2016),Animation|Comedy,2016
-32565,135530,Criminal (2016),Action|Crime|Drama|Sci-Fi,2016
-32568,135536,Suicide Squad (2016),Action|Crime|Sci-Fi,2016
-32582,135567,Independence Day: Resurgence (2016),Action|Adventure|Sci-Fi,2016
-32583,135569,Star Trek Beyond (2016),Action|Adventure|Sci-Fi,2016
-33122,136818,Silent Retreat (2016),Horror|Mystery|Thriller,2016
-33143,136864,Batman v Superman: Dawn of Justice (2016),Action|Adventure|Fantasy|Sci-Fi,2016
-33551,137857,The Jungle Book (2016),Adventure|Drama|Fantasy,2016
-33688,138210,13 Hours (2016),Drama,2016
-33689,138212,Spectral (2016),(no genres listed),2016
-34369,139857,Colonia (2016),Thriller,2016
-34934,141131,Guardians (2016),(no genres listed),2016
-35415,142222,Demolition (2016),Drama,2016
-35910,143359,Sly Cooper (2016),Action|Adventure|Animation|Children|Comedy,2016
-35911,143361,Iron Sky the Coming Race (2016),Action|Comedy|Fantasy|Sci-Fi,2016
-35912,143363,Salt and Fire (2016),Thriller,2016
-35913,143365,The Circle (2016),Drama|Sci-Fi|Thriller,2016
-35914,143367,Silence (2016),Drama|Thriller,2016
-36126,143859,"Hail, Caesar! (2016)",Comedy,2016
-37937,148172,The 5th Wave (2016),Adventure|Sci-Fi|Thriller,2016
-38151,148727,Tumbledown (2016),Comedy|Romance,2016
-38218,148888,Zoolander 2 (2016),Comedy,2016
-38249,148956,How to Be Single (2016),Comedy|Romance,2016
-38339,149186,Fifty Shades of Black (2016),Comedy|Romance,2016
-38417,149406,Kung Fu Panda 3 (2016),Action|Adventure|Animation,2016
-38506,149590,Standoff (2016),Thriller,2016
-38620,149830,Pride and Prejudice and Zombies (2016),Comedy|Horror|Romance|Thriller,2016
-38754,150194,Quo vado? (2016),Comedy,2016
-38796,150294,The Forest (2016),Horror|Thriller,2016
-38874,150548,Sherlock: The Abominable Bride (2016),Action|Crime|Drama|Mystery|Thriller,2016
-38900,150602,Band of Robbers (2016),Adventure|Comedy|Crime|Thriller,2016
-38947,150724,Army Dog (2016),(no genres listed),2016
-38967,150774,The Correspondence (2016),Drama|Romance,2016
-38997,150848,The Confines (2016),Horror|Mystery|Thriller,2016
-39162,151309,Michael Jackson's Journey from Motown to Off the Wall (2016),Documentary,2016
-39163,151311,Wiener-Dog (2016),Comedy,2016
-39164,151313,Norm of the North (2016),Adventure|Animation|Children|Comedy,2016
-39165,151315,Ride Along 2 (2016),Action|Comedy,2016
-39167,151319,Notias (2016),Comedy|Drama,2016
-39174,151345,Batman: Bad Blood (2016),Animation,2016
-39215,151455,Eddie the Eagle (2016),Comedy,2016
-39217,151459,Airlift (2016),Drama|Thriller,2016
-39218,151461,Fitoor (2016),(no genres listed),2016
-39238,151501,Exposed (2016),Drama,2016
-39279,151593,Martyrs (2016),(no genres listed),2016
-39285,151605,Lo and Behold: Reveries of the Connected World (2016),Documentary,2016
-39287,151609,Kill Kane (2016),Crime|Thriller,2016
-39298,151631,Jättiläinen (2016),Drama,2016
-39302,151639,The Boy (2016),Horror|Thriller,2016
-39305,151645,JeruZalem (2016),Horror,2016
-39320,151675,Lazer Team (2016),Comedy|Sci-Fi,2016
-39326,151687,Risen (2016),Children|Drama,2016
-39335,151707,The Eagle Huntress (2016),Adventure|Children|Documentary,2016
-39338,151715,The White Knights (2016),Drama,2016
-39339,151717,Long Way North (2016),Adventure|Animation,2016
-39348,151735,The Other Side of the Door (2016),Horror,2016
-39350,151739,Dirty Grandpa (2016),Comedy,2016
-39352,151743,Toni Braxton: Unbreak My Heart (2016),Drama,2016
-39368,151777,The Finest Hours (2016),Drama|Thriller,2016
-39423,151933,The Birth of a Nation (2016),Drama,2016
-39463,152017,Me Before You (2016),Drama|Romance,2016
-39464,152019,Jarhead 3: The Siege (2016),Action|Drama,2016
-39466,152025,SOMM: Into the Bottle (2016),Documentary,2016
-39469,152031,Space Cop (2016),Action|Comedy|Sci-Fi,2016
-39472,152037,Grease Live (2016),(no genres listed),2016
-39481,152055,Pandemic (2016),Action,2016
-39482,152057,Miles Ahead (2016),Drama,2016
-39483,152059,"Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)",Action|Adventure|Drama,2016
-39484,152061,Triple 9 (2016),Crime|Drama,2016
-39485,152063,Gods of Egypt (2016),Adventure|Fantasy,2016
-39486,152065,Embrace of the Serpent (2016),Adventure|Drama,2016
-39487,152067,Neerja (2016),Drama,2016
-39488,152069,Busco Novio Para Mi Mujer (2016),Comedy,2016
-39489,152071,Race (2016),Drama,2016
-39490,152073,Providence (2016),Drama|Romance,2016
-39492,152077,10 Cloverfield Lane (2016),Thriller,2016
-39493,152079,London Has Fallen (2016),Action|Crime|Thriller,2016
-39494,152081,Zootopia (2016),Action|Adventure|Animation|Children|Comedy,2016
-39495,152083,Whiskey Tango Foxtrot (2016),Comedy|War,2016
-39496,152085,Desierto (2016),Drama,2016
-39497,152087,The Young Messiah (2016),Drama,2016
-39498,152089,The Perfect Match (2016),Comedy|Romance,2016
-39499,152091,The Brothers Grimsby (2016),Comedy,2016
-39505,152103,Home Invasion (2016),Thriller,2016
-39545,152192,Nannaku Prematho (2016),Action|Romance,2016
-39563,152228,Misconduct (2016),Drama|Thriller,2016
-39564,152230,"First, the Last, The (Les premiers les derniers) (2016)",(no genres listed),2016
-39573,152248,Rosalie Blum (2016),Comedy,2016
-39588,152284,War and Peace (2016),Drama|Romance,2016
-39625,152372,Southbound (2016),Horror,2016
-39686,152515,Cabin Fever (2016),Horror,2016
-39689,152521,Becoming Zlatan (2016),Documentary,2016
-39697,152545,The Commune (2016),Drama,2016
-39698,152547,Love Records (2016),Comedy|Drama,2016
-39751,152660,Мафия (2016),(no genres listed),2016
-39759,152678,A Sunday Horse (2016),Children|Drama,2016
-39763,152689,Mastizaade (2016),Comedy|Romance,2016
-39803,152782,Jim: The James Foley Story (2016),Documentary,2016
-39826,152838,The Veil (2016),Horror,2016
-39831,152848,Pitbull. New Order (2016),Comedy|Crime|Drama,2016
-39838,152862,L'abbiamo fatta grossa (2016),Comedy,2016
-39888,152970,Hunt for the Wilderpeople (2016),Adventure|Comedy,2016
-39891,152976,Forsaken (2016),Drama|Western,2016
-40082,153364,Natsamrat (2016),Drama,2016
-40258,153744,Takaisin pintaan (2016),(no genres listed),2016
-40289,153808,Boris Without Beatrice (2016),Drama,2016
-40291,153812,Depth Two (2016),(no genres listed),2016
-40292,153814,Hotel Dallas (2016),(no genres listed),2016
-40294,153818,Lily Lane (2016),(no genres listed),2016
-40302,153834,Mammal (2016),Drama,2016
-40363,153959,4th Man Out (2016),Comedy,2016
-40400,154051,The Last Man on the Moon (2016),Documentary|Drama,2016
-40404,154065,Dad's Army (2016),Comedy,2016
-40443,154182,Conspiracy Encounters (2016),Sci-Fi,2016
-40486,154268,Open Season: Scared Silly (2016),Adventure|Animation|Comedy,2016
-40488,154272,Becoming Mike Nichols (2016),Documentary,2016
-40489,154274,Homegrown: The Counter-Terror Dilemma (2016),Documentary,2016
-40490,154276,Aligarh (2016),Drama,2016
-40759,154858,Kaili Blues (2016),(no genres listed),2016
-40760,154860,Mother (2016),(no genres listed),2016
-40799,154939,The Mermaid (2016),Comedy|Fantasy|Romance|Sci-Fi,2016
-40813,154975,Merci Patron ! (2016),Comedy|Documentary,2016
-40846,155060,Belgica (2016),Drama,2016
-40848,155064,The Neon Demon (2016),Drama|Horror|Mystery,2016
-40852,155072,Take Me to the River (2016),Drama,2016
-40853,155074,Evolution (2016),Drama,2016
-40855,155078,Lo chiamavano Jeeg Robot (2016),Fantasy,2016
-40879,155129,Hot Bot (2016),(no genres listed),2016
-40902,155181,Elvis & Nixon (2016),Comedy,2016
-40913,155245,The Patriarch (2016),(no genres listed),2016
-40924,155288,Eye in the Sky (2016),Drama|Thriller|War,2016
-40935,155358,Camino (2016),Action|Adventure|Thriller,2016
-40936,155360,Road Games (2016),Thriller,2016
-40939,155366,Monster High: Great Scarrier Reef (2016),Animation|Children,2016
-40941,155370,You Are Not Alone (2016),Horror|Thriller,2016
-40943,155374,Yosemite (2016),Drama,2016
-40944,155376,Weaponized (2016),Action|Sci-Fi|Thriller,2016
-40948,155384,Always Be My Maybe (2016),Comedy|Romance,2016
-40951,155392,"Hello, My Name Is Doris (2016)",Drama,2016
-40957,155405,Mellow Mud (2016),Drama,2016
-41001,155509,Mr. Right (2016),Action|Comedy|Romance,2016
-41013,155545,Backtrack (2016),Mystery|Thriller,2016
-41026,155573,Sethupathi (2016),Action|Drama|Romance,2016
-41030,155581,Pee-wee's Big Holiday (2016),Adventure|Comedy,2016
-41031,155583,Miracles from Heaven (2016),Drama,2016
-41036,155595,The Confirmation (2016),Comedy,2016
-41038,155599,The Daughter (2016),Drama,2016
-41051,155625,Under the Shadow (2016),Horror|Thriller,2016
-41061,155650,Little Dead Rotting Hood (2016),Fantasy|Horror|Romance,2016
-41064,155656,Showdown In Manila (2016),(no genres listed),2016
-41065,155659,Florence Foster Jenkins (2016),Comedy|Drama,2016
-41071,155673,La Vache (2016),Comedy,2016
-41105,155743,My Big Fat Greek Wedding 2 (2016),Comedy,2016
-41112,155758,Irudhi Suttru (2016),Action|Drama,2016
-41118,155770,In the Last Days of the City (2016),(no genres listed),2016
-41126,155798,Hannibal Buress: Comedy Camisado (2016),Comedy,2016
-41127,155800,Jimmy Carr: Funny Business (2016),Comedy,2016
-41133,155812,Get a Job (2016),Comedy,2016
-41137,155820,Keanu (2016),Comedy,2016
-41142,155830,White Girl (2016),Drama,2016
-41149,155846,War on Everyone (2016),Comedy,2016
-41163,155874,Love & Friendship (2016),Drama|Romance,2016
-41200,155966,Elections Day 2 (2016),Comedy,2016
-41201,155968,The Night Manager (2016),Crime|Drama|Mystery|Thriller,2016
-41202,155970,They're Watching (2016),Comedy|Horror|Thriller,2016
-41217,156000,Justice League vs. Teen Titans (2016),Action|Animation,2016
-41224,156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,2016
-41349,156369,Zero Days (2016),Documentary,2016
-41350,156371,Everybody Wants Some (2016),Comedy,2016
-41358,156387,Sing Street (2016),Drama,2016
-41456,156607,The Huntsman Winter's War (2016),Action|Adventure|Drama|Fantasy,2016
-41457,156609,Neighbors 2: Sorority Rising (2016),Comedy,2016
-41501,156706,The Trust (2016),Crime|Thriller,2016
-41506,156718,Interrogation (2016),Drama|Thriller,2016
-41510,156726,Hush (2016),Thriller,2016
-41522,156755,Things to Come (2016),Drama,2016
-41550,156819,Confirmation (2016),Drama,2016
-41583,156903,The Waiting (2016),Thriller,2016
-41607,156960,The Cheerleader Murders (2016),Thriller,2016
-41611,156968,City of Gold (2016),Documentary,2016
-41646,157055,Uncaged (2016),Comedy|Horror|Thriller,2016
-41671,157106,Fan (2016),Action|Drama|Thriller,2016
-41679,157122,The Man Who Knew Infinity (2016),Drama,2016
-41683,157130,Despite the Falling Snow (2016),Drama|Romance|Thriller,2016
-41687,157138,Folk Hero & Funny Guy (2016),Comedy,2016
-41688,157140,Dreamland (2016),Comedy|Drama|Romance,2016
-41689,157142,Dean (2016),Comedy,2016
-41706,157176,A Storm in the Stars (2016),Drama|Romance,2016
-41711,157186,Veloce come il vento (2016),Drama,2016
-41718,157200,Money Monster (2016),Drama|Thriller,2016
-41729,157224,Nine Lives (2016),Comedy,2016
-41746,157268,Don't Think Twice (2016),Comedy|Drama,2016
-41747,157270,Barbershop: The Next Cut (2016),Comedy,2016
-41748,157272,The Preppie Connection (2016),Crime|Drama,2016
-41749,157274,The Choice (2016),Drama|Romance,2016
-41750,157276,Our Kind of Traitor (2016),Drama|Thriller,2016
-41757,157290,Suntan (2016),Comedy|Drama|Romance,2016
-41759,157294,Hannibal Takes Edinburgh (2016),(no genres listed),2016
-41760,157296,Finding Dory (2016),Adventure|Animation|Comedy,2016
-41766,157308,"Houston, We Have a Problem! (2016)",Documentary,2016
-41768,157312,The Boss (2016),Comedy,2016
-41771,157318,Perfect Strangers (2016),Comedy|Drama,2016
-41775,157326,Bastille Day (2016),Action,2016
-41776,157328,Kadhalum Kadanthu Pogum (2016),Comedy|Drama|Romance,2016
-41778,157332,Ghayal Once Again (2016),(no genres listed),2016
-41780,157336,Smothered (2016),Comedy|Horror,2016
-41781,157338,Free State of Jones (2016),Action|Drama|Thriller,2016
-41782,157340,The Angry Birds Movie (2016),Animation|Comedy,2016
-41792,157361,Tickled (2016),Documentary,2016
-41803,157385,Geezer (2016),Comedy|Drama,2016
-41804,157387,Paradox (2016),Action|Sci-Fi,2016
-41808,157399,"New York, New York (2016)",Romance,2016
-41809,157401,Onnenonkija (2016),(no genres listed),2016
-41812,157407,I Am Wrath (2016),Action|Crime|Drama|Thriller,2016
-41821,157432,Precious Cargo (2016),Action|Crime,2016
-41841,157498,11.22.63 (2016),Drama|Thriller,2016
-41870,157569,Al Final del Túnel (2016),Thriller,2016
-41909,157667,Mother's Day (2016),Comedy,2016
-41910,157669,Mothers and Daughters (2016),Drama,2016
-41911,157671,Manhattan Night (2016),Mystery|Thriller,2016
-41925,157699,Snowden (2016),Drama|Thriller,2016
-41970,157797,Special Correspondents (2016),Comedy,2016
-41989,157835,Sacrifice (2016),Thriller,2016
-41994,157845,Cheerleader (2016),(no genres listed),2016
-41995,157847,Being Charlie (2016),(no genres listed),2016
-41996,157849,Buddymoon (2016),(no genres listed),2016
-41997,157851,Team Foxcatcher (2016),Documentary,2016
-41998,157853,Patton Oswalt: Talking for Clapping (2016),Comedy,2016
-42004,157865,Ratchet & Clank (2016),Action|Adventure|Animation|Children|Comedy|Sci-Fi,2016
-42012,157881,Holidays (2016),Comedy|Horror,2016
-42038,157955,The Break-In (2016),Drama|Thriller,2016
-42039,157957,Short Fuse (2016),Action|Thriller,2016
-42040,157959,Term Life (2016),Crime|Drama,2016
-42071,158022,Kicking Off (2016),Comedy,2016
-42073,158027,SORI: Voice from the Heart (2016),Drama|Sci-Fi,2016
-42109,158105,A.R.C.H.I.E. (2016),Children,2016
-42163,158238,The Nice Guys (2016),Crime|Mystery|Thriller,2016
-42171,158254,Kindergarten Cop 2 (2016),Action|Comedy,2016
-42233,158382,The Family Fang (2016),Drama,2016
-42237,158390,Restoration (2016),Horror,2016
-42243,158402,The Crew (2016),Action,2016
-42290,158518,Under the Gun (2016),Documentary,2016
-42294,158528,The Shallows (2016),Drama|Thriller,2016
-42295,158530,Leatherface (2016),Horror,2016
-42296,158532,Sairat (2016),Drama,2016
-42300,158540,Papa: Hemingway in Cuba (2016),Drama,2016
-42317,158581,My Beloved Bodyguard (2016),Action|Adventure|Drama,2016
-42336,158619,The Faith of Anna Waters (2016),Drama|Horror|Mystery|Thriller,2016
-42416,158783,The Handmaiden (2016),Drama|Romance|Thriller,2016
-42428,158813,Alice Through the Looking Glass (2016),Adventure|Children|Fantasy,2016
-42430,158817,Valentine Ever After (2016),Romance,2016
-42436,158830,The BFG (2016),Children|Fantasy,2016
-42440,158840,Wild (2016),Drama,2016
-42441,158842,My Scientology Movie (2016),Documentary,2016
-42456,158872,Sausage Party (2016),Animation|Comedy,2016
-42460,158880,Love by Chance (2016),Romance,2016
-42461,158882,All Yours (2016),Comedy|Drama|Romance,2016
-42462,158884,The Bridge Part 2 (2016),Drama,2016
-42463,158886,All Things Valentine (2016),Comedy|Romance,2016
-42464,158888,Dater's Handbook (2016),Comedy|Drama|Romance,2016
-42465,158890,Unleashing Mr. Darcy (2016),Romance,2016
-42466,158892,Flower Shop Mystery: Mum's the Word (2016),Children|Mystery,2016
-42467,158894,Love on the Sidelines (2016),Comedy|Romance,2016
-42468,158896,Love's Complicated (2016),Comedy|Drama|Romance,2016
-42469,158898,Love in Paradise (2016),Romance,2016
-42497,158954,Me casé con un boludo (2016),Comedy|Romance,2016
-42498,158956,Kill Command (2016),Action|Horror|Sci-Fi,2016
-42500,158962,The Eyes of My Mother (2016),Drama|Horror,2016
-42502,158966,Captain Fantastic (2016),Drama,2016
-42505,158972,Toni Erdmann (2016),Drama,2016
-42506,158974,Neruda (2016),Drama,2016
-42518,159000,My Beautiful Broken Brain (2016),Documentary,2016
-42540,159059,The Midnight Man (2016),Crime|Thriller,2016
-42541,159061,The Wailing (2016),Mystery|Thriller,2016
-42543,159065,Jai Gangaajal (2016),Action|Drama,2016
-42549,159077,The Meddler (2016),Comedy|Drama,2016
-42553,159085,Finding Mr. Right 2 (2016),Romance,2016
-42557,159093,Now You See Me 2 (2016),Action|Comedy|Thriller,2016
-42558,159095,Southwest of Salem: The Story of the San Antonio Four (2016),Documentary,2016
-42559,159097,The Apology (2016),(no genres listed),2016
-42560,159099,The Masked Saint (2016),Action|Crime,2016
-42566,159111,The Curse of Sleeping Beauty (2016),Fantasy|Mystery|Thriller,2016
-42567,159113,Highly Strung (2016),(no genres listed),2016
-42568,159115,Chongqing Hot Pot (2016),Drama,2016
-42587,159153,The Land Before Time XIV: Journey of the Brave (2016),Adventure|Animation|Children,2016
-42588,159155,The Division: Agent Origins (2016),Action,2016
-42591,159161,Ali Wong: Baby Cobra (2016),(no genres listed),2016
-42592,159163,The Other Side of the Wind (2016),Comedy|Drama,2016
-42604,159191,Julieta (2016),Drama,2016
-42605,159193,Café Society (2016),Comedy|Drama|Romance,2016
-42606,159195,"I, Daniel Blake (2016)",Drama,2016
-42619,159221,Bad Guys Always Die (2016),Action|Comedy,2016
-42620,159223,The Pack (2016),Horror|Thriller,2016
-42630,159249,Girls Lost (2016),Drama,2016
-42636,159261,The Yard (2016),(no genres listed),2016
-42637,159263,Under the Pyramid (2016),Adventure|Drama|Thriller,2016
-42649,159313,Pyromaniac (2016),(no genres listed),2016
-42658,159335,Grand Hotel (2016),(no genres listed),2016
-42662,159345,Beyond Sleep (2016),(no genres listed),2016
-42668,159359,The Day Will Come (2016),Drama,2016
-42684,159399,Lamb (2016),Drama,2016
-42685,159401,Kóblic (2016),Crime,2016
-42690,159411,KISS Rocks Vegas (2016),Documentary,2016
-42692,159415,Swiss Army Man (2016),Comedy|Drama|Romance,2016
-42694,159419,A Violent Prosecutor (2016),Comedy|Crime,2016
-42702,159437,Azhar (2016),Drama,2016
-42704,159441,The Do-Over (2016),Comedy,2016
-42706,159445,Nise: The Heart of Madness (2016),(no genres listed),2016
-42707,159447,Before I Wake (2016),Horror|Thriller,2016
-42709,159451,Graduation (2016),Drama,2016
-42717,159482,The Bandit Hound (2016),Comedy,2016
-42718,159484,Life on the Line (2016),Action,2016
-42752,159606,Kapoor and Sons (2016),Drama,2016
-42762,159626,Zoombies (2016),Action|Horror|Sci-Fi,2016
-42768,159638,Nothing Left Unsaid: Gloria Vanderbilt & Anderson Cooper (2016),Documentary,2016
-42775,159652,Chicken (2016),Drama,2016
-42792,159690,Teenage Mutant Ninja Turtles: Out of the Shadows (2016),Action|Adventure|Comedy,2016
-42795,159696,The Darkness (2016),Horror|Thriller,2016
-42805,159717,The Fundamentals of Caring (2016),Drama,2016
-42807,159721,Brexit: The Movie (2016),Documentary,2016
-42813,159735,Sin Filtro (2016),Comedy,2016
-42820,159755,Popstar: Never Stop Never Stopping (2016),Comedy,2016
-42829,159779,A Midsummer Night's Dream (2016),(no genres listed),2016
-42831,159784,United States of Love (2016),Drama,2016
-42837,159799,Dark Signal (2016),Horror,2016
-42850,159827,All the Way (2016),Drama,2016
-42859,159849,Bo Burnham: Make Happy (2016),Comedy,2016
-42863,159858,The Conjuring 2 (2016),Horror,2016
-42883,159917,Weiner (2016),Documentary,2016
-42900,159970,Never Back Down: No Surrender (2016),Action|Drama,2016
-42901,159972,Approaching the Unknown (2016),Drama|Sci-Fi|Thriller,2016
-42903,159976,Pelé: Birth of a Legend (2016),Drama,2016
-42918,160012,Andron (2016),Action|Sci-Fi,2016
-42922,160020,The Witness (2016),Documentary,2016
-42937,160056,Hard Sell (2016),Drama,2016
-42949,160080,Ghostbusters (2016),Action|Comedy|Horror|Sci-Fi,2016
-42951,160084,Henry Gamble's Birthday Party (2016),Drama,2016
-42963,160112,Cell (2016),Horror|Sci-Fi,2016
-42969,160124,A Dragon Arrives! (2016),(no genres listed),2016
-42977,160141,Girl in Woods (2016),Drama|Horror|Thriller,2016
-42981,160149,Complete Unknown (2016),Drama,2016
-42987,160161,Bang Gang (A Modern Love Story) (2016),Drama,2016
-42990,160169,The Asian Connection (2016),Action,2016
-42997,160183,The Art of Organized Noize (2016),Documentary,2016
-43002,160193,Adam Green's Aladdin (2016),Comedy|Fantasy,2016
-43005,160201,La pazza gioia (2016),Comedy|Drama,2016
-43021,160236,Be Somebody (2016),Comedy|Romance,2016
-43036,160271,Central Intelligence (2016),Action|Comedy,2016
-43045,160289,O.J.: Made in America (2016),Documentary,2016
-43046,160291,"Mother, May I Sleep with Danger? (2016)",Thriller,2016
-43051,160301,Udta Punjab (2016),Crime|Drama|Thriller,2016
-43058,160317,Roots (2016),(no genres listed),2016
-43059,160319,We are Twisted Fucking Sister! (2016),Documentary,2016
-43078,160360,How to Let Go of the World and Love All the Things Climate Can't Change (2016),Documentary,2016
-43086,160380,Suited (2016),(no genres listed),2016
-43096,160400,Genius (2016),Drama,2016
-43104,160416,Fantastic Lies (2016),Documentary,2016
-43109,160426,Internet Famous (2016),(no genres listed),2016
-43114,160436,Te3n (2016),Thriller,2016
-43115,160438,Jason Bourne (2016),Action,2016
-43133,160474,Adventures in Babysitting (2016),Comedy,2016
-43146,160515,Dead 7 (2016),Horror|Western,2016
-43153,160533,Adult Life Skills (2016),Comedy|Drama,2016
-43161,160553,De Palma (2016),Documentary,2016
-43162,160555,Raman Raghav 2.0 (2016),Crime|Thriller,2016
-43164,160559,Minimalism: A Documentary About the Important Things (2016),Documentary,2016
-43166,160563,The Legend of Tarzan (2016),Action|Adventure,2016
-43167,160565,The Purge: Election Year (2016),Action|Horror|Sci-Fi,2016
-43168,160567,Mike & Dave Need Wedding Dates (2016),Comedy,2016
-43169,160569,Ice Age: Collision Course (2016),Adventure|Animation|Children|Comedy,2016
-43170,160571,Lights Out (2016),Horror,2016
-43171,160573,Pete's Dragon (2016),Adventure|Children|Fantasy,2016
-43172,160575,Mythica: The Iron Crown (2016),Fantasy,2016
-43175,160581,The Duel (2016),Action|Drama|Western,2016
-43178,160588,Boom Bust Boom (2016),Documentary,2016
-43180,160596,Les Tuche 2 : Le Rêve Américain (2016),Comedy,2016
-43192,160644,Indignation (2016),Drama,2016
-43193,160646,Goat (2016),Drama,2016
-43194,160648,Black Mountain Side (2016),Horror|Thriller,2016
-43198,160656,Tallulah (2016),Drama,2016
-43207,160674,The ReZort (2016),Horror,2016
-43209,160678,The Phenom (2016),Drama,2016
-43212,160684,Marauders (2016),Action,2016
-43220,160700,Carnage Park (2016),Action|Crime|Horror|Thriller,2016
-43224,160710,Absolutely Fabulous: The Movie (2016),Comedy,2016
-43228,160718,Piper (2016),Animation,2016
-43232,160726,Fastball (2016),Documentary,2016
-43253,160770,Traded (2016),Western,2016
-43264,160794,Quarantine L.A. (2016),Action|Horror,2016
-43265,160796,The Asylum (2016),Action|Horror|Mystery|Sci-Fi|Thriller,2016
-43288,160844,Lifeline (2016),Thriller,2016
-43290,160848,The Red Turtle (2016),Animation,2016
-43296,160860,The Dog Lover (2016),Drama,2016
-43297,160862,Notes on Blindness (2016),Documentary,2016
-43301,160872,Satanic (2016),Horror,2016
-43302,160874,"Life, Animated (2016)",Animation|Documentary,2016
-43303,160876,The Innocents (2016),Drama,2016
-43306,160882,Three (2016),Crime,2016
-43313,160896,Fittest On Earth (The Story Of The 2015 Reebok CrossFit Games) (2016),Documentary,2016
-43314,160898,Contrato Vitalício (2016),Adventure|Comedy,2016
-43342,160954,Nerve (2016),Drama|Thriller,2016
-43343,160956,Code of Honor (2016),Action,2016
-43355,160980,Sully (2016),Drama,2016
-43356,160982,Slack Bay (2016),Comedy|Drama,2016
-43357,160984,The Son of Joseph (2016),Comedy|Drama,2016
-43359,160988,The Student (2016),Drama,2016
-43360,160990,It's Only the End of the World (2016),Drama,2016
-43361,160992,Aloys (2016),Drama|Fantasy,2016
-43372,161024,Jim Jefferies: Freedumb (2016),Comedy,2016
-43373,161026,Dirty Lies (2016),Action|Crime|Drama|Thriller,2016
-43377,161034,Sultan (2016),Action|Drama,2016
-43390,161060,Goldstone (2016),Crime|Thriller,2016
-43391,161062,Un homme à la hauteur (2016),Comedy|Romance,2016
-43394,161068,Countdown (2016),Action,2016
-43397,161074,Lake Eerie (2016),Horror|Sci-Fi|Thriller,2016
-43399,161078,The Last King (2016),Action|Adventure|Drama,2016
-43407,161094,Nil Battey Sannata (2016),Drama,2016
-43418,161117,Fender Bender (2016),Horror|Thriller,2016
-43422,161127,The Infiltrator (2016),Crime|Drama,2016
-43424,161131,War Dogs (2016),Comedy,2016
-43435,161153,Pali Road (2016),Drama|Fantasy|Mystery|Romance|Thriller,2016
-43436,161155,Sunspring (2016),Sci-Fi,2016
-43437,161157,Friday (Pyatnitsa) (2016),Comedy,2016
-43438,161159,Mono (2016),Comedy,2016
-43441,161165,Back in the Day (2016),Drama,2016
-43443,161169,Undrafted (2016),Children|Comedy|Drama,2016
-43445,161173,Outlaws and Angels (2016),Drama|Thriller|Western,2016
-43447,161177,Brahman Naman (2016),Comedy,2016
-43448,161179,To Steal from a Thief (2016),Crime|Thriller,2016
-43449,161181,A Beautiful Planet (2016),Documentary,2016
-43452,161190,Daniel Tosh: People Pleaser (2016),Comedy,2016
-43474,161240,Looking: The Movie (2016),Comedy|Drama|Romance,2016
-43495,161282,Emma's Chance (2016),Children|Drama,2016
-43496,161284,Boost (2016),Action|Crime|Drama,2016
-43498,161288,Cyborg X (2016),Action|Horror,2016
-43499,161290,Vigilante Diaries (2016),Action,2016
-43503,161298,Ghostheads (2016),Documentary,2016
-43505,161302,Traders (2016),Thriller,2016
-43506,161304,On the Brain (2016),Crime|Horror|Thriller,2016
-43510,161312,Rebirth (2016),Thriller,2016
-43517,161328,Dear Eleanor (2016),Adventure|Comedy|Drama,2016
-43519,161332,I Am Belfast (2016),Documentary,2016
-43520,161334,Tony Robbins: I Am Not Your Guru (2016),Documentary,2016
-43521,161336,Author: The JT LeRoy Story (2016),Documentary,2016
-43527,161348,The Love Witch (2016),Drama|Horror|Thriller,2016
-43530,161354,Batman: The Killing Joke (2016),Action|Animation|Crime|Drama,2016
-43620,161580,Bad Moms (2016),Comedy,2016
-43621,161582,Hell or High Water (2016),Crime|Drama,2016
-43622,161584,Southside With You (2016),Drama|Romance,2016
-43623,161586,Little Men (2016),Drama,2016
-43624,161588,Meet the Blacks (2016),Comedy|Horror,2016
-43626,161592,Terra Formars (2016),Action|Horror|Sci-Fi,2016
-43627,161594,Kingsglaive: Final Fantasy XV (2016),Action|Adventure|Animation|Drama|Fantasy|Sci-Fi,2016
-43628,161596,Back to Mom's (2016),Comedy,2016
-43632,161604,Ghost Team (2016),(no genres listed),2016
-43634,161608,Madaari (2016),Thriller,2016
-43640,161620,Clash (2016),(no genres listed),2016
-43646,161634,Don't Breathe (2016),Thriller,2016
-43647,161636,The Pills - Sempre meglio che lavorare (2016),Comedy,2016
-43651,161644,Coco (2016),Drama,2016
-43652,161646,The Death and Life of Otto Bloom (2016),(no genres listed),2016
-43654,161650,47 Meters Down (2016),Horror|Thriller,2016
-43655,161652,Trivisa (2016),Crime|Drama|Thriller,2016
-43656,161654,Scare Campaign (2016),Comedy|Horror,2016
-43658,161658,Hillary's America: The Secret History Of The Democratic Party (2016),(no genres listed),2016
-43659,161660,Gut zu Vögeln (2016),Comedy|Romance,2016
-43668,161680,American Hostage (2016),Crime|Drama|Thriller,2016
-43670,161684,River (2016),Thriller,2016
-43671,161686,The Call Up (2016),Action|Adventure|Sci-Fi,2016
-43694,161738,The Wild Life (2016),Adventure|Animation|Comedy,2016
-43701,161758,Imagine You & Me (2016),Comedy|Romance,2016
-43709,161776,Blood Moon (2016),Comedy|Horror|Thriller,2016
-43711,161780,Huset (2016),Horror|Thriller|War,2016
-43747,161852,King Cobra (2016),Crime|Drama,2016
-43764,161894,The Wedding March (2016),Romance,2016
-43775,161918,Sharknado 4: The 4th Awakens (2016),Action|Adventure|Horror|Sci-Fi,2016
-43776,161920,Donald Trump's The Art of the Deal: The Movie (2016),Comedy,2016
-43777,161922,The Edge of Seventeen (2016),Comedy,2016
-43778,161924,Clinton Cash (2016),Documentary,2016
-43782,161932,Poi E: The Story of Our Song (2016),Documentary,2016
-43784,161936,Intruder (2016),Horror|Thriller,2016
-43792,161954,Anthropoid (2016),War,2016
-43793,161956,Blood Father (2016),Action|Thriller,2016
-43794,161958,Joshy (2016),Comedy,2016
-43795,161960,Ants on a Shrimp (2016),Documentary,2016
-43797,161964,Free to Run (2016),Documentary,2016
-43798,161966,Elle (2016),Thriller,2016
-43801,161972,Lucy Maud Montgomery's Anne of Green Gables (2016),Children|Drama,2016
-43802,161974,Daylight's End (2016),Action|Horror|Sci-Fi,2016
-43803,161976,The Mobfathers (2016),Drama,2016
-43836,162060,The Polar Boy (2016),Drama,2016
-43837,162062,The Days That Confused (2016),Comedy|Drama,2016
-43846,162082,Train to Busan (2016),Action|Thriller,2016
-43875,162148,Friend Request (2016),Horror|Thriller,2016
-43876,162150,Let's Be Evil (2016),Sci-Fi|Thriller,2016
-43880,162158,Edge of Winter (2016),Drama|Thriller,2016
-43881,162160,Viral (2016),Drama|Horror|Sci-Fi|Thriller,2016
-43882,162162,The Remains (2016),Horror,2016
-43883,162164,Family Lies (2016),Drama,2016
-43886,162170,The Mind's Eye (2016),Action|Horror|Sci-Fi,2016
-43898,162204,The Land (2016),Drama,2016
-43902,162212,Pete Johansson: You Might Also Enjoy Pete Johansson (2016),(no genres listed),2016
-43948,162304,ABCs of Death 2.5 (2016),Horror,2016
-43952,162312,The Hexecutioners (2016),Horror,2016
-43954,162316,Shelley (2016),Drama|Mystery,2016
-43957,162322,Mechanic: Resurrection (2016),Action|Crime|Thriller,2016
-43959,162326,Porto (2016),(no genres listed),2016
-43968,162344,Tom Segura: Mostly Stories (2016),Comedy,2016
-43969,162346,Antibirth (2016),Horror,2016
-43970,162348,The 9th Life of Louis Drax (2016),Mystery|Thriller,2016
-43971,162350,The Magnificent Seven (2016),Action|Western,2016
-43973,162354,Dwayne Perkins: Take Note (2016),(no genres listed),2016
-43974,162356,Sniper: Ghost Shooter (2016),Action|Drama|War,2016
-43975,162358,Assassin X (2016),Action,2016
-43977,162362,Beta Test (2016),Action|Sci-Fi|Thriller,2016
-43981,162372,"Down the Deep, Dark Web (2016)",Documentary,2016
-43982,162374,The Rack Pack (2016),Comedy|Drama,2016
-43992,162396,Skiptrace (2016),Action|Comedy,2016
-43998,162408,A Stand Up Guy (2016),Comedy,2016
-44000,162412,Brian Posehn: Criminally Posehn (2016),(no genres listed),2016
-44002,162416,Big Fish & Begonia (2016),Animation|Fantasy,2016
-44003,162418,A Conspiracy of Faith (2016),Crime|Drama|Mystery|Thriller,2016
-44018,162448,Seoul Station (2016),Animation|Drama|Horror,2016
-44022,162456,The Bronx Bull (2016),Drama,2016
-44023,162458,The Bandit (2016),Documentary,2016
-44024,162460,The Childhood of a Leader (2016),Drama|Horror|Mystery,2016
-44031,162474,Five (2016),Comedy,2016
-44033,162478,Masterminds (2016),Action|Comedy|Crime,2016
-44038,162488,Matchmaking (2016),Comedy|Romance,2016
-44060,162540,Amateur Night (2016),Comedy,2016
-44061,162542,Rustom (2016),Romance|Thriller,2016
-44071,162566,One More Time With Feeling (2016),(no genres listed),2016
-44077,162578,Kubo and the Two Strings (2016),Adventure|Animation|Children|Fantasy,2016
-44081,162586,Down by Love (2016),Drama|Romance,2016
-44083,162590,Bridget Jones's Baby (2016),Comedy|Romance,2016
-44084,162592,The Light Between Oceans (2016),Drama,2016
-44085,162594,Morgan (2016),Sci-Fi|Thriller,2016
-44086,162596,Queen of Katwe (2016),Drama,2016
-44087,162598,Deepwater Horizon (2016),Drama,2016
-44088,162600,Miss Peregrine's Home for Peculiar Children (2016),Fantasy,2016
-44089,162602,The Girl on the Train (2016),Thriller,2016
-44090,162604,Middle School: The Worst Years of My Life (2016),Comedy,2016
-44091,162606,The Accountant (2016),Crime|Drama|Thriller,2016
-44092,162608,Kevin Hart: What Now? (2016),(no genres listed),2016
-44093,162610,The American Side (2016),Drama|Mystery|Thriller,2016
-44098,162620,News from planet mars (2016),Comedy,2016
-44099,162622,Remember You (2016),Drama|Mystery|Romance,2016
-44100,162624,Sanam Teri Kasam (2016),Drama|Romance,2016
-44102,162628,Phantom of the Theatre (2016),Drama|Horror|Mystery,2016
-44103,162630,Like for Likes (2016),Comedy|Romance,2016
-44105,162634,High Strung (2016),Drama|Romance,2016
-44107,162638,Time Renegades (2016),Romance|Thriller,2016
-44108,162640,Phantom Detective (2016),Action|Drama,2016
-44111,162646,Seondal: The Man Who Sells the River (2016),Comedy,2016
-44112,162648,Baaghi (2016),Action|Romance|Thriller,2016
-44113,162650,Cold War 2 (2016),Action|Crime|Drama,2016
-44114,162652,Compadres (2016),Action|Comedy,2016
-44116,162656,Dishoom (2016),Action|Comedy,2016
-44117,162658,Gentleman (2016),Romance|Thriller,2016
-44118,162660,God's Not Dead 2 (2016),Drama,2016
-44120,162664,Housefull 3 (2016),Comedy|Romance,2016
-44121,162666,Kabali (2016),Action|Crime|Drama,2016
-44122,162668,Ki and Ka (2016),Comedy|Romance,2016
-44123,162670,League of Gods (2016),Action|Fantasy,2016
-44124,162672,Mohenjo Daro (2016),Adventure|Drama|Romance,2016
-44126,162676,Operation Chromite (2016),Action|Drama|War,2016
-44128,162680,Spirits' Homecoming (2016),Drama,2016
-44129,162682,The First Monday in May (2016),Documentary,2016
-44138,162708,Element (2016),Thriller,2016
-44141,162714,Lady Day at Emerson's Bar & Grill (2016),Drama,2016
-44147,162726,A Quiet Passion (2016),Drama,2016
-44148,162728,Chosen (2016),Drama|War,2016
-44149,162730,The Whole Truth (2016),Drama|Thriller,2016
-44150,162732,The Model (2016),Drama,2016
-44151,162736,Sundown (2016),Comedy|Romance,2016
-44152,162738,American Honey (2016),Comedy|Drama,2016
-44158,162752,Deon Cole: Cole-Blooded Seminar (2016),Comedy,2016
-44166,162768,Out of Love (2016),Drama,2016
-44191,162828,Imperium (2016),Crime|Drama|Thriller,2016
-44194,162834,Road to Istanbul (2016),Drama,2016
-44197,162842,David Brent: Life on the Road (2016),Comedy,2016
-44209,162866,Vintage Tomorrows (2016),(no genres listed),2016
-44211,162870,Irreplaceable (2016),Comedy|Drama,2016
-44212,162872,Tomcat (2016),Drama,2016
-44217,162882,I Am Not a Serial Killer (2016),Thriller,2016
-44260,162968,Kizumonogatari Part 1: Tekketsu (2016),Action|Animation|Mystery,2016
-44271,162990,PSYCHO-PASS: The Movie (2016),Action|Animation|Sci-Fi,2016
-44272,162992,Äkkilähtö (2016),(no genres listed),2016
-44279,163006,Hands of Stone (2016),Drama,2016
-44286,163020,The Fits (2016),Drama,2016
-44287,163022,Morris from America (2016),Drama|Romance,2016
-44300,163048,The Last Heist (2016),Action,2016
-44303,163056,Shin Godzilla (2016),Action|Adventure|Fantasy|Sci-Fi,2016
-44306,163062,Sniper: Special Ops (2016),Action|War,2016
-44307,163064,Hard Target 2 (2016),Action|Thriller,2016
-44309,163068,Killing Salazar (2016),Action,2016
-44310,163070,Honey 3 (2016),Comedy,2016
-44312,163076,Jean-Claude Van Johnson (2016),Comedy,2016
-44318,163092,The Intervention (2016),Comedy|Drama,2016
-44319,163094,The Sea of Trees (2016),Drama,2016
-44330,163118,XOXO (2016),Drama,2016
-44332,163122,Bodom (2016),Horror,2016
-44337,163134,Your Name. (2016),Animation|Drama|Fantasy|Romance,2016
-44339,163138,Refrigerantes e Canções de Amor (2016),Comedy|Romance,2016
-44343,163146,Dan Soder: Not Special (2016),Comedy,2016
-44369,163206,Forsaken (2016),Horror,2016
-44388,163250,The Architect (2016),(no genres listed),2016
-44413,163306,On the Other Side (2016),Drama,2016
-44414,163308,Greetings From Fukushima (2016),Drama,2016
-44443,163376,Natural Selection (2016),Drama,2016
-44450,163390,Chasing Great (2016),Documentary,2016
-44451,163392,Nahid (2016),Drama,2016
-44460,163422,Maheshinte Prathikaaram (2016),Comedy|Drama,2016
-44462,163426,Jeff Foxworthy & Larry the Cable Guy: We've Been Thinking (2016),Comedy,2016
-44487,163476,Batman Unlimited: Mech vs. Mutants (2016),Animation,2016
-44494,163490,Once Again (2016),(no genres listed),2016
-44497,163496,The Tunnel (2016),Drama,2016
-44500,163504,Little Sister (2016),Comedy,2016
-44502,163508,Certain Women (2016),Drama,2016
-44503,163510,The Happiest Day in the Life of Olli Mäki (2016),Drama,2016
-44504,163512,Aquarius (2016),Drama,2016
-44514,163533,I'll Sleep When I'm Dead (2016),Documentary,2016
-44518,163541,Guernica (2016),Drama|Romance|War,2016
-44521,163547,Equity (2016),Drama,2016
-44522,163549,Argentino QL (2016),Comedy,2016
-44528,163561,Amityville Terror (2016),Horror,2016
-44532,163569,Virtual Revolution (2016),Sci-Fi,2016
-44536,163583,jazzy@32 (a true story) (2016),(no genres listed),2016
-44537,163585,David Lynch: The Art Life (2016),(no genres listed),2016
-44539,163589,Who's Driving Doug (2016),Drama,2016
-44543,163597,No Letting Go (2016),(no genres listed),2016
-44552,163615,Citizen Soldier (2016),Action|Documentary,2016
-44564,163639,DC Super Hero Girls: Hero of the Year (2016),Animation,2016
-44566,163643,Resurrection (2016),Horror,2016
-44567,163645,Hacksaw Ridge (2016),Drama|War,2016
-44569,163649,Fairlane Road (2016),Horror|Mystery|Thriller,2016
-44571,163653,David Cross: Making America Great Again (2016),Comedy,2016
-44575,163663,Other People (2016),Drama,2016
-44584,163681,Mostly Ghostly 3: One Night in Doom House (2016),Children|Fantasy|Horror,2016
-44589,163691,City 40 (2016),Documentary,2016
-44594,163701,Siccin 3: Cürmü Ask (2016),Horror,2016
-44599,163715,Rampage: President Down (2016),Action|Crime|Thriller,2016
-44621,163771,For the Love of Spock (2016),Documentary,2016
-44622,163773,Los Punks: We Are All We Have (2016),Documentary,2016
-44623,163775,Toro (2016),Action|Thriller,2016
-44625,163779,"Kiki, Love to Love (2016)",Comedy|Romance,2016
-44627,163783,Summer of 8 (2016),Comedy|Drama,2016
-44639,163807,The Most Beautiful Day (2016),Comedy|Drama,2016
-44680,163909,Divines (2016),Drama,2016
-44681,163911,USS Indianapolis: Men of Courage (2016),Action|War,2016
-44682,163913,Devil's Bride (2016),Drama,2016
-44684,163917,São Jorge (2016),(no genres listed),2016
-44686,163921,Wolf Creek (2016),Crime|Horror|Thriller,2016
-44687,163923,Jules and Dolores (2016),Comedy,2016
-44691,163931,Billy Lynn's Long Halftime Walk (2016),Drama|War,2016
-44693,163935,Born in Heinola (2016),Drama,2016
-44694,163937,Blair Witch (2016),Horror|Thriller,2016
-44695,163939,Transpecos (2016),Thriller,2016
-44696,163941,The Hollars (2016),Children|Comedy|Drama,2016
-44700,163949,The Beatles: Eight Days a Week - The Touring Years (2016),Documentary,2016
-44701,163951,Kickboxer: Vengeance (2016),Action|Drama,2016
-44703,163955,The Promise (2016),Drama|Romance,2016
-44705,163959,Loving (2016),Drama,2016
-44708,163965,Miss Stevens (2016),Comedy,2016
-44711,163971,Christine (2016),Drama,2016
-44715,163979,Silicon Cowboys (2016),Documentary,2016
-44716,163981,31 (2016),Horror,2016
-44717,163983,Comedy Central Roast of Rob Lowe (2016),Comedy,2016
-44718,163985,ARQ (2016),Sci-Fi|Thriller,2016
-44720,163989,Prescription Thugs (2016),Documentary,2016
-44722,163993,Tell Me How I Die (2016),(no genres listed),2016
-44726,164001,Warkop DKI Reborn: Jangkrik Boss! (2016),Comedy,2016
-44728,164005,Bad Cat (2016),Action|Animation|Comedy,2016
-44735,164019,Fire at Sea (2016),Documentary,2016
-44739,164027,Finding Altamira (2016),Drama,2016
-44740,164029,Broken Vows (2016),Thriller,2016
-44747,164043,Desculpe o Transtorno (2016),Comedy,2016
-44753,164055,Fiore (2016),(no genres listed),2016
-44754,164057,One Kiss (2016),Comedy|Romance,2016
-44755,164061,Worldly Girl (2016),Drama|Romance,2016
-44758,164069,Assolo (2016),Comedy,2016
-44759,164071,The Confessions (2016),Drama,2016
-44760,164073,La macchinazione (2016),Drama,2016
-44774,164107,Tower (2016),Crime|Documentary,2016
-44776,164111,From the Land of the Moon (2016),Drama|Romance,2016
-44779,164117,We Need to Talk (2016),Comedy,2016
-44791,164141,I.T. (2016),Drama,2016
-44793,164145,The Neighbor (2016),Crime|Horror|Thriller,2016
-44795,164149,Theo and Hugo (2016),Drama,2016
-44800,164161,Nina (2016),Drama,2016
-44803,164167,The Curse of Robert the Doll (2016),Horror,2016
-44805,164171,Jeremy (2016),Comedy,2016
-44806,164173,Planetarium (2016),Drama|Fantasy|Mystery,2016
-44807,164175,A Monster Calls (2016),Drama|Fantasy,2016
-44809,164179,Arrival (2016),Sci-Fi,2016
-44810,164181,Samurai Rauni Reposaarelainen (2016),Adventure,2016
-44813,164187,Rumbos (2016),(no genres listed),2016
-44814,164189,Traceroute (2016),Comedy|Documentary,2016
-44817,164196,"I, Olga Hepnarova (2016)",Drama,2016
-44819,164200,Storks (2016),Animation|Children|Comedy,2016
-44821,164204,After the Storm (2016),Children|Drama,2016
-44827,164218,Hurok (2016),Thriller,2016
-44829,164222,I am not Salvador (2016),Comedy,2016
-44831,164226,Maximum Ride (2016),Action|Adventure|Comedy|Fantasy|Sci-Fi|Thriller,2016
-44832,164228,Radin ! (2016),Comedy,2016
-44836,164236,Sieranevada (2016),Drama,2016
-44837,164238,Dogs (2016),Drama,2016
-44848,164260,Horace and Pete (2016),Comedy|Drama,2016
-44849,164262,The Man from Mo'Wax (2016),Documentary,2016
-44850,164264,Audrie & Daisy (2016),Documentary,2016
-44852,164268,Iliza Shlesinger: Confirmed Kills (2016),Comedy,2016
-44858,164280,Endless Poetry (2016),Drama|Fantasy,2016
-44890,164365,Level Up (2016),Thriller,2016
-44891,164367,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,2016
-44892,164369,The Distinguished Citizen (2016),Comedy|Drama,2016
-44894,164373,Abattoir (2016),Horror|Thriller,2016
-44895,164375,All Roads Lead to Rome (2016),Comedy,2016
-44896,164377,Inside or Outside (2016),Crime,2016
-44897,164379,Bounty Hunters (2016),Action|Adventure|Comedy,2016
-44898,164381,Tik Tok (2016),Action|Crime|Mystery,2016
-44900,164387,Maigret Sets A Trap (2016),Crime|Drama|Mystery,2016
-44902,164391,The Bodyguard (2016),Action,2016
-44903,164395,I Am a Hero (2016),Action|Fantasy|Horror|Sci-Fi,2016
-44904,164397,Railroad Tigers (2016),Action|Comedy|War,2016
-44905,164399,Asura: The City of Madness (2016),Action|Crime,2016
-44906,164401,Zebra (2016),Thriller,2016
-44907,164403,Erased (2016),Fantasy|Thriller,2016
-44908,164405,Call of Heroes (2016),Action,2016
-44909,164407,Line Walker (2016),Action|Crime|Drama,2016
-44910,164409,The Three Body (2016),Mystery|Sci-Fi|Thriller,2016
-44911,164411,My Life as a Courgette (2016),Animation|Children|Drama,2016
-44912,164413,Musudan (2016),Mystery|Thriller,2016
-44913,164415,Insane (2016),Mystery|Thriller,2016
-44915,164421,Everybody's Fine (2016),Drama,2016
-44923,164441,In-Lawfully Yours (2016),Romance,2016
-44924,164443,Freaky Ali (2016),Comedy|Romance,2016
-44930,164455,Tschick (2016),Children,2016
-44952,164515,Redistributors (2016),Thriller,2016
-44960,164532,Crossing Point (2016),Action|Thriller,2016
-44961,164534,The Night Stalker (2016),Crime|Drama,2016
-44964,164540,Amanda Knox (2016),Documentary,2016
-44967,164546,All Eyez on Me (2016),Drama,2016
-44971,164554,All the Difference (2016),(no genres listed),2016
-44978,164568,Interrogation (2016),Action|Thriller,2016
-44981,164576,Time Raiders (2016),Action|Adventure|Fantasy,2016
-44986,164586,El pregón (2016),Comedy,2016
-44988,164590,Duell der Brüder - Die Geschichte von Adidas und Puma (2016),Drama,2016
-44992,164598,Gringo: The Dangerous Life of John McAfee (2016),Documentary|Drama,2016
-44993,164600,Akira (2016),Action|Crime|Thriller,2016
-44994,164602,No manches Frida (2016),(no genres listed),2016
-44995,164604,Kicks (2016),Adventure,2016
-44996,164606,Operation Avalanche (2016),Thriller,2016
-45005,164629,Parallel Courses (2016),Drama,2016
-45008,164635,Bleed (2016),Horror|Thriller,2016
-45009,164639,The Duelist (2016),(no genres listed),2016
-45011,164643,A Bride for Rip Van Winkle (2016),Drama,2016
-45013,164647,Dirty 30 (2016),Comedy|Romance,2016
-45014,164649,The Fury of a Patient Man (2016),Crime,2016
-45017,164655,Gimme Danger (2016),Documentary,2016
-45018,164657,Tectonic Plate (2016),(no genres listed),2016
-45019,164659,The Girl Without Hands (2016),Animation,2016
-45020,164661,The Magnitsky Act. - Behind the Scenes (2016),(no genres listed),2016
-45021,164663,Murderous Tales (2016),Animation,2016
-45025,164673,The Swedish Theory of Love (2016),Documentary,2016
-45028,164679,Gondolj rám (2016),Comedy|Drama,2016
-45033,164689,Flowers of Evil (2016),Crime|Drama,2016
-45034,164691,The Last Band in Lebanon (2016),(no genres listed),2016
-45037,164697,The Dwarvenaut (2016),Documentary,2016
-45050,164723,Murder She Baked: A Deadly Recipe (2016),Mystery,2016
-45054,164731,Secret Summer (2016),Children|Romance,2016
-45055,164733,"Signed, Sealed, Delivered: From the Heart (2016)",Romance,2016
-45059,164741,Ms. Matched (2016),Comedy|Romance,2016
-45060,164743,My Summer Prince (2016),(no genres listed),2016
-45061,164745,"Signed, Sealed, Delivered: One in a Million (2016)",(no genres listed),2016
-45065,164753,Anything for Love (2016),Romance,2016
-45066,164755,Appetite For Love (2016),Drama|Romance,2016
-45068,164759,Date with Love (2016),Comedy|Romance,2016
-45069,164761,The Convenient Groom (2016),Romance,2016
-45074,164771,Love Finds You in Valentine (2016),Drama|Romance,2016
-45085,164793,Raising the Bar (2016),Children,2016
-45086,164795,"Signed, Sealed, Delivered: Lost Without You (2016)",(no genres listed),2016
-45089,164801,The Alchemist Cookbook (2016),Drama,2016
-45095,164815,Twist of Fate (2016),Drama|Romance,2016
-45098,164821,Colossal (2016),Action|Sci-Fi|Thriller,2016
-45099,164823,Do Not Resist (2016),Documentary,2016
-45103,164831,Dark (2016),Drama|Horror|Thriller,2016
-45105,164835,"Murder, She Baked: A Peach Cobbler Mystery (2016)",Mystery,2016
-45122,164869,A Cinderella Story: If the Shoe Fits (2016),Comedy,2016
-45127,164879,Diggers (2016),Horror,2016
-45128,164881,Night Guards (2016),Action|Sci-Fi,2016
-45135,164899,Blue Jay (2016),Drama,2016
-45138,164905,Voyage of Time: Life's Journey (2016),Documentary|Drama,2016
-45140,164909,La La Land (2016),Comedy|Drama|Romance,2016
-45144,164917,13th (2016),Documentary,2016
-45150,164931,The Siege of Jadotville (2016),Drama|Thriller,2016
-45151,164933,Collector (2016),Drama|Thriller,2016
-45152,164935,Being 17 (2016),Drama,2016
-45154,164939,Vincent N Roxxy (2016),Crime|Drama|Thriller,2016
-45157,164945,Brother Nature (2016),Comedy,2016
-45159,164949,The Salesman (2016),Drama,2016
-45164,164959,Barbie: Spy Squad (2016),Action|Animation|Children,2016
-45170,164971,Two Lottery Tickets (2016),Comedy,2016
-45174,164981,Allied (2016),Action|Drama|Romance|Thriller|War,2016
-45175,164983,The Monster (2016),Horror,2016
-45184,165003,Chicken People (2016),Documentary,2016
-45194,165023,Phantasm: Ravager (2016),Fantasy|Horror,2016
-45204,165049,Autumn in the Vineyard (2016),Romance,2016
-45205,165051,Falsely Accused (2016),Crime|Mystery|Thriller,2016
-45206,165053,Who Gets the Dog? (2016),Comedy|Romance,2016
-45208,165057,Seneca's Day (2016),Drama,2016
-45215,165071,Baked in Brooklyn (2016),Comedy,2016
-45216,165073,Nacida para ganar (2016),Comedy,2016
-45217,165075,London Town (2016),Drama,2016
-45222,165085,Batman: Return of the Caped Crusaders (2016),Action|Animation|Comedy,2016
-45223,165087,Brimstone (2016),Mystery|Thriller|Western,2016
-45230,165101,Inferno (2016),Mystery|Thriller,2016
-45231,165103,Keeping Up with the Joneses (2016),Comedy,2016
-45232,165105,Ouija: Origin of Evil (2016),Horror|Thriller,2016
-45236,165115,My Blind Brother (2016),Comedy|Drama|Romance,2016
-45237,165117,Louis Theroux: Savile (2016),Documentary,2016
-45238,165119,Mascots (2016),Comedy,2016
-45240,165123,Crisis in Six Scenes (2016),Comedy,2016
-45241,165125,Patient Seven (2016),Horror,2016
-45242,165127,The White King (2016),Drama|Sci-Fi,2016
-45243,165129,What a Wonderful Family! (2016),Children|Drama,2016
-45248,165139,Wild Oats (2016),Comedy,2016
-45249,165141,Trolls (2016),Adventure|Animation|Children,2016
-45250,165143,Silver Skies (2016),Comedy,2016
-45251,165145,Sky Ladder: The Art of Cai Guo-Qiang (2016),Documentary,2016
-45256,165155,Russell Peters: Almost Famous (2016),Comedy,2016
-45259,165161,Girl in the Box (2016),Drama,2016
-45260,165163,Raiders! (2016),Documentary,2016
-45266,165175,37 (2016),Drama,2016
-45268,165179,Una (2016),Drama,2016
-45283,165211,The High Frontier (2016),Action|Drama|Thriller,2016
-45285,165217,Stalked by My Doctor: The Return (2016),(no genres listed),2016
-45286,165219,Max Steel (2016),Action|Adventure|Sci-Fi,2016
-45288,165223,The Law of the Jungle (2016),Comedy,2016
-45290,165227,Adulterers (2016),Crime|Drama|Thriller,2016
-45292,165231,Fritz Lang (2016),Drama,2016
-45294,165235,Operator (2016),Comedy|Drama,2016
-45296,165239,Supersonic (2016),Documentary,2016
-45313,165287,The Swap (2016),Comedy,2016
-45314,165289,Center Stage: On Pointe (2016),(no genres listed),2016
-45317,165295,Pumpkin Pie Wars (2016),Romance,2016
-45320,165301,My Bakery in Brooklyn (2016),Comedy|Romance,2016
-45322,165305,Love on a Limb (2016),Romance,2016
-45323,165307,Death Al Dente: A Gourmet Detective Mystery (2016),Mystery,2016
-45326,165313,Jessica Darling's It List (2016),Children,2016
-45333,165327,O Shaolin do Sertão (2016),Comedy,2016
-45334,165329,Always Shine (2016),Thriller,2016
-45336,165333,A Light Beneath Their Feet (2016),Drama,2016
-45338,165337,Denial (2016),Drama,2016
-45340,165341,It's All Good (2016),Comedy,2016
-45341,165343,The Rocky Horror Picture Show: Let's Do the Time Warp Again (2016),Comedy|Horror|Sci-Fi|Thriller,2016
-45343,165347,Jack Reacher: Never Go Back (2016),Action|Crime|Drama|Mystery|Thriller,2016
-45344,165349,Frank & Lola (2016),Crime|Drama|Mystery|Romance|Thriller,2016
-45345,165351,Hamilton's America (2016),Documentary,2016
-45346,165353,In a Valley of Violence (2016),Thriller|Western,2016
-45349,165359,Terror - Ihr Urteil (2016),Drama,2016
-45353,165367,Bling (2016),Animation|Children,2016
-45357,165375,Black Mountain Poets (2016),Comedy|Drama,2016
-45358,165377,Scream Week (2016),Comedy|Thriller,2016
-45373,165407,The Monk and the Demon (2016),Comedy|Mystery|Sci-Fi,2016
-45374,165409,Joe Cinque's Consolation (2016),Crime|Drama,2016
-45376,165413,Borrowed Time (2016),Animation|Drama|Western,2016
-45378,165417,The Constitution (2016),Drama,2016
-45380,165421,The Red Pill (2016),Documentary,2016
-45390,165441,American Pastoral (2016),Drama,2016
-45391,165443,Killjoy's Psycho Circus (2016),Horror,2016
-45409,165483,Joe Rogan: Triggered (2016),Comedy,2016
-45411,165487,"Fear, Inc. (2016)",Comedy|Horror,2016
-45412,165489,Ethel & Ernest (2016),(no genres listed),2016
-45413,165491,Into the Inferno (2016),Documentary,2016
-45419,165503,Mr. Church (2016),Drama,2016
-45428,165527,Before the Flood (2016),Documentary,2016
-45433,165537,The Windmill (2016),Horror,2016
-45434,165539,Michael Moore in TrumpLand (2016),Documentary,2016
-45436,165543,Manson's Lost Girls (2016),Crime|Drama|Thriller,2016
-45439,165549,Manchester by the Sea (2016),Drama,2016
-45440,165551,Lion (2016),Drama,2016
-45441,165553,Come And Find Me (2016),Drama,2016
-45442,165555,Spa Night (2016),Drama,2016
-45451,165575,In guerra per amore (2016),(no genres listed),2016
-45454,165581,Operation Mekong (2016),Action|Thriller,2016
-45464,165601,I Am the Pretty Thing That Lives in the House (2016),Horror|Thriller,2016
-45465,165603,The Autopsy of Jane Doe (2016),Horror,2016
-45466,165605,The Head Vanishes (2016),Animation,2016
-45469,165611,Alleycats (2016),Action|Thriller,2016
-45481,165635,The Thinning (2016),Thriller,2016
-45483,165639,While You Were Fighting: A Thor Mockumentary (2016),Comedy|Fantasy|Sci-Fi,2016
-45484,165641,Closet Monster (2016),Drama,2016
-45486,165645,Bad Santa 2 (2016),Comedy,2016
-45487,165647,Within (2016),Thriller,2016
-45489,165651,Take Down (2016),Action|Drama|Thriller,2016
-45495,165667,Somnus (2016),Adventure|Sci-Fi|Thriller,2016
-45496,165669,The Late Bloomer (2016),Comedy|Drama|Romance,2016
-45497,165671,Ice Guardians (2016),Documentary,2016
-45501,165679,iGirl (2016),Comedy|Romance,2016
-45502,165681,Almost Christmas (2016),Comedy,2016
-45519,165719,Luokkakokous 2: Polttarit (2016),Comedy,2016
-45521,165723,Ae Dil Hai Mushkil (2016),Comedy|Drama|Romance,2016
-45526,165733,Ice Girls (2016),(no genres listed),2016
-45527,165735,Chalk It Up (2016),(no genres listed),2016
-45528,165737,Accidentally Engaged (2016),Comedy|Romance,2016
-45566,165819,Jeff Ross Roasts Cops (2016),Comedy,2016
-45568,165823,Under the Sun (2016),Documentary,2016
-45574,165835,Tempestad (2016),Documentary,2016
-45575,165837,Kate Plays Christine (2016),Documentary|Drama,2016
-45576,165839,The Lives of Thérèse (2016),Documentary,2016
-45577,165841,All These Sleepless Nights (2016),Documentary,2016
-45578,165843,Risk (2016),Documentary,2016
-45579,165845,Kiki (2016),(no genres listed),2016
-45580,165847,Trapped (2016),Documentary,2016
-45581,165849,Newtown (2016),Documentary,2016
-45582,165851,Hooligan Sparrow (2016),Documentary,2016
-45583,165853,Cameraperson (2016),(no genres listed),2016
-45590,165867,Pure Pwnage: Teh Movie (2016),Comedy|Documentary,2016
-45591,165869,Heartstone (2016),Drama|Romance,2016
-45595,165877,The Dark Stranger (2016),Animation|Drama|Horror|Thriller,2016
-45596,165879,The Evil in Us (2016),Horror,2016
-45598,165883,May God Save Us (2016),Crime|Thriller,2016
-45599,165885,Smoke & Mirrors (2016),Action|Thriller,2016
-45601,165889,Acantilado (2016),Thriller,2016
-45602,165891,The Possession Experiment (2016),Horror,2016
-45603,165893,The Jews (2016),Comedy,2016
-45604,165895,Spaceman (2016),Comedy|Drama,2016
-45605,165897,Army of One (2016),Comedy,2016
-45607,165901,Happy Bhag Jayegi (2016),Comedy|Romance,2016
-45618,165925,The Congressman (2016),Drama,2016
-45621,165931,Ivan Tsarevich & the Grey Wolf 3 (2016),Adventure|Animation|Children,2016
-45622,165933,The Ivory Game (2016),Documentary,2016
-45624,165937,Collateral Beauty (2016),Drama,2016
-45625,165939,First Girl I Loved (2016),Comedy|Drama,2016
-45628,165947,The True Memoirs of an International Assassin (2016),Action|Comedy,2016
-45629,165949,You Will Know What to Do With Me (2016),Drama,2016
-45630,165951,Saint Amour (2016),Comedy|Drama,2016
-45638,165969,HyperNormalisation (2016),Documentary,2016
-45651,166005,La folle histoire de Max et Léon (2016),Comedy|War,2016
-45653,166009,The Chronicles of Melanie (2016),Drama,2016
-45654,166011,Shangri-La Suite (2016),Crime|Drama|Romance,2016
-45655,166013,Scrat: Spaced Out (2016),Animation|Comedy|Sci-Fi,2016
-45656,166015,The African Doctor (2016),Comedy|Drama,2016
-45658,166020,Dog Eat Dog (2016),Crime|Drama|Thriller,2016
-45659,166022,Justin Timberlake + The Tennessee Kids (2016),Documentary,2016
-45663,166030,Invisible (2016),(no genres listed),2016
-45674,166054,Maliglutit (Searchers) (2016),Action|Drama,2016
-45685,166126,Wet Woman in the Wind (2016),Drama|Thriller,2016
-45690,166140,The Untamed (2016),(no genres listed),2016
-45691,166143,Riphagen (2016),Drama|War,2016
-45694,166149,A United Kingdom (2016),Drama,2016
-45695,166151,Rock On 2 (2016),Drama,2016
-45697,166155,Godless (2016),Drama,2016
-45714,166189,The Standoff (2016),Comedy,2016
-45715,166191,All Hallow's Eve (2016),Children,2016
-45717,166195,The Submarine Kid (2016),Drama,2016
-45718,166197,Race to Win (2016),Children|Drama,2016
-45726,166213,A Wish for Christmas (2016),Drama|Romance,2016
-45737,166235,Shut In (2016),Drama|Thriller,2016
-45742,166245,Good Kids (2016),Comedy,2016
-45743,166247,Summer Villa (2016),(no genres listed),2016
-45744,166249,Seduced (2016),Drama|Thriller,2016
-45748,166263,My Feral Heart (2016),Drama,2016
-45757,166281,Attack of the Lederhosen Zombies (2016),Comedy|Horror,2016
-45758,166283,Cardboard Boxer (2016),Drama,2016
-45759,166285,The Odyssey (2016),Adventure,2016
-45760,166287,Officer Downe (2016),Action,2016
-45762,166291,A Silent Voice (2016),Animation|Drama|Romance,2016
-45769,166306,Iris (2016),Thriller,2016
-45770,166310,Heal the Living (2016),Drama,2016
-45771,166312,100 metros (2016),Drama,2016
-45791,166369,Sour Grapes (2016),Documentary,2016
-45792,166371,Il Solengo (2016),Documentary,2016
-45793,166373,Food Choices (2016),Documentary,2016
-45797,166381,Ricardo O'Farrill: Abrazo Genial (2016),Comedy,2016
-45798,166383,Sofía de Niño Rivera: Exposed (2016),Comedy,2016
-45804,166395,Jimmy Vestvood: Amerikan Hero (2016),Comedy,2016
-45808,166403,The Blackout Experiments (2016),(no genres listed),2016
-45814,166415,UNDERFIRE: The Untold Story of Pfc. Tony Vaccaro (2016),(no genres listed),2016
-45822,166441,Playground (2016),Drama|Thriller,2016
-45828,166453,Baden Baden (2016),Drama,2016
-45829,166455,Lego DC Comics Superheroes: Justice League - Gotham City Breakout (2016),Animation,2016
-45832,166461,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,2016
-45838,166476,The Unbidden (2016),Horror|Mystery|Thriller,2016
-45839,166478,Siren (2016),Horror,2016
-45840,166480,Eliminators (2016),Action|Thriller,2016
-45841,166482,Alienate (2016),Drama|Horror|Sci-Fi|Thriller,2016
-45843,166486,Jackie (2016),Drama,2016
-45846,166492,Office Christmas Party (2016),Comedy,2016
-45863,166526,The Space Between Us (2016),Adventure|Sci-Fi,2016
-45864,166528,Rogue One: A Star Wars Story (2016),Action|Adventure|Fantasy|Sci-Fi,2016
-45865,166530,Pet (2016),Thriller,2016
-45868,166536,Old Stone (2016),Drama,2016
-45869,166538,Asperger's Are Us (2016),Documentary,2016
-45871,166542,National Bird (2016),Documentary,2016
-45872,166544,A Kind of Murder (2016),Thriller,2016
-45873,166546,Shared Rooms (2016),(no genres listed),2016
-45878,166558,Underworld: Blood Wars (2016),Action|Horror,2016
-45880,166562,Panfilov's 28 Men (2016),(no genres listed),2016
-45883,166568,Miss Sloane (2016),Thriller,2016
-45884,166570,When Two Worlds Collide (2016),Documentary,2016
-45885,166572,Rules Don't Apply (2016),Drama,2016
-45891,166587,Sam (2016),Comedy|Fantasy|Romance,2016
-45893,166591,Aanandam (2016),Adventure|Comedy|Romance,2016
-45894,166593,Happy Wedding (2016),Comedy|Drama|Romance,2016
-45895,166595,Pretham (2016),Comedy|Horror,2016
-45896,166597,Guppy (2016),Drama,2016
-45897,166599,Kammatipaadam (2016),Crime|Drama,2016
-45898,166601,Action Hero Biju (2016),Action|Comedy|Crime,2016
-45908,166621,Love Is All You Need? (2016),Drama,2016
-45915,166635,Passengers (2016),Adventure|Drama|Romance|Sci-Fi,2016
-45919,166643,Hidden Figures (2016),Drama,2016
-45924,166653,Michael Che Matters (2016),Comedy,2016
-45926,166657,The Charnel House (2016),Thriller,2016
-45927,166659,Libera Nos (2016),(no genres listed),2016
-45929,166665,The Coming War on China (2016),(no genres listed),2016
-45944,166705,Fences (2016),Drama,2016
-45948,166715,Little Wing (2016),Drama,2016
-45951,166721,Bleed for This (2016),Drama,2016
-45954,166727,Norman Television (2016),Animation,2016
-45962,166743,Serena (2016),Documentary,2016
-45966,166753,Rainbow Time (2016),Comedy|Drama,2016
-45967,166755,Hacker (2016),Crime|Drama|Thriller,2016
-45968,166757,The Free World (2016),Drama,2016
-45978,166777,The Greasy Strangler (2016),Comedy|Horror|Thriller,2016
-45983,166788,20th Century Women (2016),Drama,2016
-45984,166790,My Future Love (2016),(no genres listed),2016
-45986,166794,Money (2016),Crime|Thriller,2016
-45990,166802,Inner Workings (2016),Animation|Comedy,2016
-45991,166804,The Lennon Report (2016),Drama,2016
-46002,166830,Marathon: The Patriots Day Bombing (2016),Documentary,2016
-46011,166848,Shadows of the Dead (2016),Horror,2016
-46019,166864,The Hurt Business (2016),Documentary,2016
-46020,166866,The Together Project (2016),Comedy|Romance,2016
-46041,166908,Mercenary (2016),Drama,2016
-46043,166912,My Dead Boyfriend (2016),Comedy,2016
-46045,166916,1898. Los últimos de Filipinas (2016),Drama|War,2016
-46046,166918,The Great Wall (2016),Action|Adventure|Thriller,2016
-46051,166928,Big Jay Oakerson: Live at Webster Hall (2016),Comedy,2016
-46053,166932,Slash (2016),Comedy,2016
-46054,166934,Reggie Watts: Spatial (2016),Comedy,2016
-46055,166936,Mercy (2016),Thriller,2016
-46056,166938,The Matchbreaker (2016),Comedy|Romance,2016
-46057,166940,This Beautiful Fantastic (2016),Drama,2016
-46060,166946,The Founder (2016),Drama,2016
-46061,166948,The Oath (2016),Crime|Drama|Thriller,2016
-46066,166958,Hairspray Live! (2016),Comedy,2016
-46073,166974,Creepy (2016),Thriller,2016
-46091,167018,Why Him? (2016),Comedy,2016
-46098,167032,Dancer (2016),Documentary,2016
-46099,167034,I Am Bolt (2016),Documentary,2016
-46100,167036,Sing (2016),Animation|Children|Comedy,2016
-46101,167038,Dear Zindagi (2016),Drama|Romance,2016
-46102,167040,Kahaani 2 (2016),Crime|Thriller,2016
-46116,167068,Wildflower (2016),Drama|Thriller,2016
-46121,167078,The Bachelor (2016),Comedy|Romance,2016
-46124,167084,Jack Goes Home (2016),Drama|Horror|Thriller,2016
-46129,167094,End of a Gun (2016),Action|Crime|Thriller,2016
-46130,167096,Green is Gold (2016),Crime|Drama,2016
-46133,167104,Tamo Junto (2016),Comedy,2016
-46138,167114,The Giant (2016),(no genres listed),2016
-46139,167116,Miss India America (2016),Children|Comedy|Drama,2016
-46140,167118,Sugar Mountain (2016),Drama|Thriller,2016
-46141,167122,In Bed with Victoria (2016),Comedy,2016
-46145,167130,Darkweb (2016),Action|Thriller,2016
-46148,167136,Alone in Berlin (2016),Drama,2016
-46149,167140,At Cafe 6 (2016),Comedy|Romance,2016
-46150,167142,The Kodai Family (2016),Comedy|Romance,2016
-46152,167146,Kyle Kinane: Loose in Chicago (2016),Comedy,2016
-46155,167152,A martfüi rém (2016),Thriller,2016
-46160,167162,The Legend of Ben Hall (2016),Action|Drama|Western,2016
-46161,167164,Mister Universo (2016),Drama,2016
-46162,167166,7 Years (2016),Drama,2016
-46166,167174,Beyond the Gates (2016),Adventure|Horror,2016
-46172,167186,Pass-Thru (2016),Sci-Fi,2016
-46177,167198,The Fourth Phase (2016),Documentary,2016
-46181,167206,Paranormal Drive (2016),Crime|Horror,2016
-46189,167234,Life+1 Day (2016),Drama|Thriller,2016
-46190,167236,Coming Through The Rye (2016),Drama,2016
-46196,167248,Kedi (2016),(no genres listed),2016
-46205,167266,Christmas List (2016),Comedy|Romance,2016
-46215,167290,Happy Birthday (2016),Horror|Thriller,2016
-46222,167310,The Caretaker (2016),Horror|Thriller,2016
-46223,167316,The Crooked Man (2016),Horror,2016
-46226,167322,The Trans List (2016),Documentary,2016
-46232,167334,Barry (2016),Drama,2016
-46240,167352,Hurricane Bianca (2016),Comedy,2016
-46248,167368,Room Full of Spoons (2016),Documentary,2016
-46249,167370,Assassin's Creed (2016),Action|Adventure|Sci-Fi,2016
-46252,167376,Nuestros amantes (2016),Comedy|Romance,2016
-46253,167378,Greater (2016),Children|Drama,2016
-46259,167390,One Week and a Day (2016),Comedy|Drama,2016
-46260,167392,Dangal (2016),Drama,2016
-46261,167394,Theatre of Life (2016),Documentary,2016
-46268,167412,The Darkest Dawn (2016),Sci-Fi,2016
-46274,167424,Le passe-muraille (2016),Comedy|Fantasy|Romance,2016
-46279,167436,Collective: Unconscious (2016),(no genres listed),2016
-46285,167448,Domain (2016),Drama|Sci-Fi|Thriller,2016
-46296,167472,Beyond Valkyrie: Dawn of the 4th Reich (2016),Action|War,2016
-46297,167474,The Long Night of Francisco Sanctis (2016),Drama,2016
-46298,167476,Rara (2016),Children|Drama,2016
-46304,167488,Collide (2016),Action|Thriller,2016
-46305,167490,Beep: A Documentary History of Game Sound (2016),Documentary,2016
-46306,167492,Enter the Battlefield: Life on the Magic - The Gathering Pro Tour (2016),Documentary,2016
-46307,167494,Mower Minions (2016),Animation|Comedy,2016
-46330,167540,María (y los demás) (2016),Comedy|Drama,2016
-46331,167542,El rei borni (2016),Comedy|Drama,2016
-46332,167544,Patriots Day (2016),Drama|Thriller,2016
-46333,167546,Gold (2016),Drama,2016
-46337,167554,Seasons (2016),Documentary,2016
-46340,167560,Sobriety (2016),Drama,2016
-46343,167568,FirstBorn (2016),(no genres listed),2016
-46346,167574,The Woman in the Septic Tank 2: Forever Is Not Enough (2016),Comedy,2016
-46347,167576,Seclusion (2016),Horror|Thriller|War,2016
-46348,167578,The Third Party (2016),Comedy|Romance,2016
-46362,167610,Why Blame It on the Child? (2016),Children|Comedy,2016
-46364,167614,Blue Guitar (2016),(no genres listed),2016
-46367,167620,Leap! (2016),Animation|Children|Comedy,2016
-46369,167624,Nemiche per la pelle (2016),Comedy,2016
-46375,167636,Monster Trucks (2016),Action|Animation|Children|Comedy|Sci-Fi,2016
-46383,167652,Red Dog: True Blue (2016),Children|Comedy|Drama,2016
-46384,167654,The Last Dragonslayer (2016),Action|Fantasy,2016
-46385,167656,Quel bravo ragazzo (2016),Comedy,2016
-46394,167674,All We Had (2016),(no genres listed),2016
-46397,167680,Garfunkel and Oates: Trying to be Special (2016),Comedy,2016
-46398,167682,The Unknown Girl (2016),Crime|Drama|Thriller,2016
-46399,167684,Eternity (2016),Drama,2016
-46402,167690,Heroes Wanted (2016),Comedy,2016
-46403,167696,The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared (2016),Adventure|Comedy,2016
-46404,167698,Viking (2016),Action|Drama,2016
-46418,167726,Sheep & Wolves (2016),Adventure|Animation|Children|Comedy,2016
-46420,167730,Tonio (2016),Drama,2016
-46421,167732,A Street Cat Named Bob (2016),Comedy|Drama,2016
-46426,167742,Blood on the Mountain (2016),Documentary,2016
-46427,167744,Prevenge (2016),Comedy|Drama|Fantasy|Horror|Thriller,2016
-46447,167786,When the Bough Breaks (2016),Drama|Horror|Mystery,2016
-46449,167790,The Good Boy (2016),Children|Comedy|Drama,2016
-46451,167794,Frantz (2016),Drama,2016
-46454,167800,Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry (2016),Comedy,2016
-46455,167802,The 24 Hour War (2016),Documentary,2016
-46457,167806,À fond (2016),Comedy,2016
-46462,167816,The Hollow (2016),Crime|Drama|Mystery|Thriller,2016
-46463,167818,Wizard Mode (2016),Documentary,2016
-46464,167822,The Ideal (2016),Comedy,2016
-46469,167832,The Invisible Guest (2016),Thriller,2016
-46472,167838,Kung Fu Yoga (2016),Action|Adventure|Comedy|Mystery,2016
-46475,167844,The Night My Mother Killed My Father (2016),Comedy,2016
-46476,167848,Burn Country (2016),Drama|Thriller|War,2016
-46477,167850,One Piece Film: GOLD (2016),Action|Adventure|Animation,2016
-46479,167854,"Dana Carvey: Straight White Male, 60 (2016)",Comedy,2016
-46482,167860,Master (2016),Action|Crime,2016
-46484,167864,Claire in Motion (2016),Drama,2016
-46487,167870,The White Helmets (2016),Documentary|War,2016
-46524,167956,How to Win the US Presidency (2016),Documentary,2016
-46534,167976,Past Life (2016),Drama,2016
-46537,167982,I'm Not Ashamed (2016),Drama,2016
-46538,167984,A Cinderella Christmas (2016),(no genres listed),2016
-46539,167986,Rupture (2016),Sci-Fi|Thriller,2016
-46540,167988,Buddha in a Traffic Jam (2016),(no genres listed),2016
-46541,167990,The Young Offenders (2016),Comedy,2016
-46542,167992,Best and Most Beautiful Things (2016),Documentary,2016
-46544,167996,Wedding Bells (2016),Romance,2016
-46545,167998,Tulips in Spring (2016),Drama|Romance,2016
-46546,168000,Summer Love (2016),Romance,2016
-46552,168012,Tini: The Movie - The New Life of Violetta (2016),Comedy|Drama,2016
-46558,168024,Summer in the City (2016),(no genres listed),2016
-46560,168028,Cup of Love (2016),Romance,2016
-46562,168032,Lea to the Rescue (2016),Children,2016
-46565,168038,Advance & Retreat (2016),Romance,2016
-46567,168042,A December Bride (2016),Romance,2016
-46568,168044,Girlfriends of Christmas Past (2016),Comedy|Romance,2016
-46569,168046,A Nutcracker Christmas (2016),Children|Drama|Romance,2016
-46570,168048,The Mistletoe Promise (2016),Comedy|Romance,2016
-46571,168050,Late Bloomer (2016),(no genres listed),2016
-46572,168052,Sleigh Bells Ring (2016),Romance,2016
-46575,168058,The King's Choice (2016),Action|Drama|War,2016
-46577,168062,The Barn (2016),Horror,2016
-46578,168064,Sword Master (2016),Action,2016
-46591,168090,Kizumonogatari II: Passionate Blood (2016),Animation|Fantasy|Mystery,2016
-46609,168130,Teenage Cocktail (2016),Drama|Thriller,2016
-46612,168136,Sold (2016),Drama,2016
-46619,168150,Legends of the Hidden Temple (2016),Adventure|Children,2016
-46621,168154,We Are the Flesh (2016),Drama|Fantasy|Horror,2016
-46622,168156,Deserted Cities (2016),(no genres listed),2016
-46635,168184,Welcome to Norway (2016),Comedy|Drama,2016
-46640,168202,Men Go to Battle (2016),(no genres listed),2016
-46644,168210,Staying Vertical (2016),Drama,2016
-46650,168224,Minha Mãe é Uma Peça 2 (2016),Comedy,2016
-46651,168226,Scrappin' (2016),Comedy,2016
-46658,168242,I'm a Killer (2016),Crime|Drama|Mystery|Thriller,2016
-46659,168244,Maigret's Dead Man (2016),Crime|Mystery|Thriller,2016
-46660,168246,ISRA 88 (2016),Adventure|Mystery|Sci-Fi|Thriller,2016
-46668,168262,City of Tiny Lights (2016),Crime|Drama|Thriller,2016
-46675,168276,Passage to Mars (2016),Adventure|Documentary|Sci-Fi,2016
-46704,168334,Chocolat (2016),Comedy|Drama,2016
-46707,168340,The Case of: JonBenét Ramsey (2016),(no genres listed),2016
-46710,168346,The Rolling Stones Olé Olé Olé! : A Trip Across Latin America (2016),Documentary,2016
-46711,168348,Headshot (2016),Action|Thriller,2016
-46712,168350,100 Streets (2016),Drama,2016
-46713,168352,Incarnate (2016),Horror|Thriller,2016
-46735,168402,"Love, Lies (2016)",Drama|Romance,2016
-46738,168408,Boo! A Madea Halloween (2016),Comedy|Horror,2016
-46739,168410,Spring Broke (2016),Documentary,2016
-46744,168422,Breakdown (2016),Thriller,2016
-46746,168426,Beware the Slenderman (2016),Crime|Documentary,2016
-46750,168434,In Between (2016),(no genres listed),2016
-46761,168456,Mercury Plains (2016),Action|Adventure|Drama,2016
-46765,168464,Τέλειοι Ξένοι (2016),Comedy|Drama,2016
-46770,168474,Ukonvaaja (2016),Documentary,2016
-46771,168476,Thank You for Your Service (2016),Documentary,2016
-46772,168478,Machines (2016),Documentary,2016
-46777,168490,Curumim (2016),Documentary,2016
-46781,168500,SelfieParty (2016),Comedy,2016
-46791,168530,El Hilo Rojo (2016),Drama|Romance,2016
-46792,168532,"Gilda, no me arrepiento de este amor (2016)",Drama,2016
-46796,168540,Night of Something Strange (2016),Comedy|Horror,2016
-46797,168542,American Summer (2016),Adventure|Comedy,2016
-46799,168548,The River Thief (2016),Action|Adventure|Crime,2016
-46805,168560,Die Beautiful (2016),Comedy|Drama,2016
-46806,168562,Poveda (2016),(no genres listed),2016
-46807,168564,Homo Sapiens (2016),Documentary,2016
-46811,168576,Two Lovers and a Bear (2016),Drama|Romance,2016
-46814,168584,Better Off Single (2016),Comedy,2016
-46815,168586,Catfight (2016),Comedy,2016
-46828,168618,As You Are (2016),Drama,2016
-46829,168620,Maalik (2016),Action|Drama,2016
-46830,168622,Lost in the Pacific (2016),Adventure|Sci-Fi|Thriller,2016
-46834,168630,The Journey To Greenland (2016),Comedy,2016
-46837,168636,Nocturama (2016),Thriller,2016
-46838,168638,Stick Man (2016),Animation|Children,2016
-46845,168652,Sadako vs. Kayako (2016),Horror|Thriller,2016
-46846,168654,Kills on Wheels (2016),Action|Comedy,2016
-46850,168664,Ghostland: The View of the Ju'Hoansi (2016),Documentary,2016
-46851,168666,Ten Meter Tower (2016),(no genres listed),2016
-46880,168726,The Master: A Lego Ninjago Short (2016),Action|Animation|Comedy,2016
-46887,168740,The Ticket (2016),Drama,2016
-46891,168748,Pearl (2016),Animation,2016
-46892,168750,Blind Vaysha (2016),Animation,2016
-46893,168752,Pear Cider and Cigarettes (2016),(no genres listed),2016
-46903,168772,Lavender (2016),Drama|Thriller,2016
-46905,168776,My Father Die (2016),Action|Drama,2016
-46907,168780,Red Billabong (2016),Action|Adventure|Thriller,2016
-46908,168782,Onus (2016),Drama|Mystery|Thriller,2016
-46909,168784,The Hollow Point (2016),Action|Drama|Thriller,2016
-46911,168788,A Sunday Kind of Love (2016),Drama|Fantasy|Romance,2016
-46913,168792,The Great Gilly Hopkins (2016),Children|Comedy|Drama,2016
-46923,168814,Chapter & Verse (2016),Crime|Drama,2016
-46927,168824,Ozzy (2016),Animation|Children,2016
-46936,168844,Death by Death (2016),Comedy|Drama,2016
-46944,168860,Lazy Eye (2016),Comedy|Drama|Romance,2016
-46946,168864,Temps (2016),Comedy|Romance,2016
-46952,168884,Mine (2016),Thriller,2016
-46953,168886,A Decent Man (2016),Drama,2016
-46957,168894,The Tip of the Iceberg (2016),Mystery|Thriller,2016
-46960,168900,Hunter Gatherer (2016),Drama,2016
-46965,168910,Come Together (2016),Children|Comedy|Drama,2016
-46971,168922,Couple in a Hole (2016),Drama|Thriller,2016
-46974,168928,Uncle Kent 2 (2016),Comedy,2016
-46977,168934,King of the Belgians (2016),Comedy|Drama,2016
-46978,168936,The Happy Film (2016),Documentary,2016
-46982,168944,Queen of Spades (2016),Thriller,2016
-46983,168946,Burnout 2 (2016),Action|Comedy,2016
-46984,168948,Dreamfish (2016),(no genres listed),2016
-46986,168952,Innsaei (2016),(no genres listed),2016
-46991,168962,Pink (2016),Drama|Thriller,2016
-46994,168972,To Stay Alive - A Method (2016),(no genres listed),2016
-46997,168980,Apnée (2016),Drama,2016
-46998,168982,Floyd Norman: An Animated Life (2016),Documentary,2016
-47004,168998,Curse of the Man Who Sees UFOs (2016),Documentary,2016
-47009,169008,Shepherds and Butchers (2016),Drama,2016
-47016,169022,Classmates (2016),Animation,2016
-47021,169032,The Escape (2016),Action|Thriller,2016
-47022,169034,Lemonade (2016),(no genres listed),2016
-47023,169036,Peter and the Farm (2016),Documentary,2016
-47025,169040,Starless Dreams (2016),Documentary,2016
-47029,169048,The Land of the Enlightened (2016),Documentary,2016
-47032,169054,The Beginning of Life (2016),Documentary,2016
-47034,169058,Beauties of the Night (2016),Documentary,2016
-47038,169066,Dark Fortune (2016),Drama,2016
-47039,169068,All This Panic (2016),Documentary,2016
-47044,169088,The Tribe (2016),Drama|Sci-Fi|Thriller,2016
-47047,169094,Cat Sick Blues (2016),Comedy|Horror,2016
-47049,169098,Edgar Allan Poe's Lighthouse Keeper (2016),Horror,2016
-47056,169114,Mood of the Day (2016),Comedy|Romance,2016
-47083,169170,To Walk Invisible (2016),Drama,2016
-47093,169190,Teenage Kicks (2016),Drama,2016
-47095,169194,Cam-Girl (2016),Mystery|Thriller,2016
-47110,169224,Deadly Daughters (2016),Thriller,2016
-47122,169248,Kill Ratio (2016),Action,2016
-47123,169250,Trash Fire (2016),Comedy|Horror|Romance,2016
-47131,169266,Colin Quinn: The New York Story (2016),Comedy,2016
-47132,169268,Cedric the Entertainer: Live from the Ville (2016),Comedy,2016
-47134,169274,The Fabulous Pastars (2016),Comedy,2016
-47137,169280,The Fourth Annual 'On Cinema' Oscar Special (2016),Comedy,2016
-47146,169298,Drifter (2016),Crime|Horror|Thriller,2016
-47149,169304,The Reconquest (2016),Drama|Romance,2016
-47150,169306,Max Rose (2016),Drama,2016
-47151,169308,Matt Besser: Besser Breaks The Record (2016),Comedy,2016
-47153,169312,Tony Hinchcliffe: One Shot (2016),Comedy,2016
-47154,169314,Whitney Cummings: I'm Your Girlfriend (2016),Comedy,2016
-47155,169316,Alonzo Bodden: Historically Incorrect (2016),Comedy,2016
-47156,169318,Theo Von: No Offense (2016),Comedy,2016
-47157,169320,Steve-O: Guilty as Charged (2016),Comedy,2016
-47158,169322,Stephen Lynch: Hello Kalamazoo (2016),Comedy,2016
-47159,169324,Cameron Esposito: Marriage Material (2016),Comedy,2016
-47160,169326,Frankie Boyle: Hurt Like You've Never Been Loved (2016),Comedy,2016
-47161,169328,Nikki Glaser: Perfect (2016),Comedy,2016
-47162,169330,Rachel Feinstein: Only Whores Wear Purple (2016),Comedy,2016
-47163,169332,Chris Hardwick: Funcomfortable (2016),Comedy,2016
-47164,169334,Gary Gulman: It's About Time (2016),Comedy,2016
-47165,169336,Michael Ian Black: Noted Expert (2016),Comedy,2016
-47166,169338,Brad Williams: Daddy Issues (2016),Comedy,2016
-47167,169340,Quincy Jones: Burning the Light (2016),Comedy,2016
-47168,169342,Ben Gleib: Neurotic Gangster (2016),Comedy,2016
-47169,169344,Willie Barcena: The Truth Hurts (2016),Comedy,2016
-47170,169346,Josh Blue: Delete (2016),Comedy,2016
-47171,169348,Godfrey: Regular Black (2016),Comedy,2016
-47172,169350,Martin Lawrence Doin’ Time (2016),Comedy,2016
-47173,169352,Doug Stanhope: No Place Like Home (2016),Comedy,2016
-47174,169354,Sebastian Maniscalco: Why Would You Do That? (2016),Comedy,2016
-47175,169356,Lewis Black: Black to the Future (2016),Comedy,2016
-47176,169358,Jena Friedman: American Cunt (2016),Comedy,2016
-47177,169360,Wanda Sykes: What Happened… Ms. Sykes? (2016),Comedy,2016
-47178,169362,Barry Crimmins: Whatever Threatens You (2016),Comedy,2016
-47179,169364,Janeane Garofalo: If I May (2016),Comedy,2016
-47180,169366,Pete Davidson: SMD (2016),Comedy,2016
-47181,169368,Mo Mandel: Negative Reinforcement (2016),Comedy,2016
-47182,169370,Kathleen Madigan: Bothering Jesus (2016),Comedy,2016
-47183,169372,Dan Levy: Lion (2016),Comedy,2016
-47184,169374,Aries Spears: Comedy Blueprint (2016),Comedy,2016
-47185,169376,Tony Roberts: Motorcity Motormouth (2016),Comedy,2016
-47186,169378,Joey Coco Diaz: Sociably UnAcceptable (2016),Comedy,2016
-47187,169380,Tom Papa: Human Mule (2016),Comedy,2016
-47188,169382,Nick Thune: Good Guy (2016),Comedy,2016
-47189,169384,Ian Harvie: May the Best Cock Win (2016),Comedy,2016
-47190,169386,Ogres (2016),Drama,2016
-47193,169392,Pre Vis Action (2016),Action,2016
-47194,169394,My Entire High School Sinking Into the Sea (2016),Animation,2016
-47197,169400,Gantz: O (2016),Action|Animation|Horror|Sci-Fi,2016
-47209,169426,Indivisible (2016),Drama,2016
-47210,169428,Mr. Pig (2016),Drama,2016
-47211,169430,Sister Cities (2016),Drama,2016
-47213,169434,Magicians: Life in the Impossible (2016),Documentary,2016
-47231,169470,Priceless (2016),Drama|Romance,2016
-47234,169476,Departure (2016),Children|Drama|Romance,2016
-47241,169490,Fanny's Journey (2016),Drama,2016
-47242,169492,Tonight It's You (2016),Thriller,2016
-47247,169502,Once Upon a Line (2016),Animation,2016
-47248,169504,Happy End (2016),(no genres listed),2016
-47261,169530,Sing (2016),Drama,2016
-47262,169532,Silent Nights (2016),(no genres listed),2016
-47263,169534,Timecode (2016),(no genres listed),2016
-47264,169536,Enemies Within (2016),Drama,2016
-47325,169658,2307: Winter's Dream (2016),Sci-Fi,2016
-47330,169668,Banking on Bitcoin (2016),Documentary,2016
-47331,169670,The Void (2016),Horror,2016
-47341,169694,Magnus (2016),Documentary,2016
-47345,169706,Fuglene Over Sundet (2016),Drama|War,2016
-47348,169714,Donald Cried (2016),Comedy|Drama,2016
-47353,169732,Bigfoot vs. Zombies (2016),Horror,2016
-47360,169750,Stake Land II: The Stakelander (2016),Action|Horror,2016
-47361,169752,Sand Storm (2016),Drama,2016
-47367,169764,Personal Shopper (2016),Drama|Thriller,2016
-47368,169766,The Railroad Lady (2016),(no genres listed),2016
-47372,169774,Window Horses (2016),Animation|Drama,2016
-47377,169784,Extremis (2016),Documentary,2016
-47379,169788,4.1 Miles (2016),Documentary,2016
-47380,169790,The Rolling Stones - Havana Moon (2016),(no genres listed),2016
-47381,169792,Carrie Pilby (2016),Comedy,2016
-47389,169808,Prey (2016),Horror|Thriller,2016
-47390,169810,Joe's Violin (2016),Documentary,2016
-47392,169814,The Assignment (2016),Action|Thriller,2016
-47399,169828,Fallen (2016),Adventure|Drama|Fantasy|Romance|Thriller,2016
-47411,169852,Les Pépites (2016),Documentary,2016
-47429,169890,Zip & Zap and the Captain's Island (2016),Adventure|Comedy,2016
-47432,169896,Cruel Summer (2016),Drama|Horror|Thriller,2016
-47437,169906,The Night Of (2016),Crime|Drama,2016
-47444,169920,Triumph’s Election Special 2016 (2016),Comedy,2016
-47456,169948,Tomorrow Everything Starts (2016),Comedy|Drama,2016
-47460,169956,The Greatest Party on Earth (2016),Documentary,2016
-47463,169962,2 Lava 2 Lantula! (2016),Horror|Sci-Fi|Thriller,2016
-47469,169974,If Cats Disappeared From the World (2016),Drama,2016
-47479,169996,The Other Half (2016),Drama|Romance,2016
-47493,170028,Canola (2016),Children|Drama,2016
-47494,170030,The Vessel (2016),Drama,2016
-47495,170032,Smolensk (2016),Drama|Thriller,2016
-47496,170036,Milton's Secret (2016),Children|Drama,2016
-47497,170040,God's Compass (2016),Drama,2016
-47498,170042,The Passion (2016),Drama,2016
-47499,170044,Fight Valley (2016),Action,2016
-47503,170052,Halloweed (2016),Comedy|Horror,2016
-47548,170197,A Date for Mad Mary (2016),Drama,2016
-47553,170207,Zoology (2016),Drama|Fantasy,2016
-47570,170245,One Breath (2016),Drama,2016
-47571,170247,Population Zero (2016),Crime|Mystery|Thriller,2016
-47577,170261,Ma' Rosa (2016),Drama,2016
-47601,170311,Ali & Nino (2016),Drama|Romance,2016
-47603,170315,Thirst (2016),Action|Sci-Fi|Thriller,2016
-47626,170361,Sami Blood (2016),Drama,2016
-47627,170363,Love and Fury (2016),Drama,2016
-47632,170373,Harmonia (2016),(no genres listed),2016
-47634,170377,The Last Laugh (2016),Documentary,2016
-47638,170385,Enemies with Benefits (2016),Comedy,2016
-47672,170457,Smoking Guns (2016),Comedy|Crime|Drama,2016
-47673,170459,A Flying Jatt (2016),Action|Adventure|Fantasy,2016
-47674,170461,Fog in August (2016),Drama,2016
-47690,170493,Apex: The Story of the Hypercar (2016),Documentary,2016
-47695,170503,People You May Know (2016),Comedy|Drama,2016
-47698,170509,Esteros (2016),Comedy|Drama|Romance,2016
-47719,170553,The Warrior's Gate (2016),Action|Adventure,2016
-47737,170589,Middle Man (2016),Comedy|Crime|Drama,2016
-47745,170605,Pandora (2016),Action|Drama|Thriller,2016
-47754,170625,Miles (2016),Drama,2016
-47757,170631,Is That a Gun in Your Pocket? (2016),Comedy,2016
-47774,170669,"All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone (2016)",Documentary,2016
-47775,170671,I still hide to smoke (2016),(no genres listed),2016
-47776,170673,Louise by the Shore (2016),Animation,2016
-47781,170685,Lone Wolves (2016),Action|Sci-Fi,2016
-47788,170699,White Coffin (2016),Action|Horror|Thriller,2016
-47802,170731,De Premier (2016),Thriller,2016
-47803,170733,24 (2016),Action|Sci-Fi|Thriller,2016
-47822,170775,The Secret Scripture (2016),Drama,2016
-47830,170791,Fight For Space (2016),Documentary,2016
-47831,170793,Paint It Black (2016),Drama,2016
-47836,170803,We are the tide (2016),Drama|Mystery|Sci-Fi,2016
-47837,170805,Her Love Boils Bathwater (2016),Comedy|Drama,2016
-47840,170811,Night's Tightrope (2016),Drama,2016
-47847,170825,Superbia (2016),(no genres listed),2016
-47861,170853,1:54 (2016),Drama,2016
-47864,170861,Dead West (2016),Crime|Drama|Horror|Thriller,2016
-47865,170863,The Sweet Life (2016),Comedy|Drama|Romance,2016
-47869,170871,Boy Missing (2016),Mystery|Thriller,2016
-47872,170877,Cezanne and I (2016),Comedy|Drama,2016
-47876,170887,Scoop! (2016),Mystery,2016
-47877,170889,I Am Not Madame Bovary (2016),Comedy|Drama,2016
-47880,170895,Right Here Right Now (2016),Drama,2016
-47886,170907,Betting on Zero (2016),Documentary,2016
-47887,170909,Judging Japan (2016),(no genres listed),2016
-47889,170913,Here Alone (2016),Drama|Horror|Sci-Fi|Thriller,2016
-47892,170919,"Sweet, Sweet Lonely Girl (2016)",Drama|Horror|Thriller,2016
-47895,170925,The Rift (2016),Horror|Sci-Fi|Thriller,2016
-47896,170927,Another Evil (2016),Comedy,2016
-47908,170951,I Love You Both (2016),Comedy,2016
-47909,170955,11:55 (2016),Crime|Drama,2016
-47913,170963,A Beginner's Guide to Snuff (2016),Comedy|Horror|Thriller,2016
-47918,170973,Boyka: Undisputed IV (2016),Action,2016
-47933,171003,Rufus (2016),Children|Comedy,2016
-47937,171011,Planet Earth II (2016),Documentary,2016
-47938,171013,In This Corner of the World (2016),Animation|Drama,2016
-47946,171031,Citizen Jane: Battle for the City (2016),Documentary,2016
-47949,171037,Drain the Titanic (2016),Documentary,2016
-47952,171043,Meet the Guilbys (2016),Comedy|Drama,2016
-47959,171059,Panamerican Machinery (2016),Comedy|Drama,2016
-47970,171083,Afterlov (2016),Comedy|Drama,2016
-47974,171091,Only For One Night (2016),Drama,2016
-47988,171127,The Irresistible Blueberry Farm (2016),Mystery|Romance,2016
-47989,171129,Tommy's Honour (2016),(no genres listed),2016
-47990,171131,My Way: The Rise and Fall of Silvio Berlusconi (2016),Documentary,2016
-47994,171141,Handsome Devil (2016),Drama,2016
-48024,171201,Mythica: The Godslayer (2016),Fantasy,2016
-48036,171225,Sam Was Here (2016),Horror|Mystery|Thriller,2016
-48055,171263,Tramps (2016),Comedy|Romance,2016
-48078,171309,Killing Reagan (2016),Drama,2016
-48079,171311,The Loner (2016),Action|Thriller,2016
-48080,171313,Origin (2016),(no genres listed),2016
-48084,171323,Slam (2016),Comedy,2016
-48086,171327,Mifune: The Last Samurai (2016),Documentary,2016
-48136,171435,Last Call for Nowhere (2016),Comedy,2016
-48147,171457,My Annoying Brother (2016),Comedy|Drama,2016
-48152,171467,The Age of Shadows (2016),Action|Drama|Thriller,2016
-48156,171475,Six Degrees of Celebration 5 (2016),Comedy,2016
-48159,171481,Santa Claus. Battle of Mages (2016),Action|Adventure|Fantasy,2016
-48161,171485,The Earthquake (2016),Drama,2016
-48171,171505,On the Milky Road (2016),Drama,2016
-48173,171509,Kappen! (2016),Drama,2016
-48187,171537,Command and Control (2016),Documentary,2016
-48196,171555,Classmates (2016),Comedy|Romance,2016
-48198,171559,Superbad (2016),Comedy,2016
-48208,171579,Rising Fear (2016),Action,2016
-48212,171589,A Few Less Men (2016),Comedy,2016
-48216,171597,Karl Marx City (2016),Documentary,2016
-48220,171605,The Ornithologist (2016),Adventure|Drama,2016
-48221,171607,Bad Girl (2016),Thriller,2016
-48231,171629,Pet Fooled (2016),(no genres listed),2016
-48267,171701,The Death of Louis XIV (2016),Drama,2016
-48274,171715,The Lighthouse of the Orcas (2016),Drama|Romance,2016
-48290,171747,Sins of Our Youth (2016),(no genres listed),2016
-48315,171799,Range 15 (2016),Comedy|Horror,2016
-48317,171803,We Go On (2016),Drama|Horror|Thriller,2016
-48318,171805,Lady Bloodfight (2016),Action|Thriller,2016
-48346,171863,Setoutsumi (2016),Comedy,2016
-48349,171869,Realive (2016),Sci-Fi,2016
-48358,171887,The Night Watchmen (2016),Comedy|Horror,2016
-48362,171895,Miss Saigon: The 25th-Anniversary Performance (2016),Drama|Romance|War,2016
-48367,171905,Much Ado About Nothing (2016),Drama,2016
-48380,171935,Teli and Toli (2016),Comedy|Romance,2016
-48384,171943,Monster High: Welcome to Monster High (2016),Animation|Children,2016
-48393,171961,For a Few Bullets (2016),Action|Adventure|Comedy|Mystery|Romance,2016
-48395,171965,In the Forests of Siberia (2016),Adventure|Drama,2016
-48402,171981,Superpowerless (2016),Comedy|Drama,2016
-48418,172013,Stefan Zweig: Farewell to Europe (2016),Drama,2016
-48420,172017,Hatred (2016),Drama|War,2016
-48425,172029,Dolly Parton's Christmas of Many Colors: Circle of Love (2016),Children|Drama,2016
-48430,172041,Journey Back to Christmas (2016),Drama,2016
-48431,172043,SuperBobrovs (2016),Comedy,2016
-48446,172075,A Billion Lives (2016),Documentary,2016
-48463,172109,"Ashley Madison: Sex, Lies and Cyber Attacks (2016)",Documentary,2016
-48467,172117,The Comedian (2016),Comedy,2016
-48468,172119,Monolith (2016),Drama|Thriller,2016
-48469,172121,After the Reality (2016),Children|Comedy|Drama,2016
-48470,172123,Godspeed (2016),Comedy|Crime|Drama|Thriller,2016
-48472,172127,Dusk (2016),Drama|Thriller,2016
-48473,172129,Dark Heart AKA Wagstaffe (2016),Crime|Drama,2016
-48476,172135,Petersburg: Only for Love (2016),Comedy|Drama|Romance,2016
-48480,172143,Bugs (2016),Documentary,2016
-48514,172211,Triumph's Summer Election Special 2016 (2016),Comedy|Documentary,2016
-48552,172287,The High Schooler's Guide to College Parties (2016),Comedy,2016
-48555,172293,Laid in America (2016),Comedy,2016
-48577,172337,Casual Encounters (2016),Comedy,2016
-48602,172389,The Man Who Was Thursday (2016),Mystery|Thriller,2016
-48636,172459,The Black Room (2016),Horror,2016
-48676,172539,Pitbull Tough Women (2016),Action|Crime|Drama,2016
-48681,172549,The Last Family (2016),Drama,2016
-48691,172569,Bachelor Games (2016),Action|Adventure|Comedy|Horror|Thriller,2016
-48692,172571,We Are X (2016),Documentary,2016
-48693,172573,Rock Dog (2016),Adventure|Animation|Children|Comedy,2016
-48727,172641,Arès (2016),Drama|Sci-Fi|Thriller,2016
-48731,172649,Roommates Wanted (2016),Comedy,2016
-48778,172743,Somnio (2016),(no genres listed),2016
-48806,172801,In the Blood (2016),Drama,2016
-48808,172805,Odd Job (2016),Action|Comedy,2016
-48879,172955,Hitler's Folly (2016),Animation|Comedy,2016
-48970,173141,The Stopover (2016),Drama,2016
-48974,173149,911 Nightmare (2016),(no genres listed),2016
-48977,173155,Chronically Metropolitan (2016),Comedy|Drama,2016
-48978,173157,Sophie and the Rising Sun (2016),Drama,2016
-48999,173199,How Not to Work & Claim Benefits... (and Other Useful Information for Wasters) (2016),Comedy|Drama,2016
-49000,173201,Apprentice (2016),Drama,2016
-49003,173207,Tehran Taboo (2016),(no genres listed),2016
-49016,173233,Amateurs in Space (2016),Documentary,2016
-49029,173265,Best Worst Thing That Ever Could Have Happened... (2016),Documentary,2016
-49036,173279,In View (2016),(no genres listed),2016
-49052,173311,Hammer (2016),Action|Drama,2016
-49055,173317,Shadow World (2016),Documentary,2016
-49059,173325,The Northlander (2016),Adventure|Fantasy|Sci-Fi,2016
-49084,173377,Life Risking Romance (2016),Comedy|Romance|Thriller,2016
-49092,173399,Mali Blues (2016),(no genres listed),2016
-49096,173409,Shambles (2016),(no genres listed),2016
-49098,173413,Life Off Grid (2016),Documentary,2016
-49099,173415,Loev (2016),Drama|Romance,2016
-49100,173417,The Pass (2016),Drama,2016
-49109,173437,Jeremiah Tower: The Last Magnificent (2016),Documentary,2016
-49121,173463,The Dust Storm (2016),Drama|Romance,2016
-49127,173475,Yarn (2016),Animation|Documentary,2016
-49128,173477,Taekwondo (2016),Drama|Romance,2016
-49129,173479,The Boss's Daughter (2016),Comedy|Drama|Romance,2016
-49132,173485,Gatekeeper (2016),Documentary,2016
-49133,173487,Allen Iverson: The Answer (2016),Documentary,2016
-49248,173717,After Love (2016),Comedy|Drama,2016
-49249,173719,Thunder Road (2016),Comedy|Drama,2016
-49254,173729,The Promise (2016),Documentary,2016
-49265,173751,Tiger Raid (2016),Thriller,2016
-49272,173765,You'll Never Be Alone (2016),Crime|Drama,2016
-49275,173771,McLaren (2016),Action|Documentary|Drama,2016
-49278,173777,The Dancer (2016),Drama,2016
-49288,173797,We Are Family (2016),Comedy,2016
-49299,173819,WiNWiN (2016),(no genres listed),2016
-49321,173863,X500 (2016),(no genres listed),2016
-49327,173875,AWOL (2016),Drama,2016
-49328,173877,Angel (2016),(no genres listed),2016
-49331,173883,How to Lose Weight in 4 Easy Steps! (2016),Drama,2016
-49340,173901,Let Me Make You a Martyr (2016),Drama,2016
-49346,173913,Center of My World (2016),Children|Drama,2016
-49348,173917,It's Not the Time of My Life (2016),Comedy|Drama,2016
-49355,173931,7:19 (2016),Drama|Thriller,2016
-49369,173959,The Dreamed Ones (2016),(no genres listed),2016
-49402,174033,The Killing Season (2016),Crime|Documentary,2016
-49536,174373,Resurrecting Hassan (2016),Documentary,2016
-49538,174377,For Love and Honor (2016),(no genres listed),2016
-49545,174395,Better Watch Out (2016),Thriller,2016
-49564,174435,Tear Me Apart (2016),Horror|Romance|Thriller,2016
-49566,174439,Orange Sunshine (2016),Documentary,2016
-49568,174443,American Wrestler: The Wizard (2016),Drama,2016
-49571,174449,The Void (2016),Fantasy|Horror|Sci-Fi|Thriller,2016
-49583,174475,The Dark Below (2016),Thriller,2016
-49587,174483,This House Has People in It (2016),Comedy|Horror,2016
-49595,174499,Vanishing Time: A Boy Who Returned (2016),Drama|Fantasy|Romance,2016
-49598,174505,Besetment (2016),Horror|Thriller,2016
-49603,174515,Yu-Gi-Oh!: The Dark Side of Dimensions (2016),Adventure|Animation,2016
-49605,174519,Havenhurst (2016),Horror|Mystery|Thriller,2016
-49607,174523,Family Possessions (2016),Horror,2016
-49622,174555,New Chefs on the Block (2016),(no genres listed),2016
-49623,174557,Disturbing the Peace (2016),Documentary,2016
-49637,174587,A Woman's Life (2016),Drama,2016
-49658,174631,Becoming Cary Grant (2016),Documentary,2016
-49664,174643,George Best: All By Himself (2016),Documentary,2016
-49666,174647,Cave (2016),Adventure|Thriller,2016
-49676,174667,Votez Bougon (2016),Comedy,2016
-49688,174691,Moka (2016),Drama,2016
-49689,174693,Home (2016),Children|Drama|Horror,2016
-49690,174695,Luck-Key (2016),Action|Comedy,2016
-49701,174719,Bad Ben (2016),Horror,2016
-49730,174801,Sadie's Last Days on Earth (2016),Comedy,2016
-49741,174823,Santoalla (2016),Documentary,2016
-49756,174857,12 Feet Deep (2016),Thriller,2016
-49759,174863,Don't Call Me Son (2016),Drama,2016
-49772,174889,"Accidental Courtesy: Daryl Davis, Race & America (2016)",Documentary,2016
-49786,174919,Sweet Dreams (2016),Drama,2016
-49788,174923,Che vuoi che sia (2016),Comedy,2016
-49789,174925,7 Minutes (2016),Drama,2016
-49790,174927,By the Time It Gets Dark (2016),Drama,2016
-49805,174959,50 Kilo Albaloo (2016),Children|Comedy|Drama,2016
-49821,174997,Marie Curie (2016),Drama,2016
-49825,175009,Swinger (2016),Comedy|Romance,2016
-49829,175023,Between Us (2016),Comedy|Drama|Romance,2016
-49885,175181,"Hailey Dean Mystery: Murder, With Love (2016)",Mystery,2016
-49887,175189,Swim Team (2016),Children|Documentary|Drama,2016
-49889,175193,Do You Take This Man (2016),Drama,2016
-49895,175207,Nowhere Boys: The Book of Shadows (2016),Sci-Fi,2016
-49896,175209,Bromance (2016),Comedy|Drama|Romance,2016
-49916,175251,Chokeslam (2016),Comedy,2016
-49925,175269,Junction 48 (2016),Action|Crime|Drama,2016
-49927,175273,Independents' Day (2016),Action|Sci-Fi,2016
-49928,175275,The Human Surge (2016),Drama,2016
-49932,175283,Death Note: Light Up the New World (2016),Fantasy|Mystery|Thriller,2016
-49943,175305,School Life (2016),Documentary,2016
-49961,175341,The Binding (2016),Drama|Horror|Thriller,2016
-49970,175359,American Anarchist (2016),Documentary,2016
-49971,175361,Tatu and Patu (2016),Children|Comedy,2016
-49972,175363,150 Milligrams (2016),Drama,2016
-49975,175369,Decanted (2016),(no genres listed),2016
-50019,175457,The Groom (2016),Comedy,2016
-50048,175519,Icebreaker (2016),Action|Adventure|Drama,2016
-50052,175529,Being George Clooney (2016),Documentary,2016
-50067,175563,Mind Blown (2016),Action|Sci-Fi|Thriller,2016
-50078,175587,Nerdland (2016),Animation,2016
-50080,175591,Brice 3 (2016),Comedy,2016
-50086,175603,Anti Matter (2016),Sci-Fi,2016
-50095,175621,Tonight She Comes (2016),Horror,2016
-50096,175623,Drone Wars (2016),Action|Sci-Fi|Thriller,2016
-50097,175625,The Dragon Spell (2016),Adventure|Animation|Children|Comedy|Fantasy,2016
-50099,175629,Before the Streets (2016),Drama,2016
-50107,175647,24×36 (2016),Documentary,2016
-50115,175663,77 Minutes (2016),Documentary,2016
-50126,175687,Blood Hunters (2016),Horror|Thriller,2016
-50129,175693,Rick and Morty: State of Georgia Vs. Denver Fenton Allen (2016),Comedy|Crime,2016
-50135,175707,A German Life (2016),Documentary,2016
-50141,175719,Adios amigos (2016),Comedy|Drama,2016
-50153,175745,"Jean Ziegler, l'optimisme de la volonté (2016)",Documentary,2016
-50175,175789,Burden (2016),Documentary,2016
-50181,175801,Harry Benson: Shoot First (2016),Documentary,2016
-50188,175815,Finding Sofia (2016),(no genres listed),2016
-50190,175819,Down Under (2016),Comedy,2016
-50192,175823,"Good Guys Go to Heaven, Bad Guys Go to Pattaya (2016)",Comedy,2016
-50199,175839,Carole King: Natural Woman (2016),Documentary,2016
-50217,175875,Siv Sleeps Astray (2016),Adventure|Children,2016
-50260,175963,The Jazz Loft According to W. Eugene Smith (2016),(no genres listed),2016
-50263,175969,Leslie Caron: The Reluctant Star (2016),Documentary,2016
-50264,175971,The Olive Tree (2016),Comedy|Drama,2016
-50276,175995,The Visitors: Bastille Day (2016),Comedy,2016
-50309,176061,A Death in the Gunj (2016),(no genres listed),2016
-50320,176085,It Stains the Sands Red (2016),Drama|Horror|Thriller,2016
-50334,176115,Hopeless Romantic (2016),Romance,2016
-50405,176261,Demon Hunter (2016),Action|Adventure|Fantasy|Horror|Thriller,2016
-50415,176283,Abortion: Stories Women Tell (2016),Documentary,2016
-50424,176303,Innocence of Memories: Orhan Pamuk's Museum & Istanbul (2016),Documentary,2016
-50431,176319,Soof 2 (2016),Comedy|Romance,2016
-50439,176335,"The Drew: No Excuse, Just Produce (2016)",Documentary,2016
-50440,176337,Some Freaks (2016),Drama,2016
-50442,176341,Albion: The Enchanted Stallion (2016),Adventure|Children|Comedy|Fantasy,2016
-50451,176359,My Aunt in Sarajevo (2016),Drama,2016
-50473,176405,Forever Pure (2016),Documentary,2016
-50483,176425,Xuan Zang (2016),(no genres listed),2016
-50499,176459,S Is for Stanley (2016),Documentary,2016
-50503,176467,Respectable: The Mary Millington Story (2016),Documentary,2016
-50507,176475,Last Day of School (2016),Comedy,2016
-50514,176489,The Blind Christ (2016),(no genres listed),2016
-50527,176515,Rage (2016),Drama,2016
-50528,176517,Venus (2016),Documentary,2016
-50547,176563,The Creature Below (2016),Horror|Sci-Fi,2016
-50550,176569,Liberation Day (2016),Documentary,2016
-50558,176589,Illegitimate (2016),Drama,2016
-50561,176595,Autumn Lights (2016),Drama|Mystery,2016
-50591,176657,The Queen of Spain (2016),Comedy|Drama,2016
-50610,176699,Boys in the Trees (2016),Drama,2016
-50613,176705,The Choice 2016 (2016),Documentary,2016
-50621,176721,Weeds on Fire (2016),Drama,2016
-50642,176763,Lantouri (2016),Drama|Romance,2016
-50650,176781,Ballad in Blood (2016),Horror,2016
-50665,176813,I Called Him Morgan (2016),Documentary,2016
-50668,176819,The Watcher (2016),Horror|Thriller,2016
-50671,176827,Fragments of Love (2016),Drama|Romance,2016
-50675,176845,Train Driver's Diary (2016),Comedy,2016
-50680,176855,As If I'm Crazy (2016),Drama,2016
-50683,176861,The Next Skin (2016),Crime|Thriller,2016
-50695,176889,Attack of the Killer Donuts (2016),Comedy|Horror,2016
-50697,176893,Custody (2016),Drama,2016
-50698,176897,Those Who Make Revolution Halfway Only Dig Their Own Graves (2016),(no genres listed),2016
-50711,176925,Year by the Sea (2016),Comedy|Drama|Romance,2016
-50725,176953,Heaven Will Wait (2016),Drama,2016
-50728,176961,The Chosen (2016),Drama|Thriller,2016
-50731,176967,Unforgettable (2016),Drama|Romance,2016
-50740,176987,The Teacher (2016),Comedy|Drama,2016
-50742,176991,A Song For You: The Austin City Limits Story (2016),Documentary,2016
-50747,177001,Pitch (2016),Comedy|Drama,2016
-50761,177031,Nova Seed (2016),Animation|Fantasy|Sci-Fi,2016
-50763,177035,Welcome to the Hartmanns (2016),Comedy|Drama,2016
-50775,177061,Brother (2016),Drama|Thriller,2016
-50786,177083,Suddenly Twenty (2016),Children|Comedy|Romance,2016
-50818,177147,Boggy Creek Monster (2016),Documentary,2016
-50820,177155,Will You Be There (2016),Drama|Fantasy,2016
-50823,177161,Tall Men (2016),Fantasy|Horror|Thriller,2016
-50830,177175,Massacre on Aisle 12 (2016),Comedy|Horror,2016
-50836,177187,Women Who Kill (2016),Comedy|Crime|Mystery|Romance|Thriller,2016
-50839,177193,Unleashed (2016),Comedy|Romance,2016
-50846,177207,Bitcoin Heist (2016),Action,2016
-50851,177217,A Kid (2016),Drama,2016
-50866,177249,Louis Theroux: Drinking to Oblivion (2016),Documentary,2016
-50867,177251,Louis Theroux: A Different Brain (2016),(no genres listed),2016
-50868,177253,JL Family Ranch (2016),Drama|Western,2016
-50869,177255,Soul on a String (2016),(no genres listed),2016
-50873,177263,Heartland (2016),Children|Drama|Romance,2016
-50877,177271,The Chamber (2016),Thriller,2016
-50878,177273,"A Woman, a Part (2016)",Drama,2016
-50883,177283,Off the Rails (2016),Documentary,2016
-50888,177295,Jesús (2016),Children|Drama,2016
-50894,177307,Menorca (2016),Drama,2016
-50895,177309,Till We Meet Again (2016),Adventure|Drama,2016
-50900,177325,Hepta: The Last Lecture (2016),Drama|Romance,2016
-50927,177401,A Boy Called Po (2016),Drama|Fantasy,2016
-50939,177429,A Puppy for Christmas (2016),Children,2016
-50946,177447,Footnotes (2016),Comedy,2016
-50954,177463,Rudolf the Black Cat (2016),Adventure|Animation|Comedy,2016
-50955,177465,The Long Excuse (2016),Drama,2016
-50957,177469,The Last Face (2016),Drama,2016
-50972,177499,O Último Virgem (2016),Comedy|Romance,2016
-50989,177539,Nick (2016),Drama|Thriller,2016
-51040,177645,ClownTown (2016),Horror|Thriller,2016
-51084,177739,These Days (2016),(no genres listed),2016
-51085,177741,Ama-San (2016),Documentary,2016
-51111,177793,Little Door Gods (2016),Animation|Children|Fantasy,2016
-51119,177809,Jackson (2016),Documentary,2016
-51126,177825,Live Cargo (2016),Drama|Thriller,2016
-51131,177835,The Killer in the House (2016),Action|Comedy|Horror,2016
-51139,177851,We Are Not Alone (2016),Horror|Thriller,2016
-51140,177853,The Journey Is the Destination (2016),Drama,2016
-51171,177917,Papa ou maman 2 (2016),Comedy,2016
-51187,177949,Kill or Be Killed (2016),Horror|Mystery|Thriller|Western,2016
-51194,177963,Rumble (2016),Action,2016
-51196,177967,Pitchfork (2016),Horror,2016
-51208,177991,Anomalous (2016),Fantasy|Horror|Thriller,2016
-51216,178011,The Dooms Chapel Horror (2016),Horror|Thriller,2016
-51224,178027,People That Are Not Me (2016),Drama|Romance,2016
-51245,178069,What Happened Last Night (2016),Comedy,2016
-51320,178357,Everlasting (2016),Crime|Drama|Mystery|Romance|Thriller,2016
-51330,178377,Mogadishu Soldier (2016),Documentary,2016
-51335,178391,When Elephants Were Young (2016),Adventure|Children|Documentary|Drama,2016
-51340,178403,The Forest (2016),(no genres listed),2016
-51356,178453,Ukraine on Fire (2016),(no genres listed),2016
-51359,178465,Clowntergeist (2016),Horror,2016
-51363,178473,The Settlers (2016),Documentary,2016
-51371,178489,Baar Baar Dekho (2016),Action|Drama|Romance,2016
-51377,178501,House of Others (2016),Drama,2016
-51389,178527,Nitro Rush (2016),Action,2016
-51412,178573,The Reunion 3: Baptism (2016),Comedy,2016
-51427,178605,Tiger Theory (2016),Comedy|Drama,2016
-51432,178615,Front Cover (2016),Comedy|Drama|Romance,2016
-51473,178709,Naledi: A Baby Elephant's Tale (2016),Documentary,2016
-51479,178721,Distance Between Dreams (2016),Action|Adventure|Documentary,2016
-51487,178737,The Last Party (2016),Comedy,2016
-51493,178749,Absurd Accident (2016),Comedy|Drama,2016
-51524,178815,The Bounce Back (2016),Romance,2016
-51552,178873,Slender (2016),Thriller,2016
-51576,178923,Kút (2016),(no genres listed),2016
-51612,178995,Strike a Pose (2016),Documentary,2016
-51616,179003,Schweigeminute (2016),Drama,2016
-51621,179013,Capture Kill Release (2016),Drama|Horror|Thriller,2016
-51646,179065,Scarred Hearts (2016),Drama,2016
-51660,179095,Neben der Spur - Amnesie (2016),Crime|Thriller,2016
-51665,179105,Shovel Buddies (2016),Drama,2016
-51674,179127,The Music of Strangers: Yo-Yo Ma and the Silk Road Ensemble (2016),Documentary,2016
-51711,179201,Undecided: The Movie (2016),Comedy,2016
-51713,179205,What's the Matter with Gerald? (2016),Comedy|Drama|Fantasy,2016
-51714,179207,The Summer Is Gone (2016),Drama,2016
-51715,179209,Desiree (2016),Crime|Drama|Thriller,2016
-51720,179219,Cold Moon (2016),Crime|Drama|Horror|Mystery|Thriller,2016
-51748,179281,Wrong Side Raju (2016),Drama|Thriller,2016
-51752,179289,Fashionista (2016),Drama|Mystery|Thriller,2016
-51764,179313,1974: La posesión de Altair (2016),Horror|Mystery,2016
-51778,179343,The Man from the Future (2016),Comedy,2016
-51787,179361,Chronesthesia (2016),(no genres listed),2016
-51805,179399,Minutes Past Midnight (2016),Horror|Thriller,2016
-51808,179405,Eastern Business (2016),(no genres listed),2016
-51856,179511,Emerald Green (2016),Adventure|Drama|Fantasy|Romance,2016
-51863,179525,Gibby (2016),Children,2016
-51864,179527,Annabelle Hooper and the Ghosts of Nantucket (2016),Children|Mystery,2016
-51870,179539,Karen Kingsbury's A Time to Dance (2016),Drama,2016
-51875,179549,Prinz Himmelblau und Fee Lupine (2016),Children|Fantasy|Mystery,2016
-51879,179557,Operation Christmas (2016),Drama|Romance,2016
-51888,179575,Sorority Nightmare (2016),Drama|Thriller,2016
-51890,179579,Sandra Brown's White Hot (2016),Drama|Mystery,2016
-51893,179585,My Christmas Love (2016),Comedy|Romance,2016
-51927,179653,Bwoy (2016),Drama,2016
-51928,179655,The Blues: Another Story of France (2016),Documentary,2016
-51947,179695,Found Footage 3D (2016),Horror,2016
-51956,179715,Km 31-2 (2016),Horror|Mystery,2016
-51964,179731,Sound of Christmas (2016),Drama,2016
-51981,179767,Barakah Meets Barakah (2016),(no genres listed),2016
-51997,179803,The Adult Swim Golf Classic (2016),Comedy,2016
-52000,179809,The Heyday of the Insensitive Bastards (2016),Comedy|Drama,2016
-52019,179847,The Future Perfect (2016),Comedy|Drama,2016
-52020,179849,It Lives in the Attic (2016),Thriller,2016
-52025,179859,Badlands of Kain (2016),Horror|Mystery|Thriller,2016
-52029,179869,Wolf Mother (2016),(no genres listed),2016
-52030,179871,The Conduit (2016),Horror|Thriller,2016
-52033,179877,Shortwave (2016),Sci-Fi|Thriller,2016
-52039,179891,Misfortune (2016),Crime|Drama|Thriller,2016
-52049,179911,Harvest Lake (2016),Horror,2016
-52050,179913,The Drowning (2016),Drama|Thriller,2016
-52057,179927,So B. It (2016),(no genres listed),2016
-52065,179943,Enlighten Us: The Rise and Fall of James Arthur Ray (2016),Documentary,2016
-52066,179945,Dr. Feelgood (2016),Documentary,2016
-52068,179949,Targeted: Exposing the Gun Control Agenda (2016),Documentary,2016
-52110,180035,Villaviciosa de al lado (2016),Comedy|Drama|Romance,2016
-52128,180073,The Fury (2016),Comedy|Drama,2016
-52129,180075,The Connected Universe (2016),Documentary,2016
-52201,180223,Sexology (2016),Documentary,2016
-52224,180269,Hotel Salvation (2016),Comedy|Drama,2016
-52235,180295,Dirty (2016),Thriller,2016
-52243,180311,Poilus (2016),(no genres listed),2016
-52251,180327,Fala Comigo (2016),Drama,2016
-52312,180483,Le potager de mon grand-père (2016),Documentary,2016
-52320,180499,Eput the Movie (2016),Documentary,2016
-52338,180557,The Good Postman (2016),Documentary,2016
-52387,180677,Child of Satan (2016),Action|Drama|Horror|Mystery|Thriller,2016
-52390,180685,Before the Fall (2016),Comedy|Drama|Romance,2016
-52415,180763,LoveTrue (2016),Documentary,2016
-52424,180793,Evil Bong: High 5 (2016),Comedy|Horror,2016
-52442,180843,Schreckenstein Castle (2016),Adventure|Children|Comedy,2016
-52449,180859,Bruce Springsteen: In His Own Words (2016),Documentary,2016
-52473,180919,Starfish (2016),Drama,2016
-52484,180953,The Carer (2016),Comedy,2016
-52487,180959,The Bribe of Heaven (2016),Comedy,2016
-52492,180973,Memoria (2016),(no genres listed),2016
-52504,180997,The Confession: Living the War on Terror (2016),Documentary,2016
-52519,181037,Maybe Tomorrow (2016),Comedy|Romance,2016
-52554,181119,Nick Off Duty (2016),Action|Comedy|Thriller,2016
-52570,181157,Paradise (2016),Drama,2016
-52573,181171,Versus: The Life and Films of Ken Loach (2016),Documentary,2016
-52589,181211,Vaxxed: From Cover-Up to Catastrophe (2016),Documentary,2016
-52592,181217,Doctor Who: The Return Of Doctor Mysterio (2016),Adventure|Children|Drama|Sci-Fi,2016
-52597,181227,The Grown-Ups (2016),Documentary,2016
-52608,181255,Hartenstrijd (2016),Comedy|Romance,2016
-52622,181285,Planet Single (2016),Comedy|Romance,2016
-52696,181439,Married by Christmas (2016),Comedy|Romance,2016
-52700,181447,Dead Man Tells His Own Tale (2016),Comedy|Fantasy|Horror,2016
-52728,181511,The Burglar (2016),Drama,2016
-52742,181541,The Worthy (2016),Action,2016
-52756,181571,The Witching (2016),Horror,2016
-52763,181587,Broadcasting Christmas (2016),Drama|Romance,2016
-52764,181589,Revelation: Dawn of Global Government (2016),Documentary,2016
-52765,181591,Red Nail Polish (2016),(no genres listed),2016
-52766,181593,Breath (2016),Drama|Fantasy,2016
-52774,181611,Victoria's Secret Fashion Show 2016 (2016),Documentary,2016
-52783,181629,Prisoner X (2016),Sci-Fi|Thriller,2016
-52784,181631,Bruno & Boots: Go Jump in the Pool (2016),Children,2016
-52807,181681,marg mahi (2016),Drama,2016
-52808,181683,We Will Not Get Used To (2016),(no genres listed),2016
-52810,181687,The Wednesday (2016),Children|Crime|Drama,2016
-53128,182325,The Jihadis Next Door (2016),Documentary,2016
-53133,182335,Safari (2016),Documentary,2016
-53144,182361,Time Rush (2016),Action,2016
-53156,182385,A Moving Image (2016),Drama,2016
-53182,182441,Rush: Time Stand Still (2016),Documentary,2016
-53185,182447,Blackhearts (2016),Documentary,2016
-53195,182467,Antiporno (2016),Drama,2016
-53197,182471,One last afternoon (2016),Drama,2016
-53198,182473,The Candidate (2016),(no genres listed),2016
-53239,182555,LEGO Jurassic World: Indominus Escape (2016),Animation|Children|Comedy,2016
-53241,182559,Dawson City: Frozen Time (2016),Documentary,2016
-53251,182587,The Middle Finger (2016),Comedy,2016
-53274,182641,Miséricorde (2016),Drama|Mystery,2016
-53277,182647,Dead Billy (2016),Drama|Horror|Mystery|Thriller,2016
-53282,182657,Pale (2016),Sci-Fi|Thriller,2016
-53284,182661,I'll Be Home for Christmas (2016),Children|Drama,2016
-53289,182671,Hired Gun (2016),Documentary,2016
-53298,182689,Cek Toko Sebelah (2016),Children|Comedy,2016
-53301,182695,Mimosas (2016),Drama,2016
-53309,182711,The World of Us (2016),Drama,2016
-53324,182741,Krampus Unleashed (2016),Horror,2016
-53326,182745,Alistair1918 (2016),Sci-Fi,2016
-53339,182773,The Rendezvous (2016),Action|Adventure,2016
-53345,182785,Rat Film (2016),Documentary,2016
-53346,182787,Cristian e Palletta contro tutti (2016),(no genres listed),2016
-53354,182803,Reclusion (2016),Horror|Thriller,2016
-53375,182849,Rudy Habibie (2016),Drama|Romance,2016
-53380,182859,My Journey Through French Cinema (2016),Documentary,2016
-53391,182887,The Parrot (2016),Thriller,2016
-53392,182889,Red Christmas (2016),Horror,2016
-53400,182905,Renesse (2016),Comedy,2016
-53401,182907,Lawless Range (2016),Drama|Western,2016
-53406,182921,All Girls Weekend (2016),Horror,2016
-53441,182993,The Mountain II (2016),Drama|War,2016
-53453,183017,Strange Weather (2016),Drama,2016
-53457,183025,Fissa (2016),Comedy,2016
-53467,183053,An Insignificant Man (2016),Documentary|Thriller,2016
-53512,183175,Tale of a Lake (2016),Documentary,2016
-53515,183181,Amerika Square (2016),Drama,2016
-53518,183187,American Conjuring (2016),Horror,2016
-53528,183207,Nuts! (2016),Documentary,2016
-53539,183235,Devil's Mistress (2016),Drama|Romance,2016
-53560,183277,Einstein's God Model (2016),Drama|Sci-Fi|Thriller,2016
-53590,183337,Senior Class (2016),Drama|Romance,2016
-53604,183367,Sticky Notes (2016),Comedy|Drama,2016
-53617,183393,Bornless Ones (2016),Horror,2016
-53618,183395,Anomaly (2016),Horror|Mystery|Sci-Fi,2016
-53624,183407,Earthtastrophe (2016),Action|Sci-Fi|Thriller,2016
-53641,183441,İftarlık Gazoz (2016),Comedy|Drama,2016
-53650,183459,The Midnight Man (2016),Horror,2016
-53670,183503,I Am Here (2016),Animation,2016
-53718,183601,Contract to Kill (2016),Action|Adventure,2016
-53727,183621,Danny (2016),Documentary,2016
-53739,183645,First Contact: Lost Tribe of the Amazon (2016),Documentary,2016
-53740,183647,11 September Vragen (2016),Documentary,2016
-53753,183675,Second Nature (2016),Comedy,2016
-53786,183745,Caged No More (2016),Action|Drama|Thriller,2016
-53793,183767,Here's the Plan (2016),Animation|Drama,2016
-53799,183785,Monday at 11:01 A.M. (2016),Horror|Thriller,2016
-53809,183807,Tree Man (2016),Children|Documentary|Drama,2016
-53818,183825,American Romance (2016),Thriller,2016
-53828,183845,A Fat Wreck (2016),Documentary,2016
-53830,183849,Now More Than Ever: The History of Chicago (2016),Documentary,2016
-53842,183875,Dead Slow Ahead (2016),Documentary|Drama,2016
-53843,183877,Egon Schiele: Death and the Maiden (2016),Drama,2016
-53847,183893,Heaven Is a Traffic Jam on the 405 (2016),Documentary,2016
-53848,183895,Sinister Squad (2016),Fantasy,2016
-53889,183979,M.S. Dhoni: The Untold Story (2016),Drama,2016
-53891,183983,Hulk: Where Monsters Dwell (2016),Action|Animation|Fantasy|Sci-Fi,2016
-53895,183991,The Last Egg (2016),Comedy,2016
-53899,183999,From Bedrooms to Billions: The Amiga Years (2016),Documentary,2016
-53902,184005,Electric Nostalgia (2016),Drama|Sci-Fi|Thriller,2016
-53925,184055,The Yearly Harvest (2016),(no genres listed),2016
-53927,184059,The Bouncer (2016),(no genres listed),2016
-53936,184079,Four Against the Bank (2016),Comedy|Crime,2016
-53938,184083,Jordy in Transitland (2016),(no genres listed),2016
-53948,184103,Come diventare grandi nonostante i genitori (2016),Comedy,2016
-53973,184161,Königin der Nacht (2016),Drama,2016
-54019,184263,"7 Rzeczy, Których Nie Wiecie o Facetach (2016)",Comedy,2016
-54040,184311,Crosscurrent (2016),Drama,2016
-54061,184361,"Half Sister, Full Love (2016)",Comedy|Drama,2016
-54063,184365,Lego Scooby-Doo!: Haunted Hollywood (2016),Animation|Children,2016
-54096,184437,Always Worthy (2016),Comedy|Drama,2016
-54120,184497,The Trader (2016),Documentary,2016
-54130,184517,National Parks Adventures (2016),Documentary,2016
-54143,184543,Lost in Armenia (2016),Comedy|Drama,2016
-54160,184577,The Eleven O'Clock (2016),Comedy,2016
-54178,184615,The Tenth Man (2016),Comedy|Drama,2016
-54179,184617,The Perfect Daughter (2016),Drama,2016
-54190,184639,Brazilian Holocaust (2016),Documentary,2016
-54199,184659,Birdshot (2016),Drama|Mystery|Thriller,2016
-54219,184707,Battlecreek (2016),Drama,2016
-54236,184743,Bobby (2016),Documentary,2016
-54244,184759,Karinkunnam 6's (2016),Drama,2016
-54248,184767,Jacobinte Swargarajyam (2016),Children|Drama,2016
-54249,184769,Kismath (2016),Drama|Romance,2016
-54251,184773,Mudhugauv (2016),Action|Comedy,2016
-54252,184775,Ore Mukham (2016),Thriller,2016
-54256,184783,The Companion (2016),Drama,2016
-54277,184825,Another Wolfcop (2016),Comedy|Horror,2016
-54290,184859,A Stray (2016),Drama,2016
-54316,184917,Bowie: The Man Who Changed the World (2016),Documentary,2016
-54318,184923,A Plastic Ocean (2016),Documentary,2016
-54321,184929,Political Animals (2016),Documentary,2016
-54331,184949,Turbulence (2016),Action|Drama|Thriller,2016
-54333,184953,A Heavenly Christmas (2016),Drama|Fantasy,2016
-54369,185027,A Winter Rose (2016),Drama,2016
-54405,185107,Schubert in Love (2016),Comedy,2016
-54433,185165,I babysitter (2016),(no genres listed),2016
-54454,185207,Germans & Jews (2016),Documentary,2016
-54464,185229,The Bad Kids (2016),Documentary,2016
-54477,185257,Mujeres Infieles 4 (2016),Mystery,2016
-54503,185311,The Fixer (2016),Drama,2016
-54516,185341,Rats (2016),Documentary,2016
-54536,185381,"Damilola, Our Loved Boy (2016)",Crime|Drama|Mystery,2016
-54566,185441,Jewel's Catch One (2016),Documentary,2016
-54581,185483,Camera Store (2016),Drama,2016
-54595,185523,Swagger (2016),Documentary,2016
-54596,185525,The Challenge (2016),Documentary,2016
-54597,185527,Status: Available (2016),Comedy|Romance,2016
-54612,185563,Look Again (2016),Comedy,2016
-54632,185605,LEGO DC Comics Super Heroes: Justice League: Cosmic Clash (2016),Action|Adventure|Animation|Children|Comedy,2016
-54633,185609,Contemporary Color (2016),Documentary,2016
-54640,185627,JL's Passion (2016),Documentary,2016
-54642,185631,Making the American Man (2016),Documentary,2016
-54643,185633,O Escaravelho do Diabo (2016),Adventure|Mystery,2016
-54665,185677,Shed My Skin (2016),Drama,2016
-54666,185679,The Falls: Covenant of Grace (2016),Drama|Romance,2016
-54675,185697,The Silence of the Sky (2016),Drama|Thriller,2016
-54676,185699,Uma Loucura de Mulher (2016),Comedy|Romance,2016
-54678,185703,Jonah (2016),Drama|Thriller,2016
-54681,185709,Rocco (2016),Documentary,2016
-54684,185715,Layla M. (2016),Drama,2016
-54688,185723,Lilith's Awakening (2016),Fantasy|Horror|Thriller,2016
-54697,185743,Zaineb Hates the Snow (2016),Documentary,2016
-54703,185755,Natural Born Pranksters (2016),Comedy,2016
-54710,185769,Are We Not Cats (2016),Comedy|Horror|Romance,2016
-54754,185871,Food Evolution (2016),Documentary,2016
-54759,185887,Jag älskar dig - En skilsmässokomedi (2016),Comedy|Drama,2016
-54795,185969,Plastic China (2016),Documentary,2016
-54811,186001,True Crimes (2016),Action|Crime|Thriller,2016
-54815,186009,Retake (2016),Drama|Romance,2016
-54871,186125,Scooby-Doo! and WWE: Curse of the Speed Demon (2016),Animation,2016
-54873,186129,The Secrets of Emily Blair (2016),Thriller,2016
-54874,186131,Arlo: The Burping Pig (2016),Animation|Children,2016
-54886,186155,LEGO Friends: Girlz 4 Life (2016),Animation|Children,2016
-54889,186161,Thomas & Friends: The Great Race (2016),Animation|Children,2016
-54891,186165,Barbie & Her Sisters in a Puppy Chase (2016),Animation|Children,2016
-54892,186167,Ice Sharks (2016),Action|Adventure|Horror|Sci-Fi,2016
-54911,186205,Altered Hours (2016),Sci-Fi|Thriller,2016
-54926,186241,Forgotten Plague (2016),(no genres listed),2016
-54935,186259,2 Cool 2 Be 4gotten (2016),Drama,2016
-54946,186283,20 Years Of Madness (2016),Comedy|Documentary,2016
-54953,186297,Oleg and the Rare Arts (2016),Documentary,2016
-54982,186359,The Fight Within (2016),Action|Romance,2016
-54992,186379,Fill your Heart with French Fries (2016),(no genres listed),2016
-55042,186481,The Violators (2016),Drama,2016
-55067,186535,The Brooklyn Banker (2016),Action|Crime|Drama,2016
-55077,186559,Richard Linklater: Dream Is Destiny (2016),Documentary,2016
-55089,186583,Brides to Be (2016),Drama|Horror|Romance,2016
-55124,186657,Anuraga Karikkin Vellam (2016),Comedy,2016
-55142,186695,Pavada (2016),Comedy|Drama,2016
-55145,186701,Kochavva Paulo Ayyappa Coelho (2016),Drama,2016
-55146,186703,Oppam (2016),Thriller,2016
-55147,186705,Ann Maria Kalippilaanu (2016),Children|Drama,2016
-55154,186719,Oru Muthassi Gadha (2016),Adventure|Children|Comedy,2016
-55207,186827,Blood Orange (2016),Thriller,2016
-55213,186839,The 4th Company (2016),Action|Crime|Drama,2016
-55214,186841,Keep Quiet (2016),Documentary,2016
-55215,186845,Counter Clockwise (2016),Comedy|Sci-Fi|Thriller,2016
-55249,186917,In Search of Balance (2016),Documentary,2016
-55258,186937,Hypersomnia (2016),Fantasy|Horror|Mystery|Thriller,2016
-55260,186941,Golden Years (2016),Comedy|Crime,2016
-55304,187033,Plan B (2016),Action|Comedy,2016
-55308,187041,"Stockholm, My Love (2016)",Documentary|Drama,2016
-55314,187053,Pushing Dead (2016),Comedy|Drama,2016
-55326,187083,The Happiness of the World (2016),Comedy|Drama,2016
-55353,187143,Hedi (2016),Drama,2016
-55370,187177,Screenagers (2016),(no genres listed),2016
-55386,187211,The Mummy of Tutankhamun (2016),Drama|Romance,2016
-55535,187525,2016 Oscar Nominated Short Films: Live Action (2016),(no genres listed),2016
-55541,187537,Sensitivity Training (2016),Comedy,2016
-55544,187543,The Nameless Alley (2016),(no genres listed),2016
-55551,187557,Parisienne (2016),Drama,2016
-55593,187653,Yell for the Blue Sky (2016),Drama,2016
-55668,187819,Kathakali (2016),Action|Romance,2016
-55688,187859,Nuotin vierestä (2016),Comedy|Drama,2016
-55693,187869,White Sun (2016),Adventure|Drama,2016
-55695,187873,Real Boy (2016),Documentary,2016
-55709,187901,Theri (2016),Action|Romance,2016
-55762,188009,The Look of a Killer (2016),Crime|Thriller,2016
-55813,188111,Norman Lear: Just Another Version of You (2016),Documentary,2016
-55845,188177,Wolves at the Door (2016),Horror|Thriller,2016
-55847,188181,Re: Born (2016),Action|Crime|Drama|War,2016
-55855,188197,Saturday's Warrior (2016),Children|Drama,2016
-55859,188205,The Wasted Times (2016),Drama|Mystery,2016
-55871,188229,Whisky Galore (2016),Comedy|Romance,2016
-55972,188441,The Mohican Comes Home (2016),Comedy,2016
-55994,188511,Sex Doll (2016),Drama|Mystery|Thriller,2016
-56010,188543,Missing You (2016),Thriller,2016
-56013,188549,Horror Stories 3 (2016),Horror|Thriller,2016
-56014,188551,Dhuruvangal Pathinaaru (2016),Drama|Thriller,2016
-56022,188569,Elizabeth at 90: A Family Tribute (2016),(no genres listed),2016
-56028,188581,Las furias (2016),Children|Drama,2016
-56036,188597,Embrace (2016),Documentary,2016
-56056,188643,The Battle Of Chosin (2016),Documentary,2016
-56080,188709,Detours (2016),Comedy|Drama,2016
-56101,188765,Polish Legends: Operacja Bazyliszek (2016),Sci-Fi,2016
-56102,188767,Polish Legends: Jaga (2016),Sci-Fi,2016
-56104,188771,Polish Legends. Twardowsky 2.0 (2016),Sci-Fi,2016
-56142,188847,Ho Mann Jahaan (2016),Drama,2016
-56154,188873,"Lou Andreas-Salomé, The Audacity to be Free (2016)",Drama,2016
-56183,188935,Earth's Natural Wonders (2016),Documentary,2016
-56184,188937,Mad World (2016),Children|Drama,2016
-56191,188951,Guys Reading Poems (2016),Drama|Mystery,2016
-56194,188959,My Uncle (2016),Comedy,2016
-56199,188995,Over the Fence (2016),Drama,2016
-56212,189025,The Blessed Ones (2016),(no genres listed),2016
-56214,189029,House by the Lake (2016),Horror|Thriller,2016
-56235,189073,Happily Ever After (2016),Drama,2016
-56237,189077,Alipato: The Very Brief Life of an Ember (2016),(no genres listed),2016
-56257,189119,Souvenir (2016),Comedy|Drama,2016
-56265,189141,Pocket Listing (2016),Action|Comedy|Crime,2016
-56298,189207,Kitty (2016),Fantasy,2016
-56306,189223,Where I Grow Old (2016),Drama,2016
-56314,189239,Mommy's Little Girl (2016),Drama,2016
-56321,189255,Fursonas (2016),Documentary,2016
-56329,189271,My Sweet Audrina (2016),Drama|Thriller,2016
-56352,189337,The Early Hatchling Gets The Worm (2016),Animation,2016
-56356,189347,Death in Sarajevo (2016),Drama,2016
-56385,189407,Janatha Garage (2016),Action|Drama,2016
-56411,189463,Tiramisù (2016),Comedy,2016
-56423,189489,Dad in Training (2016),Comedy,2016
-56433,189509,Hollow Creek (2016),Crime|Mystery|Thriller,2016
-56438,189527,The Net (2016),Drama,2016
-56452,189557,Gutterdämmerung (2016),(no genres listed),2016
-56505,189685,Brace for Impact (2016),Thriller,2016
-56521,189723,Last Ones Out (2016),(no genres listed),2016
-56523,189727,House of Z (2016),Documentary,2016
-56531,189759,Camping 3 (2016),Comedy,2016
-56596,189901,Who's Gonna Love Me Now? (2016),Documentary,2016
-56597,189903,'63 Boycott (2016),Documentary,2016
-56633,190031,We Are Pregnant (2016),Comedy|Drama|Romance,2016
-56634,190035,Museum (2016),Crime|Horror|Thriller,2016
-56663,190127,Arbor Demon (2016),Drama|Horror|Thriller,2016
-56676,190165,Severus Snape and the Marauders (2016),Adventure|Drama|Fantasy|Mystery,2016
-56698,190211,Fast Convoy (2016),Action|Crime|Thriller,2016
-56703,190223,The Family (2016),Crime|Documentary|Drama,2016
-56710,190241,The Break-In (2016),Horror,2016
-56747,190333,The Night of the Virgin (2016),Comedy|Fantasy|Horror,2016
-56802,190493,Do Over (2016),Comedy,2016
-56820,190535,Cul-de-Sac (2016),Drama|Mystery,2016
-56838,190577,Shorebreak: The Clark Little Story (2016),Documentary,2016
-56852,190605,Total Frat Movie (2016),Comedy,2016
-56864,190633,Celtic Soul (2016),Documentary,2016
-56871,190649,Wexford Plaza (2016),Comedy,2016
-56878,190697,Welcome to Willits (2016),Horror|Sci-Fi,2016
-56909,190769,Rocky Handsome (2016),Action|Crime|Thriller,2016
-56940,190861,#SCREAMERS (2016),Horror,2016
-56950,190881,The Boss (2016),Documentary,2016
-56968,190917,Angel 2 (2016),Children|Comedy|Fantasy,2016
-56975,190933,2 Jennifer (2016),Action|Horror,2016
-56992,190969,One Sister (2016),(no genres listed),2016
-56996,190977,Moth (2016),Horror|Thriller,2016
-57006,191009,Nobunaga Concerto: The Movie (2016),Action|Comedy|Sci-Fi,2016
-57010,191069,A Guidebook to Killing Your Ex (2016),Comedy|Drama|Horror,2016
-57020,191091,Arcadia (2016),Action|Sci-Fi,2016
-57027,191129,Alleluia! The Devil's Carnival (2016),Horror,2016
-57051,191197,A Beautiful Demon: Kazuo Koike on Lady Snowblood (2016),Documentary,2016
-57055,191205,Killer Construction: Norio Osada on Lady Snowblood (2016),Documentary,2016
-57070,191237,All I Need (2016),Horror|Thriller,2016
-57075,191247,Alp (2016),Horror,2016
-57091,191285,Secrets in the Attic (2016),Thriller,2016
-57094,191293,Dhruva (2016),Action|Crime|Thriller,2016
-57097,191299,Sarrainodu (2016),Action|Drama,2016
-57103,191311,Force 2 (2016),Action|Crime|Thriller,2016
-57122,191355,The Erlprince (2016),Drama,2016
-57126,191363,Fucking Berlin (2016),Drama|Romance,2016
-57129,191369,Pulimurugan (2016),Action|Adventure,2016
-57211,191657,Memory Hackers (2016),Documentary,2016
-57213,191661,Shot! The Psycho-Spiritual Mantra of Rock (2016),Documentary,2016
-57235,191707,The Truth Beneath (2016),Thriller,2016
-57236,191709,Yourself and Yours (2016),Comedy|Drama,2016
-57240,191717,I Had A Bloody Good Time At House Harker (2016),Comedy|Horror,2016
-57242,191721,5 Doctors (2016),Comedy,2016
-57245,191727,Peelers (2016),Horror,2016
-57251,191739,A Man and a Woman (2016),Drama|Romance,2016
-57259,191755,Destruction Babies (2016),Comedy,2016
-57263,191763,Too Young To Die! (2016),Action|Fantasy|Romance,2016
-57264,191765,Himeanole (2016),Crime|Thriller,2016
-57268,191773,Up in the Sky (2016),Adventure|Children|Fantasy,2016
-57284,191807,Still Alive (2016),Drama,2016
-57288,191819,Where is Robert Fisher? (2016),(no genres listed),2016
-57298,191851,Invasion! (2016),Animation,2016
-57303,191861,"Europe, She Loves (2016)",Documentary,2016
-57307,191871,Holiday Joy (2016),Comedy,2016
-57310,191877,Who Killed JonBenet? (2016),Crime,2016
-57323,191919,Tesla (2016),Documentary,2016
-57345,191969,Beautiful Prison (2016),Drama|Horror|Romance|Thriller,2016
-57346,191971,The Very Private Work of Sister K (2016),(no genres listed),2016
-57381,192053,Bed of the Dead (2016),Horror,2016
-57401,192093,Girl Flu (2016),Comedy,2016
-57402,192095,Einstein-Rosen (2016),Comedy|Fantasy,2016
-57447,192205,I'm Not Just Going to Do What Kurosaki kun Says (2016),Comedy|Romance,2016
-57450,192211,Wolf Girl and Black Prince (2016),Romance,2016
-57464,192247,Banshee Blacktop (2016),Drama|Horror,2016
-57468,192255,Santa & Andres (2016),Drama,2016
-57494,192313,Making Out (2016),Comedy|Romance,2016
-57502,192335,Iru Mugan (2016),Action|Mystery|Sci-Fi|Thriller,2016
-57509,192355,The Hero (2016),Action|Drama|Romance|War,2016
-57558,192495,Big Bad (2016),Action|Adventure|Comedy|Horror|Sci-Fi|Thriller,2016
-57592,192577,Mad (2016),Comedy|Drama,2016
-57606,192625,Ear Buds: The Podcasting Documentary (2016),Documentary,2016
-57641,192735,Blackburn (2016),Horror,2016
-57657,192773,Wajah Tum Ho (2016),Drama|Mystery|Romance|Thriller,2016
-57669,192815,Icarus (2016),Adventure|Drama|Sci-Fi,2016
-57681,192847,I've Always Liked You (2016),Animation|Comedy|Drama|Romance,2016
-57696,192883,Beacon Point (2016),Thriller,2016
-57713,192919,Consommé (2016),Horror|Thriller,2016
-57723,192957,Future Boyfriend (2016),Comedy|Sci-Fi,2016
-57745,193007,David Blaine: Beyond Magic (2016),Documentary,2016
-57787,193143,Agony (2016),Drama|Thriller,2016
-57821,193237,Blood of the Tribades (2016),Horror,2016
-57824,193247,Kästner And Little Tuesday (2016),Drama,2016
-57877,193373,Derren Brown: Miracle (2016),Documentary,2016
-57909,193463,Bitter Sweet (2016),Comedy|Romance,2016
-57918,193483,A Loving Husband (2016),Drama,2016
-57923,193493,Jonathan (2016),Drama,2016
-57924,193495,Burn Your Name (2016),(no genres listed),2016
-57926,193499,The City of the Future (2016),Drama|Romance,2016
-57933,193513,EuroClub (2016),Comedy,2016
-57934,193515,An Almost Perfect Country (2016),Comedy,2016
-57939,193525,Ossan's Love (2016),(no genres listed),2016
-57950,193549,Anote's Ark (2016),Documentary,2016
-58004,193679,Someone (2016),Drama,2016
-58021,193727,Still Burning (2016),Drama,2016
-58035,193755,Blood Feast (2016),Horror,2016
-58039,193763,Assassination Classroom: Graduation (2016),Action|Comedy|Sci-Fi,2016
-58045,193775,La tour 2 contrôle infernale (2016),Comedy,2016
-58072,193833,Blood Hunt (2016),Horror|Thriller,2016
-58095,193880,Her Name Was Mumu (2016),Drama,2016
+movieId,count,title,genres,year,rating
+122888,179,Ben-hur (2016),(no genres listed),2016,2.8491620111731844
+122890,1395,Warcraft (2016),Action|Adventure|Fantasy,2016,3.250537634408602
+122894,31,Avatar 2 (2016),Action|Adventure|Fantasy,2016,2.4516129032258065
+122904,13115,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi,2016,3.859245139153641
+122920,5547,Captain America: Civil War (2016),Action|Sci-Fi|Thriller,2016,3.723544258157563
+122922,5178,Doctor Strange (2016),Action|Adventure|Sci-Fi,2016,3.7473928157589804
+122924,2704,X-Men: Apocalypse (2016),Action|Adventure|Fantasy|Sci-Fi,2016,3.2995562130177514
+135141,882,Allegiant: Part 1 (2016),Adventure|Sci-Fi,2016,3.124716553287982
+135143,3476,Fantastic Beasts and Where to Find Them (2016),Fantasy,2016,3.745397008055236
+135436,1469,The Secret Life of Pets (2016),Animation|Comedy,2016,3.2678692988427502
+135530,239,Criminal (2016),Action|Crime|Drama|Sci-Fi,2016,3.01255230125523
+135536,2788,Suicide Squad (2016),Action|Crime|Sci-Fi,2016,2.8287302725968435
+135567,1251,Independence Day: Resurgence (2016),Action|Adventure|Sci-Fi,2016,2.84572342126299
+135569,2622,Star Trek Beyond (2016),Action|Adventure|Sci-Fi,2016,3.5766590389016018
+136864,2667,Batman v Superman: Dawn of Justice (2016),Action|Adventure|Fantasy|Sci-Fi,2016,2.8040869891263593
+137857,2073,The Jungle Book (2016),Adventure|Drama|Fantasy,2016,3.5489628557645925
+138210,724,13 Hours (2016),Drama,2016,3.7520718232044197
+138212,415,Spectral (2016),(no genres listed),2016,3.0385542168674697
+139857,213,Colonia (2016),Thriller,2016,3.4131455399061035
+141131,71,Guardians (2016),(no genres listed),2016,1.8098591549295775
+142222,542,Demolition (2016),Drama,2016,3.559963099630996
+143361,11,Iron Sky the Coming Race (2016),Action|Comedy|Fantasy|Sci-Fi,2016,2.409090909090909
+143365,511,The Circle (2016),Drama|Sci-Fi|Thriller,2016,2.7260273972602738
+143367,523,Silence (2016),Drama|Thriller,2016,3.5564053537284894
+143859,1224,"Hail, Caesar! (2016)",Comedy,2016,3.2540849673202614
+148172,527,The 5th Wave (2016),Adventure|Sci-Fi|Thriller,2016,2.9497153700189753
+148727,36,Tumbledown (2016),Comedy|Romance,2016,2.8472222222222223
+148888,550,Zoolander 2 (2016),Comedy,2016,2.26
+148956,455,How to Be Single (2016),Comedy|Romance,2016,3.1395604395604395
+149186,62,Fifty Shades of Black (2016),Comedy|Romance,2016,2.088709677419355
+149406,1530,Kung Fu Panda 3 (2016),Action|Adventure|Animation,2016,3.5274509803921568
+149590,36,Standoff (2016),Thriller,2016,3.138888888888889
+149830,316,Pride and Prejudice and Zombies (2016),Comedy|Horror|Romance|Thriller,2016,2.901898734177215
+150194,45,Quo vado? (2016),Comedy,2016,3.188888888888889
+150294,155,The Forest (2016),Horror|Thriller,2016,2.5451612903225804
+150548,3076,Sherlock: The Abominable Bride (2016),Action|Crime|Drama|Mystery|Thriller,2016,4.013816644993498
+150602,43,Band of Robbers (2016),Adventure|Comedy|Crime|Thriller,2016,3.0697674418604652
+150724,11,Army Dog (2016),(no genres listed),2016,1.5909090909090908
+150774,14,The Correspondence (2016),Drama|Romance,2016,3.0357142857142856
+150848,19,The Confines (2016),Horror|Mystery|Thriller,2016,2.6842105263157894
+151309,25,Michael Jackson's Journey from Motown to Off the Wall (2016),Documentary,2016,2.92
+151311,63,Wiener-Dog (2016),Comedy,2016,3.0952380952380953
+151313,35,Norm of the North (2016),Adventure|Animation|Children|Comedy,2016,1.4142857142857144
+151315,204,Ride Along 2 (2016),Action|Comedy,2016,3.3088235294117645
+151345,133,Batman: Bad Blood (2016),Animation,2016,3.4473684210526314
+151455,504,Eddie the Eagle (2016),Comedy,2016,3.6081349206349205
+151459,64,Airlift (2016),Drama|Thriller,2016,3.4296875
+151461,16,Fitoor (2016),(no genres listed),2016,2.125
+151501,56,Exposed (2016),Drama,2016,2.5089285714285716
+151593,46,Martyrs (2016),(no genres listed),2016,2.5652173913043477
+151605,148,Lo and Behold: Reveries of the Connected World (2016),Documentary,2016,3.418918918918919
+151609,11,Kill Kane (2016),Crime|Thriller,2016,1.7272727272727273
+151631,15,Jättiläinen (2016),Drama,2016,3.7
+151639,347,The Boy (2016),Horror|Thriller,2016,3.1095100864553316
+151645,48,JeruZalem (2016),Horror,2016,2.3541666666666665
+151675,63,Lazer Team (2016),Comedy|Sci-Fi,2016,2.5793650793650795
+151687,88,Risen (2016),Children|Drama,2016,3.3068181818181817
+151707,54,The Eagle Huntress (2016),Adventure|Children|Documentary,2016,3.4537037037037037
+151717,32,Long Way North (2016),Adventure|Animation,2016,3.15625
+151735,62,The Other Side of the Door (2016),Horror,2016,2.6048387096774195
+151739,496,Dirty Grandpa (2016),Comedy,2016,3.007056451612903
+151777,233,The Finest Hours (2016),Drama|Thriller,2016,3.3626609442060085
+151933,74,The Birth of a Nation (2016),Drama,2016,3.527027027027027
+152017,967,Me Before You (2016),Drama|Romance,2016,3.6763185108583247
+152019,22,Jarhead 3: The Siege (2016),Action|Drama,2016,2.977272727272727
+152025,29,SOMM: Into the Bottle (2016),Documentary,2016,3.4827586206896552
+152031,20,Space Cop (2016),Action|Comedy|Sci-Fi,2016,2.475
+152037,90,Grease Live (2016),(no genres listed),2016,3.1166666666666667
+152055,49,Pandemic (2016),Action,2016,2.122448979591837
+152057,61,Miles Ahead (2016),Drama,2016,3.098360655737705
+152059,129,"Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)",Action|Adventure|Drama,2016,2.9728682170542635
+152061,248,Triple 9 (2016),Crime|Drama,2016,3.004032258064516
+152063,556,Gods of Egypt (2016),Adventure|Fantasy,2016,2.683453237410072
+152065,119,Embrace of the Serpent (2016),Adventure|Drama,2016,3.777310924369748
+152067,37,Neerja (2016),Drama,2016,3.6486486486486487
+152071,115,Race (2016),Drama,2016,3.4956521739130433
+152077,3100,10 Cloverfield Lane (2016),Thriller,2016,3.6796774193548387
+152079,814,London Has Fallen (2016),Action|Crime|Thriller,2016,3.079238329238329
+152081,8097,Zootopia (2016),Action|Adventure|Animation|Children|Comedy,2016,3.9337408916882795
+152083,467,Whiskey Tango Foxtrot (2016),Comedy|War,2016,3.308351177730193
+152085,27,Desierto (2016),Drama,2016,3.1481481481481484
+152089,16,The Perfect Match (2016),Comedy|Romance,2016,2.90625
+152091,450,The Brothers Grimsby (2016),Comedy,2016,2.966666666666667
+152103,12,Home Invasion (2016),Thriller,2016,2.3333333333333335
+152228,30,Misconduct (2016),Drama|Thriller,2016,2.933333333333333
+152248,11,Rosalie Blum (2016),Comedy,2016,3.409090909090909
+152284,64,War and Peace (2016),Drama|Romance,2016,3.7734375
+152372,133,Southbound (2016),Horror,2016,3.1954887218045114
+152515,51,Cabin Fever (2016),Horror,2016,2.4705882352941178
+152521,12,Becoming Zlatan (2016),Documentary,2016,2.8333333333333335
+152545,34,The Commune (2016),Drama,2016,3.264705882352941
+152660,11,Мафия (2016),(no genres listed),2016,2.5
+152838,44,The Veil (2016),Horror,2016,2.6136363636363638
+152848,12,Pitbull. New Order (2016),Comedy|Crime|Drama,2016,3.625
+152970,1423,Hunt for the Wilderpeople (2016),Adventure|Comedy,2016,4.008784258608573
+152976,51,Forsaken (2016),Drama|Western,2016,2.980392156862745
+153744,12,Takaisin pintaan (2016),(no genres listed),2016,3.4583333333333335
+153959,67,4th Man Out (2016),Comedy,2016,3.5597014925373136
+154051,62,The Last Man on the Moon (2016),Documentary|Drama,2016,3.620967741935484
+154065,21,Dad's Army (2016),Comedy,2016,2.7857142857142856
+154268,30,Open Season: Scared Silly (2016),Adventure|Animation|Comedy,2016,2.5833333333333335
+154276,14,Aligarh (2016),Drama,2016,3.25
+154939,52,The Mermaid (2016),Comedy|Fantasy|Romance|Sci-Fi,2016,2.9903846153846154
+155060,12,Belgica (2016),Drama,2016,3.5
+155064,571,The Neon Demon (2016),Drama|Horror|Mystery,2016,3.1654991243432575
+155072,14,Take Me to the River (2016),Drama,2016,3.107142857142857
+155074,55,Evolution (2016),Drama,2016,3.209090909090909
+155078,54,Lo chiamavano Jeeg Robot (2016),Fantasy,2016,3.611111111111111
+155129,19,Hot Bot (2016),(no genres listed),2016,1.7894736842105263
+155181,78,Elvis & Nixon (2016),Comedy,2016,3.2371794871794872
+155288,575,Eye in the Sky (2016),Drama|Thriller|War,2016,3.6469565217391304
+155360,11,Road Games (2016),Thriller,2016,2.727272727272727
+155366,13,Monster High: Great Scarrier Reef (2016),Animation|Children,2016,2.269230769230769
+155370,13,You Are Not Alone (2016),Horror|Thriller,2016,3.0384615384615383
+155392,140,"Hello, My Name Is Doris (2016)",Drama,2016,3.414285714285714
+155509,389,Mr. Right (2016),Action|Comedy|Romance,2016,3.377892030848329
+155545,58,Backtrack (2016),Mystery|Thriller,2016,2.9913793103448274
+155581,69,Pee-wee's Big Holiday (2016),Adventure|Comedy,2016,2.891304347826087
+155583,60,Miracles from Heaven (2016),Drama,2016,3.2916666666666665
+155595,39,The Confirmation (2016),Comedy,2016,3.1538461538461537
+155599,21,The Daughter (2016),Drama,2016,3.5238095238095237
+155625,108,Under the Shadow (2016),Horror|Thriller,2016,3.449074074074074
+155659,288,Florence Foster Jenkins (2016),Comedy|Drama,2016,3.3385416666666665
+155743,211,My Big Fat Greek Wedding 2 (2016),Comedy,2016,2.8554502369668247
+155798,22,Hannibal Buress: Comedy Camisado (2016),Comedy,2016,3.6363636363636362
+155800,69,Jimmy Carr: Funny Business (2016),Comedy,2016,3.6231884057971016
+155812,125,Get a Job (2016),Comedy,2016,2.804
+155820,428,Keanu (2016),Comedy,2016,3.039719626168224
+155830,38,White Girl (2016),Drama,2016,3.1184210526315788
+155846,76,War on Everyone (2016),Comedy,2016,3.0921052631578947
+155874,248,Love & Friendship (2016),Drama|Romance,2016,3.2641129032258065
+155966,39,Elections Day 2 (2016),Comedy,2016,3.1153846153846154
+155968,408,The Night Manager (2016),Crime|Drama|Mystery|Thriller,2016,3.8026960784313726
+155970,40,They're Watching (2016),Comedy|Horror|Thriller,2016,2.6
+156000,118,Justice League vs. Teen Titans (2016),Action|Animation,2016,3.1652542372881354
+156025,75,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy,2016,3.1266666666666665
+156369,209,Zero Days (2016),Documentary,2016,3.8421052631578947
+156371,436,Everybody Wants Some (2016),Comedy,2016,3.5252293577981653
+156387,914,Sing Street (2016),Drama,2016,3.913566739606127
+156607,472,The Huntsman Winter's War (2016),Action|Adventure|Drama|Fantasy,2016,2.9491525423728815
+156609,686,Neighbors 2: Sorority Rising (2016),Comedy,2016,2.931486880466472
+156706,118,The Trust (2016),Crime|Thriller,2016,2.656779661016949
+156726,621,Hush (2016),Thriller,2016,3.4468599033816427
+156755,65,Things to Come (2016),Drama,2016,3.3615384615384616
+156819,44,Confirmation (2016),Drama,2016,3.3181818181818183
+156903,78,The Waiting (2016),Thriller,2016,3.173076923076923
+156968,12,City of Gold (2016),Documentary,2016,3.8333333333333335
+157106,41,Fan (2016),Action|Drama|Thriller,2016,2.8658536585365852
+157122,413,The Man Who Knew Infinity (2016),Drama,2016,3.6598062953995156
+157138,11,Folk Hero & Funny Guy (2016),Comedy,2016,3.0
+157142,20,Dean (2016),Comedy,2016,2.45
+157176,21,A Storm in the Stars (2016),Drama|Romance,2016,2.8095238095238093
+157186,15,Veloce come il vento (2016),Drama,2016,3.8333333333333335
+157200,552,Money Monster (2016),Drama|Thriller,2016,3.2192028985507246
+157224,112,Nine Lives (2016),Comedy,2016,2.705357142857143
+157268,165,Don't Think Twice (2016),Comedy|Drama,2016,3.278787878787879
+157270,61,Barbershop: The Next Cut (2016),Comedy,2016,3.1721311475409837
+157272,13,The Preppie Connection (2016),Crime|Drama,2016,3.6923076923076925
+157274,100,The Choice (2016),Drama|Romance,2016,3.615
+157276,98,Our Kind of Traitor (2016),Drama|Thriller,2016,3.193877551020408
+157290,23,Suntan (2016),Comedy|Drama|Romance,2016,3.0434782608695654
+157294,15,Hannibal Takes Edinburgh (2016),(no genres listed),2016,3.3666666666666667
+157296,2851,Finding Dory (2016),Adventure|Animation|Comedy,2016,3.6562609610662924
+157312,208,The Boss (2016),Comedy,2016,2.860576923076923
+157318,265,Perfect Strangers (2016),Comedy|Drama,2016,3.943396226415094
+157326,121,Bastille Day (2016),Action,2016,3.2768595041322315
+157338,189,Free State of Jones (2016),Action|Drama|Thriller,2016,3.5
+157340,566,The Angry Birds Movie (2016),Animation|Comedy,2016,2.7809187279151946
+157361,169,Tickled (2016),Documentary,2016,3.727810650887574
+157385,19,Geezer (2016),Comedy|Drama,2016,2.9473684210526314
+157387,27,Paradox (2016),Action|Sci-Fi,2016,2.9444444444444446
+157407,52,I Am Wrath (2016),Action|Crime|Drama|Thriller,2016,2.451923076923077
+157432,43,Precious Cargo (2016),Action|Crime,2016,2.7790697674418605
+157498,198,11.22.63 (2016),Drama|Thriller,2016,3.6237373737373737
+157569,26,Al Final del Túnel (2016),Thriller,2016,3.3076923076923075
+157667,97,Mother's Day (2016),Comedy,2016,2.381443298969072
+157669,15,Mothers and Daughters (2016),Drama,2016,2.9
+157671,62,Manhattan Night (2016),Mystery|Thriller,2016,3.282258064516129
+157699,1068,Snowden (2016),Drama|Thriller,2016,3.7284644194756553
+157797,119,Special Correspondents (2016),Comedy,2016,2.8487394957983194
+157835,25,Sacrifice (2016),Thriller,2016,2.3
+157847,36,Being Charlie (2016),(no genres listed),2016,3.2916666666666665
+157849,17,Buddymoon (2016),(no genres listed),2016,2.676470588235294
+157851,88,Team Foxcatcher (2016),Documentary,2016,3.534090909090909
+157853,55,Patton Oswalt: Talking for Clapping (2016),Comedy,2016,3.418181818181818
+157865,70,Ratchet & Clank (2016),Action|Adventure|Animation|Children|Comedy|Sci-Fi,2016,2.7785714285714285
+157881,48,Holidays (2016),Comedy|Horror,2016,2.6979166666666665
+157959,35,Term Life (2016),Crime|Drama,2016,2.585714285714286
+158238,2786,The Nice Guys (2016),Crime|Mystery|Thriller,2016,3.7331299353912417
+158254,50,Kindergarten Cop 2 (2016),Action|Comedy,2016,1.84
+158382,54,The Family Fang (2016),Drama,2016,2.9537037037037037
+158390,16,Restoration (2016),Horror,2016,2.59375
+158402,46,The Crew (2016),Action,2016,3.5
+158518,12,Under the Gun (2016),Documentary,2016,2.7083333333333335
+158528,494,The Shallows (2016),Drama|Thriller,2016,3.0789473684210527
+158530,29,Leatherface (2016),Horror,2016,2.396551724137931
+158581,12,My Beloved Bodyguard (2016),Action|Adventure|Drama,2016,3.25
+158619,17,The Faith of Anna Waters (2016),Drama|Horror|Mystery|Thriller,2016,2.235294117647059
+158783,953,The Handmaiden (2016),Drama|Romance|Thriller,2016,4.081846799580273
+158813,831,Alice Through the Looking Glass (2016),Adventure|Children|Fantasy,2016,3.115523465703971
+158830,486,The BFG (2016),Children|Fantasy,2016,3.124485596707819
+158842,148,My Scientology Movie (2016),Documentary,2016,3.5472972972972974
+158872,1330,Sausage Party (2016),Animation|Comedy,2016,2.8537593984962406
+158956,130,Kill Command (2016),Action|Horror|Sci-Fi,2016,2.8
+158962,37,The Eyes of My Mother (2016),Drama|Horror,2016,3.175675675675676
+158966,1724,Captain Fantastic (2016),Drama,2016,3.9446055684454757
+158972,342,Toni Erdmann (2016),Drama,2016,3.6710526315789473
+158974,39,Neruda (2016),Drama,2016,3.358974358974359
+159000,26,My Beautiful Broken Brain (2016),Documentary,2016,3.75
+159061,261,The Wailing (2016),Mystery|Thriller,2016,3.6743295019157087
+159077,63,The Meddler (2016),Comedy|Drama,2016,3.2301587301587302
+159093,2334,Now You See Me 2 (2016),Action|Comedy|Thriller,2016,3.4670094258783206
+159153,22,The Land Before Time XIV: Journey of the Brave (2016),Adventure|Animation|Children,2016,2.8181818181818183
+159161,77,Ali Wong: Baby Cobra (2016),(no genres listed),2016,3.5194805194805197
+159191,143,Julieta (2016),Drama,2016,3.674825174825175
+159193,499,Café Society (2016),Comedy|Drama|Romance,2016,3.3517034068136273
+159195,235,"I, Daniel Blake (2016)",Drama,2016,3.848936170212766
+159223,20,The Pack (2016),Horror|Thriller,2016,2.6
+159249,11,Girls Lost (2016),Drama,2016,3.6818181818181817
+159411,11,KISS Rocks Vegas (2016),Documentary,2016,1.7272727272727273
+159415,1029,Swiss Army Man (2016),Comedy|Drama|Romance,2016,3.4514091350826046
+159441,276,The Do-Over (2016),Comedy,2016,2.6557971014492754
+159447,118,Before I Wake (2016),Horror|Thriller,2016,3.2796610169491527
+159451,62,Graduation (2016),Drama,2016,3.4919354838709675
+159484,11,Life on the Line (2016),Action,2016,1.9545454545454546
+159606,20,Kapoor and Sons (2016),Drama,2016,3.875
+159626,20,Zoombies (2016),Action|Horror|Sci-Fi,2016,2.325
+159690,422,Teenage Mutant Ninja Turtles: Out of the Shadows (2016),Action|Adventure|Comedy,2016,2.8045023696682465
+159696,62,The Darkness (2016),Horror|Thriller,2016,2.4919354838709675
+159717,529,The Fundamentals of Caring (2016),Drama,2016,3.73062381852552
+159721,13,Brexit: The Movie (2016),Documentary,2016,2.730769230769231
+159755,451,Popstar: Never Stop Never Stopping (2016),Comedy,2016,3.1507760532150777
+159779,14,A Midsummer Night's Dream (2016),(no genres listed),2016,3.107142857142857
+159799,16,Dark Signal (2016),Horror,2016,2.28125
+159827,96,All the Way (2016),Drama,2016,3.6145833333333335
+159849,169,Bo Burnham: Make Happy (2016),Comedy,2016,3.896449704142012
+159858,1021,The Conjuring 2 (2016),Horror,2016,3.4921645445641527
+159917,230,Weiner (2016),Documentary,2016,3.8239130434782607
+159970,33,Never Back Down: No Surrender (2016),Action|Drama,2016,2.878787878787879
+159972,49,Approaching the Unknown (2016),Drama|Sci-Fi|Thriller,2016,2.2448979591836733
+159976,47,Pelé: Birth of a Legend (2016),Drama,2016,3.425531914893617
+160012,13,Andron (2016),Action|Sci-Fi,2016,1.7692307692307692
+160020,56,The Witness (2016),Documentary,2016,3.5625
+160056,11,Hard Sell (2016),Drama,2016,2.9545454545454546
+160080,1203,Ghostbusters (2016),Action|Comedy|Horror|Sci-Fi,2016,2.8042394014962593
+160084,23,Henry Gamble's Birthday Party (2016),Drama,2016,3.391304347826087
+160112,122,Cell (2016),Horror|Sci-Fi,2016,2.192622950819672
+160124,11,A Dragon Arrives! (2016),(no genres listed),2016,2.772727272727273
+160149,38,Complete Unknown (2016),Drama,2016,2.763157894736842
+160161,15,Bang Gang (A Modern Love Story) (2016),Drama,2016,2.8666666666666667
+160201,33,La pazza gioia (2016),Comedy|Drama,2016,3.4696969696969697
+160236,18,Be Somebody (2016),Comedy|Romance,2016,2.861111111111111
+160271,969,Central Intelligence (2016),Action|Comedy,2016,3.216202270381837
+160289,431,O.J.: Made in America (2016),Documentary,2016,4.077726218097448
+160291,13,"Mother, May I Sleep with Danger? (2016)",Thriller,2016,1.7692307692307692
+160301,37,Udta Punjab (2016),Crime|Drama|Thriller,2016,2.8378378378378377
+160317,28,Roots (2016),(no genres listed),2016,3.642857142857143
+160319,12,We are Twisted Fucking Sister! (2016),Documentary,2016,3.375
+160400,85,Genius (2016),Drama,2016,3.429411764705882
+160416,20,Fantastic Lies (2016),Documentary,2016,3.35
+160426,11,Internet Famous (2016),(no genres listed),2016,1.9090909090909092
+160436,19,Te3n (2016),Thriller,2016,3.6578947368421053
+160438,1719,Jason Bourne (2016),Action,2016,3.4115764979639325
+160474,19,Adventures in Babysitting (2016),Comedy,2016,2.6842105263157894
+160533,17,Adult Life Skills (2016),Comedy|Drama,2016,2.7058823529411766
+160553,49,De Palma (2016),Documentary,2016,3.377551020408163
+160555,22,Raman Raghav 2.0 (2016),Crime|Thriller,2016,3.3863636363636362
+160559,57,Minimalism: A Documentary About the Important Things (2016),Documentary,2016,3.4035087719298245
+160563,693,The Legend of Tarzan (2016),Action|Adventure,2016,3.0793650793650795
+160565,449,The Purge: Election Year (2016),Action|Horror|Sci-Fi,2016,2.9387527839643655
+160567,499,Mike & Dave Need Wedding Dates (2016),Comedy,2016,3.208416833667335
+160569,374,Ice Age: Collision Course (2016),Adventure|Animation|Children|Comedy,2016,2.859625668449198
+160571,461,Lights Out (2016),Horror,2016,3.10412147505423
+160573,276,Pete's Dragon (2016),Adventure|Children|Fantasy,2016,3.1503623188405796
+160581,41,The Duel (2016),Action|Drama|Western,2016,2.6219512195121952
+160644,77,Indignation (2016),Drama,2016,3.3051948051948052
+160646,31,Goat (2016),Drama,2016,2.7580645161290325
+160648,18,Black Mountain Side (2016),Horror|Thriller,2016,2.5555555555555554
+160656,105,Tallulah (2016),Drama,2016,3.5619047619047617
+160674,38,The ReZort (2016),Horror,2016,2.8815789473684212
+160678,21,The Phenom (2016),Drama,2016,3.142857142857143
+160684,79,Marauders (2016),Action,2016,2.892405063291139
+160700,19,Carnage Park (2016),Action|Crime|Horror|Thriller,2016,2.3421052631578947
+160710,54,Absolutely Fabulous: The Movie (2016),Comedy,2016,2.824074074074074
+160718,1253,Piper (2016),Animation,2016,4.1392657621707905
+160726,26,Fastball (2016),Documentary,2016,3.173076923076923
+160796,13,The Asylum (2016),Action|Horror|Mystery|Sci-Fi|Thriller,2016,2.1538461538461537
+160848,205,The Red Turtle (2016),Animation,2016,3.6439024390243904
+160860,15,The Dog Lover (2016),Drama,2016,2.6666666666666665
+160862,14,Notes on Blindness (2016),Documentary,2016,3.607142857142857
+160872,19,Satanic (2016),Horror,2016,2.1052631578947367
+160874,52,"Life, Animated (2016)",Animation|Documentary,2016,3.5288461538461537
+160876,48,The Innocents (2016),Drama,2016,3.625
+160882,12,Three (2016),Crime,2016,2.5
+160896,12,Fittest On Earth (The Story Of The 2015 Reebok CrossFit Games) (2016),Documentary,2016,3.7083333333333335
+160898,12,Contrato Vitalício (2016),Adventure|Comedy,2016,1.9583333333333333
+160954,843,Nerve (2016),Drama|Thriller,2016,3.497627520759193
+160956,11,Code of Honor (2016),Action,2016,2.0454545454545454
+160980,1591,Sully (2016),Drama,2016,3.781269641734758
+160982,23,Slack Bay (2016),Comedy|Drama,2016,3.5869565217391304
+160988,55,The Student (2016),Drama,2016,3.727272727272727
+160990,74,It's Only the End of the World (2016),Drama,2016,3.777027027027027
+160992,15,Aloys (2016),Drama|Fantasy,2016,3.066666666666667
+161024,88,Jim Jefferies: Freedumb (2016),Comedy,2016,3.7670454545454546
+161034,49,Sultan (2016),Action|Drama,2016,3.36734693877551
+161060,20,Goldstone (2016),Crime|Thriller,2016,3.25
+161062,34,Un homme à la hauteur (2016),Comedy|Romance,2016,3.1911764705882355
+161078,22,The Last King (2016),Action|Adventure|Drama,2016,3.1136363636363638
+161127,430,The Infiltrator (2016),Crime|Drama,2016,3.5395348837209304
+161131,1164,War Dogs (2016),Comedy,2016,3.6194158075601375
+161157,14,Friday (Pyatnitsa) (2016),Comedy,2016,3.6785714285714284
+161173,17,Outlaws and Angels (2016),Drama|Thriller|Western,2016,2.764705882352941
+161179,17,To Steal from a Thief (2016),Crime|Thriller,2016,3.235294117647059
+161240,34,Looking: The Movie (2016),Comedy|Drama|Romance,2016,3.4705882352941178
+161302,11,Traders (2016),Thriller,2016,3.0454545454545454
+161312,21,Rebirth (2016),Thriller,2016,2.8095238095238093
+161328,15,Dear Eleanor (2016),Adventure|Comedy|Drama,2016,3.066666666666667
+161334,27,Tony Robbins: I Am Not Your Guru (2016),Documentary,2016,3.2777777777777777
+161336,16,Author: The JT LeRoy Story (2016),Documentary,2016,2.875
+161348,100,The Love Witch (2016),Drama|Horror|Thriller,2016,3.2
+161354,275,Batman: The Killing Joke (2016),Action|Animation|Crime|Drama,2016,2.9872727272727273
+161580,672,Bad Moms (2016),Comedy,2016,3.2455357142857144
+161582,1944,Hell or High Water (2016),Crime|Drama,2016,3.8809156378600824
+161584,45,Southside With You (2016),Drama|Romance,2016,3.2888888888888888
+161586,47,Little Men (2016),Drama,2016,3.2872340425531914
+161588,19,Meet the Blacks (2016),Comedy|Horror,2016,2.1052631578947367
+161594,70,Kingsglaive: Final Fantasy XV (2016),Action|Adventure|Animation|Drama|Fantasy|Sci-Fi,2016,3.35
+161604,13,Ghost Team (2016),(no genres listed),2016,2.423076923076923
+161620,22,Clash (2016),(no genres listed),2016,3.477272727272727
+161634,1112,Don't Breathe (2016),Thriller,2016,3.5323741007194243
+161650,100,47 Meters Down (2016),Horror|Thriller,2016,2.72
+161654,16,Scare Campaign (2016),Comedy|Horror,2016,3.3125
+161658,21,Hillary's America: The Secret History Of The Democratic Party (2016),(no genres listed),2016,2.6904761904761907
+161686,27,The Call Up (2016),Action|Adventure|Sci-Fi,2016,2.7962962962962963
+161738,16,The Wild Life (2016),Adventure|Animation|Comedy,2016,2.625
+161852,42,King Cobra (2016),Crime|Drama,2016,2.8333333333333335
+161918,47,Sharknado 4: The 4th Awakens (2016),Action|Adventure|Horror|Sci-Fi,2016,1.9042553191489362
+161920,26,Donald Trump's The Art of the Deal: The Movie (2016),Comedy,2016,2.6538461538461537
+161922,881,The Edge of Seventeen (2016),Comedy,2016,3.7122587968217933
+161924,14,Clinton Cash (2016),Documentary,2016,2.75
+161954,182,Anthropoid (2016),War,2016,3.510989010989011
+161956,208,Blood Father (2016),Action|Thriller,2016,3.1514423076923075
+161958,28,Joshy (2016),Comedy,2016,3.1785714285714284
+161966,356,Elle (2016),Thriller,2016,3.4101123595505616
+161974,14,Daylight's End (2016),Action|Horror|Sci-Fi,2016,2.5357142857142856
+162082,723,Train to Busan (2016),Action|Thriller,2016,3.740663900414938
+162148,58,Friend Request (2016),Horror|Thriller,2016,2.6379310344827585
+162150,23,Let's Be Evil (2016),Sci-Fi|Thriller,2016,2.239130434782609
+162158,18,Edge of Winter (2016),Drama|Thriller,2016,2.6944444444444446
+162160,37,Viral (2016),Drama|Horror|Sci-Fi|Thriller,2016,2.9864864864864864
+162162,19,The Remains (2016),Horror,2016,2.263157894736842
+162316,21,Shelley (2016),Drama|Mystery,2016,2.9523809523809526
+162322,436,Mechanic: Resurrection (2016),Action|Crime|Thriller,2016,3.2041284403669725
+162344,38,Tom Segura: Mostly Stories (2016),Comedy,2016,3.789473684210526
+162346,19,Antibirth (2016),Horror,2016,2.526315789473684
+162348,36,The 9th Life of Louis Drax (2016),Mystery|Thriller,2016,2.9305555555555554
+162350,1082,The Magnificent Seven (2016),Action|Western,2016,3.438539741219963
+162356,20,Sniper: Ghost Shooter (2016),Action|Drama|War,2016,3.375
+162396,71,Skiptrace (2016),Action|Comedy,2016,2.992957746478873
+162416,17,Big Fish & Begonia (2016),Animation|Fantasy,2016,3.176470588235294
+162418,42,A Conspiracy of Faith (2016),Crime|Drama|Mystery|Thriller,2016,3.5595238095238093
+162448,16,Seoul Station (2016),Animation|Drama|Horror,2016,3.375
+162460,26,The Childhood of a Leader (2016),Drama|Horror|Mystery,2016,3.0
+162478,270,Masterminds (2016),Action|Comedy|Crime,2016,2.861111111111111
+162540,13,Amateur Night (2016),Comedy,2016,2.730769230769231
+162542,20,Rustom (2016),Romance|Thriller,2016,3.3
+162566,23,One More Time With Feeling (2016),(no genres listed),2016,3.9782608695652173
+162578,1681,Kubo and the Two Strings (2016),Adventure|Animation|Children|Fantasy,2016,3.83313503866746
+162590,375,Bridget Jones's Baby (2016),Comedy|Romance,2016,3.108
+162592,138,The Light Between Oceans (2016),Drama,2016,3.579710144927536
+162594,203,Morgan (2016),Sci-Fi|Thriller,2016,3.0295566502463056
+162596,90,Queen of Katwe (2016),Drama,2016,3.7666666666666666
+162598,765,Deepwater Horizon (2016),Drama,2016,3.5313725490196077
+162600,1318,Miss Peregrine's Home for Peculiar Children (2016),Fantasy,2016,3.443474962063733
+162602,897,The Girl on the Train (2016),Thriller,2016,3.2931995540691195
+162604,34,Middle School: The Worst Years of My Life (2016),Comedy,2016,2.926470588235294
+162606,2021,The Accountant (2016),Crime|Drama|Thriller,2016,3.7258782780801583
+162608,29,Kevin Hart: What Now? (2016),(no genres listed),2016,3.3275862068965516
+162634,23,High Strung (2016),Drama|Romance,2016,3.1956521739130435
+162660,32,God's Not Dead 2 (2016),Drama,2016,2.90625
+162676,12,Operation Chromite (2016),Action|Drama|War,2016,3.1666666666666665
+162682,11,The First Monday in May (2016),Documentary,2016,3.590909090909091
+162726,41,A Quiet Passion (2016),Drama,2016,3.0121951219512195
+162730,63,The Whole Truth (2016),Drama|Thriller,2016,3.142857142857143
+162732,15,The Model (2016),Drama,2016,2.9
+162738,190,American Honey (2016),Comedy|Drama,2016,3.6789473684210527
+162828,267,Imperium (2016),Crime|Drama|Thriller,2016,3.342696629213483
+162842,76,David Brent: Life on the Road (2016),Comedy,2016,2.9276315789473686
+162870,11,Irreplaceable (2016),Comedy|Drama,2016,3.4545454545454546
+162882,95,I Am Not a Serial Killer (2016),Thriller,2016,3.3105263157894735
+162968,13,Kizumonogatari Part 1: Tekketsu (2016),Action|Animation|Mystery,2016,3.730769230769231
+162990,22,PSYCHO-PASS: The Movie (2016),Action|Animation|Sci-Fi,2016,3.727272727272727
+163006,29,Hands of Stone (2016),Drama,2016,2.7758620689655173
+163020,37,The Fits (2016),Drama,2016,3.2837837837837838
+163022,29,Morris from America (2016),Drama|Romance,2016,2.9655172413793105
+163056,116,Shin Godzilla (2016),Action|Adventure|Fantasy|Sci-Fi,2016,3.3577586206896552
+163064,11,Hard Target 2 (2016),Action|Thriller,2016,2.1818181818181817
+163070,13,Honey 3 (2016),Comedy,2016,2.0384615384615383
+163076,13,Jean-Claude Van Johnson (2016),Comedy,2016,3.0
+163092,28,The Intervention (2016),Comedy|Drama,2016,2.9107142857142856
+163094,37,The Sea of Trees (2016),Drama,2016,3.324324324324324
+163118,30,XOXO (2016),Drama,2016,2.933333333333333
+163122,14,Bodom (2016),Horror,2016,2.0714285714285716
+163134,1205,Your Name. (2016),Animation|Drama|Fantasy|Romance,2016,4.124481327800829
+163496,26,The Tunnel (2016),Drama,2016,3.673076923076923
+163504,35,Little Sister (2016),Comedy,2016,3.0142857142857142
+163508,64,Certain Women (2016),Drama,2016,3.40625
+163510,27,The Happiest Day in the Life of Olli Mäki (2016),Drama,2016,3.888888888888889
+163512,80,Aquarius (2016),Drama,2016,3.70625
+163541,20,Guernica (2016),Drama|Romance|War,2016,2.9
+163547,31,Equity (2016),Drama,2016,2.8870967741935485
+163561,13,Amityville Terror (2016),Horror,2016,2.230769230769231
+163585,34,David Lynch: The Art Life (2016),(no genres listed),2016,3.4705882352941178
+163645,2170,Hacksaw Ridge (2016),Drama|War,2016,3.864746543778802
+163653,22,David Cross: Making America Great Again (2016),Comedy,2016,3.25
+163663,60,Other People (2016),Drama,2016,3.5
+163691,13,City 40 (2016),Documentary,2016,3.1923076923076925
+163715,17,Rampage: President Down (2016),Action|Crime|Thriller,2016,2.7058823529411766
+163771,61,For the Love of Spock (2016),Documentary,2016,3.401639344262295
+163779,15,"Kiki, Love to Love (2016)",Comedy|Romance,2016,3.2666666666666666
+163909,33,Divines (2016),Drama,2016,3.893939393939394
+163911,32,USS Indianapolis: Men of Courage (2016),Action|War,2016,2.703125
+163921,23,Wolf Creek (2016),Crime|Horror|Thriller,2016,3.391304347826087
+163931,51,Billy Lynn's Long Halftime Walk (2016),Drama|War,2016,3.019607843137255
+163935,15,Born in Heinola (2016),Drama,2016,3.3333333333333335
+163937,222,Blair Witch (2016),Horror|Thriller,2016,2.5923423423423424
+163939,12,Transpecos (2016),Thriller,2016,2.875
+163941,43,The Hollars (2016),Children|Comedy|Drama,2016,3.372093023255814
+163949,76,The Beatles: Eight Days a Week - The Touring Years (2016),Documentary,2016,3.75
+163951,30,Kickboxer: Vengeance (2016),Action|Drama,2016,2.4
+163955,51,The Promise (2016),Drama|Romance,2016,3.4215686274509802
+163959,171,Loving (2016),Drama,2016,3.43859649122807
+163965,30,Miss Stevens (2016),Comedy,2016,3.216666666666667
+163971,85,Christine (2016),Drama,2016,3.4235294117647057
+163979,26,Silicon Cowboys (2016),Documentary,2016,3.519230769230769
+163981,48,31 (2016),Horror,2016,2.8854166666666665
+163983,15,Comedy Central Roast of Rob Lowe (2016),Comedy,2016,3.566666666666667
+163985,383,ARQ (2016),Sci-Fi|Thriller,2016,3.2493472584856398
+163993,21,Tell Me How I Die (2016),(no genres listed),2016,2.1666666666666665
+164019,26,Fire at Sea (2016),Documentary,2016,3.3846153846153846
+164107,86,Tower (2016),Crime|Documentary,2016,3.7906976744186047
+164141,77,I.T. (2016),Drama,2016,2.688311688311688
+164145,24,The Neighbor (2016),Crime|Horror|Thriller,2016,2.9583333333333335
+164175,421,A Monster Calls (2016),Drama|Fantasy,2016,3.648456057007126
+164179,8682,Arrival (2016),Sci-Fi,2016,4.019926284266298
+164181,18,Samurai Rauni Reposaarelainen (2016),Adventure,2016,3.4166666666666665
+164196,12,"I, Olga Hepnarova (2016)",Drama,2016,3.1666666666666665
+164200,399,Storks (2016),Animation|Children|Comedy,2016,3.2581453634085213
+164204,45,After the Storm (2016),Children|Drama,2016,3.588888888888889
+164226,38,Maximum Ride (2016),Action|Adventure|Comedy|Fantasy|Sci-Fi|Thriller,2016,2.25
+164228,25,Radin ! (2016),Comedy,2016,2.94
+164236,18,Sieranevada (2016),Drama,2016,3.0
+164260,36,Horace and Pete (2016),Comedy|Drama,2016,4.041666666666667
+164264,33,Audrie & Daisy (2016),Documentary,2016,3.3333333333333335
+164268,31,Iliza Shlesinger: Confirmed Kills (2016),Comedy,2016,3.3225806451612905
+164280,30,Endless Poetry (2016),Drama|Fantasy,2016,3.683333333333333
+164367,279,The Girl with All the Gifts (2016),Drama|Horror|Sci-Fi|Thriller,2016,3.496415770609319
+164369,49,The Distinguished Citizen (2016),Comedy|Drama,2016,3.7346938775510203
+164373,33,Abattoir (2016),Horror|Thriller,2016,2.3181818181818183
+164387,23,Maigret Sets A Trap (2016),Crime|Drama|Mystery,2016,3.347826086956522
+164395,16,I Am a Hero (2016),Action|Fantasy|Horror|Sci-Fi,2016,3.28125
+164397,15,Railroad Tigers (2016),Action|Comedy|War,2016,3.066666666666667
+164411,143,My Life as a Courgette (2016),Animation|Children|Drama,2016,3.86013986013986
+164455,21,Tschick (2016),Children,2016,3.4523809523809526
+164540,226,Amanda Knox (2016),Documentary,2016,3.47787610619469
+164546,34,All Eyez on Me (2016),Drama,2016,2.823529411764706
+164598,31,Gringo: The Dangerous Life of John McAfee (2016),Documentary|Drama,2016,3.467741935483871
+164604,16,Kicks (2016),Adventure,2016,3.46875
+164606,38,Operation Avalanche (2016),Thriller,2016,2.8552631578947367
+164639,29,The Duelist (2016),(no genres listed),2016,3.189655172413793
+164643,11,A Bride for Rip Van Winkle (2016),Drama,2016,4.090909090909091
+164649,22,The Fury of a Patient Man (2016),Crime,2016,3.409090909090909
+164655,35,Gimme Danger (2016),Documentary,2016,3.4714285714285715
+164759,11,Date with Love (2016),Comedy|Romance,2016,3.727272727272727
+164821,413,Colossal (2016),Action|Sci-Fi|Thriller,2016,3.1198547215496366
+164869,19,A Cinderella Story: If the Shoe Fits (2016),Comedy,2016,3.1578947368421053
+164881,13,Night Guards (2016),Action|Sci-Fi,2016,2.0
+164899,86,Blue Jay (2016),Drama,2016,3.6627906976744184
+164905,20,Voyage of Time: Life's Journey (2016),Documentary|Drama,2016,3.425
+164909,3252,La La Land (2016),Comedy|Drama|Romance,2016,3.751383763837638
+164917,223,13th (2016),Documentary,2016,3.8587443946188342
+164931,108,The Siege of Jadotville (2016),Drama|Thriller,2016,3.5231481481481484
+164933,43,Collector (2016),Drama|Thriller,2016,3.488372093023256
+164935,23,Being 17 (2016),Drama,2016,3.5434782608695654
+164949,213,The Salesman (2016),Drama,2016,3.795774647887324
+164959,15,Barbie: Spy Squad (2016),Action|Animation|Children,2016,2.566666666666667
+164971,12,Two Lottery Tickets (2016),Comedy,2016,3.6666666666666665
+164981,548,Allied (2016),Action|Drama|Romance|Thriller|War,2016,3.489051094890511
+164983,50,The Monster (2016),Horror,2016,2.85
+165003,14,Chicken People (2016),Documentary,2016,3.4285714285714284
+165023,21,Phantasm: Ravager (2016),Fantasy|Horror,2016,2.1904761904761907
+165071,17,Baked in Brooklyn (2016),Comedy,2016,2.8823529411764706
+165085,34,Batman: Return of the Caped Crusaders (2016),Action|Animation|Comedy,2016,3.176470588235294
+165087,77,Brimstone (2016),Mystery|Thriller|Western,2016,3.461038961038961
+165101,702,Inferno (2016),Mystery|Thriller,2016,3.0484330484330484
+165103,362,Keeping Up with the Joneses (2016),Comedy,2016,3.2361878453038675
+165105,244,Ouija: Origin of Evil (2016),Horror|Thriller,2016,3.235655737704918
+165115,16,My Blind Brother (2016),Comedy|Drama|Romance,2016,3.28125
+165117,15,Louis Theroux: Savile (2016),Documentary,2016,3.3333333333333335
+165119,89,Mascots (2016),Comedy,2016,2.893258426966292
+165123,15,Crisis in Six Scenes (2016),Comedy,2016,2.966666666666667
+165125,14,Patient Seven (2016),Horror,2016,3.142857142857143
+165127,13,The White King (2016),Drama|Sci-Fi,2016,2.4615384615384617
+165139,18,Wild Oats (2016),Comedy,2016,3.0833333333333335
+165141,414,Trolls (2016),Adventure|Animation|Children,2016,3.0120772946859904
+165163,19,Raiders! (2016),Documentary,2016,3.0
+165179,30,Una (2016),Drama,2016,3.1666666666666665
+165219,78,Max Steel (2016),Action|Adventure|Sci-Fi,2016,2.551282051282051
+165235,23,Operator (2016),Comedy|Drama,2016,3.260869565217391
+165239,51,Supersonic (2016),Documentary,2016,3.7058823529411766
+165329,20,Always Shine (2016),Thriller,2016,3.1
+165337,107,Denial (2016),Drama,2016,3.6448598130841123
+165343,69,The Rocky Horror Picture Show: Let's Do the Time Warp Again (2016),Comedy|Horror|Sci-Fi|Thriller,2016,2.463768115942029
+165347,703,Jack Reacher: Never Go Back (2016),Action|Crime|Drama|Mystery|Thriller,2016,3.0874822190611666
+165349,34,Frank & Lola (2016),Crime|Drama|Mystery|Romance|Thriller,2016,2.823529411764706
+165351,17,Hamilton's America (2016),Documentary,2016,3.7941176470588234
+165353,54,In a Valley of Violence (2016),Thriller|Western,2016,3.0277777777777777
+165407,30,The Monk and the Demon (2016),Comedy|Mystery|Sci-Fi,2016,3.7666666666666666
+165413,30,Borrowed Time (2016),Animation|Drama|Western,2016,3.7
+165421,46,The Red Pill (2016),Documentary,2016,3.489130434782609
+165441,33,American Pastoral (2016),Drama,2016,3.0606060606060606
+165483,64,Joe Rogan: Triggered (2016),Comedy,2016,3.6640625
+165487,20,"Fear, Inc. (2016)",Comedy|Horror,2016,3.0
+165489,17,Ethel & Ernest (2016),(no genres listed),2016,3.5294117647058822
+165491,59,Into the Inferno (2016),Documentary,2016,3.6440677966101696
+165503,148,Mr. Church (2016),Drama,2016,3.8682432432432434
+165527,150,Before the Flood (2016),Documentary,2016,3.84
+165537,18,The Windmill (2016),Horror,2016,2.6666666666666665
+165539,39,Michael Moore in TrumpLand (2016),Documentary,2016,2.6153846153846154
+165549,1614,Manchester by the Sea (2016),Drama,2016,3.848822800495663
+165551,1433,Lion (2016),Drama,2016,3.9190509420795534
+165553,18,Come And Find Me (2016),Drama,2016,3.25
+165601,55,I Am the Pretty Thing That Lives in the House (2016),Horror|Thriller,2016,2.9
+165603,423,The Autopsy of Jane Doe (2016),Horror,2016,3.455082742316785
+165635,30,The Thinning (2016),Thriller,2016,3.2666666666666666
+165639,76,While You Were Fighting: A Thor Mockumentary (2016),Comedy|Fantasy|Sci-Fi,2016,3.723684210526316
+165641,57,Closet Monster (2016),Drama,2016,3.807017543859649
+165645,104,Bad Santa 2 (2016),Comedy,2016,2.701923076923077
+165647,19,Within (2016),Thriller,2016,2.8157894736842106
+165651,13,Take Down (2016),Action|Drama|Thriller,2016,3.6923076923076925
+165669,39,The Late Bloomer (2016),Comedy|Drama|Romance,2016,3.076923076923077
+165681,21,Almost Christmas (2016),Comedy,2016,2.9523809523809526
+165723,11,Ae Dil Hai Mushkil (2016),Comedy|Drama|Romance,2016,2.909090909090909
+165823,30,Under the Sun (2016),Documentary,2016,3.533333333333333
+165837,12,Kate Plays Christine (2016),Documentary|Drama,2016,2.9166666666666665
+165841,14,All These Sleepless Nights (2016),Documentary,2016,3.9285714285714284
+165843,11,Risk (2016),Documentary,2016,3.1363636363636362
+165853,12,Cameraperson (2016),(no genres listed),2016,3.4166666666666665
+165869,20,Heartstone (2016),Drama|Romance,2016,3.775
+165883,26,May God Save Us (2016),Crime|Thriller,2016,3.423076923076923
+165885,21,Smoke & Mirrors (2016),Action|Thriller,2016,3.1904761904761907
+165897,35,Army of One (2016),Comedy,2016,2.8285714285714287
+165933,15,The Ivory Game (2016),Documentary,2016,3.8666666666666667
+165937,381,Collateral Beauty (2016),Drama,2016,3.438320209973753
+165947,124,The True Memoirs of an International Assassin (2016),Action|Comedy,2016,3.0443548387096775
+165969,114,HyperNormalisation (2016),Documentary,2016,4.0
+166015,22,The African Doctor (2016),Comedy|Drama,2016,3.75
+166020,32,Dog Eat Dog (2016),Crime|Drama|Thriller,2016,2.1875
+166140,14,The Untamed (2016),(no genres listed),2016,3.25
+166149,68,A United Kingdom (2016),Drama,2016,3.485294117647059
+166213,11,A Wish for Christmas (2016),Drama|Romance,2016,3.0
+166235,26,Shut In (2016),Drama|Thriller,2016,2.6538461538461537
+166245,28,Good Kids (2016),Comedy,2016,3.75
+166285,29,The Odyssey (2016),Adventure,2016,3.4482758620689653
+166287,11,Officer Downe (2016),Action,2016,2.8181818181818183
+166291,113,A Silent Voice (2016),Animation|Drama|Romance,2016,4.022123893805309
+166310,12,Heal the Living (2016),Drama,2016,3.5833333333333335
+166369,29,Sour Grapes (2016),Documentary,2016,3.896551724137931
+166461,3093,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,2016,3.8608147429679924
+166478,23,Siren (2016),Horror,2016,3.1739130434782608
+166480,14,Eliminators (2016),Action|Thriller,2016,2.9285714285714284
+166482,13,Alienate (2016),Drama|Horror|Sci-Fi|Thriller,2016,2.230769230769231
+166486,426,Jackie (2016),Drama,2016,3.2183098591549295
+166492,262,Office Christmas Party (2016),Comedy,2016,3.062977099236641
+166526,253,The Space Between Us (2016),Adventure|Sci-Fi,2016,3.1877470355731226
+166528,5622,Rogue One: A Star Wars Story (2016),Action|Adventure|Fantasy|Sci-Fi,2016,3.8241728922091784
+166530,55,Pet (2016),Thriller,2016,2.981818181818182
+166544,30,A Kind of Murder (2016),Thriller,2016,2.433333333333333
+166558,389,Underworld: Blood Wars (2016),Action|Horror,2016,3.1812339331619537
+166562,32,Panfilov's 28 Men (2016),(no genres listed),2016,3.4375
+166568,295,Miss Sloane (2016),Thriller,2016,3.7389830508474575
+166572,33,Rules Don't Apply (2016),Drama,2016,2.696969696969697
+166635,2605,Passengers (2016),Adventure|Drama|Romance|Sci-Fi,2016,3.537236084452975
+166643,2647,Hidden Figures (2016),Drama,2016,4.010766905931243
+166653,23,Michael Che Matters (2016),Comedy,2016,3.6956521739130435
+166705,460,Fences (2016),Drama,2016,3.501086956521739
+166721,59,Bleed for This (2016),Drama,2016,3.406779661016949
+166755,29,Hacker (2016),Crime|Drama|Thriller,2016,3.586206896551724
+166777,33,The Greasy Strangler (2016),Comedy|Horror|Thriller,2016,3.0454545454545454
+166788,300,20th Century Women (2016),Drama,2016,3.7483333333333335
+166802,26,Inner Workings (2016),Animation|Comedy,2016,3.5576923076923075
+166918,462,The Great Wall (2016),Action|Adventure|Thriller,2016,3.053030303030303
+166934,18,Reggie Watts: Spatial (2016),Comedy,2016,3.111111111111111
+166938,17,The Matchbreaker (2016),Comedy|Romance,2016,3.2941176470588234
+166940,54,This Beautiful Fantastic (2016),Drama,2016,3.712962962962963
+166946,908,The Founder (2016),Drama,2016,3.751101321585903
+166958,38,Hairspray Live! (2016),Comedy,2016,2.6315789473684212
+166974,25,Creepy (2016),Thriller,2016,3.22
+167018,604,Why Him? (2016),Comedy,2016,3.2864238410596025
+167032,12,Dancer (2016),Documentary,2016,3.0833333333333335
+167034,14,I Am Bolt (2016),Documentary,2016,3.75
+167036,765,Sing (2016),Animation|Children|Comedy,2016,3.442483660130719
+167038,35,Dear Zindagi (2016),Drama|Romance,2016,3.657142857142857
+167040,13,Kahaani 2 (2016),Crime|Thriller,2016,3.269230769230769
+167084,14,Jack Goes Home (2016),Drama|Horror|Thriller,2016,2.7142857142857144
+167118,11,Sugar Mountain (2016),Drama|Thriller,2016,2.8636363636363638
+167122,14,In Bed with Victoria (2016),Comedy,2016,2.9285714285714284
+167136,19,Alone in Berlin (2016),Drama,2016,3.289473684210526
+167174,30,Beyond the Gates (2016),Adventure|Horror,2016,2.4166666666666665
+167234,18,Life+1 Day (2016),Drama|Thriller,2016,4.111111111111111
+167248,69,Kedi (2016),(no genres listed),2016,3.8043478260869565
+167334,28,Barry (2016),Drama,2016,2.892857142857143
+167352,23,Hurricane Bianca (2016),Comedy,2016,2.717391304347826
+167370,765,Assassin's Creed (2016),Action|Adventure|Sci-Fi,2016,2.688888888888889
+167378,12,Greater (2016),Children|Drama,2016,3.5416666666666665
+167392,177,Dangal (2016),Drama,2016,3.946327683615819
+167488,34,Collide (2016),Action|Thriller,2016,2.6911764705882355
+167494,18,Mower Minions (2016),Animation|Comedy,2016,3.1944444444444446
+167544,313,Patriots Day (2016),Drama|Thriller,2016,3.6277955271565494
+167546,180,Gold (2016),Drama,2016,3.4472222222222224
+167620,68,Leap! (2016),Animation|Children|Comedy,2016,3.1029411764705883
+167636,48,Monster Trucks (2016),Action|Animation|Children|Comedy|Sci-Fi,2016,2.6666666666666665
+167652,12,Red Dog: True Blue (2016),Children|Comedy|Drama,2016,2.9583333333333335
+167682,33,The Unknown Girl (2016),Crime|Drama|Thriller,2016,3.0757575757575757
+167696,14,The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared (2016),Adventure|Comedy,2016,3.357142857142857
+167698,28,Viking (2016),Action|Drama,2016,1.9464285714285714
+167732,80,A Street Cat Named Bob (2016),Comedy|Drama,2016,3.70625
+167744,31,Prevenge (2016),Comedy|Drama|Fantasy|Horror|Thriller,2016,3.1451612903225805
+167786,16,When the Bough Breaks (2016),Drama|Horror|Mystery,2016,2.28125
+167790,13,The Good Boy (2016),Children|Comedy|Drama,2016,3.1538461538461537
+167794,67,Frantz (2016),Drama,2016,3.9029850746268657
+167800,31,Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry (2016),Comedy,2016,3.306451612903226
+167832,278,The Invisible Guest (2016),Thriller,2016,4.06294964028777
+167838,36,Kung Fu Yoga (2016),Action|Adventure|Comedy|Mystery,2016,2.875
+167854,16,"Dana Carvey: Straight White Male, 60 (2016)",Comedy,2016,3.09375
+167870,25,The White Helmets (2016),Documentary|War,2016,3.78
+167986,20,Rupture (2016),Sci-Fi|Thriller,2016,2.725
+167990,41,The Young Offenders (2016),Comedy,2016,3.451219512195122
+168058,16,The King's Choice (2016),Action|Drama|War,2016,3.3125
+168090,14,Kizumonogatari II: Passionate Blood (2016),Animation|Fantasy|Mystery,2016,3.7857142857142856
+168130,19,Teenage Cocktail (2016),Drama|Thriller,2016,3.263157894736842
+168154,13,We Are the Flesh (2016),Drama|Fantasy|Horror,2016,2.269230769230769
+168224,11,Minha Mãe é Uma Peça 2 (2016),Comedy,2016,3.3636363636363638
+168244,21,Maigret's Dead Man (2016),Crime|Mystery|Thriller,2016,3.3333333333333335
+168334,19,Chocolat (2016),Comedy|Drama,2016,3.6842105263157894
+168348,33,Headshot (2016),Action|Thriller,2016,2.909090909090909
+168352,34,Incarnate (2016),Horror|Thriller,2016,2.838235294117647
+168408,35,Boo! A Madea Halloween (2016),Comedy|Horror,2016,2.3857142857142857
+168426,37,Beware the Slenderman (2016),Crime|Documentary,2016,3.2837837837837838
+168434,12,In Between (2016),(no genres listed),2016,3.375
+168586,29,Catfight (2016),Comedy,2016,2.896551724137931
+168636,19,Nocturama (2016),Thriller,2016,3.3684210526315788
+168652,15,Sadako vs. Kayako (2016),Horror|Thriller,2016,2.1666666666666665
+168740,17,The Ticket (2016),Drama,2016,2.8823529411764706
+168748,12,Pearl (2016),Animation,2016,3.4166666666666665
+168772,22,Lavender (2016),Drama|Thriller,2016,3.0681818181818183
+168784,17,The Hollow Point (2016),Action|Drama|Thriller,2016,3.1176470588235294
+168792,14,The Great Gilly Hopkins (2016),Children|Comedy|Drama,2016,3.7142857142857144
+168884,25,Mine (2016),Thriller,2016,3.36
+168910,52,Come Together (2016),Children|Comedy|Drama,2016,3.6826923076923075
+168962,17,Pink (2016),Drama|Thriller,2016,3.8529411764705883
+169008,13,Shepherds and Butchers (2016),Drama,2016,2.5
+169034,12,Lemonade (2016),(no genres listed),2016,3.7083333333333335
+169250,15,Trash Fire (2016),Comedy|Horror|Romance,2016,3.4
+169394,14,My Entire High School Sinking Into the Sea (2016),Animation,2016,3.3214285714285716
+169400,45,Gantz: O (2016),Action|Animation|Horror|Sci-Fi,2016,3.611111111111111
+169470,12,Priceless (2016),Drama|Romance,2016,2.5
+169530,13,Sing (2016),Drama,2016,4.038461538461538
+169668,19,Banking on Bitcoin (2016),Documentary,2016,3.289473684210526
+169670,157,The Void (2016),Horror,2016,2.9808917197452227
+169694,15,Magnus (2016),Documentary,2016,3.933333333333333
+169750,21,Stake Land II: The Stakelander (2016),Action|Horror,2016,3.0952380952380953
+169764,155,Personal Shopper (2016),Drama|Thriller,2016,3.096774193548387
+169792,34,Carrie Pilby (2016),Comedy,2016,3.4558823529411766
+169814,34,The Assignment (2016),Action|Thriller,2016,2.5
+169828,32,Fallen (2016),Adventure|Drama|Fantasy|Romance|Thriller,2016,3.359375
+169906,266,The Night Of (2016),Crime|Drama,2016,4.114661654135339
+169948,61,Tomorrow Everything Starts (2016),Comedy|Drama,2016,3.6885245901639343
+170361,20,Sami Blood (2016),Drama,2016,3.925
+170509,16,Esteros (2016),Comedy|Drama|Romance,2016,3.71875
+170605,14,Pandora (2016),Action|Drama|Thriller,2016,3.392857142857143
+170625,15,Miles (2016),Drama,2016,2.7333333333333334
+170907,46,Betting on Zero (2016),Documentary,2016,3.630434782608696
+170913,33,Here Alone (2016),Drama|Horror|Sci-Fi|Thriller,2016,3.227272727272727
+170973,34,Boyka: Undisputed IV (2016),Action,2016,3.3088235294117645
+171011,853,Planet Earth II (2016),Documentary,2016,4.4865181711606095
+171013,34,In This Corner of the World (2016),Animation|Drama,2016,3.7941176470588234
+171129,11,Tommy's Honour (2016),(no genres listed),2016,2.772727272727273
+171141,49,Handsome Devil (2016),Drama,2016,3.816326530612245
+171225,11,Sam Was Here (2016),Horror|Mystery|Thriller,2016,3.1818181818181817
+171263,16,Tramps (2016),Comedy|Romance,2016,3.53125
+171467,24,The Age of Shadows (2016),Action|Drama|Thriller,2016,3.4583333333333335
+171505,17,On the Milky Road (2016),Drama,2016,3.4705882352941178
+171537,11,Command and Control (2016),Documentary,2016,3.6363636363636362
+171605,11,The Ornithologist (2016),Adventure|Drama,2016,3.590909090909091
+171803,15,We Go On (2016),Drama|Horror|Thriller,2016,3.2333333333333334
+171805,11,Lady Bloodfight (2016),Action|Thriller,2016,3.0
+171869,25,Realive (2016),Sci-Fi,2016,3.0
+172013,15,Stefan Zweig: Farewell to Europe (2016),Drama,2016,3.2666666666666666
+172017,13,Hatred (2016),Drama|War,2016,3.730769230769231
+172043,12,SuperBobrovs (2016),Comedy,2016,2.2083333333333335
+172117,23,The Comedian (2016),Comedy,2016,2.847826086956522
+172549,11,The Last Family (2016),Drama,2016,3.5
+172573,19,Rock Dog (2016),Adventure|Animation|Children|Comedy,2016,2.710526315789474
+172641,17,Arès (2016),Drama|Sci-Fi|Thriller,2016,3.088235294117647
+172743,34,Somnio (2016),(no genres listed),2016,3.3529411764705883
+173207,13,Tehran Taboo (2016),(no genres listed),2016,3.3461538461538463
+173913,15,Center of My World (2016),Children|Drama,2016,3.5
+174395,86,Better Watch Out (2016),Thriller,2016,3.2790697674418605
+174483,13,This House Has People in It (2016),Comedy|Horror,2016,3.1538461538461537
+175359,12,American Anarchist (2016),Documentary,2016,3.0833333333333335
+175603,28,Anti Matter (2016),Sci-Fi,2016,3.017857142857143
+175693,32,Rick and Morty: State of Georgia Vs. Denver Fenton Allen (2016),Comedy|Crime,2016,3.875
+175995,11,The Visitors: Bastille Day (2016),Comedy,2016,2.8636363636363638
+176699,11,Boys in the Trees (2016),Drama,2016,3.5454545454545454
+177193,11,Unleashed (2016),Comedy|Romance,2016,2.9545454545454546
+181217,24,Doctor Who: The Return Of Doctor Mysterio (2016),Adventure|Children|Drama|Sci-Fi,2016,3.8125
+182467,12,Antiporno (2016),Drama,2016,3.7916666666666665

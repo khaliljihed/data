@@ -1,2174 +1,803 @@
-,movieId,title,genres,year
-19370,95595,Bela Kiss: Prologue (2013),Horror|Mystery|Thriller,2013
-20263,99007,Warm Bodies (2013),Comedy|Horror|Romance,2013
-20343,99335,Addicted (2013),Drama,2013
-20447,99721,Texas Chainsaw 3D (2013),Horror|Mystery|Thriller,2013
-20450,99728,Gangster Squad (2013),Action|Crime|Drama,2013
-20468,99787,"Haunted House, A (2013)",Comedy|Horror,2013
-20477,99813,"Batman: The Dark Knight Returns, Part 2 (2013)",Action|Animation,2013
-20509,99910,"Last Stand, The (2013)",Action|Crime|Thriller,2013
-20510,99912,Mama (2013),Horror,2013
-20512,99917,Upstream Color (2013),Romance|Sci-Fi|Thriller,2013
-20521,99957,Broken City (2013),Crime|Drama|Thriller,2013
-20564,100083,Movie 43 (2013),Comedy,2013
-20575,100108,Parker (2013),Crime|Thriller,2013
-20587,100163,Hansel & Gretel: Witch Hunters (2013),Action|Fantasy|Horror|IMAX,2013
-20613,100244,"East, The (2013)",Drama,2013
-20654,100347,Finding Joy (2013),Comedy,2013
-20656,100359,"Haunting in Connecticut 2: Ghosts of Georgia, The (2013)",Drama|Horror|Thriller,2013
-20663,100383,Side Effects (2013),Crime|Drama|Mystery|Thriller,2013
-20665,100387,Kadal (2013),Drama|Romance,2013
-20666,100390,Identity Thief (2013),Comedy|Crime,2013
-20670,100401,21 tapaa pilata avioliitto (2013),Comedy|Romance,2013
-20683,100442,Drogówka (2013),Comedy|Crime|Drama,2013
-20696,100487,Beautiful Creatures (2013),Drama|Fantasy|Romance,2013
-20701,100498,"Good Day to Die Hard, A (2013)",Action|Crime|Thriller|IMAX,2013
-20704,100507,21 and Over (2013),Comedy,2013
-20712,100527,Safe Haven (2013),Drama|Mystery|Romance,2013
-20736,100611,Escape from Planet Earth (2013),Adventure|Animation|Comedy|Sci-Fi,2013
-20737,100613,Saving Lincoln (2013),Drama,2013
-20748,100714,Before Midnight (2013),Drama|Romance,2013
-20758,100737,Snitch (2013),Action|Drama|Thriller,2013
-20762,100745,TPB AFK: The Pirate Bay Away from Keyboard (2013),Documentary,2013
-20763,100756,I aionia epistrofi tou Antoni Paraskeva (2013),Drama,2013
-20765,100810,Dark Skies (2013),Horror|Sci-Fi|Thriller,2013
-20772,100882,Journey to the West: Conquering the Demons (Daai wa sai you chi Chui mo chun kei) (2013),Adventure|Comedy|Fantasy|Romance|IMAX,2013
-20788,101025,Jack the Giant Slayer (2013),Adventure|Fantasy|IMAX,2013
-20790,101060,"Last Exorcism Part II, The (2013)",Horror|Thriller,2013
-20797,101076,G.I. Joe: Retaliation (2013),Action|Adventure|Sci-Fi|Thriller|IMAX,2013
-20800,101088,Stoker (2013),Drama|Mystery|Thriller,2013
-20801,101097,Phantom (2013),Thriller,2013
-20804,101106,Sound City (2013),Documentary,2013
-20805,101112,Oz the Great and Powerful (2013),Action|Adventure|Fantasy|IMAX,2013
-20810,101137,Dead Man Down (2013),Action|Crime|Drama|Romance|Thriller,2013
-20811,101142,"Croods, The (2013)",Adventure|Animation|Comedy,2013
-20859,101281,I Give It a Year (2013),Comedy|Romance,2013
-20860,101283,"Incredible Burt Wonderstone, The (2013)",Comedy,2013
-20861,101285,Spring Breakers (2013),Comedy|Crime|Drama,2013
-20866,101296,I'm So Excited (Los amantes pasajeros) (2013),Comedy,2013
-20882,101360,"Call, The (2013)",Drama|Thriller,2013
-20883,101362,Olympus Has Fallen (2013),Action|Thriller,2013
-20887,101379,InAPPropriate Comedy (2013),Comedy,2013
-20902,101428,Kill for Me (2013),Drama|Thriller,2013
-20933,101531,Phil Spector (2013),Drama,2013
-20937,101577,"Host, The (2013)",Action|Adventure|Romance,2013
-20948,101612,Admission (2013),Comedy|Romance,2013
-20971,101687,Blue Caprice (2013),Crime|Drama,2013
-20988,101739,Evil Dead (2013),Horror,2013
-20989,101741,Trance (2013),Crime|Thriller,2013
-20992,101754,Chasing Beauty (2013),Documentary,2013
-20994,101761,Welcome to the Punch (2013),Action|Adventure|Crime|Thriller,2013
-21018,101862,50 Children: The Rescue Mission of Mr. And Mrs. Kraus (2013),Documentary,2013
-21019,101864,Oblivion (2013),Action|Adventure|Sci-Fi|IMAX,2013
-21023,101880,Siberian Education (Educazione siberiana) (2013),Drama,2013
-21027,101893,To the Wonder (2013),Drama|Romance,2013
-21028,101895,42 (2013),Drama,2013
-21055,101975,iSteve (2013),Comedy,2013
-21061,101997,Scary Movie 5 (Scary MoVie) (2013),Comedy,2013
-21069,102033,Pain & Gain (2013),Action|Comedy|Crime,2013
-21075,102051,Iron Man: Rise Of Technovore (2013),Animation,2013
-21079,102064,Home Run (2013),Drama,2013
-21087,102086,Living on One Dollar (2013),Adventure|Documentary|Drama,2013
-21088,102088,"Grandmaster, The (Yi dai zong shi) (2013)",Action|Drama|IMAX,2013
-21093,102107,American Winter (2013),Documentary|Drama,2013
-21100,102123,This Is the End (2013),Action|Comedy,2013
-21101,102125,Iron Man 3 (2013),Action|Sci-Fi|Thriller|IMAX,2013
-21105,102135,Sadda Haq (2013),Action,2013
-21109,102154,Superman Unbound (2013),Action|Adventure|Animation,2013
-21112,102160,"Numbers Station, The (2013)",Action|Thriller,2013
-21113,102165,"English Teacher, The (2013)",Comedy|Drama,2013
-21114,102167,Standing Up (2013),Adventure|Children,2013
-21136,102235,Manhunt (2013),Documentary|War,2013
-21148,102278,Pawn (2013),Crime|Thriller,2013
-21152,102286,Family Weekend (2013),Comedy|Drama,2013
-21174,102369,"Arrested Development Documentary Project, The (2013)",Documentary,2013
-21178,102378,Syrup (2013),Comedy|Drama,2013
-21184,102407,"Great Gatsby, The (2013)",Drama,2013
-21197,102445,Star Trek Into Darkness (2013),Action|Adventure|Sci-Fi|IMAX,2013
-21199,102450,"Last Chance: Diary of Comedians, The (Bokutachi no koukan nikki) (2013)",Comedy|Drama,2013
-21208,102481,"Internship, The (2013)",Comedy,2013
-21235,102660,Cycling with Moliere (Alceste à bicyclette) (2013),Comedy|Drama,2013
-21236,102662,Company of Heroes (2013),Action|War,2013
-21243,102684,Only God Forgives (2013),Drama|Thriller,2013
-21244,102686,"Hangover Part III, The (2013)",Comedy,2013
-21246,102716,"Fast & Furious 6 (Fast and the Furious 6, The) (2013)",Action|Crime|Thriller|IMAX,2013
-21247,102720,Epic (2013),Adventure|Animation|Fantasy,2013
-21255,102753,"Past, The (Le passé) (2013)",Drama|Mystery|Romance,2013
-21273,102819,Behind the Candelabra (2013),Drama,2013
-21286,102856,3096 Days (2013),Drama,2013
-21287,102858,Tavarataivas (2013),Documentary,2013
-21288,102860,Hilton! (2013),Documentary,2013
-21295,102880,After Earth (2013),Action|Adventure|Sci-Fi|IMAX,2013
-21302,102903,Now You See Me (2013),Crime|Mystery|Thriller,2013
-21303,102905,Lovelace (2013),Drama,2013
-21326,102978,Mary and Martha (2013),Drama,2013
-21332,102993,"Way, Way Back, The (2013)",Comedy|Drama,2013
-21346,103042,Man of Steel (2013),Action|Adventure|Fantasy|Sci-Fi|IMAX,2013
-21348,103048,"Kings of Summer, The (2013)",Comedy,2013
-21351,103055,The Big Wedding (2013),Comedy,2013
-21358,103075,"Purge, The (2013)",Crime|Horror|Thriller,2013
-21362,103085,Rapture-Palooza (2013),Comedy|Fantasy,2013
-21369,103107,20 Feet from Stardom (Twenty Feet from Stardom) (2013),Documentary,2013
-21378,103137,"Bling Ring, The (2013)",Crime|Drama,2013
-21380,103141,Monsters University (2013),Adventure|Animation|Comedy,2013
-21382,103150,Hammer of the Gods (2013),Action,2013
-21386,103171,Schlussmacher (2013),Comedy,2013
-21397,103212,American Idiots (2013),Comedy|Romance,2013
-21402,103228,Pacific Rim (2013),Action|Adventure|Sci-Fi|IMAX,2013
-21403,103233,LEGO Batman: The Movie - DC Heroes Unite (2013),Action|Adventure|Animation,2013
-21404,103235,"Best Offer, The (Migliore offerta, La) (2013)",Thriller,2013
-21409,103249,World War Z (2013),Action|Drama|Horror|IMAX,2013
-21410,103253,Elysium (2013),Action|Drama|Sci-Fi|IMAX,2013
-21411,103255,Dirty Wars (2013),Documentary|War,2013
-21418,103275,We Steal Secrets: The Story of WikiLeaks (2013),Documentary,2013
-21422,103286,Shark Alarm at Müggelsee (Hai Alarm am Müggelsee) (2013),Comedy,2013
-21430,103303,Yamla Pagla Deewana 2 (2013),Action|Comedy|Drama,2013
-21431,103306,Europa Report (2013),Sci-Fi|Thriller,2013
-21433,103315,Odd Thomas (2013),Drama|Fantasy|Mystery|Thriller,2013
-21440,103333,Blutzbrüdaz (2013),Comedy,2013
-21441,103335,Despicable Me 2 (2013),Animation|Children|Comedy|IMAX,2013
-21442,103339,White House Down (2013),Action|Drama|Thriller|IMAX,2013
-21443,103341,"World's End, The (2013)",Action|Comedy|Sci-Fi,2013
-21448,103366,Redemption (Hummingbird) (2013),Action|Crime|Thriller,2013
-21449,103368,Love and Lemons (Små citroner gula) (2013),Romance,2013
-21451,103372,"Heat, The (2013)",Action|Comedy|Crime,2013
-21455,103384,"Lone Ranger, The (2013)",Action|Adventure|Western|IMAX,2013
-21473,103452,Pussy Riot: A Punk Prayer (2013),Documentary,2013
-21479,103474,How to Make Money Selling Drugs (2013),Documentary,2013
-21483,103483,V/H/S/2 (2013),Horror|Thriller,2013
-21486,103493,Gideon's Army (2013),Documentary,2013
-21490,103506,Cottage Country (2013),Action|Comedy|Crime,2013
-21500,103539,The Spectacular Now (2013),Comedy|Drama|Romance,2013
-21502,103543,"Lifeguard, The (2013)",Comedy|Drama,2013
-21511,103563,Which Way Is the Front Line From Here?  The Life and Time of Tim Hetherington (2013),Documentary,2013
-21514,103572,Downloaded (2013),Documentary,2013
-21515,103574,Jug Face (2013),Horror,2013
-21517,103590,Gagarin: First in Space (2013),Drama|Sci-Fi,2013
-21519,103596,Sharknado (2013),Sci-Fi,2013
-21522,103602,Craig Ferguson: I'm Here To Help (2013),Comedy|Documentary,2013
-21531,103624,Fruitvale Station (2013),Drama,2013
-21532,103626,Senotaji (2013),Comedy,2013
-21538,103639,Bhaag Milka Bhaag (2013),Drama,2013
-21539,103641,D-Day (2013),Action|Thriller,2013
-21544,103655,R.I.P.D. (2013),Action|Comedy|Fantasy,2013
-21546,103659,Justice League: The Flashpoint Paradox (2013),Action|Adventure|Animation|Fantasy|Sci-Fi,2013
-21549,103665,Ip Man: The Final Fight (2013),Action|Drama,2013
-21550,103667,Pawn Shop Chronicles (2013),Action|Comedy,2013
-21551,103669,Killing Season (2013),Action|Thriller,2013
-21557,103685,"Field in England, A (2013)",Drama|Fantasy|Thriller|War,2013
-21558,103688,"Conjuring, The (2013)",Horror|Thriller,2013
-21564,103727,"Colony, The (2013)",Action|Horror|Sci-Fi|Thriller,2013
-21567,103736,Scenic Route (2013),Drama|Thriller,2013
-21571,103745,"Cheshire Murders, The (2013)",Documentary,2013
-21574,103751,Gasland Part II (2013),Documentary,2013
-21576,103755,Turbo (2013),Adventure|Animation|Children|Comedy|Fantasy,2013
-21578,103769,"Devil's in the Details, The (2013)",Thriller,2013
-21579,103772,"Wolverine, The (2013)",Action|Adventure|Fantasy|Sci-Fi,2013
-21584,103787,Gold (2013),Western,2013
-21588,103798,"Crash Reel, The (2013)",Documentary,2013
-21589,103801,Drinking Buddies (2013),Comedy|Drama|Romance,2013
-21591,103808,Hell Baby (2013),Comedy|Horror,2013
-21592,103810,Red 2 (2013),Action|Comedy|Crime|Thriller,2013
-21595,103819,Coffee Town (2013),Comedy,2013
-21598,103825,Vehicle 19 (2013),Thriller,2013
-21608,103849,New World (Shin-sae-gye) (2013),Thriller,2013
-21613,103867,Night Train To Lisbon (2013),Mystery|Romance|Thriller,2013
-21620,103883,2 Guns (2013),Action|Comedy|Crime,2013
-21621,103908,First Comes Love (2013),Documentary,2013
-21630,103972,"Last Days, The (Últimos días, Los) (2013)",Adventure|Sci-Fi|Thriller,2013
-21631,103974,Our Nixon (2013),Documentary,2013
-21634,103980,Blue Jasmine (2013),Drama,2013
-21635,103982,Frankenstein's Army (2013),Action|Horror|Sci-Fi,2013
-21636,103984,"Great Beauty, The (Grande Bellezza, La) (2013)",Comedy|Drama,2013
-21641,103996,"Canyons, The (2013)",Drama|Thriller,2013
-21649,104019,Blood Shot (2013),Action|Comedy|Horror,2013
-21655,104035,Beneath (2013),Horror,2013
-21664,104066,Alcan Highway (Alaska Highway) (2013),Documentary,2013
-21665,104069,Louis C.K.: Oh My God (2013),Comedy,2013
-21667,104074,Percy Jackson: Sea of Monsters (2013),Adventure|Children|Fantasy,2013
-21668,104076,"Smurfs 2, The (2013)",Animation|Children|Comedy,2013
-21669,104078,Alan Partridge: Alpha Papa (2013),Comedy,2013
-21671,104089,Computer Chess (2013),Comedy,2013
-21675,104097,My Little Pony: Equestria Girls (2013),Animation|Children|Fantasy,2013
-21678,104103,Miss You Can Do It (2013),Documentary,2013
-21683,104129,Man of Tai Chi (2013),Action|IMAX,2013
-21686,104137,Prince Avalanche (2013),Comedy|Drama,2013
-21691,104155,Clear History (2013),Comedy,2013
-21693,104177,From One Second to the Next (2013),Documentary,2013
-21696,104211,We're the Millers (2013),Comedy|Crime,2013
-21699,104218,Grown Ups 2 (2013),Comedy,2013
-21700,104224,DEFCON: The Documentary (2013),Documentary,2013
-21706,104241,Kick-Ass 2 (2013),Action|Comedy|Crime,2013
-21707,104243,Riddick (2013),Action|Sci-Fi|Thriller|IMAX,2013
-21708,104245,Planes (2013),Adventure|Animation|Comedy,2013
-21715,104272,Blackfish (2013),Documentary,2013
-21716,104274,Paranoia (2013),Drama|Thriller,2013
-21719,104283,"Wind Rises, The (Kaze tachinu) (2013)",Animation|Drama|Romance,2013
-21725,104303,Jobs (2013),Drama,2013
-21728,104312,"Mortal Instruments: City of Bones, The (2013)",Action|Adventure|Drama|IMAX,2013
-21732,104321,Touchy Feely (2013),Drama,2013
-21734,104331,Des gens qui s'embrassent (2013),Comedy|Romance,2013
-21736,104337,Lee Daniels' The Butler (2013),Drama,2013
-21737,104339,In a World... (2013),Comedy,2013
-21741,104350,Terms and Conditions May Apply (2013),Documentary,2013
-21744,104356,Museum Hours (2013),Drama,2013
-21745,104361,Ain't Them Bodies Saints (2013),Drama,2013
-21750,104374,About Time (2013),Drama|Fantasy|Romance,2013
-21752,104379,Chennai Express (2013),Action|Adventure|Comedy,2013
-21769,104441,"Frozen Ground, The (2013)",Crime|Drama|Thriller,2013
-21784,104504,Confine (2013),Thriller,2013
-21788,104518,Empire State (2013),Action|Drama,2013
-21795,104546,Queen of Montreuil (2013),Comedy,2013
-21810,104601,"Stranger Within, The (2013)",Thriller,2013
-21811,104604,Something Real and Good (2013),Drama,2013
-21819,104631,Adore (2013),Drama|Romance,2013
-21836,104680,"Last of Robin Hood, The (2013)",Drama,2013
-21843,104712,Instructions Not Included (No se Aceptan Devoluciones) (2013),Comedy|Drama,2013
-21845,104721,"Motivation, The (2013)",Documentary,2013
-21848,104728,One Direction: This Is Us (2013),Documentary,2013
-21851,104736,Closed Circuit (2013),Crime|Drama|Mystery,2013
-21853,104743,AmeriQua (2013),Comedy,2013
-21858,104760,Getaway (2013),Action|Crime,2013
-21859,104762,"Teacher, A (2013)",Drama,2013
-21880,104827,American Vagabond (2013),Documentary,2013
-21886,104841,Gravity (2013),Action|Sci-Fi|IMAX,2013
-21887,104843,And Now a Word from Our Sponsor (2013),Comedy|Drama,2013
-21892,104863,What If (2013),Comedy|Drama|Romance,2013
-21898,104879,Prisoners (2013),Drama|Mystery|Thriller,2013
-21899,104881,"Out of the Furnace (Dust to Dust) (Low Dweller, The) (2013)",Drama|Thriller,2013
-21902,104906,Austenland (2013),Comedy|Romance,2013
-21903,104908,Insidious: Chapter 2 (2013),Horror|Thriller,2013
-21904,104910,"Ultimate Life, The (2013)",Drama,2013
-21905,104913,Rush (2013),Action|Drama,2013
-21907,104923,This is Martin Bonner (2013),Drama,2013
-21908,104925,"Family, The (2013)",Action|Comedy|Crime,2013
-21913,104944,Short Term 12 (2013),Drama,2013
-21923,104975,Salinger (2013),Documentary,2013
-21927,104996,Table No.21 (2013),Drama|Thriller,2013
-21937,105032,Farah Goes Bang (2013),Comedy,2013
-21939,105037,"To Do List, The (2013)",Comedy,2013
-21940,105040,Dragon Day (2013),Drama|Sci-Fi|Thriller,2013
-21949,105068,Hawking (2013),Documentary,2013
-21951,105073,Officer Down (2013),Crime|Drama,2013
-21956,105084,Grand Masti (2013),Comedy|Drama|Romance,2013
-21957,105086,Battle of the Year (2013),Musical,2013
-21962,105101,"Dragonphoenix Chronicles: Indomitable, The (2013)",Action|Adventure|Fantasy,2013
-21969,105126,Afternoon Delight (2013),Comedy|Drama,2013
-21971,105130,"Notebook, The (A nagy füzet) (2013)",Drama|War,2013
-21982,105163,Ruins (2013),Documentary,2013
-21991,105193,Bastards (Les salauds) (2013),Drama,2013
-21993,105197,Nebraska (2013),Adventure|Drama,2013
-21996,105211,Enough Said (2013),Comedy|Drama|Romance,2013
-21997,105213,Don Jon (2013),Comedy|Drama|Romance,2013
-21998,105215,Scatter My Ashes at Bergdorf's (2013),Documentary,2013
-22008,105246,Mood Indigo (L'écume des jours) (2013),Drama|Fantasy,2013
-22009,105248,Metallica: Through the Never (2013),Action|Musical|IMAX,2013
-22012,105254,Crystal Fairy & the Magical Cactus and 2012 (2013),Adventure|Comedy,2013
-22013,105257,De nieuwe Wildernis (2013),Documentary,2013
-22033,105325,Bad Milo (Bad Milo!) (2013),Comedy|Horror,2013
-22038,105340,Miracle in Cell No. 7 (2013),Comedy|Drama,2013
-22039,105343,Special 26 (2013),Crime|Drama|Thriller,2013
-22042,105351,Runner Runner (2013),Crime|Drama|Thriller,2013
-22044,105355,Blue Is the Warmest Color (La vie d'Adèle) (2013),Drama|Romance,2013
-22045,105357,Tyler Perry's Temptation: Confessions of a Marriage Counselor (2013),Drama,2013
-22050,105375,"German Doctor, The (Wakolda) (2013)",Drama|Thriller,2013
-22053,105382,This is Our Time (2013),Drama,2013
-22054,105386,Curse of Chucky (Child's Play 6) (2013),Horror|Thriller,2013
-22057,105404,Muhammad Ali's Greatest Fight (2013),Drama,2013
-22064,105420,Parkland (2013),Drama,2013
-22066,105429,Inequality for All (2013),Documentary,2013
-22074,105453,On the Job (2013),Action|Drama,2013
-22079,105468,Cloudy with a Chance of Meatballs 2 (2013),Animation|Children|Comedy|Fantasy,2013
-22080,105470,Extraction (2013),Action,2013
-22091,105504,Captain Phillips (2013),Adventure|Drama|Thriller|IMAX,2013
-22094,105519,"Philosophers, The (After The Dark) (2013)",Drama|Fantasy|Sci-Fi,2013
-22095,105521,"It's Me, It's Me (Ore Ore) (2013)",Comedy|Drama|Sci-Fi,2013
-22100,105538,Valentine Road (2013),Documentary,2013
-22114,105585,Machete Kills (Machete 2) (2013),Action|Crime|Thriller,2013
-22117,105593,Filth (2013),Comedy|Crime|Drama,2013
-22119,105597,Romeo and Juliet (2013),Drama|Romance,2013
-22127,105620,Baggage Claim (2013),Comedy,2013
-22128,105622,Zero Charisma (2013),Comedy|Drama,2013
-22131,105653,Escape Plan (2013),Action|Mystery|Thriller,2013
-22137,105709,Brazilian Western (Faroeste Caboclo) (2013),Crime|Drama|Romance,2013
-22143,105731,Carrie (2013),Drama|Horror,2013
-22145,105742,"Fifth Estate, The (2013)",Drama|Thriller,2013
-22146,105744,Life According to Sam (2013),Documentary|Drama,2013
-22147,105746,UnHung Hero (2013),Documentary,2013
-22150,105755,"Counselor, The (2013)",Crime|Drama|Thriller,2013
-22156,105769,"Congress, The (2013)",Animation|Sci-Fi,2013
-22159,105778,One Small Hitch (2013),Comedy|Romance,2013
-22163,105799,"Unbelievers, The (2013)",Documentary,2013
-22164,105801,Escape From Tomorrow (2013),Drama|Fantasy|Horror,2013
-22177,105835,"Double, The (2013)",Comedy|Drama|Thriller,2013
-22179,105839,Deep Dark Canyon (Hunting Season) (2013),Action|Drama|Thriller,2013
-22180,105841,B-Side (2013),Comedy|Romance,2013
-22181,105844,12 Years a Slave (2013),Drama,2013
-22182,105846,Only Daughter (2013),Drama,2013
-22184,105855,"Right Kind of Wrong, The (2013)",Comedy|Romance,2013
-22185,105863,Child's Pose (2013),Drama,2013
-22186,105865,"Enemy Within, The (O ehthros mou) (2013)",Drama,2013
-22187,105869,Kill Your Darlings (2013),Crime|Drama|Romance|Thriller,2013
-22197,105911,Heart of a Lion (Leijonasydän) (2013),Drama|Romance,2013
-22206,105943,Bridegroom (2013),Documentary,2013
-22211,105954,All Is Lost (2013),Action|Adventure|Drama,2013
-22226,106002,Ender's Game (2013),Action|Adventure|Sci-Fi|IMAX,2013
-22229,106011,"Blue Umbrella, The (2013)",Animation,2013
-22232,106022,Toy Story of Terror (2013),Animation|Children|Comedy,2013
-22236,106030,"Last Days on Mars, The (2013)",Horror|Sci-Fi,2013
-22237,106032,Chastity Bites (2013),Comedy|Horror,2013
-22244,106054,Het Vonnis (2013),Crime|Drama,2013
-22247,106062,Jackass Presents: Bad Grandpa (2013),Comedy,2013
-22251,106072,Thor: The Dark World (2013),Action|Adventure|Fantasy|IMAX,2013
-22253,106076,Precision: The Measure of All Things (2013),Documentary,2013
-22261,106100,Dallas Buyers Club (2013),Drama,2013
-22265,106111,Marc Maron: Thinky Pain (2013),Comedy,2013
-22272,106141,Bad Chicken (2013),Comedy,2013
-22273,106144,"Selfish Giant, The (2013)",Drama,2013
-22278,106163,"Touch of Sin, A (Tian zhu ding) (2013)",Drama,2013
-22286,106195,How I Live Now (2013),Action|Drama|Thriller,2013
-22288,106200,Hours (2013),Drama|Thriller,2013
-22290,106204,Pieta (2013),Drama,2013
-22295,106220,Aziz Ansari: Buried Alive (2013),Comedy,2013
-22305,106240,Free Birds (2013),Action|Adventure|Animation|Children|Comedy|Sci-Fi,2013
-22328,106326,Things We Do For Love (Kaikella rakkaudella) (2013),Drama,2013
-22329,106330,Last Vegas (2013),Comedy|Drama|Romance,2013
-22330,106332,Muscle Shoals (2013),Documentary,2013
-22332,106336,So Young (Zhi wo men zhong jiang shi qu de qing chun) (2013),Drama,2013
-22334,106344,"Starving Games, The (2013)",Comedy,2013
-22357,106407,Seduced and Abandoned (2013),Comedy|Documentary,2013
-22361,106421,"Institute, The (2013)",Documentary,2013
-22365,106436,For Those in Peril (2013),Drama,2013
-22366,106438,Philomena (2013),Comedy|Drama,2013
-22367,106441,"Book Thief, The (2013)",Children|Drama|War,2013
-22368,106443,"Best Man Holiday, The (2013)",Comedy|Drama,2013
-22370,106452,Ida (2013),Drama,2013
-22375,106464,Aningaaq (2013),Drama,2013
-22383,106487,The Hunger Games: Catching Fire (2013),Action|Adventure|Sci-Fi|IMAX,2013
-22384,106489,"Hobbit: The Desolation of Smaug, The (2013)",Adventure|Fantasy|IMAX,2013
-22385,106491,47 Ronin (2013),Action|Adventure|Fantasy,2013
-22392,106508,"Dyatlov Pass Incident, The (Devil's Pass) (2013)",Mystery|Thriller,2013
-22403,106540,Delivery Man (2013),Comedy,2013
-22404,106542,Charlie Countryman (2013),Action|Comedy|Romance,2013
-22407,106561,Krrish 3 (2013),Action|Adventure|Fantasy|Sci-Fi,2013
-22410,106579,Tales from the Organ Trade (2013),Crime|Documentary,2013
-22413,106590,Hansel & Gretel (2013),Horror,2013
-22416,106599,Breakout (2013),Action,2013
-22427,106642,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,2013
-22440,106696,Frozen (2013),Adventure|Animation|Comedy|Fantasy|Musical|Romance,2013
-22448,106727,9 Month Stretch (9 mois ferme) (2013),Comedy,2013
-22455,106747,Circles (Krugovi) (2013),Drama,2013
-22456,106749,Mr. Morgan's Last Love (2013),Comedy|Drama,2013
-22458,106753,Shed No Tears (Känn ingen sorg) (2013),Drama|Musical|Romance,2013
-22460,106766,Inside Llewyn Davis (2013),Drama,2013
-22463,106782,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama,2013
-22464,106785,Homefront (2013),Action|Crime|Thriller,2013
-22475,106839,Mandela: Long Walk to Freedom (2013),Drama,2013
-22476,106841,August: Osage County (2013),Comedy|Drama,2013
-22480,106854,Angels Sing (2013),Comedy|Drama,2013
-22481,106859,Amen (2013),Drama|Musical,2013
-22482,106861,Violette (2013),Drama,2013
-22483,106863,Concrete Night (Betoniyö) (2013),Drama,2013
-22489,106879,Fright Night 2: New Blood (2013),Horror,2013
-22490,106881,Sweetwater (2013),Thriller|Western,2013
-22491,106883,All is Bright (2013),Comedy|Drama,2013
-22493,106889,Tim's Vermeer (2013),Documentary,2013
-22494,106892,After Tiller (2013),Documentary,2013
-22500,106916,American Hustle (2013),Crime|Drama,2013
-22501,106918,"Secret Life of Walter Mitty, The (2013)",Adventure|Comedy|Drama,2013
-22502,106920,Her (2013),Drama|Romance|Sci-Fi,2013
-22511,106981,"Cosmonaut, The (2013)",Drama|Sci-Fi,2013
-22512,106983,Young & Beautiful (2013),Drama,2013
-22520,107000,"Challenger Disaster, The (2013)",Drama,2013
-22521,107002,Linsanity (2013),Documentary,2013
-22522,107004,Some Girl(s) (2013),Comedy|Drama,2013
-22526,107017,Open Grave (2013),Horror|Mystery|Thriller,2013
-22529,107024,Sel8nne (2013),Documentary,2013
-22533,107042,Six by Sondheim (2013),Documentary,2013
-22535,107052,"Punk Singer, The (2013)",Documentary,2013
-22542,107069,Lone Survivor (2013),Action|Drama|Thriller|War,2013
-22547,107083,Geography Club (2013),Comedy|Drama|Romance,2013
-22555,107117,"Armstrong Lie, The (2013)",Documentary,2013
-22557,107130,"Adventure in Space and Time, An (2013)",Drama,2013
-22560,107141,Saving Mr. Banks (2013),Comedy|Drama,2013
-22573,107183,"Battle of amfAR, The (2013)",Documentary,2013
-22577,107196,Is the Man Who Is Tall Happy? (2013),Animation|Documentary,2013
-22581,107207,All Things to All Men (2013),Crime|Thriller,2013
-22583,107213,"Truth About Emanuel, The (2013)",Drama|Thriller,2013
-22586,107224,"Wipers Times, The (2013)",War,2013
-22611,107302,"Perfect Man, A (2013)",Drama,2013
-22616,107314,Oldboy (2013),Action|Drama|Mystery,2013
-22621,107338,Dampfnudelblues (2013),Comedy|Crime,2013
-22625,107348,Anchorman 2: The Legend Continues (2013),Comedy,2013
-22627,107352,Killing Lincoln (2013),Drama|War,2013
-22628,107354,Good Ol' Freda (2013),Documentary,2013
-22629,107357,Call Me Crazy: A Five Film (2013),Drama,2013
-22631,107361,Unbeatable (Ji zhan) (2013),Action|Drama,2013
-22632,107368,Sarah Silverman:  We Are Miracles (2013),Comedy,2013
-22635,107380,Mike Tyson:  Undisputed Truth (2013),Comedy,2013
-22636,107382,Whoopi Goldberg Presents Moms Mabley (2013),Documentary,2013
-22638,107400,Bonnie and Clyde (2013),Crime|Documentary|Drama,2013
-22641,107406,Snowpiercer (2013),Action|Drama|Sci-Fi,2013
-22652,107436,Haunter (2013),Horror|Mystery|Thriller,2013
-22655,107447,Wrong Cops (2013),Comedy|Crime,2013
-22660,107462,Ninja: Shadow of a Tear (2013),Action|Crime|Thriller,2013
-22665,107484,James Gandolfini: Tribute to a Friend (2013),Documentary,2013
-22674,107541,As Cool As I Am (2013),Comedy|Drama,2013
-22684,107565,"Fuck You, Goethe (Fack Ju Göhte) (2013)",Comedy,2013
-22685,107567,Kaksi kotia (Dagmamman) (2013),Drama,2013
-22691,107581,No Where No One (Hich Koja Hich Kas) (2013),Drama|Romance,2013
-22693,107589,Bad Fucking (2013),Comedy,2013
-22694,107591,Open Up to Me (Kerron sinulle kaiken) (2013),Drama,2013
-22699,107612,WNUF Halloween Special (2013),Comedy|Horror,2013
-22700,107614,White Reindeer (2013),Comedy|Drama,2013
-22701,107617,Red Obession (2013),Documentary,2013
-22702,107619,"Snow on the Pines, The (2013)",Drama|Romance,2013
-22704,107623,"2013 Rock and Roll Hall of Fame Induction Ceremony, The (2013)",Documentary|Musical,2013
-22705,107625,Gorko! (2013),Comedy,2013
-22706,107627,"Physician, The (2013)",Adventure|Drama,2013
-22710,107636,Springsteen & I (2013),Documentary,2013
-22714,107645,"Dinner, The (Diner, Het) (2013)",Drama|Thriller,2013
-22716,107649,Borgman (2013),Thriller,2013
-22727,107675,Vendetta (2013),Action|Crime,2013
-22728,107677,"Human Race, The (2013)",Action|Horror|Sci-Fi,2013
-22734,107692,"Hijack That Went South, The (Kaappari) (2013)",Action|Comedy|Crime,2013
-22737,107700,I Am Divine (2013),Documentary,2013
-22738,107702,Grudge Match (2013),Comedy,2013
-22739,107704,Justin Bieber's Believe (2013),Documentary,2013
-22741,107710,Marvin Hamlisch: What He Did for Love (2013),Documentary|Musical,2013
-22750,107737,Bounty Killer (2013),Action|Sci-Fi|Thriller,2013
-22752,107743,"Class of 92, The (2013)",Documentary,2013
-22753,107745,12 Rounds 2: Reloaded (2013),Action|Adventure|Thriller,2013
-22757,107756,A.C.O.D. (2013),Comedy,2013
-22758,107758,Ass Backwards (2013),Comedy,2013
-22763,107771,Only Lovers Left Alive (2013),Drama|Horror|Romance,2013
-22789,107883,The Lunchbox (2013),Drama|Romance,2013
-22799,107910,I Know That Voice (2013),Documentary,2013
-22808,107949,"Invisible Woman, The (2013)",Drama|Romance,2013
-22809,107951,Hunting Elephants (2013),Comedy|Crime,2013
-22810,107953,Dragon Ball Z: Battle of Gods (2013),Action|Animation|Fantasy|IMAX,2013
-22812,107958,Foosball (Metegol) (2013),Adventure|Animation|Romance,2013
-22822,107978,"Like Father, Like Son (Soshite chichi ni naru) (2013)",Drama,2013
-22823,107980,"Railway Man, The (2013)",Drama,2013
-22826,107987,Diana (2013),Drama|Romance,2013
-22828,107997,We Are What We Are (2013),Drama|Horror|Mystery|Thriller,2013
-22838,108041,"Me, Myself and Mum (Les garçons et Guillaume, à table!) (2013)",Comedy,2013
-22839,108043,Milius (2013),Documentary,2013
-22844,108054,"Geographer Drank His Globe Away, The (Geograf globus propil) (2013)",Drama,2013
-22845,108056,Pokémon Origins (2013),Adventure|Animation,2013
-22851,108076,"Other Shore, The (2013)",Adventure|Documentary,2013
-22852,108078,Chinese Puzzle (Casse-tête chinois) (2013),Comedy|Romance,2013
-22853,108085,+1 (2013),Sci-Fi|Thriller,2013
-22854,108088,Monica Z (2013),Drama,2013
-22870,108143,Cutie and the Boxer (2013),Documentary,2013
-22872,108149,At Berkeley (2013),Documentary,2013
-22892,108216,Cargo (2013),Action|Drama|Fantasy|Horror,2013
-22894,108220,"Square, The (Al Midan) (2013)",Documentary,2013
-22900,108248,Into the Mind (2013),Documentary,2013
-22920,108318,"Single Shot, A (2013)",Crime|Drama|Film-Noir|Thriller,2013
-22942,108445,Concussion (2013),Drama,2013
-22945,108468,Decoding Annie Parker (2013),Drama,2013
-22950,108488,Whitewash (2013),Drama,2013
-22958,108506,Dark Touch (2013),Horror,2013
-22959,108508,Mother of George (2013),Drama,2013
-22962,108514,Yeh Jawaani Hai Deewani (2013),Comedy|Drama|Musical|Romance,2013
-22963,108516,Visitors (2013),Documentary,2013
-22972,108536,Medora (2013),Documentary,2013
-22981,108569,"Monkey's Paw, The (2013)",Horror|Thriller,2013
-22983,108575,Dear Mr. Watterson (2013),Documentary,2013
-22992,108599,"Banshee Chapter, The (2013)",Horror|Thriller,2013
-22993,108601,Drift (2013),Drama,2013
-22999,108647,It Boy (20 ans d'écart) (2013),Comedy|Romance,2013
-23027,108727,Nymphomaniac: Volume I (2013),Drama,2013
-23028,108729,Enemy (2013),Mystery|Thriller,2013
-23036,108760,Big Bad Wolves (2013),Crime|Thriller,2013
-23037,108764,"Strange Little Cat, The (Das merkwürdige Kätzchen) (2013)",Comedy|Drama,2013
-23043,108778,Stranger by the Lake (L'inconnu du lac) (2013),Drama|Romance,2013
-23044,108780,Labor Day (2013),Drama|Romance,2013
-23045,108787,Tom at the Farm (Tom à la ferme) (2013),Drama,2013
-23061,108825,"Young and Prodigious T.S. Spivet, The (L'extravagant voyage du jeune et prodigieux T.S. Spivet) (2013)",Adventure|Children|Drama,2013
-23070,108869,Scorned (2013),Thriller,2013
-23075,108879,Teen Beach Movie (2013),Children|Musical,2013
-23077,108885,Asier ETA biok (2013),Documentary,2013
-23082,108899,Gloria (2013),Comedy|Drama,2013
-23100,108949,"Art of the Steal, The (2013)",Crime,2013
-23106,108981,Nymphomaniac: Volume II (2013),Drama|Mystery,2013
-23123,109021,Beyoncé: Life Is But a Dream (2013),Documentary,2013
-23125,109027,Eyjafjallajökull (2013),Comedy,2013
-23130,109042,Knights of Badassdom (2013),Adventure|Comedy|Fantasy,2013
-23137,109064,"Trials of Muhammad Ali, The (2013)",Documentary,2013
-23157,109161,Venus in Fur (La Vénus à la fourrure) (2013),Drama,2013
-23159,109173,Storm Rider (2013),Drama,2013
-23162,109181,Adult World (2013),Comedy,2013
-23165,109187,"Zero Theorem, The (2013)",Drama|Fantasy|Sci-Fi,2013
-23169,109195,Cavemen (2013),Comedy|Romance,2013
-23170,109197,"Station, The (Blutgletscher) (2013)",Horror,2013
-23177,109226,Attila (2013),Action|Horror|Thriller,2013
-23185,109243,Joe (2013),Drama,2013
-23199,109284,This American Journey (2013),Documentary,2013
-23202,109295,Cold Comes the Night (2013),Crime|Drama|Thriller,2013
-23208,109323,Are All Men Pedophiles (2013),Documentary,2013
-23216,109359,Gerontophilia (2013),Comedy|Romance,2013
-23219,109366,11.6 (2013),Crime|Drama,2013
-23225,109379,Life of a King (2013),Drama,2013
-23243,109444,"Education of Mohammad Hussein, The (2013)",Documentary,2013
-23247,109452,Omar (2013),Drama|Romance,2013
-23254,109470,"Brats, The (Les gamins) (2013)",Comedy,2013
-23255,109472,Grand Piano (2013),Mystery|Thriller,2013
-23261,109485,"Inevitable Defeat of Mister & Pete, The (2013)",Drama,2013
-23263,109489,"Amish Murder, An (2013)",Action|Crime|Drama,2013
-23264,109492,"Last of the Unjust, The (Dernier des injustes, Le) (2013)",Documentary,2013
-23273,109529,Everybody Street (2013),Documentary,2013
-23285,109576,Welcome to the Jungle (2013),Comedy,2013
-23287,109580,"Look of Love, The (2013)",Comedy|Drama,2013
-23294,109607,In Fear (2013),Thriller,2013
-23296,109616,Fire in the Blood (2013),Documentary,2013
-23299,109627,Mystery Road (2013),Mystery|Thriller,2013
-23300,109629,Breathe In (2013),Drama|Romance,2013
-23301,109633,"Garden of Words, The (Koto no ha no niwa) (2013)",Animation|Romance,2013
-23302,109635,Pandora's Promise (2013),Documentary,2013
-23321,109687,Particle Fever (2013),Documentary,2013
-23331,109720,Contracted (2013),Drama|Horror|Thriller,2013
-23334,109728,Kai Po Che! (2013),Drama,2013
-23340,109742,Cheap Thrills (2013),Comedy|Thriller,2013
-23346,109769,"Keeper of Lost Causes, The (Kvinden i buret) (2013)",Crime|Mystery|Thriller,2013
-23348,109773,Crazy Kind of Love (2013),Comedy|Drama|Romance,2013
-23349,109776,Dick Figures: The Movie (2013),Action|Adventure|Animation,2013
-23362,109806,"Story of Yonosuke, A (Yokomichi Yonosuke) (2013)",Comedy|Drama,2013
-23373,109848,Under the Skin (2013),Horror|Sci-Fi|Thriller,2013
-23383,109887,"Great Passage, The (Fune wo amu) (2013)",Drama,2013
-23387,109895,Bad Words (2013),Comedy,2013
-23406,109945,Meu Passado Me Condena: O Filme (2013),Comedy|Romance,2013
-23407,109947,My Mom Is a Character (Minha Mãe é uma Peça: O Filme) (2013),Comedy,2013
-23409,109951,Daylight (Daglicht) (2013),Action|Thriller,2013
-23411,109963,"French Minister, The (Quai d'Orsay) (2013)",Comedy,2013
-23412,109965,Shrek the Musical (2013),Children|Comedy|Fantasy|Musical,2013
-23413,109968,Why Don't You Play In Hell? (Jigoku de naze warui) (2013),Action|Drama,2013
-23420,109989,On My Way (Elle s'en va) (2013),Comedy|Drama,2013
-23423,109995,Age of Uprising: The Legend of Michael Kohlhaas (Michael Kohlhaas) (2013),Drama,2013
-23424,109997,Nobody Owns Me (Mig äger ingen) (2013),Drama,2013
-23425,110001,Cosmic Psychos: Blokes You Can Trust (2013),Documentary|Musical,2013
-23429,110026,Prison Terminal: The Last Days of Private Jack Hall (2013),Crime|Documentary,2013
-23430,110030,"Bless Me, Ultima (2013)",Drama|War,2013
-23434,110039,Space Pirate Captain Harlock (2013),Animation|Sci-Fi,2013
-23435,110042,Schwestern (2013),Comedy,2013
-23453,110104,Pioneer (Pionér) (2013),Thriller,2013
-23456,110110,Starred Up (2013),Drama,2013
-23464,110134,Belle and Sebastien (Belle et Sébastien) (2013),Adventure,2013
-23465,110136,Amazonia (2013),Adventure|Documentary,2013
-23466,110138,Aya of Yop City (2013),Animation|Comedy,2013
-23477,110171,Gabrielle (2013),Drama|Romance,2013
-23478,110173,Wolf (2013),Crime|Drama|Thriller,2013
-23484,110194,Mistaken for Strangers (2013),Comedy|Documentary,2013
-23485,110196,i hate myself :) (2013),Comedy|Documentary|Drama,2013
-23504,110255,Kalevala - Uusi aika (2013),Drama|Fantasy,2013
-23514,110284,alaskaLand (2013),Drama,2013
-23527,110324,"Missing Picture, The (L'image manquante) (2013)",Documentary,2013
-23531,110337,Moebius (2013),Drama,2013
-23534,110346,Blood Ties (2013),Crime|Drama|Thriller,2013
-23535,110348,Wetlands (Feuchtgebiete) (2013),Comedy|Drama,2013
-23547,110387,"Unknown Known, The (2013)",Documentary,2013
-23553,110407,"Machine, The (2013)",Sci-Fi|Thriller,2013
-23562,110433,Möbius (2013),Drama|Thriller,2013
-23575,110461,We Are the Best! (Vi är bäst!) (2013),Children|Comedy|Drama,2013
-23579,110484,When Jews Were Funny (2013),Documentary,2013
-23587,110503,Metro Manila (2013),Action|Crime|Drama,2013
-23588,110505,Sparks (2013),Action|Fantasy|Mystery|Sci-Fi|Thriller,2013
-23617,110591,Oculus (2013),Horror,2013
-23646,110673,Echoes from the Dead (Skumtimmen) (2013),Drama|Mystery,2013
-23653,110718,Fading Gigolo (2013),Comedy,2013
-23658,110746,Hatchet III (2013),Comedy|Horror,2013
-23665,110765,Pulling Strings (2013),Comedy|Romance,2013
-23675,110796,Le Week-End (2013),Comedy|Drama,2013
-23677,110800,"Second Man, The (O Defteros Andras) (2013)",Drama,2013
-23680,110807,All About the Feathers (Por Las Plumas) (2013),Comedy,2013
-23683,110813,Girl on a Bicycle (2013),Comedy|Romance,2013
-23687,110824,Robocroc (2013),Action|Horror,2013
-23689,110828,Devil's Knot (2013),Crime|Drama|Thriller,2013
-23701,110871,"Rocket, The (2013)",Drama,2013
-23702,110873,"Centenarian Who Climbed Out the Window and Vanished, The (Hundraåringen som klev ut genom fönstret och försvann) (2013)",Adventure|Comedy|Drama,2013
-23704,110882,Locke (2013),Drama,2013
-23708,110892,Mortified Nation (2013),Comedy|Documentary,2013
-23717,110948,September (2013),Drama,2013
-23722,110973,"Ultimate Accessory,The (100% cachemire) (2013)",Comedy,2013
-23724,110982,13/13/13 (2013),Horror,2013
-23725,110984,Age of Dinosaurs (2013),Action|Sci-Fi,2013
-23734,111050,"Haunting at Silver Falls, A (2013)",Horror|Thriller,2013
-23748,111142,"Resurrection, A (2013)",Horror|Thriller,2013
-23749,111144,Alpha and Omega 2: A Howl-iday Adventure (Alpha & Omega 2) (2013),Action|Adventure|Animation|Children|Comedy,2013
-23752,111152,Ambushed (2013),Action|Crime|Drama,2013
-23754,111226,All of Me (2013),Documentary,2013
-23755,111228,"Fragile Trust: Plagiarism, Power, and Jayson Blair at the New York Times, A (2013)",Documentary,2013
-23758,111235,Jodorowsky's Dune (2013),Documentary|Sci-Fi,2013
-23761,111245,"Case of You, A (2013)",Comedy|Romance,2013
-23763,111249,Belle (2013),Drama,2013
-23764,111251,"Immigrant, The (2013)",Drama|Romance,2013
-23774,111287,Magic Magic (2013),Thriller,2013
-23775,111290,Heli (2013),Crime|Drama,2013
-23801,111377,Crystal Lake Memories: The Complete History of Friday the 13th (2013),Documentary|Horror,2013
-23802,111380,Hunt vs Lauda: F1's Greatest Racing Rivals (2013),Documentary,2013
-23803,111384,Blue Ruin (2013),Thriller,2013
-23804,111387,Palo Alto (2013),Drama,2013
-23818,111449,Burton and Taylor (2013),Drama,2013
-23831,111509,24 Exposures (2013),Crime|Drama|Thriller,2013
-23843,111544,Utopia (2013),Documentary,2013
-23846,111551,Afflicted (2013),Horror|Sci-Fi|Thriller,2013
-23847,111553,Interior. Leather Bar. (2013),Drama,2013
-23850,111568,American Milkshake (2013),Comedy,2013
-23859,111592,Birth of the Living Dead (2013),Documentary,2013
-23867,111622,Begin Again (2013),Comedy|Romance,2013
-23871,111630,Big Ass Spider! (2013),Comedy|Sci-Fi,2013
-23875,111642,Anna Nicole (2013),Drama,2013
-23876,111644,"Short Game, The (2013)",Documentary,2013
-23877,111647,12 O'Clock Boys (2013),Documentary,2013
-23888,111676,April Rain (2013),Action,2013
-23890,111680,At Middleton (2013),Comedy|Romance,2013
-23891,111682,Baby Geniuses and the Mystery of the Crown Jewels (Baby Geniuses: Baby Squad Investigators) (Baby Geniuses 3) (2013),Children,2013
-23893,111687,A.C.A.B. All Cats Are Brilliant (Sygxaritiria Stous Aisiodoxous?) (2013),Drama,2013
-23901,111706,Having You (2013),Comedy|Drama,2013
-23907,111732,"Dance of Reality, The (Danza de la realidad, La) (2013)",Drama|Fantasy,2013
-23908,111734,"Love Punch, The (2013)",Comedy,2013
-23914,111755,Mile... Mile & a Half (2013),Documentary,2013
-23917,111762,Mikra Anglia (2013),Drama|Romance,2013
-23920,111774,"Unreal Dream: The Michael Morton Story, An (2013)",Documentary,2013
-23922,111778,Tracks (2013),Adventure|Drama,2013
-23926,111787,Phantom of the Woods (2013),Drama|Horror|Thriller,2013
-23931,111797,This Thing With Sarah (2013),Comedy|Drama|Romance,2013
-23932,111800,G.B.F. (2013),Comedy,2013
-23935,111811,Sunlight Jr. (2013),Drama,2013
-23936,111813,Narco Cultura (2013),Documentary,2013
-23938,111817,Jimi: All Is by My Side (2013),Drama,2013
-23946,111852,Generation Iron (2013),Documentary,2013
-23949,111861,Battle of the Damned (2013),Action|Adventure|Horror|Sci-Fi|Thriller,2013
-23954,111878,#chicagoGirl: The Social Network Takes on a Dictator (2013),Documentary,2013
-23962,111915,"Night in Old Mexico, A (2013)",Drama|Western,2013
-23966,111924,"Grand Seduction, The (2013)",Comedy,2013
-23968,111931,Raze (2013),Action|Horror,2013
-23969,111944,Black Nativity (2013),Drama|Musical,2013
-23970,111946,Blood of Redemption (2013),Action|Crime|Drama|Thriller,2013
-23973,111993,Minuscule: Valley of the Lost Ants (Minuscule - La vallée des fourmis perdues) (2013),Adventure|Animation|Children,2013
-23980,112013,"Last Call, The (Tercera Llamada) (2013)",Comedy|Drama,2013
-23988,112062,Camille Claudel 1915 (2013),Drama,2013
-23998,112085,Goodbye World (2013),Comedy|Drama,2013
-23999,112087,Frequencies (2013),Mystery|Romance|Sci-Fi,2013
-24001,112091,Anna (2013),Drama|Thriller,2013
-24011,112165,Human Capital (Il capitale umano) (2013),Drama,2013
-24015,112177,Lord of Tears (2013),Drama|Horror,2013
-24030,112229,Crawlspace (2013),Horror|Thriller,2013
-24033,112236,Broadway Idiot (2013),Documentary|Musical,2013
-24036,112245,"Dirties, The (2013)",Drama,2013
-24048,112277,Haunt (2013),Horror|Mystery,2013
-24054,112293,"Trials of Cate McCall, The (2013)",Crime|Drama,2013
-24068,112338,Anita (2013),Documentary,2013
-24071,112351,112 Weddings (2013),Documentary|Romance,2013
-24079,112381,Metalhead (Málmhaus) (2013),Drama,2013
-24087,112399,Finding Vivian Maier (2013),Documentary,2013
-24098,112434,In Bloom (Grzeli nateli dgeebi) (2013),Drama,2013
-24103,112446,The Escape Artist (2013),Drama|Thriller,2013
-24107,112454,Honey (Miele) (2013),Drama,2013
-24113,112469,Elaine Stritch: Shoot Me (2013),Documentary|Musical,2013
-24123,112495,Let the Fire Burn (2013),Documentary,2013
-24155,112599,Favor (2013),Thriller,2013
-24183,112689,Miss Violence (2013),Drama|Mystery,2013
-24197,112731,"Saratov Approach, The (2013)",Action|Drama,2013
-24199,112735,Charlie's Country (2013),Drama,2013
-24200,112741,Finding Normal (2013),Comedy|Romance,2013
-24204,112753,Torment (2013),Horror|Thriller,2013
-24207,112764,"Last Taboo, The (2013)",Documentary,2013
-24235,112850,Words and Pictures (2013),Comedy|Drama|Romance,2013
-24240,112866,"Strange Color Of Your Body's Tears, The (L'étrange couleur des larmes de ton corps) (2013)",Mystery|Thriller,2013
-24249,112895,Willow Creek (2013),Horror|Mystery,2013
-24253,112905,Goliyon Ki Raasleela Ram-Leela (2013),Drama|Romance,2013
-24260,112925,Hide Your Smiling Faces (2013),Drama,2013
-24261,112929,Paradise: Hope (Paradies: Hoffnung) (2013),Drama,2013
-24266,112944,Molly Maxwell (2013),Drama|Romance,2013
-24273,112959,Go for Sisters (2013),Crime|Drama,2013
-24275,112974,C.O.G. (2013),Comedy|Drama,2013
-24284,112995,Sorrow and Joy (Sorg og glæde) (2013),Drama,2013
-24286,113001,Family United (La gran familia española) (2013),Comedy,2013
-24298,113035,"Bachelor Weekend, The (2013)",Comedy|Drama,2013
-24310,113068,For a Woman (Pour une femme) (2013),Drama|Romance|War,2013
-24318,113099,8-Ball (8-pallo) (2013),Crime|Drama,2013
-24342,113186,Felony (2013),Thriller,2013
-24351,113214,1 (2013),Documentary,2013
-24352,113216,"Suspect, The (Yong-eui-ja) (2013)",Action|Thriller,2013
-24354,113220,"Dog, The (2013)",Documentary,2013
-24364,113244,When I Walk (2013),Documentary,2013
-24375,113282,Where the Trail Ends (2013),Adventure|Documentary|Drama,2013
-24380,113300,R100 (2013),Comedy|Drama,2013
-24382,113304,American Revolutionary: The Evolution of Grace Lee Boggs (2013),Documentary,2013
-24386,113313,"Den, The (2013)",Horror|Thriller,2013
-24396,113350,I'll Follow You Down (2013),Drama|Mystery|Sci-Fi,2013
-24398,113354,Who the F**K Is Arthur Fogel (2013),Documentary,2013
-24407,113394,"Pretty One, The (2013)",Comedy|Drama,2013
-24419,113459,Paradise (2013),Comedy|Drama,2013
-24420,113464,My Way to Olympia (Mein Weg nach Olympia) (2013),Documentary,2013
-24431,113497,Antboy (2013),Adventure|Children|Comedy,2013
-24459,113565,"Sacrament, The (2013)",Horror|Thriller,2013
-24460,113567,Make Your Move (2013),Musical,2013
-24465,113582,How to Be a Man (2013),Comedy,2013
-24479,113642,Night Moves (2013),Drama|Thriller,2013
-24488,113674,Proxy (2013),Drama|Horror|Thriller,2013
-24501,113715,Lights Out (2013),Horror|Thriller,2013
-24503,113719,2AM: The Smiling Man (2013),Horror,2013
-24508,113741,Coherence (2013),Drama|Mystery|Sci-Fi|Thriller,2013
-24510,113746,Redwood Highway (2013),Drama,2013
-24512,113751,"Birder's Guide to Everything, A (2013)",Comedy,2013
-24516,113765,King's Faith (2013),Drama,2013
-24521,113775,Life of Crime (2013),Comedy|Crime,2013
-24542,113840,See You Next Tuesday (2013),Comedy|Drama,2013
-24548,113853,Antisocial (2013),Horror|Sci-Fi|Thriller,2013
-24562,113904,Bottled Up (2013),Comedy|Drama,2013
-24564,113908,Getting Back to Abnormal (2013),Documentary,2013
-24589,114003,"Return to Homs, The (2013)",Documentary,2013
-24600,114042,Third Person (2013),Drama|Romance,2013
-24610,114072,Cheech and Chong's Animated Movie (2013),Animation|Comedy,2013
-24621,114119,Very Ordinary Couple (Yeonaeui Wondo) (2013),Comedy|Drama|Romance,2013
-24636,114170,Tattoo Nation (2013),Documentary,2013
-24638,114174,American Dreams in China (2013),Comedy|Drama,2013
-24661,114248,"Galapagos Affair: Satan Came to Eden, The (2013)",Crime|Documentary|Mystery,2013
-24672,114273,Bethlehem (2013),Drama|Thriller|War,2013
-24685,114340,Free Range (Ballaad maailma heakskiitmisest) (2013),Drama,2013
-24699,114378,CBGB (2013),Drama,2013
-24727,114497,Wer (2013),Horror|Mystery|Thriller,2013
-24735,114554,"Tale of Princess Kaguya, The (Kaguyahime no monogatari) (2013)",Animation|Drama|Fantasy,2013
-24737,114561,"Girl on the Train, The (2013)",Thriller,2013
-24738,114563,Gore Vidal: The United States of Amnesia (2013),Documentary,2013
-24739,114565,Double Play: James Benning and Richard Linklater (2013),Documentary,2013
-24740,114567,Looking for Maria Sanchez (2013),Comedy|Romance,2013
-24751,114599,The Empty Hours (2013),Drama|Romance,2013
-24754,114617,Murph: The Protector (2013),Documentary|War,2013
-24774,114680,Rigor Mortis (Geung si) (2013),Action|Drama|Horror,2013
-24783,114702,Around the Block (2013),Drama,2013
-24787,114715,American Promise (2013),Documentary,2013
-24824,114852,As I Lay Dying (2013),Drama,2013
-24826,114856,"Adventurer: The Curse of the Midas Box, The (2013)",Adventure|Fantasy,2013
-24848,114933,Ilo Ilo (2013),Drama,2013
-24850,114945,Jack and the Cuckoo-Clock Heart (Jack et la mécanique du coeur) (2013),Adventure|Animation|Drama|Fantasy|Musical|Romance,2013
-24852,114954,Facing Fear (2013),Documentary,2013
-24856,114980,Grace Unplugged (2013),Drama|Musical,2013
-24872,115065,Justin and the Knights of Valour (2013),Adventure|Animation,2013
-24912,115229,Torn (2013),Drama,2013
-24946,115373,"Miss and the Doctors (Tirez la langue, mademoiselle) (2013)",Drama|Romance,2013
-24963,115460,Motivational Growth (2013),Comedy|Horror,2013
-24992,115574,Child of God (2013),Crime|Drama|Thriller,2013
-25005,115631,Alone for Christmas (2013),Action|Children|Comedy|Fantasy,2013
-25012,115669,Young Detective Dee: Rise of the Sea Dragon (Di Renjie: Shen du long wang) (2013),Action|Adventure|Drama|Fantasy|Mystery|IMAX,2013
-25022,115699,Turning Tide (En solitaire) (2013),Adventure|Drama,2013
-25027,115711,TINY: A Story About Living Small (2013),Documentary,2013
-25045,115775,Mission Congo (2013),Documentary,2013
-25046,115777,Beneath (2013),Horror,2013
-25056,115819,Mr Hublot (2013),Animation|Comedy,2013
-25057,115821,Shakespeare's Globe: Henry V (2013),Drama,2013
-25087,115913,30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo (2013),Comedy,2013
-25091,115921,Dead in Tombstone (2013),Action|Fantasy|Horror,2013
-25093,115925,Solan og Ludvig: Jul i Flåklypa (2013),Animation|Children,2013
-25106,115951,Stranded (2013),Horror|Sci-Fi,2013
-25110,115961,The Marine 3: Homefront (2013),Action,2013
-25114,115969,Generation War (2013),Drama|War,2013
-25130,116002,History of the Eagles (2013),Documentary,2013
-25134,116010,The Hour of the Lynx (2013),Drama|Thriller,2013
-25166,116076,Intersections (2013),Romance|Thriller,2013
-25190,116126,Complicit (2013),(no genres listed),2013
-25191,116128,Compulsion (2013),Drama|Thriller,2013
-25193,116132,Concrete Blondes (2013),Action|Comedy|Crime,2013
-25197,116141,The Russian Novel (2013),Drama,2013
-25198,116155,Still Life (2013),Drama,2013
-25216,116191,Wolf Creek 2 (2013),Horror|Thriller,2013
-25224,116207,Zulu (2013),Crime|Drama|Thriller,2013
-25227,116213,Walking With Dinosaurs (2013),Adventure|Animation|Children,2013
-25276,116317,Crush (2013),Thriller,2013
-25302,116411,Tangerines (2013),Drama,2013
-25308,116423,An Apology to Elephants (2013),Documentary,2013
-25316,116441,Heart of a Lion (2013),Comedy|Drama|Romance,2013
-25318,116445,Crazy Enough (2013),Comedy,2013
-25322,116453,Hateship Loveship (2013),Drama,2013
-25327,116465,In Secret (2013),Crime|Drama|Romance|Thriller,2013
-25336,116483,Hawaii (2013),Romance,2013
-25340,116491,The Noble Family (2013),Comedy,2013
-25341,116493,The Returned (2013),Drama|Horror|Thriller,2013
-25358,116529,Stalingrad (2013),Action|Drama|War|IMAX,2013
-25360,116533,Scarecrow (2013),Horror,2013
-25392,116660,Free Fall (2013),Drama,2013
-25422,116730,Dead of the Nite (2013),Horror,2013
-25441,116770,Last Passenger (2013),Action|Mystery|Thriller,2013
-25480,116859,Remember Sunday (2013),Drama|Romance,2013
-25481,116861,The Gilded Cage (2013),Comedy,2013
-25500,116905,Patema Inverted (2013),Adventure|Animation|Drama|Fantasy|Sci-Fi,2013
-25515,116935,Riley Rewind (2013),Drama|Sci-Fi,2013
-25519,116943,Thesis on a Homicide (2013),Crime|Mystery|Thriller,2013
-25523,116951,Bo Burnham: what. (2013),Comedy,2013
-25526,116957,The Reunion (2013),Drama,2013
-25537,116979,The Legend of Sarila (2013),Adventure|Animation|Children,2013
-25554,117115,Repentance (2013),Drama|Horror|Thriller,2013
-25563,117136,One Chance (2013),Comedy|Drama,2013
-25568,117146,Lucky Them (2013),Drama,2013
-25572,117156,May in the Summer (2013),Comedy|Drama,2013
-25574,117160,Tip Top (2013),Comedy|Thriller,2013
-25579,117170,Calloused Hands (2013),Drama,2013
-25581,117174,Winter in the Blood (2013),Drama,2013
-25584,117180,Love Sick Love (2013),Thriller,2013
-25590,117192,Doctor Who: The Time of the Doctor (2013),Adventure|Drama,2013
-25599,117310,Aashiqui 2 (2013),Drama|Musical|Romance,2013
-25601,117314,Neurons to Nirvana (2013),Documentary,2013
-25608,117328,Les invincibles (2013),Comedy,2013
-25609,117330,The Mark of the Angels - Miserere (2013),Thriller,2013
-25610,117332,Wrestling Queens (2013),Comedy,2013
-25616,117344,Ragnarok (2013),Action|Adventure,2013
-25631,117374,Running from Crazy (2013),Documentary,2013
-25638,117428,Mr Hockey The Gordie Howe Story (2013),Drama,2013
-25650,117452,Tied (2013),Drama,2013
-25668,117488,A Promise (2013),Drama|Romance,2013
-25673,117498,Fandry (2013),Children|Drama,2013
-25686,117525,Ain't in It for My Health: A Film About Levon Helm (2013),Documentary,2013
-25693,117539,Pop Redemption (2013),Comedy,2013
-25700,117553,House Hunting (2013),Mystery|Thriller,2013
-25704,117561,Once Upon a Time in Queens (2013),Comedy|Drama,2013
-25714,117582,I Travel Alone (2013),Drama,2013
-25780,117714,Enemies Closer (2013),Action|Thriller,2013
-25786,117726,Russell Brand: Messiah Complex (2013),Comedy,2013
-25789,117732,So Much Water (2013),Comedy|Drama,2013
-25793,117740,The Fake (2013),Animation|Drama|Thriller,2013
-25802,117838,Lucia (2013),Drama|Romance|Sci-Fi|Thriller,2013
-25809,117853,Bill Bailey: Qualmpeddler (2013),Comedy,2013
-25812,117859,Fugly! (2013),Comedy,2013
-25820,117875,Just a Sigh (2013),Drama|Romance,2013
-25827,117889,Drei Stunden (2013),Comedy|Romance,2013
-25831,117897,Kink (2013),Documentary,2013
-25845,117926,Hey Bartender (2013),Documentary,2013
-25889,118095,Levitated Mass (2013),Documentary,2013
-25899,118115,Christmas in Conway (2013),Drama|Romance,2013
-25916,118204,McConkey (2013),Adventure|Documentary,2013
-25920,118214,Chocolate Strawberry Vanilla (2013),Comedy|Drama,2013
-25937,118252,All Cheerleaders Die (2013),Comedy|Horror|Thriller,2013
-25941,118260,The Borderlands (2013),Horror|Mystery,2013
-25947,118272,Saving General Yang (2013),Adventure,2013
-25955,118288,"Jonathan Rosenbaum, Present (2013)",Documentary,2013
-25965,118328,The Protector 2 (2013),Action,2013
-25970,118338,Hard to Be a God (2013),Sci-Fi,2013
-25980,118388,Village People (2013),Comedy,2013
-25994,118466,"Kingdom of Dreams and Madness, The (2013)",Animation|Documentary,2013
-26045,118686,The Face of Love (2013),Drama|Romance,2013
-26079,118764,The Improv: 50 Years Behind the Brick Wall (2013),Comedy|Documentary,2013
-26098,118806,Wodehouse In Exile (2013),Drama,2013
-26125,118862,Closer to the Moon (2013),Comedy|Drama,2013
-26132,118876,Khumba (2013),Adventure|Animation|Children,2013
-26137,118886,Crimi Clowns: De Movie (2013),Comedy|Crime|Drama,2013
-26153,118922,Mr. Jones (2013),Drama|Horror|Thriller,2013
-26172,118964,And Then There Was You (2013),Drama,2013
-26220,119147,Holidaze (2013),Children|Drama|Romance,2013
-26226,119159,Teenage (2013),Documentary,2013
-26231,119169,Special ID (2013),Action|Crime|Drama,2013
-26233,119180,Summer in February (2013),Drama|Romance,2013
-26242,119212,King of Germany (2013),Comedy,2013
-26248,119224,Tyler Perry's A Madea Christmas (2013),Comedy|Drama,2013
-26260,119424,A Viking Saga: The Darkest Day (2013),Action|Adventure|Thriller,2013
-26305,119627,Exit to Hell (2013),Action|Horror|Thriller,2013
-26316,119651,Lemon Tree Passage (2013),Horror|Mystery|Thriller,2013
-26326,119672,7th Floor (2013),Mystery|Thriller,2013
-26328,119677,Heatstroke (2013),Thriller,2013
-26329,119679,The Wait (2013),Drama|Thriller,2013
-26340,119701,Let It Snow (2013),Children|Drama|Romance,2013
-26353,119770,Fanny (2013),Drama,2013
-26364,119796,Filthy Gorgeous: The Bob Guccione Story (2013),Documentary,2013
-26408,119954,Force of Execution (2013),Action|Crime,2013
-26442,120128,Everything I Can See From Here (2013),Adventure|Animation|Drama|Sci-Fi,2013
-26449,120142,Mirage Men (2013),Documentary,2013
-26450,120146,Boats (2013),Comedy,2013
-26452,120200,Final: The Rapture (2013),Thriller,2013
-26487,120278,Another Me (2013),Mystery|Thriller,2013
-26491,120286,Daughters of Dolma (2013),Documentary,2013
-26495,120294,It Felt Like Love (2013),Drama,2013
-26502,120311,Drishyam (2013),Children|Drama|Thriller,2013
-26512,120384,FrackNation (2013),Documentary,2013
-26514,120388,Louis Cyr: The Strongest Man in the World (2013),Drama,2013
-26519,120400,Free Ride (2013),Action|Drama|Thriller,2013
-26522,120410,From Above (2013),Drama|Romance,2013
-26543,120458,Ghost Team One (2013),Comedy|Horror,2013
-26551,120476,Implanted (2013),Drama|Mystery|Sci-Fi|Thriller,2013
-26571,120534,A Master Builder (2013),Drama,2013
-26576,120574,Gimme Shelter (2013),Drama,2013
-26594,120610,Jim Breuer: And Laughter for All (2013),Comedy,2013
-26599,120621,Savannah (2013),Drama|Romance,2013
-26659,120831,Dealin' with Idiots (2013),Comedy,2013
-26666,120845,Penthouse North (2013),Drama|Mystery|Thriller,2013
-26677,120867,Tropico (2013),Drama|Fantasy|Romance,2013
-26701,120921,Miss Zombie (2013),Horror,2013
-26729,121027,Stay (2013),Drama,2013
-26732,121033,A Patriotic Man (2013),Comedy|Drama,2013
-26770,121115,Tarzan (2013),Adventure|Animation|Children|Drama,2013
-26778,121135,Nurse 3D (2013),Horror|Thriller,2013
-26782,121143,Flu (2013),Action|Drama|Sci-Fi,2013
-26787,121155,Kevin Hart: Let Me Explain (2013),Comedy|Documentary,2013
-26797,121178,Java Heat (2013),Action|Crime|Drama|Thriller,2013
-26799,121182,Peeples (2013),Comedy|Romance,2013
-26806,121196,Nothing Left to Fear (2013),Horror,2013
-26810,121207,The Power of Few (2013),Action|Crime|Drama|Mystery|Thriller,2013
-26818,121227,Supermensch: The Legend of Shep Gordon (2013),Documentary,2013
-26824,121239,A Life in Dirty Movies (2013),Documentary,2013
-26849,121290,The Girl from Nagasaki (2013),Drama|Romance,2013
-26855,121302,Someone's Gaze (2013),Animation,2013
-26861,121314,The Berlin File (2013),Action|Drama|Thriller,2013
-26862,121316,The Attorney (2013),Drama,2013
-26885,121366,Get a Horse! (2013),Animation|Children|Comedy,2013
-26893,121382,Jack the Giant Killer (2013),Action|Fantasy,2013
-26937,121481,Grave Halloween (2013),Horror,2013
-26939,121485,Reaching for the Moon (2013),Drama|Romance,2013
-26940,121487,Beneath the Harvest Sky (2013),Drama,2013
-26954,121537,The Weight of Elephants (2013),Drama,2013
-26972,121586,Paradise (2013),Romance,2013
-26981,121604,Tapia (2013),Documentary,2013
-26995,121634,Open Heart (2013),Documentary,2013
-27048,121767,"See You Tomorrow, Everyone (2013)",Drama,2013
-27058,121787,Shadow People (2013),Horror|Thriller,2013
-27116,121919,The Good Mother (2013),Drama|Mystery|Thriller,2013
-27170,122041,Trust Me (2013),Comedy|Drama,2013
-27204,122131,Half of a Yellow Sun (2013),Drama|Romance,2013
-27220,122163,Three Night Stand (2013),Comedy|Drama,2013
-27287,122319,Ice Soldiers (2013),Action|Sci-Fi,2013
-27364,122488,Tomorrow You're Gone (2013),Thriller,2013
-27382,122527,Super Buddies (2013),Children,2013
-27400,122567,In The Dark (2013),Horror,2013
-27401,122569,Non-Stop (2013),Drama|Mystery|Thriller,2013
-27402,122571,The Wrong Woman (2013),(no genres listed),2013
-27413,122593,The Underneath (2013),Horror|Sci-Fi|Thriller,2013
-27437,122649,The Bates Haunting (2013),Thriller,2013
-27492,122766,No Tell Motel (2013),Horror,2013
-27572,122940,Clear History (2013),Comedy,2013
-27575,122946,The Gamers: Hands of Fate (2013),Comedy|Fantasy|Romance,2013
-27654,123121,Jealousy (2013),Drama,2013
-27674,123163,The Suspect (2013),Thriller,2013
-27686,123194,See Girl Run (2013),Romance,2013
-27690,123202,Social Nightmare (2013),Drama|Mystery,2013
-27731,123306,Knife Fight (2013),Drama,2013
-27732,123308,Suddenly (2013),Thriller,2013
-27735,123314,Mischief Night (2013),Drama|Horror|Thriller,2013
-27737,123318,Legendary: Tomb of the Dragon (2013),Action|Adventure,2013
-27786,123421,Newlyweeds (2013),(no genres listed),2013
-27787,123423,Return to Nim's Island (2013),Adventure|Children,2013
-27821,123499,The Hunters (2013),Adventure,2013
-27859,123589,The Major (2013),Action|Crime|Drama,2013
-28011,123949,The Escape (2013),Drama,2013
-28028,123985,HazMat (2013),Horror,2013
-28084,124125,Way Back Home (2013),Drama,2013
-28104,124166,No Man's Land (2013),Crime|Drama|Western,2013
-28237,124464,Iceberg Slim: Portrait of a Pimp (2013),(no genres listed),2013
-28281,124558,Lizzie (2013),Thriller,2013
-28282,124560,The Crying Dead (2013),Adventure|Horror|Thriller,2013
-28321,124645,The Midnight Game (2013),(no genres listed),2013
-28322,124647,Spark: A Burning Man Story (2013),Action|Documentary|Drama,2013
-28391,124799,Ring of Fire (2013),Drama,2013
-28395,124807,Jay-Z: Made in America (2013),Documentary,2013
-28402,124825,Snake and Mongoose (2013),Drama,2013
-28414,124849,Long Distance Revolutionary: A Journey with Mumia Abu-Jamal (2013),Documentary,2013
-28418,124857,Deception (2013),Action,2013
-28424,124869,Jay And Silent Bob's Super Groovy Cartoon Movie (2013),(no genres listed),2013
-28463,124955,Ritual (2013),Horror,2013
-28467,124963,House Party: Tonight's the Night (2013),(no genres listed),2013
-28521,125077,Eddie Izzard: Force Majeure Live (2013),Comedy,2013
-28525,125085,Killer Holiday (2013),Horror|Thriller,2013
-28587,125215,Percentage (2013),Crime,2013
-28595,125231,Real (2013),Drama|Sci-Fi,2013
-28616,125275,Richard Pryor: Omit the Logic (2013),(no genres listed),2013
-28624,125291,Richard: The Lionheart (2013),Action|Adventure,2013
-28633,125309,Winnie Mandela (2013),Drama,2013
-28659,125367,Mission Park (2013),Crime,2013
-28699,125453,Space Warriors (2013),Adventure|Children|Sci-Fi,2013
-28739,125541,Anina (2013),Adventure|Animation|Children,2013
-28753,125569,The Amazing Catfish (2013),Comedy|Drama,2013
-28777,125628,Citizen Koch (2013),Documentary,2013
-28791,125656,"Another Day, Another Time: Celebrating the Music of Inside Llewyn Davis (2013)",Documentary,2013
-28803,125786,Burning Blue (2013),Drama|Romance|War,2013
-28839,125912,Not Another Happy Ending (2013),Comedy|Drama|Romance,2013
-28844,125922,Gregory Go Boom (2013),Comedy,2013
-28971,126180,Powder Room (2013),Comedy,2013
-28986,126217,Delivery: The Beast Within (2013),Horror|Thriller,2013
-29024,126399,Big Sur (2013),Drama,2013
-29053,126560,Love Steaks (2013),(no genres listed),2013
-29100,126773,Story of My Death (2013),Drama,2013
-29102,126777,Vic+Flo Saw a Bear (2013),Crime|Drama|Thriller,2013
-29104,126781,Our Sunhi (2013),Drama,2013
-29106,126785,A Spell to Ward Off the Darkness (2013),Documentary,2013
-29108,126789,When Evening Falls on Bucharest or Metabolism (2013),(no genres listed),2013
-29115,126803,Finsterworld (2013),Drama,2013
-29123,126919,Of Horses and Men (2013),Comedy|Drama|Romance,2013
-29165,127003,Documentarian (2013),(no genres listed),2013
-29174,127021,Rewind This! (2013),Documentary,2013
-29176,127025,Josephine (2013),Comedy|Romance,2013
-29180,127033,"Mother, I Love You (2013)",Drama,2013
-29246,127170,Here be Dragons (2013),Documentary,2013
-29247,127172,A Story of Children and Film (2013),Documentary,2013
-29273,127224,Northwest (2013),Action|Crime|Drama,2013
-29277,127232,The Referee (2013),Comedy,2013
-29283,127244,My Sweet Pepper Land (2013),Drama,2013
-29285,127248,The Auction (2013),Drama,2013
-29295,127268,Project Wild Thing (2013),Adventure|Children|Documentary|Drama,2013
-29336,127419,Sanatorium (2013),Thriller,2013
-29339,127443,Manakamana (2013),Documentary,2013
-29412,127724,The Retrieval (2013),Drama|Western,2013
-29434,127875,The Gold Spinners (2013),Documentary,2013
-29436,127879,Adjust Your Tracking (2013),Documentary,2013
-29488,128097,Jim Norton: American Degenerate (2013),Comedy,2013
-29507,128153,Killing Kennedy (2013),Drama,2013
-29509,128157,People in Places (2013),Comedy|Drama,2013
-29511,128161,Alacrán enamorado (2013),Drama|Thriller,2013
-29521,128181,Cody the Robosapien (2013),Adventure|Children|Drama|Sci-Fi,2013
-29522,128183,Contest (2013),Children|Drama,2013
-29525,128193,Greetings from Tim Buckley (2013),(no genres listed),2013
-29555,128259,The Plague (2013),Documentary,2013
-29558,128267,Three Many Weddings (2013),Comedy,2013
-29576,128308,The Princess of Egypt (2013),Drama,2013
-29579,128318,Charlie Victor Romeo (2013),Documentary|Drama|Thriller,2013
-29591,128371,Pororo: The Racing Adventure (2013),Animation,2013
-29640,128510,Attila Marcel (2013),Comedy|Drama,2013
-29660,128554,Ego (2013),Drama,2013
-29667,128568,Summer House (2013),Drama,2013
-29670,128574,Studentfesten (2013),Comedy,2013
-29695,128626,The Golden Dream (2013),Drama,2013
-29696,128628,Ainoat Oikeat (2013),Comedy,2013
-29713,128673,Casting Couch (2013),(no genres listed),2013
-29719,128686,Sputnik (2013),(no genres listed),2013
-29743,128740,Closure (2013),Documentary,2013
-29769,128812,Drew: The Man Behind the Poster (2013),Documentary,2013
-29777,128836,The Ghosts in Our Machine (2013),Documentary,2013
-29807,128898,Life's a Breeze (2013),Comedy|Drama,2013
-29814,128912,Mike Birbiglia: My Girlfriend's Boyfriend (2013),Comedy,2013
-29832,128948,"Standing Aside, Watching (2013)",Drama,2013
-29856,129003,Up in the Wind (2013),Comedy,2013
-29857,129005,Lovestruck: The Musical (2013),Comedy|Fantasy|Musical|Romance,2013
-29859,129009,"Getting Go, the Go Doc Project (2013)",Drama,2013
-29883,129064,Joanna (2013),Documentary,2013
-29885,129068,Banklady (2013),Action|Crime|Drama|Romance,2013
-29889,129076,What Other Couples Do (2013),(no genres listed),2013
-29897,129193,Memphis (2013),(no genres listed),2013
-29922,129248,Exhibition (2013),Drama,2013
-29934,129289,Adios Carmen (2013),Drama,2013
-29940,129301,Grigris (2013),Drama,2013
-29941,129303,Camp (2013),Drama,2013
-29957,129340,"Norte, the End of History (2013)",Drama,2013
-29958,129342,Han Gong-ju (2013),Drama,2013
-29962,129350,Hansel & Gretel Get Baked (2013),Comedy|Horror,2013
-29967,129360,Garage Sale Mystery (2013),Drama,2013
-30004,129437,Ugly (2013),Mystery|Thriller,2013
-30005,129439,Personal Tailor (2013),Comedy|Drama,2013
-30006,129441,Hank and Asha (2013),Comedy|Romance,2013
-30012,129454,JFK: The Smoking Gun (2013),Documentary,2013
-30035,129510,Vuonna 85 (2013),Comedy,2013
-30052,129644,Jimi Hendrix: Hear My Train A Comin' (2013),Documentary,2013
-30055,129653,Ismael (2013),Drama,2013
-30061,129667,We Always Lie to Strangers (2013),(no genres listed),2013
-30064,129673,Missionary (2013),Drama|Thriller,2013
-30084,129715,Los Flamencos (2013),Comedy,2013
-30113,129779,Ghost in the Shell Arise - Border 1: Ghost Pain (2013),Action|Animation|Sci-Fi,2013
-30117,129788,Raanjhanaa (2013),Drama|Romance,2013
-30136,129843,Plastic Paradise: The Great Pacific Garbage Patch (2013),Documentary,2013
-30143,129857,Bright Days Ahead (2013),Drama|Romance,2013
-30156,129889,Papusza (2013),Drama,2013
-30164,129909,Club Sandwich (2013),Comedy,2013
-30176,129933,Sacro GRA (2013),Documentary,2013
-30177,129935,Gimme the Loot (2013),Drama,2013
-30179,129939,Event 15 (2013),Mystery|Thriller,2013
-30187,129958,Our Vinyl Weighs a Ton: This Is Stones Throw Records (2013),Documentary,2013
-30233,130077,Lost for Life (2013),Crime|Documentary,2013
-30312,130290,Hotel (2013),Drama,2013
-30313,130292,Alphabet (2013),Documentary,2013
-30328,130344,Coast of Death (2013),Children|Documentary|Drama,2013
-30330,130349,The Harry Hill Movie (2013),Comedy,2013
-30369,130442,Patrick (2013),Horror|Sci-Fi|Thriller,2013
-30370,130444,Ruby Red (2013),Adventure|Children|Fantasy|Sci-Fi,2013
-30400,130510,Berserk: The Golden Age Arc 3 - Descent (2013),Action|Animation|Fantasy,2013
-30431,130580,The Disappearance of Eleanor Rigby: Her (2013),Drama,2013
-30432,130582,The Disappearance of Eleanor Rigby: Him (2013),Drama|Romance,2013
-30449,130624,Southern Baptist Sissies (2013),Drama,2013
-30456,130638,Master of the Universe (2013),Documentary,2013
-30560,130898,Midnight Stallion (2013),Children|Drama,2013
-30594,130972,Sune på bilsemester (2013),Children|Comedy,2013
-30595,130976,Legend No. 17 (2013),Drama,2013
-30602,130990,In the Name of the Son (2013),Drama,2013
-30646,131098,Saving Santa (2013),Animation|Children|Comedy,2013
-30647,131100,Forget me not (2013),Documentary,2013
-30683,131172,Closed Curtain (2013),(no genres listed),2013
-30692,131192,App (2013),Thriller,2013
-30700,131209,Compound Fracture (2013),(no genres listed),2013
-30816,131502,A Wolf at the Door (2013),Drama|Thriller,2013
-30817,131504,Jellyfish Eyes (2013),Comedy|Fantasy,2013
-30830,131532,The Wild Ones (2013),Crime|Drama,2013
-30832,131536,The Face (2013),(no genres listed),2013
-30928,131751,Cheatin' (2013),Animation,2013
-30952,131816,Crisis Hotline: Veterans Press 1 (2013),Documentary,2013
-30961,131834,The Sound of Music Live (2013),Children|Drama,2013
-30963,131838,An Afghan Love Story (2013),(no genres listed),2013
-30966,131844,Les mauvaises têtes (2013),(no genres listed),2013
-31030,131980,"Guten Tag, Ramón (2013)",Drama,2013
-31055,132036,Copperhead (2013),Drama,2013
-31064,132058,Viva la libertà (2013),Drama,2013
-31068,132066,Luton (2013),Drama,2013
-31095,132134,15 Years and One Day (2013),Drama,2013
-31101,132146,The Harvest (2013),Drama|Thriller,2013
-31110,132165,The Elevator: Three Minutes Can Change Your Life (2013),Drama|Thriller,2013
-31113,132171,The Bitter Buddha (2013),(no genres listed),2013
-31122,132190,The Surrealist and His Naughty Hand (2013),Comedy|Drama,2013
-31123,132192,Anna Karénina (2013),Drama|Romance,2013
-31186,132340,The Dead 2: India (2013),Horror,2013
-31192,132352,Spiders (2013),Horror|Sci-Fi|Thriller,2013
-31198,132364,Belka and Strelka: Moon Adventures (2013),Adventure|Animation|Comedy,2013
-31199,132366,The Eternal Zero (2013),Drama|War,2013
-31228,132432,Five Dances (2013),Drama|Romance,2013
-31237,132450,Broken Glass Park (2013),Drama,2013
-31245,132468,Ship of Theseus (2013),Drama,2013
-31247,132472,Antarctica: A Year On Ice (2013),Adventure|Documentary,2013
-31249,132476,Indebted (2013),Drama|Thriller,2013
-31254,132486,The Liberator (2013),Drama,2013
-31289,132563,October November (2013),Drama,2013
-31301,132592,GMO OMG (2013),Children|Documentary,2013
-31432,132888,Comedy Central Roast of James Franco (2013),Comedy,2013
-31439,132902,Girl Rising (2013),Documentary,2013
-31466,132958,The Kill Team (2013),Documentary|War,2013
-31481,132993,Love Is the Perfect Crime (2013),Drama|Thriller,2013
-31530,133117,Canopy (2013),Adventure|Drama|War,2013
-31548,133153,Barbie in the Pink Shoes (2013),Animation|Children,2013
-31551,133159,Barbie: Mariposa and The Fairy Princess (2013),Animation|Children|Fantasy,2013
-31557,133171,Barbie & Her Sisters in A Pony Tale (2013),Animation|Children,2013
-31568,133197,How Sherlock Changed the World (2013),(no genres listed),2013
-31572,133205,Doug Stanhope: Beer Hall Putsch (2013),Comedy,2013
-31584,133231,The Secret Lives of Dorks (2013),Comedy,2013
-31588,133239,When Comedy Went to School (2013),Comedy|Documentary|Drama,2013
-31589,133241,Jimmy P.: Psychotherapy of a Plains Indian (2013),Drama,2013
-31591,133255,Regret (2013),Drama,2013
-31600,133279,Two Raging Grannies (2013),Documentary,2013
-31605,133289,100 Degrees Below Zero (2013),Action|Sci-Fi,2013
-31609,133297,Genius on Hold (2013),(no genres listed),2013
-31617,133313,Hank: 5 Years from the Brink (2013),Documentary,2013
-31626,133331,Germ (2013),Horror,2013
-31642,133367,LFO (2013),Drama|Sci-Fi,2013
-31648,133379,Off World (2013),Sci-Fi,2013
-31665,133415,Alexia (2013),Horror|Thriller,2013
-31676,133437,Class Enemy (2013),Drama,2013
-31678,133441,Tricked: The Documentary (2013),Documentary,2013
-31738,133581,Bad Hair (2013),Drama,2013
-31760,133626,The Good Lie (2013),Thriller,2013
-31767,133643,The Stone Roses: Made of Stone (2013),Documentary,2013
-31805,133727,Susie's Hope (2013),(no genres listed),2013
-31823,133765,Solo para dos (2013),(no genres listed),2013
-31867,133863,Rags and Tatters (2013),Drama,2013
-31877,133883,Suzanne (2013),Drama,2013
-31883,133895,Restless Virgins (2013),Drama,2013
-31940,134025,Open Secret (2013),(no genres listed),2013
-31987,134128,The Anonymous People (2013),Documentary,2013
-32069,134330,Bombay Talkies (2013),(no genres listed),2013
-32092,134378,Living Is Easy With Eyes Closed (2013),Comedy|Drama,2013
-32102,134402,Zephyr Springs (2013),Thriller,2013
-32153,134542,The Cheating Pact (2013),(no genres listed),2013
-32158,134557,Amiche da morire (2013),Comedy|Crime|Romance,2013
-32159,134559,See You Tomorrow (2013),Comedy,2013
-32160,134563,Sole a catinelle (2013),Comedy,2013
-32165,134573,The Special Need (2013),Comedy|Documentary,2013
-32166,134575,The Mafia Only Kills in Summer (2013),Comedy|Crime|Romance,2013
-32169,134581,A Fierce Green Fire (2013),Documentary,2013
-32180,134603,The Nun (2013),Drama,2013
-32194,134631,Living Images (2013),Comedy|Drama|Romance,2013
-32198,134639,My Sister's Kids in Africa (2013),Adventure|Children|Comedy,2013
-32206,134657,Cupcakes (2013),Comedy,2013
-32209,134664,Enter the Dangerous Mind (2013),Thriller,2013
-32282,134829,Ashens and the Quest for the Gamechild (2013),Adventure|Comedy,2013
-32283,134831,Paranormal Whacktivity (2013),Comedy|Horror,2013
-32297,134861,Trevor Noah: African American (2013),(no genres listed),2013
-32322,134921,A Year in Burgundy (2013),Documentary,2013
-32332,134945,Police Story 2013 (2013),Action|Crime|Drama|Thriller,2013
-32335,134951,Remote Area Medical (2013),Documentary,2013
-32396,135127,Metro (2013),Action|Thriller,2013
-32434,135204,Madras Cafe (2013),Thriller,2013
-32441,135218,Chanthaly (2013),Drama|Horror,2013
-32450,135236,Occupy Love (2013),Documentary|Drama,2013
-32453,135242,On the Way to School (2013),Documentary,2013
-32480,135298,Les Coquillettes (2013),Comedy|Drama,2013
-32517,135422,The Jewish Cardinal (2013),Drama,2013
-32534,135464,Walking the Camino: Six Ways to Santiago (2013),Documentary,2013
-32548,135494,B.A. Pass (2013),Drama,2013
-32551,135502,The Boy and the World (2013),Animation,2013
-32574,135549,Battle of Westerplatte (2013),Drama|War,2013
-32608,135619,Easy Money 3 (2013),Crime|Drama|Thriller,2013
-32615,135633,Run (2013),Action|Drama,2013
-32631,135669,How Strange to be Named Federico: Scola Narrates Fellini (2013),Documentary,2013
-32640,135693,Iliza Shlesinger: War Paint (2013),Comedy,2013
-32649,135713,Letters To Sofija (2013),Drama,2013
-32675,135765,Vishwaroopam (2013),Action|Crime|Thriller,2013
-32704,135823,Dhoom 3 (2013),Action|Crime|Thriller,2013
-32712,135839,Shahid (2013),Drama,2013
-32713,135841,Siddharth (2013),Drama,2013
-32721,135859,Rewind (2013),Sci-Fi,2013
-32733,135889,The House at the End of Time (2013),Horror,2013
-32744,135915,Afterparty (2013),Horror,2013
-32780,135989,The Complex (2013),Horror,2013
-32846,136208,Noobz (2013),Adventure|Comedy,2013
-32852,136221,Hansel & Gretel: Warriors of Witchcraft (2013),Horror|Thriller,2013
-32855,136227,The Wicked (2013),Fantasy|Horror|Thriller,2013
-32856,136229,Sanitarium (2013),Horror|Thriller,2013
-32863,136243,Four Assassins (2013),Thriller,2013
-32867,136251,Scooby-Doo! Stage Fright (2013),Adventure|Animation|Children,2013
-32914,136365,Scooby-Doo! Adventures: The Mystery Map (2013),Children,2013
-32980,136521,Stop the Pounding Heart (2013),Documentary|Drama,2013
-32995,136552,Gingerdead Man vs. Evil Bong (2013),Comedy|Horror,2013
-32996,136554,Sirius (2013),Documentary,2013
-33005,136572,Cyanide (2013),Drama,2013
-33007,136576,Green Street Hooligans: Underground (2013),Action|Drama,2013
-33008,136578,Les Petits princes (2013),Comedy|Drama,2013
-33016,136594,Dear Dumb Diary (2013),Children,2013
-33028,136618,Pokémon the Movie: Genesect and the Legend Awakened (2013),Action|Adventure|Animation|Children|Fantasy|Sci-Fi,2013
-33076,136720,The Dead Inside (2013),Action|Horror|Sci-Fi,2013
-33081,136730,Armed Response (2013),Action|Comedy,2013
-33082,136732,Axe Giant - The Wrath of Paul Bunyan (2013),Fantasy|Horror|Sci-Fi,2013
-33110,136792,Nailbiter (2013),Horror,2013
-33116,136806,Along the Roadside (2013),Comedy|Romance,2013
-33133,136840,Da geht noch was! (2013),Comedy|Drama|Romance,2013
-33142,136861,The Mark: Redemption (2013),Action|Fantasy|Sci-Fi,2013
-33146,136870,Pune 52 (2013),Crime|Drama|Thriller,2013
-33165,136908,The Last Match (2013),Drama|Romance,2013
-33176,136930,95ers: Time Runners (2013),Sci-Fi|Thriller,2013
-33181,136940,Goddess (2013),Comedy|Musical|Romance,2013
-33185,136948,Soof (2013),Comedy|Romance,2013
-33214,137010,The Nightmare Nanny (2013),Drama|Thriller,2013
-33216,137014,A Sister's Nightmare (2013),Thriller,2013
-33218,137018,A Sister's Revenge (2013),Drama|Mystery|Thriller,2013
-33227,137036,The Surrogate (2013),Drama|Mystery|Thriller,2013
-33262,137120,"Grow Up, Tony Phillips (2013)",(no genres listed),2013
-33268,137136,Beach Pillows (2013),Drama,2013
-33279,137162,Beside Still Waters (2013),(no genres listed),2013
-33280,137166,Justice Is Mind (2013),(no genres listed),2013
-33293,137196,Rhymes for Young Ghouls (2013),Drama,2013
-33298,137214,Blumenthal (2013),Comedy,2013
-33311,137250,It’s Only Make Believe (2013),Drama,2013
-33318,137274,Wedding Palace (2013),Comedy|Romance,2013
-33322,137282,The Genius of Marian (2013),Documentary,2013
-33324,137286,Speciesism: The Movie (2013),Documentary,2013
-33345,137335,Clutter (2013),(no genres listed),2013
-33353,137353,In Lieu of Flowers (2013),Comedy|Drama|Romance,2013
-33355,137359,Detroit Unleaded (2013),Comedy,2013
-33370,137393,Tom and Jerry's Giant Adventure (2013),Animation|Children,2013
-33388,137441,The Wee Man (2013),Drama,2013
-33393,137453,All Together Now (2013),(no genres listed),2013
-33398,137465,Profile Of A Killer (2013),Thriller,2013
-33399,137469,Some Velvet Morning (2013),Drama,2013
-33488,137682,Good Night (2013),Comedy|Drama,2013
-33496,137703,The Confession (2013),Drama,2013
-33499,137709,Hidden Away (2013),Drama|Thriller,2013
-33504,137723,Babysitter Massacre (2013),Horror,2013
-33513,137755,An American Terror (2013),Drama|Horror,2013
-33524,137785,Forever's End (2013),Drama|Thriller,2013
-33540,137825,Neverlake (2013),Drama|Horror|Mystery,2013
-33541,137827,Stripped (2013),Comedy|Horror|Thriller,2013
-33543,137833,To Jennifer (2013),(no genres listed),2013
-33548,137849,9 Full Moons (2013),Romance,2013
-33577,137926,Sugar (2013),Drama,2013
-33590,137958,Love & Air Sex (2013),Comedy,2013
-33604,137992,I Am I (2013),Drama,2013
-33605,137994,Muirhouse (2013),(no genres listed),2013
-33628,138048,The Demon's Rook (2013),Horror,2013
-33631,138056,Expecting (2013),Comedy|Drama,2013
-33636,138072,Live at the Foxes Den (2013),Drama,2013
-33655,138122,Cinemanovels (2013),Comedy|Drama|Romance,2013
-33668,138154,Stalled (2013),Comedy|Horror,2013
-33682,138198,Greg Fitzsimmons: Life on Stage (2013),(no genres listed),2013
-33683,138200,Nothing Bad Can Happen (2013),Drama,2013
-33718,138280,Plato's Reality Machine (2013),Comedy|Drama|Sci-Fi,2013
-33768,138386,Il bambino cattivo (2013),(no genres listed),2013
-33769,138388,Crazy Me (2013),Comedy,2013
-33770,138390,Tutti contro tutti (2013),Comedy,2013
-33771,138392,Buongiorno Papà (2013),Comedy,2013
-33773,138396,There Will Come a Day (2013),Comedy|Drama,2013
-33775,138400,Ammutta muddica al cinema (2013),Comedy,2013
-33776,138402,Welcome Mr. President! (2013),Comedy,2013
-33778,138406,Passione sinistra (2013),Comedy,2013
-33779,138408,"Bianca come il latte, rossa come il sangue (2013)",Comedy|Drama,2013
-33780,138410,Studio illegale (2013),Comedy,2013
-33781,138412,Cha cha cha (2013),Crime|Drama,2013
-33785,138422,The Devil's Violinist (2013),Drama,2013
-33786,138424,The Future (2013),Drama,2013
-33790,138432,"Zoran, il mio nipote scemo (2013)",Comedy,2013
-33791,138434,A Castle in Italy (2013),Comedy|Drama,2013
-33792,138436,The Human Factor (2013),Comedy|Thriller,2013
-33793,138438,Aspirante vedovo (2013),Comedy,2013
-33794,138440,L'ultima ruota del carro (2013),Comedy|Drama,2013
-33796,138444,Una piccola impresa meridionale (2013),Comedy,2013
-33797,138446,Come il vento (2013),Drama,2013
-33800,138452,I corpi estranei (2013),(no genres listed),2013
-33833,138528,Dark Mountain (2013),Horror|Sci-Fi|Thriller,2013
-33846,138566,The Employer (2013),Thriller,2013
-33875,138638,Embrace of the Vampire (2013),Horror,2013
-33894,138684,Waar (2013),Action|Drama|Thriller,2013
-33922,138760,Get Lucky (2013),Action,2013
-33932,138788,Fear Lives Here (2013),Horror|Thriller,2013
-33933,138790,Complicity (2013),Drama|Thriller,2013
-33954,138842,National Lampoon Presents: Surf Party (2013),Comedy,2013
-33982,138923,Trapped (2013),Drama|Thriller,2013
-33989,138942,Little Hope Was Arson (2013),Documentary,2013
-34005,138980,Liars All (2013),Thriller,2013
-34021,139034,The Closed Circuit (2013),Crime|Drama,2013
-34056,139108,Elway To Marino (2013),Documentary,2013
-34057,139110,Hawaiian: The Legend of Eddie Aikau (2013),Documentary,2013
-34058,139112,This Is What They Want (2013),(no genres listed),2013
-34061,139118,Nearlyweds (2013),Romance,2013
-34069,139134,Soodhu Kavvum (2013),Comedy|Thriller,2013
-34099,139213,If I Had Wings (2013),Drama,2013
-34105,139233,Sons of Liberty (2013),Action|Sci-Fi,2013
-34132,139305,5 Souls (2013),Thriller,2013
-34157,139369,America's Most Haunted (2013),Comedy|Horror,2013
-34169,139397,Peace After Marriage (2013),Comedy|Drama|Romance,2013
-34193,139455,The Cloth (2013),Action|Fantasy|Horror,2013
-34206,139493,L'arte della felicità (2013),Animation|Drama|Fantasy,2013
-34225,139533,The Secret Village (2013),Mystery|Thriller,2013
-34242,139573,Stag (2013),Comedy,2013
-34244,139578,La Fleur de l'âge (2013),Comedy,2013
-34247,139586,Heart of the Country (2013),Drama|Romance,2013
-34249,139590,Hunt for the Labyrinth Killer (2013),Drama|Mystery|Thriller,2013
-34250,139592,Heaven's Door (2013),(no genres listed),2013
-34258,139610,Spaghetti Story (2013),Comedy,2013
-34277,139649,UMMAH - Unter Freunden (2013),Comedy,2013
-34283,139663,Aftermath (2013),Crime|Thriller,2013
-34284,139665,Out of Reach (2013),(no genres listed),2013
-34289,139683,Bad Behavior (2013),(no genres listed),2013
-34311,139731,Djinn (2013),Horror,2013
-34344,139803,Marina (2013),Drama|Romance,2013
-34356,139829,The Scapegoat (2013),Drama,2013
-34370,139859,Ghost in the Shell Arise - Border 2: Ghost Whispers (2013),Action|Animation|Sci-Fi|Thriller,2013
-34373,139865,Qissa: The Tale of a Lonely Ghost (2013),Drama,2013
-34385,139889,Tiny Times (2013),Comedy|Drama|Romance,2013
-34386,139891,Tiny Times 2 (2013),Comedy|Drama|Romance,2013
-34399,139918,The Ghost Army (2013),Documentary|War,2013
-34401,139922,Something good (2013),Drama|Thriller,2013
-34430,140014,Brother's Keeper (2013),Drama,2013
-34448,140068,Army of Frankensteins (2013),Adventure|Comedy|Horror|Sci-Fi,2013
-34455,140082,Best Kept Secret (2013),Documentary,2013
-34480,140135,Intrepido: A Lonely Hero (2013),Comedy,2013
-34489,140154,The Paw Project (2013),Documentary,2013
-34491,140158,American Courtesans (2013),Documentary,2013
-34496,140168,The Invoking (2013),Horror|Thriller,2013
-34500,140176,Le Monde doit m'arriver (2013),(no genres listed),2013
-34508,140196,Monster High: Scaris City of Frights (2013),Animation|Fantasy,2013
-34510,140200,Il terzo tempo (2013),(no genres listed),2013
-34513,140206,"Jack, Jules, Esther, & Me (2013)",(no genres listed),2013
-34543,140271,"Mary Is Happy, Mary Is Happy (2013)",Drama,2013
-34548,140283,13 Eerie (2013),Horror|Sci-Fi,2013
-34554,140297,The Man Who Saved the World (2013),Documentary,2013
-34567,140323,Memories (2013),Crime|Thriller,2013
-34568,140325,Mumbai Police (2013),Crime|Mystery|Thriller,2013
-34570,140329,Hairbrained (2013),Comedy,2013
-34582,140355,Bill Cosby: Far From Finished (2013),Comedy,2013
-34587,140365,Short Peace (2013),Animation,2013
-34608,140407,Cas & Dylan (2013),Comedy|Drama,2013
-34689,140571,Spud 2: The Madness Continues (2013),Comedy|Drama,2013
-34709,140629,Snails in the Rain (2013),Drama,2013
-34731,140681,Ghadi (2013),Children|Comedy|Drama,2013
-34732,140683,West (2013),Drama,2013
-34743,140709,Death Comes to Pemberley (2013),Drama|Mystery|Romance,2013
-34775,140775,Houston (2013),(no genres listed),2013
-34779,140785,How to Follow Strangers (2013),Drama|Romance,2013
-34788,140803,Beyond Beauty: Taiwan from Above (2013),Documentary,2013
-34800,140828,009-1: The End of the Beginning (2013),Action|Sci-Fi,2013
-34805,140840,Avenged (2013),Action|Fantasy|Horror|Thriller,2013
-34873,141000,Library Wars (2013),Action|Drama|Fantasy,2013
-34878,141010,Broadway Musicals: A Jewish Legacy (2013),Documentary,2013
-34922,141106,Losers Take All (2013),Comedy,2013
-34938,141139,The Terror Live (2013),Action|Crime|Thriller,2013
-34965,141214,Petunia (2013),Comedy|Drama,2013
-35001,141317,The Cabining (2013),Horror|Thriller,2013
-35012,141345,Tio Papi (2013),Children|Comedy|Drama,2013
-35014,141349,Breaking at the Edge (2013),Horror|Thriller,2013
-35047,141418,Sexy Evil Genius (2013),Comedy|Drama|Mystery|Thriller,2013
-35067,141458,Rising from Ashes (2013),(no genres listed),2013
-35076,141476,Sweet Talk (2013),Adventure|Drama,2013
-35079,141483,Lost Rivers (2013),Documentary,2013
-35085,141495,HK: Forbidden Super Hero (2013),Action|Comedy,2013
-35091,141511,Assassins Tale (2013),Action|Crime|Thriller,2013
-35112,141556,¿Quién mató a Bambi? (2013),Comedy,2013
-35138,141622,The Last Keepers (2013),Fantasy,2013
-35143,141634,You and the Night (2013),Comedy|Drama|Romance,2013
-35161,141670,Shield of Straw (2013),Thriller,2013
-35295,141962,For Elise (2013),Horror|Mystery,2013
-35310,141992,Lasting (2013),Drama|Romance,2013
-35325,142028,La sedia della felicità (2013),Comedy,2013
-35330,142038,Redemption (2013),(no genres listed),2013
-35339,142056,Iron Man & Hulk: Heroes United (2013),Action|Adventure|Animation,2013
-35359,142096,Krampus: The Christmas Devil (2013),Horror,2013
-35382,142150,Vamp U (2013),Action|Comedy|Horror,2013
-35384,142154,Unlucky Charms (2013),Fantasy|Horror,2013
-35388,142164,Wish You Well (2013),Children|Drama,2013
-35390,142168,All That I Am (2013),Drama,2013
-35473,142356,Haru (2013),Animation|Romance|Sci-Fi,2013
-35516,142450,Puella Magi Madoka Magica the Movie Part III: Rebellion (2013),Animation|Fantasy|Mystery|Thriller,2013
-35545,142513,Hunter × Hunter: Phantom Rouge (2013),Adventure|Animation,2013
-35548,142519,Hunter × Hunter: The Last Mission (2013),Action|Animation,2013
-35581,142588,Sriracha (2013),Documentary,2013
-35603,142632,Oh Willy... (2013),Adventure|Animation|Drama,2013
-35622,142677,Lootera (2013),Drama|Romance,2013
-35666,142797,White Rabbit (2013),Drama,2013
-35689,142843,Little Witch Academia (2013),Action|Animation|Comedy|Fantasy,2013
-35692,142849,Rabbit and Deer (2013),Animation|Comedy,2013
-35697,142859,Factory Girl (2013),Drama|Romance,2013
-35788,143043,Fish & Cat (2013),(no genres listed),2013
-35801,143071,Chilling Visions: 5 Senses of Fear (2013),Horror,2013
-35805,143086,An American Girl: Saige Paints the Sky (2013),Children,2013
-35807,143091,The Gauntlet (2013),Action|Adventure|Horror,2013
-35925,143391,The Lost Medallion: The Adventures of Billy Stone (2013),Adventure|Children,2013
-35942,143430,Jodi Arias: Dirty Little Secret (2013),Drama|Romance,2013
-35977,143506,Sword Art Online Extra Edition (2013),Action|Adventure|Animation|Drama|Fantasy,2013
-35987,143527,Lulu in the Nude (2013),Comedy|Drama,2013
-36005,143565,A Prayer for Rain (2013),(no genres listed),2013
-36031,143635,Playing Dead (2013),Comedy,2013
-36040,143653,Kokowaah 2 (2013),Comedy,2013
-36144,143898,Saint Young Men (2013),Animation|Comedy,2013
-36152,143919,iNumber Number (2013),Action|Crime|Drama,2013
-36156,143930,Cookie (2013),Comedy|Drama,2013
-36170,143972,Home (2013),(no genres listed),2013
-36208,144066,Blood Punch (2013),Horror|Thriller,2013
-36228,144132,Darkness by Day (2013),Horror,2013
-36261,144200,Lonely Boy (2013),Comedy|Drama,2013
-36268,144214,Asylum: the Lost Footage (2013),Horror,2013
-36270,144218,Chez Nous (2013),Comedy|Drama,2013
-36272,144222,Bros Before Hos (2013),Comedy,2013
-36275,144228,ABE (2013),Sci-Fi|Thriller,2013
-36285,144250,Mediastan (2013),Documentary,2013
-36310,144302,Commitment (2013),Action|Drama|Thriller,2013
-36335,144352,Unforgiven (2013),Action|Crime|Drama,2013
-36336,144354,The Wrath Of Vajra (2013),Action|Fantasy|Horror,2013
-36344,144370,The White Storm (2013),Action|Crime|Drama|Mystery,2013
-36346,144374,Psychometry (2013),Mystery,2013
-36347,144376,11:00 AM (2013),Fantasy|Sci-Fi,2013
-36358,144398,Hwayi: A Monster Boy (2013),Action|Thriller,2013
-36361,144404,Fists of Legend (2013),Action|Drama,2013
-36363,144408,Firestorm (2013),Action|Crime,2013
-36371,144424,Straight A's (2013),Comedy|Drama,2013
-36390,144470,The Devil's Path (2013),Thriller,2013
-36392,144474,Control (2013),Thriller,2013
-36394,144478,"Sex, Drugs & Taxation (2013)",Comedy|Drama,2013
-36413,144516,The Brain Man (2013),Mystery,2013
-36417,144524,Montage (2013),Crime|Mystery|Thriller,2013
-36421,144532,Cold Eyes (2013),Action|Crime,2013
-36427,144544,Platinum Data (2013),Drama|Mystery,2013
-36428,144546,Run-ning-maen (2013),Action|Comedy|Thriller,2013
-36439,144568,Killer Toon (2013),Horror|Thriller,2013
-36445,144580,"Secretly, Greatly (2013)",Action|Comedy|Drama,2013
-36449,144588,Days of Wrath (2013),Drama|Thriller,2013
-36461,144612,Blind Detective (2013),Comedy|Crime|Drama,2013
-36482,144654,The Christmas Candle (2013),Drama,2013
-36486,144662,Marius (2013),Drama,2013
-36487,144664,Ostwind (2013),Adventure|Children,2013
-36493,144676,Wither (2013),Horror,2013
-36506,144702,Tales From the Dark 2 (2013),Horror,2013
-36609,144934,Go Goa Gone (2013),Comedy|Horror,2013
-36611,144938,Money for Nothing: Inside the Federal Reserve (2013),Documentary,2013
-36662,145056,Ghost Shark (2013),Horror|Sci-Fi,2013
-36663,145058,Pee Mak Phrakanong (2013),Comedy|Romance,2013
-36696,145130,Benim Dünyam (2013),Drama,2013
-36697,145132,The Butterfly's Dream (2013),Drama,2013
-36834,145468,All Hallows' Eve (2013),Horror,2013
-36856,145518,Rubberneck (2013),Thriller,2013
-36931,145747,Five Thirteen (2013),Crime|Drama,2013
-37013,145960,Skinwalker Ranch (2013),Horror|Sci-Fi|Thriller,2013
-37017,145968,Song 'e napule (2013),(no genres listed),2013
-37064,146074,Premachi Goshta (2013),Drama|Romance,2013
-37065,146076,Time Please (2013),Drama|Romance,2013
-37066,146078,Zapatlela 2 (2013),Comedy|Horror,2013
-37067,146080,Prem Mhanje Prem Mhanje Prem Asta (2013),(no genres listed),2013
-37134,146214,Septic Man (2013),Horror,2013
-37181,146315,I Learn America (2013),(no genres listed),2013
-37189,146333,Eu Não Faço a Menor Ideia do que eu Tô Fazendo Com a Minha Vida (2013),(no genres listed),2013
-37198,146352,Lotus Eaters (2013),Drama,2013
-37231,146419,Aim High In Creation (2013),Documentary,2013
-37272,146520,Tru Love (2013),Drama|Romance,2013
-37335,146678,The Girls in the Band (2013),Documentary,2013
-37346,146700,The Little Ghost (2013),Children|Fantasy,2013
-37360,146728,The Hot Flashes (2013),Comedy,2013
-37404,146876,Algorithms (2013),Documentary,2013
-37425,146918,Fonzy (2013),Comedy,2013
-37439,146946,The Hardy Bucks Movie (2013),Comedy,2013
-37468,147010,Thou Gild'st the Even (2013),Drama|Fantasy|Romance,2013
-37491,147060,The Conquerors (2013),Comedy,2013
-37492,147062,Rock the Casbah (2013),Comedy|Drama,2013
-37510,147102,Journey to the Safest Place on Earth (2013),Documentary,2013
-37517,147116,The Happy House (2013),(no genres listed),2013
-37518,147118,Ralphie May: Imperfectly Yours (2013),(no genres listed),2013
-37577,147252,The Untold History of the United States (2013),Documentary,2013
-37581,147260,Ku! Kin-dza-dza (2013),Animation|Comedy|Sci-Fi,2013
-37583,147264,Vive la France (2013),Comedy,2013
-37589,147276,Turf (2013),Comedy,2013
-37626,147350,Don't Go to the Reunion (2013),Horror,2013
-37634,147366,Reality Terror Night (2013),Horror,2013
-37651,147400,Meu Pé de Laranja Lima (2013),Drama,2013
-37654,147408,Frau Ella (2013),Comedy,2013
-37670,147452,Coldwater (2013),Drama|Thriller,2013
-37671,147454,Aleksandr's Price (2013),Drama|Mystery|Thriller,2013
-37707,147597,Transformers Prime Beast Hunters: Predacons Rising (2013),Action|Animation|Sci-Fi,2013
-37734,147680,Salomé (2013),(no genres listed),2013
-37748,147716,Kutti Puli (2013),Action|Comedy|Romance,2013
-37776,147775,Dancing on the Edge (2013),Drama,2013
-37779,147781,Plush (2013),Thriller,2013
-37795,147833,Anthony Jeselnik: Caligula (2013),Comedy,2013
-37799,147843,Starring Adam West (2013),Documentary,2013
-37824,147911,The Smile Man (2013),Comedy|Drama,2013
-37839,147942,Room 8 (2013),(no genres listed),2013
-37878,148038,The List (2013),Thriller,2013
-37970,148266,Pleased to Meet Me (2013),Drama,2013
-37972,148274,Orania (2013),(no genres listed),2013
-37983,148298,Awaken (2013),Drama|Romance|Sci-Fi,2013
-37986,148308,Cold Turkey (2013),Drama,2013
-38003,148359,Louder Than Words (2013),Drama,2013
-38026,148406,Home from Home – Chronicle of a Vision (2013),Drama,2013
-38030,148414,End of the World (2013),Action|Adventure|Comedy|Sci-Fi,2013
-38036,148426,Fateful Findings (2013),Drama|Fantasy|Thriller,2013
-38038,148430,Naked as We Came (2013),(no genres listed),2013
-38052,148460,Weekend of a Champion (2013),Documentary,2013
-38135,148695,Under the Rainbow (2013),Comedy,2013
-38146,148717,Red Wine (2013),Crime|Drama,2013
-38178,148793,Friends from France (2013),Drama,2013
-38182,148801,10%: What Makes a Hero? (2013),Adventure|Documentary,2013
-38230,148917,Gangsta Granny (2013),(no genres listed),2013
-38269,149001,Assassins Run (2013),Action|Crime|Thriller,2013
-38274,149026,Shutter (2013),Thriller,2013
-38298,149100,Eskil & Trinidad (2013),Children|Drama,2013
-38302,149108,Murder in the Dark (2013),Horror|Mystery|Thriller,2013
-38385,149342,The Pardon (2013),Crime|Drama,2013
-38386,149344,Pete's Christmas (2013),Children|Fantasy,2013
-38392,149356,Defending Santa (2013),(no genres listed),2013
-38469,149512,One Night Surprise (2013),Comedy|Romance,2013
-38485,149548,Act Like You Love Me (2013),(no genres listed),2013
-38501,149580,Window Wonderland (2013),Comedy|Romance,2013
-38507,149592,My Lucky Star (2013),Comedy|Romance,2013
-38509,149596,Sorry I Love You (2013),Action|Drama|Romance,2013
-38513,149604,The Coalition (2013),Drama|Romance,2013
-38519,149616,Manuscripts Don't Burn (2013),Crime|Drama,2013
-38553,149690,Going Our Way 2 (2013),Comedy,2013
-38573,149731,Senn (2013),Adventure|Mystery|Sci-Fi,2013
-38589,149768,Bakit Hindi Ka Crush Ng Crush Mo? (2013),Comedy|Drama|Romance,2013
-38612,149814,F.C. De Kampioenen: Kampioen zijn blijft plezant (2013),Comedy,2013
-38624,149840,500 MPH Storm (2013),Action|Sci-Fi,2013
-38628,149854,Avalanche Sharks (2013),Action|Horror|Sci-Fi,2013
-38667,149958,The End of Summer (2013),Drama,2013
-38713,150056,Frits and Franky (2013),Comedy,2013
-38725,150080,Bingo (2013),Comedy,2013
-38739,150140,Noah (2013),Drama,2013
-38769,150238,Water and Fire (2013),Drama|Romance,2013
-38776,150252,The Rambler (2013),Comedy|Drama|Horror|Mystery,2013
-38814,150338,Aşk Kırmızı (2013),Drama|Romance,2013
-38883,150566,Un fantastico via vai (2013),Comedy,2013
-38884,150568,2 Autumns 3 Winters (2013),Comedy|Drama,2013
-38886,150572,The Husband She Met Online (2013),Drama|Mystery|Thriller,2013
-38904,150610,Der böse Onkel (2013),Comedy|Drama,2013
-38920,150653,Empire of Dirt (2013),Drama,2013
-38932,150678,Princess Sakura: Forbidden Pleasures (2013),Romance,2013
-38945,150718,DSKNECTD (2013),Documentary,2013
-38953,150736,Love Lesson (2013),Drama|Romance,2013
-38963,150766,One Track Heart: The Story of Krishna Das (2013),Documentary,2013
-38996,150846,Asu Mare (2013),(no genres listed),2013
-39020,150896,Walesa: Man of Hope (2013),Drama,2013
-39177,151351,To Singapore with Love (2013),Documentary,2013
-39180,151357,The Bible (2013),Drama,2013
-39186,151371,Being Ginger (2013),Documentary,2013
-39242,151509,Red Wing (2013),Drama,2013
-39244,151513,Kick-Heart (2013),Animation|Comedy|Romance,2013
-39261,151555,"It's Not You, It's Me (2013)",Comedy,2013
-39272,151577,ABCD (Any Body Can Dance) (2013),Drama|Romance,2013
-39274,151583,The Face Reader (2013),(no genres listed),2013
-39276,151587,The Staircase II: The Last Chance (2013),Documentary,2013
-39301,151637,Soulmate (2013),Horror|Mystery,2013
-39312,151659,Medeas (2013),(no genres listed),2013
-39323,151681,Blood Brother (2013),Documentary,2013
-39325,151685,Alone Yet Not Alone (2013),(no genres listed),2013
-39332,151699,A Long Way From Home (2013),Drama|Romance,2013
-39356,151753,The Wonders (2013),Mystery,2013
-39365,151771,Matterhorn (2013),Comedy|Drama,2013
-39394,151854,Devil May Call (2013),Horror,2013
-39412,151909,Unforgotten Shadows (2013),Adventure|Comedy|Mystery,2013
-39424,151935,Deep Powder (2013),Drama|Thriller,2013
-39462,152015,Live and let Live (2013),(no genres listed),2013
-39473,152039,The Image Revolution (2013),Documentary,2013
-39521,152139,Fanie Fourie's Lobola (2013),Comedy|Romance,2013
-39522,152141,The Desert (2013),Drama|Sci-Fi,2013
-39525,152147,Licks (2013),Drama,2013
-39527,152151,Cannibal (2013),Thriller,2013
-39529,152155,The Preacher's Mistress (2013),Drama,2013
-39532,152165,The Makeover (2013),Comedy,2013
-39568,152238,God Loves Uganda (2013),Documentary,2013
-39601,152322,Prosecuting Casey Anthony (2013),Drama,2013
-39731,152613,Serial Teachers (2013),Comedy,2013
-39736,152623,Above Dark Waters (2013),Drama,2013
-39752,152662,Love in the End (2013),Drama|Romance,2013
-39755,152670,Lord Montagu (2013),Documentary,2013
-39791,152755,Atlantic Rim (2013),Action|Sci-Fi,2013
-39792,152757,AE Apocalypse Earth (2013),Action|Sci-Fi,2013
-39794,152763,Please Subscribe (2013),(no genres listed),2013
-39795,152765,Please Kill Mr. Know It All (2013),Comedy|Crime|Romance,2013
-39796,152767,Jerusalem (2013),Documentary,2013
-40137,153478,Cine Holliúdy (2013),Comedy,2013
-40143,153492,Dancing Ninja (2013),Action|Comedy|Crime,2013
-40149,153516,Apocalyptic (2013),Drama|Horror,2013
-40151,153520,616: Paranormal Incident (2013),Horror,2013
-40155,153528,Severed Footage (2013),Horror|Mystery|Thriller,2013
-40156,153530,The Frankenstein Theory (2013),Horror|Sci-Fi,2013
-40343,153919,Atharintiki Daaredi (2013),Action|Comedy|Drama,2013
-40516,154344,Commando - A One Man Army (2013),(no genres listed),2013
-40517,154346,Boss (2013),Action|Comedy|Drama,2013
-40518,154348,Jolly LLB (2013),Comedy|Drama,2013
-40519,154350,Shuddh Desi Romance (2013),Comedy|Drama|Romance,2013
-40520,154352,Ek Thi Daayan (2013),Drama|Horror|Mystery,2013
-40586,154484,Stonados (2013),Sci-Fi,2013
-40721,154782,Silent Ones (2013),(no genres listed),2013
-40722,154784,Darkness (2013),Drama,2013
-40723,154786,Die Welt (2013),(no genres listed),2013
-40789,154919,Godheten (2013),Documentary,2013
-40810,154969,Better Mus Come (2013),Action|Crime,2013
-40836,155028,La pazza della porta accanto: conversazione con Alda Merini (2013),(no genres listed),2013
-40865,155098,Pizza II: Villa (2013),Horror|Thriller,2013
-40877,155123,Nobody's Daughter Haewon (2013),Drama,2013
-40878,155127,Tokyo Family (2013),Children|Drama,2013
-40880,155131,Rushlights (2013),Crime|Drama|Romance,2013
-40953,155397,'Til Madness Do Us Part (2013),Documentary,2013
-40960,155411,The Amityville Asylum (2013),Horror,2013
-40978,155457,Onaayum Aattukkuttiyum (2013),Thriller,2013
-40979,155460,Jackpot (2013),Comedy|Thriller,2013
-40995,155497,The Stalker (2013),Drama|Thriller,2013
-40998,155503,Outing - Engaged by Mistake (2013),Comedy,2013
-40999,155505,Mademoiselle C (2013),Documentary,2013
-41002,155511,The Flying Man (2013),Action|Mystery|Sci-Fi,2013
-41009,155537,Return to Nuke 'Em High Volume 1 (2013),Comedy|Horror|Sci-Fi,2013
-41042,155607,Exit Marrakech (2013),Drama,2013
-41055,155635,Vinodentro (2013),Thriller,2013
-41097,155725,Spieltrieb (2013),Drama,2013
-41100,155733,Evil Feed (2013),Action|Horror,2013
-41101,155735,Bayonetta: Bloody Fate (2013),Action|Animation,2013
-41110,155754,Failure (2013),Comedy,2013
-41113,155760,Love's Routine (2013),Comedy|Drama,2013
-41114,155762,Saving Norman (2013),Comedy|Drama,2013
-41124,155794,"Coffee, Kill Boss (2013)",(no genres listed),2013
-41144,155834,Run Boy Run (2013),Drama|War,2013
-41145,155836,Google and the World Brain (2013),Documentary,2013
-41151,155850,Elektro Moskva (2013),Documentary,2013
-41152,155852,Wavemakers (2013),Documentary,2013
-41159,155866,When Bjork Met Attenborough (2013),Documentary,2013
-41169,155890,Grand Central (2013),Drama|Romance,2013
-41221,156019,No Más (2013),Documentary,2013
-41431,156557,This Is Normal (2013),Drama,2013
-41436,156567,Wind (2013),Animation,2013
-41454,156603,In Search of Blind Joe Death: The Saga of John Fahey (2013),Documentary,2013
-41460,156615,Silent Retreat (2013),Horror|Mystery|Thriller,2013
-41492,156688,A 2nd Chance (2013),(no genres listed),2013
-41525,156761,Blue Sky Bones (2013),(no genres listed),2013
-41538,156787,Jimmy Carr: Laughing and Joking (2013),Comedy,2013
-41552,156826,Darkroom (2013),Thriller,2013
-41593,156925,Riddle (2013),Mystery|Thriller,2013
-41658,157079,The Garden of Sinners: Future Gospel (2013),Animation|Sci-Fi,2013
-41684,157132,Madly Madagascar (2013),Animation|Children|Comedy,2013
-41700,157164,The Priest's Children (2013),Comedy|Drama,2013
-41722,157208,The Kiyosu Conference (2013),Comedy|Drama,2013
-41751,157278,The Sixties (2013),(no genres listed),2013
-41758,157292,My Dog Killer (2013),Drama,2013
-41810,157403,Love Is in the Air (2013),Comedy|Romance,2013
-41862,157553,Arrambam (2013),Action|Drama|Thriller,2013
-41899,157635,Broken Side of Time (2013),Drama,2013
-42077,158035,Gintama: The Final Chapter - Be Forever Yorozuya (2013),Action|Animation|Comedy,2013
-42083,158049,Rio 2096: A Story of Love and Fury (2013),Animation|Drama|Romance,2013
-42166,158244,Twisted (2013),Comedy,2013
-42170,158252,Elena (2013),Documentary,2013
-42172,158256,Real Playing Game (2013),Action|Adventure|Sci-Fi,2013
-42229,158372,Zombie Night (2013),Horror,2013
-42231,158378,Queen of Carthage (2013),Drama|Thriller,2013
-42239,158394,The Lady Vanishes (2013),Drama|Thriller,2013
-42273,158476,"Papita, Maní, Tostón (2013)",Comedy|Romance,2013
-42356,158659,10 Rules for Sleeping Around (2013),Comedy|Romance,2013
-42365,158677,The Perfect Boyfriend (2013),Crime|Mystery|Thriller,2013
-42368,158683,A Mother's Rage (2013),Drama|Mystery|Thriller,2013
-42371,158689,Zanjeer (2013),Action|Thriller,2013
-42373,158693,Shootout at Wadala (2013),(no genres listed),2013
-42380,158707,Chariot (2013),Drama|Thriller,2013
-42402,158753,Cereal Killers (2013),Documentary,2013
-42429,158815,Chasing Leprechauns (2013),Comedy|Romance,2013
-42439,158838,Jack (2013),(no genres listed),2013
-42482,158924,Finding Christmas (2013),Children|Comedy|Romance,2013
-42483,158926,Catch a Christmas Star (2013),Children|Romance,2013
-42484,158928,A Very Merry Mix-Up (2013),Romance,2013
-42485,158930,Snow Bride (2013),Children,2013
-42486,158932,"Tom, Dick and Harriet (2013)",Comedy,2013
-42487,158934,Be My Valentine (2013),Romance,2013
-42521,159017,Adolf Hitler: The Greatest Story Never Told (2013),Documentary,2013
-42552,159083,Finding Mr. Right (2013),Comedy|Romance,2013
-42614,159211,Slightly Single in L.A. (2013),Comedy|Romance,2013
-42665,159353,"Kiss Me, Damn It (2013)",Comedy|Drama|Romance,2013
-42708,159449,African Safari (2013),Documentary,2013
-42712,159467,Fifi Howls from Happiness (2013),Documentary,2013
-42764,159630,Cool As Hell (2013),Comedy|Horror,2013
-42814,159739,The Gambler (2013),Drama|Thriller,2013
-42836,159797,La muerte de Jaime Roldós (2013),Documentary,2013
-42851,159829,Toad Road (2013),Horror|Thriller,2013
-42890,159942,The Demented (2013),Drama|Horror|Thriller,2013
-42971,160128,Doomsdays (2013),(no genres listed),2013
-43006,160203,Styria (2013),Fantasy|Horror|Mystery|Thriller,2013
-43007,160205,Life Feels Good (2013),Drama,2013
-43017,160227,What Now? Remind Me (2013),Documentary|Drama,2013
-43022,160238,Stockholm (2013),Drama|Romance,2013
-43023,160240,Will You Still Love Me Tomorrow? (2013),(no genres listed),2013
-43044,160287,Redemption Trail (2013),Drama,2013
-43049,160297,Ragin Cajun Redneck Gators (2013),Horror|Sci-Fi|Thriller,2013
-43052,160303,Unaware (2013),Horror|Sci-Fi,2013
-43068,160337,Almost Human (2013),Horror|Sci-Fi,2013
-43118,160444,Ghanchakkar (2013),Comedy|Crime|Thriller,2013
-43125,160458,Saheb Biwi Aur Gangster Returns (2013),Action|Crime|Drama|Thriller,2013
-43179,160590,Survive and Advance (2013),(no genres listed),2013
-43196,160652,Hide and Seek (2013),Thriller,2013
-43197,160654,Deo pa-i-beu (2013),Action|Drama|Mystery,2013
-43219,160698,Steel Cold Winter (2013),Mystery|Thriller,2013
-43291,160850,Au revoir l'été (2013),Drama,2013
-43414,161109,The Irish Pub (2013),Documentary,2013
-43432,161147,The Book of Daniel (2013),Fantasy,2013
-43442,161167,Rüzgarlar (2013),Drama,2013
-43454,161194,These Birds Walk (2013),Documentary|Drama,2013
-43465,161218,Forbidden Ground (2013),Action|Drama|War,2013
-43472,161236,The Blade of Don Juan (2013),Comedy|Drama,2013
-43494,161280,Victor Young Perez (2013),Drama,2013
-43515,161324,An Episode in the Life of an Iron Picker (2013),Drama,2013
-43518,161330,The Great Martian War 1913 - 1917 (2013),Documentary|Drama|War,2013
-43534,161362,Oxyana (2013),Documentary,2013
-43740,161838,Delicious (2013),Drama,2013
-43766,161898,Tumbledown (2013),Drama|Mystery|Romance,2013
-43770,161906,Youth (2013),Drama,2013
-43781,161930,Hafu (2013),Documentary,2013
-43845,162080,Johan Falk: Kodnamn Lisa (2013),Action|Crime|Thriller,2013
-43855,162100,"The Fjällbacka Murders: The Sea Gives, the Sea Takes (2013)",Crime|Mystery,2013
-43856,162102,The Hidden Child (2013),Crime,2013
-43858,162106,The Fjällbacka Murders: The Queen of Lights (2013),Crime|Mystery,2013
-43859,162108,The Fjällbacka Murders: Friends for Life (2013),Crime|Mystery,2013
-43860,162110,The Fjällbacka Murders: In the Eye of the Beholder (2013),Crime|Mystery|Thriller,2013
-43861,162112,The Fjällbacka Murders: The Coast Rider (2013),Crime|Mystery,2013
-43914,162236,Hit 'n Strum (2013),Drama,2013
-43916,162240,3 Geezers! (2013),Comedy,2013
-43967,162342,Mister John (2013),(no genres listed),2013
-43997,162406,I Am Breathing (2013),Documentary,2013
-44019,162450,The Levenger Tapes (2013),Horror|Thriller,2013
-44032,162476,Une contre histoire de l'internet (2013),Documentary,2013
-44058,162536,Truth (2013),Thriller,2013
-44080,162584,The Spirit of '45 (2013),Documentary,2013
-44134,162698,The Comedian (2013),(no genres listed),2013
-44154,162744,Matru Ki Bijlee Ka Mandola (2013),Comedy,2013
-44157,162750,My Class (2013),Documentary|Drama,2013
-44161,162758,Tom Papa: Freaked Out (2013),Comedy,2013
-44198,162844,Race 2 (2013),Thriller,2013
-44206,162860,Horses of God (2013),Drama,2013
-44267,162982,Steins;Gate the Movie: The Burden of Déjà vu (2013),Animation|Drama|Sci-Fi,2013
-44284,163016,Bending the Rules (2013),(no genres listed),2013
-44331,163120,Honeymoon (2013),Drama,2013
-44341,163142,The Rooftop (2013),Action|Comedy|Drama,2013
-44381,163232,Refuge (2013),Thriller,2013
-44383,163238,Mexico's Most Wanted (2013),(no genres listed),2013
-44476,163454,Himmatwala (2013),(no genres listed),2013
-44485,163472,Murder 3 (2013),Thriller,2013
-44488,163478,Birdemic 2: The Resurrection (2013),Action|Comedy|Horror|Sci-Fi,2013
-44516,163537,Miesten välisiä keskusteluja (2013),(no genres listed),2013
-44517,163539,Before the Winter Chill (2013),Drama,2013
-44523,163551,Cruel Will (2013),Horror|Thriller,2013
-44530,163565,The Jungle (2013),Thriller,2013
-44542,163595,Coming to Terms (2013),(no genres listed),2013
-44553,163617,The Phone Call (2013),Drama,2013
-44560,163631,Last Summer (2013),Drama|Romance,2013
-44576,163665,The First Annual 'On Cinema' Oscar Special (2013),Comedy,2013
-44593,163699,Fall of Ming (2013),Drama,2013
-44640,163809,Over the Garden Wall (2013),Adventure|Animation|Drama,2013
-44808,164177,Desolate (2013),Drama|Sci-Fi,2013
-44851,164266,The Disciple (2013),Drama|Thriller,2013
-44853,164270,Back in Crime (2013),Crime|Fantasy,2013
-44857,164278,Going Attractions: The Definitive Story of the American Drive-in Movie (2013),Children|Documentary,2013
-44861,164288,Seventh Code (2013),Mystery|Thriller,2013
-44921,164437,Ashley (2013),Drama,2013
-44953,164518,Red Family (2013),Drama,2013
-44957,164526,Playboy Bong (2013),(no genres listed),2013
-44972,164556,I'm a Standard Supporter (2013),Comedy,2013
-44973,164558,Ci vuole un gran fisico (2013),Comedy,2013
-45012,164645,Father’s Chair (2013),Drama,2013
-45046,164715,Second Chances (2013),Drama,2013
-45058,164739,The Wizards Return: Alex vs. Alex (2013),Adventure|Comedy|Drama,2013
-45084,164791,"Signed, Sealed, Delivered (2013)",Comedy|Drama,2013
-45132,164893,City of God – 10 Years Later (2013),Documentary,2013
-45136,164901,Heavenly Shift (2013),Comedy|Drama,2013
-45153,164937,Love Is Blind (2013),Drama|Romance,2013
-45171,164973,Love Building (2013),Comedy|Drama,2013
-45318,165297,The Twelve Trees of Christmas (2013),Children,2013
-45389,165439,Kill Buljo 2 (2013),Comedy,2013
-45449,165571,The Genius of Marie Curie: The Woman Who Lit up the World (2013),Documentary,2013
-45620,165929,Ivan Tsarevich & the Grey Wolf 2 (2013),Adventure|Animation|Children,2013
-45660,166024,Whiplash (2013),(no genres listed),2013
-45672,166050,7 Days of Himawari & Her Puppies (2013),Drama,2013
-45673,166052,Steal My Heart (2013),Comedy|Romance,2013
-45680,166068,The Crown and the Dragon (2013),Adventure|Fantasy,2013
-45704,166169,Badges of Fury (2013),Action|Comedy|Crime,2013
-45713,166187,Faro (2013),Drama|Thriller,2013
-45719,166199,Coming Home for Christmas (2013),Children,2013
-45723,166207,Systemfehler - Wenn Inge tanzt (2013),Comedy,2013
-45733,166227,Der Teufel mit den drei goldenen Haaren (2013),Children|Fantasy,2013
-45749,166265,Panzer Chocolate (2013),Horror,2013
-45876,166554,Ushi Must Marry (2013),Comedy,2013
-45886,166574,Skewered (2013),Comedy|Drama,2013
-45933,166673,Celal ile Ceren (2013),Comedy|Romance,2013
-45935,166677,Feuten: Het Feestje (2013),Comedy|Drama,2013
-45937,166685,Leather (2013),Comedy|Romance,2013
-45949,166717,Wolfskinder (2013),Drama|War,2013
-45963,166745,Vai Que Dá Certo (2013),Comedy,2013
-45974,166769,Eltern (2013),Comedy,2013
-46071,166968,Spies of Warsaw (2013),Action|Adventure|Drama,2013
-46092,167020,A Fuller Life (2013),(no genres listed),2013
-46106,167048,John Hodgman: RAGNAROK (2013),Comedy,2013
-46110,167056,Paradies 505. Ein Niederbayernkrimi (2013),Crime,2013
-46120,167076,The Olsen Gang in Deep Trouble (2013),Animation|Comedy|Crime,2013
-46144,167128,The Light of Freedom (2013),(no genres listed),2013
-46266,167406,Blood and Ties (2013),Thriller,2013
-46352,167586,Top Star (2013),Drama,2013
-46378,167642,Beyond The Edge (2013),Documentary|Drama,2013
-46388,167662,Across the River (2013),Horror|Mystery|Thriller,2013
-46396,167678,Superheroes: A Never-Ending Battle (2013),Documentary,2013
-46400,167686,Brian Posehn: The Fartist (2013),Comedy,2013
-46417,167724,My Beautiful Country (2013),Drama,2013
-46429,167748,00 Schneider - Im Wendekreis der Eidechse (2013),Comedy,2013
-46437,167766,Superman 75th Anniversary Animated Short (2013),Animation|Documentary,2013
-46470,167834,How Videogames Changed the World (2013),Documentary,2013
-46548,168004,Die goldene Gans (2013),Children|Fantasy,2013
-46553,168014,Christmas Belle (2013),Drama|Romance,2013
-46559,168026,Marvel One-Shot: Agent Carter (2013),Action|Adventure|Fantasy|Sci-Fi,2013
-46608,168128,In the Name of... (2013),Drama|Thriller,2013
-46747,168428,Twist of Faith (2013),Drama,2013
-46751,168436,The Stolen Years (2013),Romance,2013
-46808,168566,"Taşkafa, Stories of the Street (2013)",(no genres listed),2013
-46809,168568,The Film Critic (2013),Comedy|Drama,2013
-46813,168582,Human (2013),Documentary|Mystery,2013
-46816,168588,After All These Years (2013),Mystery,2013
-46848,168658,Open Road (2013),Action|Drama|Thriller,2013
-46870,168706,Who Killed Johnny (2013),Comedy,2013
-46872,168710,SAGA: Curse of the Shadow (2013),Action|Adventure|Fantasy,2013
-46894,168754,Beautiful Beast (2013),Drama|Romance,2013
-46915,168796,No Breathing (2013),Drama,2013
-46916,168798,Hope (2013),Drama,2013
-46939,168850,Enemy Empire (2013),Adventure|Fantasy|Sci-Fi|Western,2013
-46950,168874,Born Of War (2013),Action|Thriller|War,2013
-46967,168914,Leaving on the 15th Spring (2013),Drama,2013
-46990,168960,SampleThis (2013),Documentary,2013
-47008,169006,Secrets In The Snow (2013),(no genres listed),2013
-47033,169056,When Hari Got Married (2013),Documentary,2013
-47037,169064,Faith Connections (2013),Documentary|Drama,2013
-47040,169070,Traitors (2013),Drama,2013
-47041,169072,Flex Is Kings (2013),Documentary,2013
-47058,169118,Tamako in Moratorium (2013),Children|Comedy|Drama,2013
-47078,169160,The Ravine of Goodbye (2013),Drama,2013
-47090,169184,You Can't Kill Stephen King (2013),Comedy|Horror,2013
-47091,169186,Coda (2013),Animation|Drama,2013
-47102,169208,Girl in the Sunny Place (2013),Drama|Fantasy|Romance,2013
-47136,169278,Hôtel Normandy (2013),Comedy,2013
-47304,169616,Scavengers (2013),Action|Sci-Fi,2013
-47310,169628,Kristen Schaal: Live at the Fillmore (2013),Comedy,2013
-47321,169650,Micky Flanagan: Live - Back In The Game Tour (2013),Comedy,2013
-47336,169684,The Thirteenth Tale (2013),Drama,2013
-47337,169686,Eu Maior (2013),Documentary|Drama,2013
-47351,169722,The Zombie King (2013),Comedy|Horror,2013
-47356,169742,Zombie Fever (2013),Comedy|Horror,2013
-47388,169806,Shame the Devil (2013),Crime|Mystery|Thriller,2013
-47405,169840,Mato sem Cachorro (2013),Comedy,2013
-47407,169844,Şevkat Yerimdar (2013),Comedy|Romance,2013
-47422,169876,National Geographic American Blackout (2013),Drama,2013
-47446,169924,"Pete Holmes: Nice Try, the Devil! (2013)",Comedy,2013
-47490,170022,e-motion (2013),Documentary,2013
-47511,170068,Are We Ok? (2013),Comedy|Drama,2013
-47519,170115,The Strange Case of Wilhelm Reich (2013),Drama,2013
-47616,170341,Casi treinta (2013),Comedy,2013
-47622,170353,Everyone's Going to Die (2013),(no genres listed),2013
-47659,170431,Leave to Remain (2013),Drama,2013
-47705,170523,Monster Pies (2013),Drama|Romance,2013
-47708,170529,John Apple Jack (2013),Comedy|Romance,2013
-47709,170531,Triple Crossed (2013),Mystery|Thriller,2013
-47730,170575,Deadly Revenge (2013),Thriller,2013
-47789,170701,Brave Miss World (2013),Documentary,2013
-47926,170989,Horror Story (2013),Horror,2013
-47947,171033,Spongebob Squarepants 4D Attraction: The Great Jelly Rescue (2013),(no genres listed),2013
-47993,171139,Mord in Eberswalde (2013),Crime|Thriller,2013
-48035,171223,Supervention (2013),Documentary,2013
-48060,171273,Lewis Black: Old Yeller - Live at the Borgata (2013),Comedy,2013
-48082,171319,Dual (2013),Drama,2013
-48179,171521,Inseparable (2013),Drama,2013
-48271,171709,"Gahan Wilson: Born Dead, Still Weird (2013)",Documentary,2013
-48321,171811,Embassy (2013),Comedy|Sci-Fi|War,2013
-48322,171813,Buck Wild (2013),Comedy|Horror,2013
-48323,171815,Wrath of the Crows (2013),Horror|Mystery|Thriller,2013
-48324,171817,Outpost: Rise of the Spetsnaz (2013),Action|Horror|Sci-Fi,2013
-48347,171865,The Patrol (2013),Drama|War,2013
-48351,171873,Warhouse (2013),Horror|Thriller,2013
-48383,171941,Monster High: 13 Wishes (2013),Animation|Children|Fantasy,2013
-48388,171951,Monster High: Friday Night Frights (2013),Animation|Children,2013
-48394,171963,Bleeding Hearts (2013),Horror,2013
-48449,172081,All Inclusive 2 (2013),Comedy,2013
-48487,172157,Love and the City 3 (2013),Comedy,2013
-48492,172167,A Long and Happy Life (2013),Drama,2013
-48531,172245,Reverse Runner (2013),(no genres listed),2013
-48586,172355,Breakfast With Jonny Wilkinson (2013),Comedy,2013
-48622,172431,Dark World: Equilibrium (2013),Adventure|Fantasy,2013
-48627,172441,Lucky Island (2013),Adventure|Comedy,2013
-48649,172485,Paris à tout prix (2013),Comedy,2013
-48739,172665,The Game of Truth (2013),Comedy|Drama,2013
-48771,172729,Ticket to Vegas (2013),Adventure|Comedy,2013
-49005,173211,Anjelah Johnson: The Homecoming Show (2013),Comedy,2013
-49012,173225,Mohamed Dubois (2013),Comedy,2013
-49026,173257,Lenny Cooke (2013),Documentary,2013
-49034,173275,Lana Del Rey: The Greatest Story Never Told (2013),(no genres listed),2013
-49107,173433,Metalocalypse: The Doomstar Requiem (2013),Animation|Comedy|Drama,2013
-49114,173447,Intimate Parts (2013),Drama|Romance,2013
-49147,173515,Home Sweet Home (2013),Horror|Thriller,2013
-49187,173595,A Prince (almost) Charming (2013),Comedy|Romance,2013
-49197,173615,Combustion (2013),Action,2013
-49216,173653,Dumpling Brothers (2013),Comedy|Drama,2013
-49354,173929,House of Last Things (2013),Fantasy|Thriller,2013
-49395,174019,The Everyday (2013),Documentary,2013
-49565,174437,Stress Position (2013),(no genres listed),2013
-49593,174495,Live Forever as You Are Now with Alan Resnick (2013),(no genres listed),2013
-49639,174591,Aroused (2013),Documentary,2013
-49645,174603,What Men Do! (2013),Comedy,2013
-49647,174607,Six Degrees of Celebration 3 (2013),Comedy,2013
-49660,174635,Lad: A Yorkshire Story (2013),(no genres listed),2013
-49702,174721,Pecoross' Mother and Her Days (2013),Comedy|Drama,2013
-49795,174937,Puolin ja toisin (2013),Comedy,2013
-49849,175097,All the Wrong Reasons (2013),Comedy|Drama,2013
-49850,175103,House of Good and Evil (2013),Horror|Thriller,2013
-49852,175109,Prisoners of the Sun (2013),Action|Adventure|Horror|Mystery,2013
-49853,175111,Sleeping with the Fishes (2013),Comedy,2013
-49854,175115,Treading Water (2013),Comedy|Drama,2013
-49869,175149,Fool's Day (2013),Comedy|Drama,2013
-50094,175619,Extraordinary: The Stan Romanek Story (2013),Documentary,2013
-50122,175677,The Foxy Merkins (2013),Adventure|Comedy,2013
-50123,175679,My Sister's Quinceanera (2013),Drama,2013
-50124,175681,Betty and Coretta (2013),Drama,2013
-50164,175767,Persona 3 the Movie: #1 Spring of Birth (2013),Action|Animation|Drama,2013
-50204,175849,Shirley: Visions of Reality (2013),Drama,2013
-50252,175945,The Rendez-Vous of Déjà-Vu (2013),Comedy,2013
-50275,175993,Over/Under (2013),Drama,2013
-50292,176027,What a Fuck Am I Doing on This Battlefield (2013),(no genres listed),2013
-50311,176065,Polar Flight (2013),Comedy|Romance,2013
-50314,176071,Іван Сила (2013),(no genres listed),2013
-50479,176417,Before Snowfall (2013),Drama,2013
-50491,176443,Surveillance (2013),Crime|Drama|Thriller,2013
-50534,176531,Keep Smiling (2013),Comedy|Drama,2013
-50539,176543,That's Sexploitation! (2013),Documentary,2013
-50594,176663,Loving Ibiza (2013),Comedy|Romance,2013
-50615,176709,2nd Serve (2013),Comedy|Drama,2013
-50623,176725,John Caparulo: Come Inside Me (2013),(no genres listed),2013
-50626,176731,Women Who Kill (2013),Comedy,2013
-50652,176785,The Passion of Michelangelo (2013),(no genres listed),2013
-50678,176851,Escape from Polygamy (2013),Drama,2013
-50729,176963,Friend 2 (2013),Action|Crime|Drama,2013
-50734,176973,The Spy: Undercover Operation (2013),Action|Comedy,2013
-50743,176993,The Whole Gritty City (2013),Documentary,2013
-50744,176995,Abolition of property (2013),Drama,2013
-50745,176997,Video Game High School (2013),Action|Comedy|Romance|Sci-Fi,2013
-50749,177005,The Missing Scarf (2013),(no genres listed),2013
-50770,177049,Ask This of Rikyu (2013),Drama|Romance,2013
-50801,177113,Death Billiards (2013),Animation|Drama|Mystery,2013
-50827,177169,Men in the City (2013),Comedy|Romance,2013
-50959,177473,spanners (2013),Fantasy|Mystery|Sci-Fi,2013
-50960,177475,7 años de matrimonio (2013),Comedy|Romance,2013
-50978,177511,I Give You My Word (2013),Adventure|Children,2013
-50983,177525,Charm (2013),Comedy|Crime|Horror,2013
-50997,177557,Project Arbiter (2013),Action|Sci-Fi,2013
-51069,177707,The Parrot and the Swan (2013),(no genres listed),2013
-51075,177719,Dana Gould: I Know It's Wrong (2013),Comedy,2013
-51082,177735,Cinco de Mayo: La Batalla (2013),Drama|War,2013
-51098,177767,The Firefly (2013),Drama|Fantasy|Romance,2013
-51101,177773,The Price of Sugar (2013),Drama,2013
-51106,177783,Shaquille O'Neal All-Star Comedy Jam Live from Atlanta (2013),(no genres listed),2013
-51261,178101,Tam idan hatmimut (2013),Drama,2013
-51271,178123,Dabbe: Cin çarpmasi (2013),Horror,2013
-51282,178167,Citizen Autistic (2013),Documentary,2013
-51313,178343,Mary's Land (2013),Comedy|Documentary|Drama|Mystery,2013
-51351,178429,The Castle Project (2013),(no genres listed),2013
-51357,178459,Wet Behind the Ears (2013),Comedy,2013
-51368,178483,The Marchers (2013),Drama,2013
-51369,178485,Rue Mandar (2013),Comedy,2013
-51378,178503,Rendez-vous à Kiruna (2013),Drama,2013
-51382,178511,Pornopung (2013),Comedy|Drama,2013
-51393,178535,September 11: The New Pearl Harbor (2013),Documentary,2013
-51499,178763,Crosshairs (2013),Action|Drama|Thriller,2013
-51522,178811,Bastards of Young (2013),Comedy|Drama,2013
-51525,178817,Tasmanian Devils (2013),Fantasy|Horror|Sci-Fi,2013
-51594,178959,Ooga Booga (2013),Comedy|Fantasy|Horror,2013
-51610,178991,Love Eternal (2013),Drama|Mystery,2013
-51611,178993,Prevertere (2013),Drama,2013
-51718,179215,Siren (2013),Drama|Fantasy,2013
-51790,179367,The Attacks Of 26-11 (2013),Crime|Drama|War,2013
-51837,179465,Epic Java (2013),Documentary,2013
-51916,179631,The girl With the Sulfur (2013),Children|Fantasy,2013
-51936,179671,A Tale of Samurai Cooking - A True Love Story (2013),Drama,2013
-51975,179755,Blind Dates (2013),Comedy|Drama|Romance,2013
-51984,179773,Chance At Romance (2013),Comedy|Romance,2013
-52041,179895,Hats Off to Christmas! (2013),Children|Drama|Romance,2013
-52058,179929,Me late chocolate (2013),Comedy|Romance,2013
-52078,179969,Sunny (2013),(no genres listed),2013
-52103,180021,One Last Dive (2013),Horror,2013
-52120,180055,Crestfallen (2013),Drama|Thriller,2013
-52127,180071,Grazing the Sky (2013),Documentary,2013
-52150,180121,The Life-Changing Magic of Tidying Up (2013),Drama,2013
-52170,180161,Castello Cavalcanti (2013),Comedy,2013
-52178,180177,Writer's Block (2013),(no genres listed),2013
-52194,180209,Life Is Beautiful (2013),Animation|Comedy|Drama,2013
-52217,180255,She Loves Me Not (2013),Comedy|Drama|Romance,2013
-52277,180399,The Dewberry Empire (2013),(no genres listed),2013
-52308,180475,Comment j'ai détesté les maths (2013),Documentary|Mystery,2013
-52348,180577,Pandiya Naadu (2013),Action|Romance,2013
-52400,180715,Kelly + Victor (2013),Drama|Romance,2013
-52514,181023,The Great Hip Hop Hoax (2013),Comedy|Documentary,2013
-52547,181101,1982 (2013),Drama,2013
-52606,181249,Autumn Blood (2013),Drama|Thriller,2013
-52627,181295,Mysteries of the Unseen World (2013),Documentary,2013
-52632,181305,Oszukane (2013),Drama,2013
-52636,181313,Warszawa 1935 (2013),Animation|Documentary,2013
-52638,181317,Last Minute (2013),Comedy,2013
-52639,181319,Sep (2013),Action|Thriller,2013
-52641,181323,Podejrzani zakochani (2013),Comedy,2013
-52752,181563,Bambi (2013),Documentary,2013
-52778,181619,The Victoria's Secret Fashion Show 2013 (2013),Documentary,2013
-52836,181739,The Appearing (2013),Horror|Mystery|Thriller,2013
-53125,182317,All The Labor: The Story of The Gourds (2013),(no genres listed),2013
-53129,182327,The Resurrection of a Bastard (2013),Drama,2013
-53177,182429,The Painting Pool (2013),Drama,2013
-53242,182561,Clean Break (2013),Horror|Thriller,2013
-53245,182567,Requiem for a Robot (2013),Children|Comedy|Sci-Fi,2013
-53296,182685,April Apocalypse (2013),Comedy|Horror|Romance,2013
-53531,183217,Trap for Cinderella (2013),Crime|Drama|Thriller,2013
-53541,183239,Singam II (2013),Action|Comedy|Crime|Thriller,2013
-53599,183357,Bidder 70 (2013),(no genres listed),2013
-53612,183383,Fukrey (2013),(no genres listed),2013
-53665,183493,Grey City (2013),Animation|Documentary,2013
-53693,183551,Hate Crime (2013),(no genres listed),2013
-53790,183759,Just Before Losing Everything (2013),Children|Drama,2013
-53792,183765,How to Use Guys with Secret Tips (2013),Comedy|Romance,2013
-53850,183899,Speak No Evil (2013),Horror,2013
-53883,183967,Lupin the Third vs. Detective Conan: The Movie (2013),Action|Animation|Crime|Mystery,2013
-54032,184293,Noise Matters (2013),Comedy|Drama,2013
-54085,184413,The Ideal City (2013),Drama|Thriller,2013
-54111,184479,Raja Rani (2013),Comedy|Drama|Romance,2013
-54166,184589,Mis-drop (2013),Sci-Fi|Thriller,2013
-54168,184593,Star Wars Downunder (2013),Sci-Fi,2013
-54170,184597,Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation (2013),Sci-Fi,2013
-54216,184701,The Girl from the Wardrobe (2013),Comedy|Drama,2013
-54232,184735,Angelique (2013),Adventure|Romance,2013
-54247,184765,Annayum Rasoolum (2013),Drama|Romance,2013
-54257,184785,Eternal Homecoming (2013),Drama,2013
-54366,185021,Stacker (2013),Documentary,2013
-54416,185131,Rocanrol 68 (2013),Comedy,2013
-54427,185153,The Gospel of the Flesh (2013),Drama,2013
-54429,185157,Sigo siendo (2013),Documentary,2013
-54447,185193,Creating Freedom: The Lottery of Birth (2013),Documentary,2013
-54509,185323,Yozgat Blues (2013),(no genres listed),2013
-54579,185479,Stream of Love (2013),(no genres listed),2013
-54651,185649,The History of WWE: 50 Years of Sports Entertainment (2013),Documentary,2013
-54652,185651,WWE: Triple H: Thy Kingdom Come (2013),Documentary,2013
-54653,185653,WWE: The Top 25 Rivalries in Wrestling History (2013),(no genres listed),2013
-54663,185673,The Falls: Testament Of Love (2013),Drama,2013
-54670,185687,Dirty Teacher (2013),Thriller,2013
-54672,185691,Lu-To (2013),(no genres listed),2013
-54673,185693,I Love You Renato (2013),Drama|Romance,2013
-54690,185729,Tattoo (2013),Drama,2013
-54730,185819,Thirst (2013),(no genres listed),2013
-54731,185821,Winter Journey (2013),Drama|Romance,2013
-54755,185875,Shameless Propaganda (2013),Documentary,2013
-54791,185961,Airlords of Airia (2013),Sci-Fi,2013
-54839,186061,Save Your Legs! (2013),Comedy,2013
-54844,186071,Jappeloup (2013),Drama,2013
-54852,186087,Love Battles (2013),Drama,2013
-54853,186089,Thomas & Friends: King of the Railway (2013),Animation|Children,2013
-54856,186095,Paranormal Asylum: The Revenge of Typhoid Mary (2013),Horror,2013
-54857,186097,A Talking Pony!?! (2013),Children,2013
-54936,186261,Confusion Na Wa (2013),(no genres listed),2013
-54997,186389,Murder on the Home Front (2013),Crime|Mystery|Thriller,2013
-55047,186493,A Spectre is Haunting Europe (2013),Comedy|Drama,2013
-55129,186667,Neelakasham Pachakadal Chuvanna Bhoomi (2013),Romance|Thriller,2013
-55152,186715,Neram (2013),Comedy|Thriller,2013
-55153,186717,ABCD: American-Born Confused Desi (2013),Comedy,2013
-55162,186735,Oru Indian Pranayakadha (2013),Comedy|Romance,2013
-55164,186741,Immanuel (2013),Children|Drama,2013
-55165,186743,North 24 Kaatham (2013),Adventure|Children|Comedy,2013
-55167,186747,5 Sundarikal (2013),Children|Romance,2013
-55182,186777,The Greater Good - Harry Potter Fan Film (2013),Action|Adventure|Fantasy,2013
-55183,186779,For Marx... (2013),(no genres listed),2013
-55210,186833,The Shooter (2013),Crime|Drama|Mystery|Thriller,2013
-55231,186881,Butter on the Latch (2013),Drama|Fantasy|Horror,2013
-55361,187159,Helium (2013),Children|Drama,2013
-55380,187199,Devil You Know (2013),Mystery|Thriller,2013
-55382,187203,The Moment (2013),Thriller,2013
-55475,187397,The Nest (2013),Sci-Fi,2013
-55536,187527,All the President's Men Revisited (2013),Documentary,2013
-55558,187571,Nerve (2013),Drama|Mystery,2013
-55576,187607,Il principe abusivo (2013),Comedy,2013
-55633,187737,A Very Potter Senior Year (2013),Comedy,2013
-55654,187787,Carl Barron: A One Ended Stick (2013),(no genres listed),2013
-55686,187855,August Fools (2013),Comedy,2013
-55694,187871,5th Street (2013),Action|Crime,2013
-55702,187887,Biriyani (2013),Comedy|Romance|Thriller,2013
-55748,187981,Song of the Phoenix (2013),Drama,2013
-55945,188379,Kicking Off (2013),Drama|Thriller,2013
-55951,188391,Purgatorio: A Journey Into the Heart of the Border (2013),Documentary,2013
-55973,188445,My Little Sweet Pea (2013),Comedy|Drama,2013
-56012,188547,Horror Stories 2 (2013),Horror|Thriller,2013
-56090,188741,The Suspicions of Mr Whicher: The Murder in Angel Lane (2013),Drama|Mystery,2013
-56119,188801,The Manor (2013),(no genres listed),2013
-56293,189197,Revelation Road: The Beginning of the End (2013),Action|Drama|Thriller,2013
-56294,189199,Revelation Road 2: The Sea of Glass and Fire (2013),Action|Drama,2013
-56327,189267,Puppylove (2013),Drama|Romance,2013
-56331,189279,Dawn of a Filmmaker: The Keisuke Kinoshita Story (2013),Drama,2013
-56332,189281,Petal Dance (2013),Drama,2013
-56333,189283,Yellow Elephant (2013),Drama|Romance,2013
-56354,189343,Trainer! (2013),Documentary,2013
-56396,189433,Pensé que iba a haber fiesta (2013),(no genres listed),2013
-56397,189435,Vannin' (2013),Documentary,2013
-56402,189445,Con il fiato sospeso (2013),Drama,2013
-56467,189589,Rob Schneider: Soy Sauce and the Holocaust (2013),Comedy,2013
-56475,189605,American Meat (2013),Documentary,2013
-56482,189621,Growing Cities (2013),Documentary,2013
-56510,189699,Shorts (2013),Drama,2013
-56520,189721,What Girls are Silent About (2013),Comedy,2013
-56537,189773,Bunks (2013),Comedy,2013
-56565,189837,I Am Yours (2013),Drama,2013
-56566,189841,Treasures O.K. (2013),Adventure|Comedy|Romance,2013
-56598,189905,The Apology King (2013),Comedy,2013
-56599,189907,Midsummer's Equation (2013),Crime|Drama|Mystery,2013
-56650,190079,Baadshah (2013),Action|Drama|Romance,2013
-56674,190161,Likeness (2013),Drama,2013
-56736,190303,The O'Briens (2013),Children|Comedy|Drama|Romance,2013
-56822,190539,Odnoklassniki.ru: The Magic Laptop (2013),Comedy|Romance,2013
-56848,190597,Mushrooms (2013),(no genres listed),2013
-56865,190635,How Not to Make a Movie (2013),Documentary,2013
-57019,191089,41 (2013),Drama|Sci-Fi,2013
-57084,191271,Underdogs (2013),Children|Drama,2013
-57095,191295,Naayak (2013),Action|Drama,2013
-57098,191301,Iddarammayilatho (2013),Action|Comedy|Romance,2013
-57101,191307,Phata Poster Nikhla Hero (2013),Action|Comedy,2013
-57102,191309,R... Rajkumar (2013),Action|Romance,2013
-57104,191313,Balupu (2013),Action|Comedy|Romance,2013
-57106,191317,Mirchi (2013),Action|Romance,2013
-57139,191389,The Roper (2013),Documentary,2013
-57147,191405,Bombshell (2013),Drama,2013
-57188,191499,Gunde Jaari Gallanthayyinde (2013),Romance,2013
-57262,191761,The Extreme Sukiyaki (2013),Drama,2013
-57285,191809,Little World (2013),(no genres listed),2013
-57367,192019,Demon Inside (2013),Horror|Thriller,2013
-57427,192149,Rough Play (2013),Drama,2013
-57430,192155,Campus Confidential (2013),Comedy|Romance,2013
-57448,192207,The Liar and His Lover (2013),Romance,2013
-57460,192233,The Web (2013),Comedy|Drama|Romance|Sci-Fi,2013
-57485,192293,Gabriel Iglesias: Aloha Fluffy (2013),Comedy,2013
-57543,192463,Sunt o babă comunistă (2013),Comedy|Drama,2013
-57568,192515,Ramaiya Vastavaiya (2013),Action|Comedy|Romance,2013
-57596,192591,Jadoo (2013),Comedy,2013
-57598,192597,36 Saints (2013),Thriller,2013
-57602,192613,Vino Para Robar (2013),Comedy|Crime|Romance,2013
-57605,192619,20.000 kisses (2013),Comedy|Romance,2013
-57652,192763,Devil in My Ride (2013),Comedy|Horror,2013
-57655,192769,Russell Peters: Notorious (2013),Comedy,2013
-57700,192891,The Girl with Nine Wigs (2013),Comedy|Drama,2013
-57724,192959,From the Future with Love (2013),Sci-Fi,2013
-57742,193001,David Blaine: Real or Magic (2013),Documentary,2013
-57761,193043,Friends of Friends (2013),Comedy,2013
-57845,193289,The Optimists (2013),Documentary,2013
-57890,193403,A Talking Cat!?! (2013),Children|Comedy|Fantasy,2013
-57906,193457,Somewhere Else Tomorrow (2013),Documentary,2013
-57912,193469,The Happy Sad (2013),(no genres listed),2013
-57957,193567,anohana: The Flower We Saw That Day - The Movie (2013),Animation|Drama,2013
+movieId,count,title,genres,year,rating
+99007,2168,Warm Bodies (2013),Comedy|Horror|Romance,2013,3.331180811808118
+99335,13,Addicted (2013),Drama,2013,3.1923076923076925
+99721,127,Texas Chainsaw 3D (2013),Horror|Mystery|Thriller,2013,2.5866141732283463
+99728,928,Gangster Squad (2013),Action|Crime|Drama,2013,3.1761853448275863
+99787,123,"Haunted House, A (2013)",Comedy|Horror,2013,2.3495934959349594
+99813,1190,"Batman: The Dark Knight Returns, Part 2 (2013)",Action|Animation,2013,3.8046218487394956
+99910,734,"Last Stand, The (2013)",Action|Crime|Thriller,2013,3.0756130790190737
+99912,861,Mama (2013),Horror,2013,3.142857142857143
+99917,745,Upstream Color (2013),Romance|Sci-Fi|Thriller,2013,3.5946308724832217
+99957,254,Broken City (2013),Crime|Drama|Thriller,2013,2.968503937007874
+100083,557,Movie 43 (2013),Comedy,2013,2.3617594254937164
+100108,536,Parker (2013),Crime|Thriller,2013,3.1884328358208953
+100163,1289,Hansel & Gretel: Witch Hunters (2013),Action|Fantasy|Horror|IMAX,2013,2.9631497284716835
+100244,335,"East, The (2013)",Drama,2013,3.3805970149253732
+100359,82,"Haunting in Connecticut 2: Ghosts of Georgia, The (2013)",Drama|Horror|Thriller,2013,2.7621951219512195
+100383,1607,Side Effects (2013),Crime|Drama|Mystery|Thriller,2013,3.529247044181705
+100390,867,Identity Thief (2013),Comedy|Crime,2013,2.903114186851211
+100401,27,21 tapaa pilata avioliitto (2013),Comedy|Romance,2013,3.0
+100442,27,Drogówka (2013),Comedy|Crime|Drama,2013,3.2037037037037037
+100487,491,Beautiful Creatures (2013),Drama|Fantasy|Romance,2013,3.2718940936863543
+100498,1131,"Good Day to Die Hard, A (2013)",Action|Crime|Thriller|IMAX,2013,2.6021220159151195
+100507,307,21 and Over (2013),Comedy,2013,3.086319218241042
+100527,619,Safe Haven (2013),Drama|Mystery|Romance,2013,3.5791599353796446
+100611,170,Escape from Planet Earth (2013),Adventure|Animation|Comedy|Sci-Fi,2013,2.7529411764705882
+100714,1980,Before Midnight (2013),Drama|Romance,2013,3.9366161616161617
+100737,278,Snitch (2013),Action|Drama|Thriller,2013,3.091726618705036
+100745,262,TPB AFK: The Pirate Bay Away from Keyboard (2013),Documentary,2013,3.6698473282442747
+100810,387,Dark Skies (2013),Horror|Sci-Fi|Thriller,2013,3.251937984496124
+100882,99,Journey to the West: Conquering the Demons (Daai wa sai you chi Chui mo chun kei) (2013),Adventure|Comedy|Fantasy|Romance|IMAX,2013,3.6616161616161618
+101025,774,Jack the Giant Slayer (2013),Adventure|Fantasy|IMAX,2013,3.011627906976744
+101060,55,"Last Exorcism Part II, The (2013)",Horror|Thriller,2013,2.5272727272727273
+101076,964,G.I. Joe: Retaliation (2013),Action|Adventure|Sci-Fi|Thriller|IMAX,2013,2.757780082987552
+101088,768,Stoker (2013),Drama|Mystery|Thriller,2013,3.4153645833333335
+101097,65,Phantom (2013),Thriller,2013,3.1
+101106,183,Sound City (2013),Documentary,2013,3.7240437158469946
+101112,1455,Oz the Great and Powerful (2013),Action|Adventure|Fantasy|IMAX,2013,2.92233676975945
+101137,255,Dead Man Down (2013),Action|Crime|Drama|Romance|Thriller,2013,3.231372549019608
+101142,1758,"Croods, The (2013)",Adventure|Animation|Comedy,2013,3.380830489192264
+101281,148,I Give It a Year (2013),Comedy|Romance,2013,2.9628378378378377
+101283,414,"Incredible Burt Wonderstone, The (2013)",Comedy,2013,2.7729468599033815
+101285,811,Spring Breakers (2013),Comedy|Crime|Drama,2013,2.9309494451294698
+101296,130,I'm So Excited (Los amantes pasajeros) (2013),Comedy,2013,3.146153846153846
+101360,474,"Call, The (2013)",Drama|Thriller,2013,3.467299578059072
+101362,1489,Olympus Has Fallen (2013),Action|Thriller,2013,3.2179314976494293
+101379,19,InAPPropriate Comedy (2013),Comedy,2013,1.3421052631578947
+101428,14,Kill for Me (2013),Drama|Thriller,2013,2.857142857142857
+101531,50,Phil Spector (2013),Drama,2013,2.97
+101577,700,"Host, The (2013)",Action|Adventure|Romance,2013,3.1864285714285714
+101612,300,Admission (2013),Comedy|Romance,2013,2.8566666666666665
+101687,43,Blue Caprice (2013),Crime|Drama,2013,2.941860465116279
+101739,784,Evil Dead (2013),Horror,2013,3.3093112244897958
+101741,702,Trance (2013),Crime|Thriller,2013,3.3276353276353277
+101761,132,Welcome to the Punch (2013),Action|Adventure|Crime|Thriller,2013,2.893939393939394
+101864,5106,Oblivion (2013),Action|Adventure|Sci-Fi|IMAX,2013,3.6187818253035644
+101880,29,Siberian Education (Educazione siberiana) (2013),Drama,2013,3.310344827586207
+101893,152,To the Wonder (2013),Drama|Romance,2013,2.9539473684210527
+101895,615,42 (2013),Drama,2013,3.678048780487805
+101975,12,iSteve (2013),Comedy,2013,2.125
+101997,281,Scary Movie 5 (Scary MoVie) (2013),Comedy,2013,2.1441281138790034
+102033,904,Pain & Gain (2013),Action|Comedy|Crime,2013,3.0962389380530975
+102051,49,Iron Man: Rise Of Technovore (2013),Animation,2013,2.816326530612245
+102086,30,Living on One Dollar (2013),Adventure|Documentary|Drama,2013,3.6666666666666665
+102088,218,"Grandmaster, The (Yi dai zong shi) (2013)",Action|Drama|IMAX,2013,3.0756880733944953
+102123,2718,This Is the End (2013),Action|Comedy,2013,3.27336276674025
+102125,8028,Iron Man 3 (2013),Action|Sci-Fi|Thriller|IMAX,2013,3.536995515695067
+102154,84,Superman Unbound (2013),Action|Adventure|Animation,2013,3.238095238095238
+102160,135,"Numbers Station, The (2013)",Action|Thriller,2013,2.9592592592592593
+102165,44,"English Teacher, The (2013)",Comedy|Drama,2013,2.852272727272727
+102167,17,Standing Up (2013),Adventure|Children,2013,3.4705882352941178
+102278,34,Pawn (2013),Crime|Thriller,2013,2.823529411764706
+102286,47,Family Weekend (2013),Comedy|Drama,2013,3.25531914893617
+102369,20,"Arrested Development Documentary Project, The (2013)",Documentary,2013,3.725
+102378,73,Syrup (2013),Comedy|Drama,2013,3.171232876712329
+102407,4317,"Great Gatsby, The (2013)",Drama,2013,3.5143618253416724
+102445,7465,Star Trek Into Darkness (2013),Action|Adventure|Sci-Fi|IMAX,2013,3.749430676490288
+102481,1472,"Internship, The (2013)",Comedy,2013,3.119565217391304
+102660,23,Cycling with Moliere (Alceste à bicyclette) (2013),Comedy|Drama,2013,3.347826086956522
+102662,20,Company of Heroes (2013),Action|War,2013,2.4
+102684,616,Only God Forgives (2013),Drama|Thriller,2013,3.1266233766233764
+102686,1861,"Hangover Part III, The (2013)",Comedy,2013,2.9591617409994626
+102716,2034,"Fast & Furious 6 (Fast and the Furious 6, The) (2013)",Action|Crime|Thriller|IMAX,2013,3.2912979351032448
+102720,745,Epic (2013),Adventure|Animation|Fantasy,2013,3.1953020134228187
+102753,331,"Past, The (Le passé) (2013)",Drama|Mystery|Romance,2013,3.811178247734139
+102819,280,Behind the Candelabra (2013),Drama,2013,3.380357142857143
+102856,27,3096 Days (2013),Drama,2013,3.4444444444444446
+102858,15,Tavarataivas (2013),Documentary,2013,2.8333333333333335
+102880,1205,After Earth (2013),Action|Adventure|Sci-Fi|IMAX,2013,2.284232365145228
+102903,6361,Now You See Me (2013),Crime|Mystery|Thriller,2013,3.6602735418959282
+102905,171,Lovelace (2013),Drama,2013,3.134502923976608
+102978,13,Mary and Martha (2013),Drama,2013,2.8076923076923075
+102993,1377,"Way, Way Back, The (2013)",Comedy|Drama,2013,3.7483660130718954
+103042,4793,Man of Steel (2013),Action|Adventure|Fantasy|Sci-Fi|IMAX,2013,3.142812434800751
+103048,739,"Kings of Summer, The (2013)",Comedy,2013,3.6556156968876863
+103055,188,The Big Wedding (2013),Comedy,2013,2.747340425531915
+103075,1536,"Purge, The (2013)",Crime|Horror|Thriller,2013,2.96484375
+103085,70,Rapture-Palooza (2013),Comedy|Fantasy,2013,2.8785714285714286
+103107,175,20 Feet from Stardom (Twenty Feet from Stardom) (2013),Documentary,2013,3.6485714285714286
+103137,600,"Bling Ring, The (2013)",Crime|Drama,2013,2.8308333333333335
+103141,4162,Monsters University (2013),Adventure|Animation|Comedy,2013,3.526790004805382
+103150,23,Hammer of the Gods (2013),Action,2013,2.130434782608696
+103171,16,Schlussmacher (2013),Comedy,2013,2.5625
+103228,4883,Pacific Rim (2013),Action|Adventure|Sci-Fi|IMAX,2013,3.350604136801147
+103233,68,LEGO Batman: The Movie - DC Heroes Unite (2013),Action|Adventure|Animation,2013,2.9558823529411766
+103235,936,"Best Offer, The (Migliore offerta, La) (2013)",Thriller,2013,3.911324786324786
+103249,5881,World War Z (2013),Action|Drama|Horror|IMAX,2013,3.283625233803775
+103253,4926,Elysium (2013),Action|Drama|Sci-Fi|IMAX,2013,3.2687779131140884
+103255,88,Dirty Wars (2013),Documentary|War,2013,3.460227272727273
+103275,66,We Steal Secrets: The Story of WikiLeaks (2013),Documentary,2013,3.4545454545454546
+103306,831,Europa Report (2013),Sci-Fi|Thriller,2013,3.3796630565583636
+103315,275,Odd Thomas (2013),Drama|Fantasy|Mystery|Thriller,2013,3.390909090909091
+103335,4404,Despicable Me 2 (2013),Animation|Children|Comedy|IMAX,2013,3.592643051771117
+103339,1512,White House Down (2013),Action|Drama|Thriller|IMAX,2013,3.2080026455026456
+103341,3151,"World's End, The (2013)",Action|Comedy|Sci-Fi,2013,3.5330053951126628
+103366,234,Redemption (Hummingbird) (2013),Action|Crime|Thriller,2013,3.0705128205128207
+103372,1531,"Heat, The (2013)",Action|Comedy|Crime,2013,3.333115610711953
+103384,1611,"Lone Ranger, The (2013)",Action|Adventure|Western|IMAX,2013,2.9695841092489137
+103452,16,Pussy Riot: A Punk Prayer (2013),Documentary,2013,3.28125
+103474,58,How to Make Money Selling Drugs (2013),Documentary,2013,3.5172413793103448
+103483,256,V/H/S/2 (2013),Horror|Thriller,2013,3.078125
+103493,33,Gideon's Army (2013),Documentary,2013,3.757575757575758
+103506,21,Cottage Country (2013),Action|Comedy|Crime,2013,2.5476190476190474
+103539,1173,The Spectacular Now (2013),Comedy|Drama|Romance,2013,3.6210571184995737
+103543,85,"Lifeguard, The (2013)",Comedy|Drama,2013,2.635294117647059
+103572,56,Downloaded (2013),Documentary,2013,3.6964285714285716
+103574,51,Jug Face (2013),Horror,2013,2.911764705882353
+103596,400,Sharknado (2013),Sci-Fi,2013,1.8675
+103602,24,Craig Ferguson: I'm Here To Help (2013),Comedy|Documentary,2013,3.375
+103624,465,Fruitvale Station (2013),Drama,2013,3.664516129032258
+103639,94,Bhaag Milka Bhaag (2013),Drama,2013,3.824468085106383
+103641,15,D-Day (2013),Action|Thriller,2013,3.1333333333333333
+103655,754,R.I.P.D. (2013),Action|Comedy|Fantasy,2013,2.802387267904509
+103659,473,Justice League: The Flashpoint Paradox (2013),Action|Adventure|Animation|Fantasy|Sci-Fi,2013,3.7209302325581395
+103665,62,Ip Man: The Final Fight (2013),Action|Drama,2013,3.2903225806451615
+103667,50,Pawn Shop Chronicles (2013),Action|Comedy,2013,3.37
+103669,105,Killing Season (2013),Action|Thriller,2013,2.6952380952380954
+103685,96,"Field in England, A (2013)",Drama|Fantasy|Thriller|War,2013,3.15625
+103688,2580,"Conjuring, The (2013)",Horror|Thriller,2013,3.6664728682170544
+103727,257,"Colony, The (2013)",Action|Horror|Sci-Fi|Thriller,2013,2.7490272373540856
+103736,57,Scenic Route (2013),Drama|Thriller,2013,3.3508771929824563
+103751,19,Gasland Part II (2013),Documentary,2013,3.763157894736842
+103755,613,Turbo (2013),Adventure|Animation|Children|Comedy|Fantasy,2013,3.00652528548124
+103772,3024,"Wolverine, The (2013)",Action|Adventure|Fantasy|Sci-Fi,2013,3.2356150793650795
+103798,34,"Crash Reel, The (2013)",Documentary,2013,3.823529411764706
+103801,457,Drinking Buddies (2013),Comedy|Drama|Romance,2013,3.199124726477024
+103808,50,Hell Baby (2013),Comedy|Horror,2013,2.86
+103810,1659,Red 2 (2013),Action|Comedy|Crime|Thriller,2013,3.4523809523809526
+103819,45,Coffee Town (2013),Comedy,2013,3.1333333333333333
+103825,29,Vehicle 19 (2013),Thriller,2013,2.206896551724138
+103849,177,New World (Shin-sae-gye) (2013),Thriller,2013,3.751412429378531
+103867,110,Night Train To Lisbon (2013),Mystery|Romance|Thriller,2013,3.590909090909091
+103883,1021,2 Guns (2013),Action|Comedy|Crime,2013,3.3398628795298726
+103972,53,"Last Days, The (Últimos días, Los) (2013)",Adventure|Sci-Fi|Thriller,2013,3.0754716981132075
+103980,1855,Blue Jasmine (2013),Drama,2013,3.608625336927224
+103982,42,Frankenstein's Army (2013),Action|Horror|Sci-Fi,2013,2.9047619047619047
+103984,794,"Great Beauty, The (Grande Bellezza, La) (2013)",Comedy|Drama,2013,3.9269521410579347
+103996,51,"Canyons, The (2013)",Drama|Thriller,2013,1.9705882352941178
+104069,918,Louis C.K.: Oh My God (2013),Comedy,2013,3.9754901960784315
+104074,726,Percy Jackson: Sea of Monsters (2013),Adventure|Children|Fantasy,2013,2.979338842975207
+104076,176,"Smurfs 2, The (2013)",Animation|Children|Comedy,2013,2.4943181818181817
+104078,312,Alan Partridge: Alpha Papa (2013),Comedy,2013,3.5448717948717947
+104089,87,Computer Chess (2013),Comedy,2013,3.3735632183908044
+104097,40,My Little Pony: Equestria Girls (2013),Animation|Children|Fantasy,2013,3.1375
+104129,166,Man of Tai Chi (2013),Action|IMAX,2013,3.1716867469879517
+104137,126,Prince Avalanche (2013),Comedy|Drama,2013,3.2103174603174605
+104155,39,Clear History (2013),Comedy,2013,3.1538461538461537
+104177,19,From One Second to the Next (2013),Documentary,2013,3.6578947368421053
+104211,3237,We're the Millers (2013),Comedy|Crime,2013,3.4922767995057153
+104218,502,Grown Ups 2 (2013),Comedy,2013,2.5219123505976095
+104241,1992,Kick-Ass 2 (2013),Action|Comedy|Crime,2013,3.1694277108433737
+104243,2325,Riddick (2013),Action|Sci-Fi|Thriller|IMAX,2013,3.423225806451613
+104245,292,Planes (2013),Adventure|Animation|Comedy,2013,2.7705479452054793
+104272,805,Blackfish (2013),Documentary,2013,3.8310559006211182
+104274,129,Paranoia (2013),Drama|Thriller,2013,2.875968992248062
+104283,1109,"Wind Rises, The (Kaze tachinu) (2013)",Animation|Drama|Romance,2013,3.926510369702435
+104303,551,Jobs (2013),Drama,2013,3.1515426497277677
+104312,547,"Mortal Instruments: City of Bones, The (2013)",Action|Adventure|Drama|IMAX,2013,3.0941499085923216
+104321,32,Touchy Feely (2013),Drama,2013,3.046875
+104337,654,Lee Daniels' The Butler (2013),Drama,2013,3.5344036697247705
+104339,411,In a World... (2013),Comedy,2013,3.386861313868613
+104350,62,Terms and Conditions May Apply (2013),Documentary,2013,3.685483870967742
+104356,33,Museum Hours (2013),Drama,2013,3.6363636363636362
+104361,104,Ain't Them Bodies Saints (2013),Drama,2013,3.2884615384615383
+104374,4602,About Time (2013),Drama|Fantasy|Romance,2013,3.9678400695349847
+104379,66,Chennai Express (2013),Action|Adventure|Comedy,2013,2.787878787878788
+104441,272,"Frozen Ground, The (2013)",Crime|Drama|Thriller,2013,3.0753676470588234
+104518,45,Empire State (2013),Action|Drama,2013,2.8444444444444446
+104631,105,Adore (2013),Drama|Romance,2013,3.176190476190476
+104680,15,"Last of Robin Hood, The (2013)",Drama,2013,2.6666666666666665
+104712,114,Instructions Not Included (No se Aceptan Devoluciones) (2013),Comedy|Drama,2013,3.789473684210526
+104728,27,One Direction: This Is Us (2013),Documentary,2013,2.1481481481481484
+104736,111,Closed Circuit (2013),Crime|Drama|Mystery,2013,3.0585585585585586
+104760,63,Getaway (2013),Action|Crime,2013,2.111111111111111
+104762,21,"Teacher, A (2013)",Drama,2013,2.4523809523809526
+104841,11982,Gravity (2013),Action|Sci-Fi|IMAX,2013,3.632740777833417
+104863,577,What If (2013),Comedy|Drama|Romance,2013,3.5095320623916813
+104879,4809,Prisoners (2013),Drama|Mystery|Thriller,2013,3.9644416718652526
+104881,445,"Out of the Furnace (Dust to Dust) (Low Dweller, The) (2013)",Drama|Thriller,2013,3.295505617977528
+104906,181,Austenland (2013),Comedy|Romance,2013,3.2955801104972378
+104908,720,Insidious: Chapter 2 (2013),Horror|Thriller,2013,3.4493055555555556
+104913,3467,Rush (2013),Action|Drama,2013,3.869772137294491
+104923,15,This is Martin Bonner (2013),Drama,2013,3.5
+104925,540,"Family, The (2013)",Action|Comedy|Crime,2013,3.1638888888888888
+104944,1377,Short Term 12 (2013),Drama,2013,3.9854756717501814
+104975,29,Salinger (2013),Documentary,2013,3.396551724137931
+104996,18,Table No.21 (2013),Drama|Thriller,2013,2.861111111111111
+105037,290,"To Do List, The (2013)",Comedy,2013,3.0620689655172413
+105068,12,Hawking (2013),Documentary,2013,3.75
+105073,12,Officer Down (2013),Crime|Drama,2013,2.7083333333333335
+105086,18,Battle of the Year (2013),Musical,2013,2.7777777777777777
+105126,57,Afternoon Delight (2013),Comedy|Drama,2013,3.1052631578947367
+105130,27,"Notebook, The (A nagy füzet) (2013)",Drama|War,2013,3.5185185185185186
+105193,12,Bastards (Les salauds) (2013),Drama,2013,3.25
+105197,1077,Nebraska (2013),Adventure|Drama,2013,3.734447539461467
+105211,503,Enough Said (2013),Comedy|Drama|Romance,2013,3.482107355864811
+105213,1751,Don Jon (2013),Comedy|Drama|Romance,2013,3.1324957167332954
+105246,159,Mood Indigo (L'écume des jours) (2013),Drama|Fantasy,2013,3.4559748427672954
+105248,58,Metallica: Through the Never (2013),Action|Musical|IMAX,2013,3.2241379310344827
+105254,78,Crystal Fairy & the Magical Cactus and 2012 (2013),Adventure|Comedy,2013,3.1025641025641026
+105325,49,Bad Milo (Bad Milo!) (2013),Comedy|Horror,2013,2.63265306122449
+105340,40,Miracle in Cell No. 7 (2013),Comedy|Drama,2013,3.875
+105343,59,Special 26 (2013),Crime|Drama|Thriller,2013,3.7711864406779663
+105351,196,Runner Runner (2013),Crime|Drama|Thriller,2013,2.8698979591836733
+105355,1497,Blue Is the Warmest Color (La vie d'Adèle) (2013),Drama|Romance,2013,3.801937207748831
+105357,16,Tyler Perry's Temptation: Confessions of a Marriage Counselor (2013),Drama,2013,2.28125
+105375,22,"German Doctor, The (Wakolda) (2013)",Drama|Thriller,2013,3.340909090909091
+105386,149,Curse of Chucky (Child's Play 6) (2013),Horror|Thriller,2013,2.751677852348993
+105420,76,Parkland (2013),Drama,2013,3.4539473684210527
+105429,143,Inequality for All (2013),Documentary,2013,3.9160839160839163
+105453,17,On the Job (2013),Action|Drama,2013,3.3529411764705883
+105468,973,Cloudy with a Chance of Meatballs 2 (2013),Animation|Children|Comedy|Fantasy,2013,3.2569373072970196
+105504,4502,Captain Phillips (2013),Adventure|Drama|Thriller|IMAX,2013,3.8039760106619283
+105519,145,"Philosophers, The (After The Dark) (2013)",Drama|Fantasy|Sci-Fi,2013,3.3137931034482757
+105538,12,Valentine Road (2013),Documentary,2013,3.1666666666666665
+105585,443,Machete Kills (Machete 2) (2013),Action|Crime|Thriller,2013,2.9029345372460496
+105593,773,Filth (2013),Comedy|Crime|Drama,2013,3.6578266494178524
+105597,39,Romeo and Juliet (2013),Drama|Romance,2013,3.1153846153846154
+105620,26,Baggage Claim (2013),Comedy,2013,2.9423076923076925
+105622,19,Zero Charisma (2013),Comedy|Drama,2013,2.8421052631578947
+105653,1259,Escape Plan (2013),Action|Mystery|Thriller,2013,3.356235107227959
+105709,16,Brazilian Western (Faroeste Caboclo) (2013),Crime|Drama|Romance,2013,2.96875
+105731,671,Carrie (2013),Drama|Horror,2013,2.779433681073025
+105742,212,"Fifth Estate, The (2013)",Drama|Thriller,2013,3.1320754716981134
+105746,24,UnHung Hero (2013),Documentary,2013,2.4583333333333335
+105755,352,"Counselor, The (2013)",Crime|Drama|Thriller,2013,2.6761363636363638
+105769,250,"Congress, The (2013)",Animation|Sci-Fi,2013,3.378
+105778,32,One Small Hitch (2013),Comedy|Romance,2013,3.484375
+105799,61,"Unbelievers, The (2013)",Documentary,2013,3.30327868852459
+105801,85,Escape From Tomorrow (2013),Drama|Fantasy|Horror,2013,2.429411764705882
+105835,565,"Double, The (2013)",Comedy|Drama|Thriller,2013,3.4672566371681417
+105844,5104,12 Years a Slave (2013),Drama,2013,3.876959247648903
+105855,45,"Right Kind of Wrong, The (2013)",Comedy|Romance,2013,3.3444444444444446
+105863,26,Child's Pose (2013),Drama,2013,3.423076923076923
+105869,264,Kill Your Darlings (2013),Crime|Drama|Romance|Thriller,2013,3.465909090909091
+105911,35,Heart of a Lion (Leijonasydän) (2013),Drama|Romance,2013,3.4285714285714284
+105943,36,Bridegroom (2013),Documentary,2013,3.9166666666666665
+105954,561,All Is Lost (2013),Action|Adventure|Drama,2013,3.4741532976827094
+106002,3613,Ender's Game (2013),Action|Adventure|Sci-Fi|IMAX,2013,3.4046498754497647
+106011,224,"Blue Umbrella, The (2013)",Animation,2013,3.8191964285714284
+106022,251,Toy Story of Terror (2013),Animation|Children|Comedy,2013,3.402390438247012
+106030,221,"Last Days on Mars, The (2013)",Horror|Sci-Fi,2013,2.8484162895927603
+106054,14,Het Vonnis (2013),Crime|Drama,2013,3.7142857142857144
+106062,544,Jackass Presents: Bad Grandpa (2013),Comedy,2013,2.9301470588235294
+106072,4966,Thor: The Dark World (2013),Action|Adventure|Fantasy|IMAX,2013,3.3474627466774063
+106100,6584,Dallas Buyers Club (2013),Drama,2013,3.909705346294046
+106111,29,Marc Maron: Thinky Pain (2013),Comedy,2013,3.5
+106144,98,"Selfish Giant, The (2013)",Drama,2013,3.683673469387755
+106163,91,"Touch of Sin, A (Tian zhu ding) (2013)",Drama,2013,3.510989010989011
+106195,178,How I Live Now (2013),Action|Drama|Thriller,2013,3.393258426966292
+106200,60,Hours (2013),Drama|Thriller,2013,3.0083333333333333
+106204,72,Pieta (2013),Drama,2013,3.5833333333333335
+106220,75,Aziz Ansari: Buried Alive (2013),Comedy,2013,3.6666666666666665
+106240,160,Free Birds (2013),Action|Adventure|Animation|Children|Comedy|Sci-Fi,2013,2.715625
+106330,567,Last Vegas (2013),Comedy|Drama|Romance,2013,3.2548500881834217
+106332,88,Muscle Shoals (2013),Documentary,2013,3.7045454545454546
+106344,53,"Starving Games, The (2013)",Comedy,2013,2.1320754716981134
+106407,16,Seduced and Abandoned (2013),Comedy|Documentary,2013,3.3125
+106421,26,"Institute, The (2013)",Documentary,2013,3.2884615384615383
+106438,1076,Philomena (2013),Comedy|Drama,2013,3.7476765799256504
+106441,1094,"Book Thief, The (2013)",Children|Drama|War,2013,3.7317184643510055
+106443,36,"Best Man Holiday, The (2013)",Comedy|Drama,2013,3.1527777777777777
+106452,442,Ida (2013),Drama,2013,3.730769230769231
+106464,18,Aningaaq (2013),Drama,2013,3.1666666666666665
+106487,9366,The Hunger Games: Catching Fire (2013),Action|Adventure|Sci-Fi|IMAX,2013,3.526959214178945
+106489,7995,"Hobbit: The Desolation of Smaug, The (2013)",Adventure|Fantasy|IMAX,2013,3.657098186366479
+106491,960,47 Ronin (2013),Action|Adventure|Fantasy,2013,3.0536458333333334
+106508,85,"Dyatlov Pass Incident, The (Devil's Pass) (2013)",Mystery|Thriller,2013,2.988235294117647
+106540,382,Delivery Man (2013),Comedy,2013,3.0837696335078535
+106542,108,Charlie Countryman (2013),Action|Comedy|Romance,2013,3.2268518518518516
+106561,26,Krrish 3 (2013),Action|Adventure|Fantasy|Sci-Fi,2013,2.3846153846153846
+106590,22,Hansel & Gretel (2013),Horror,2013,2.4545454545454546
+106642,1294,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,2013,3.960587326120556
+106696,6987,Frozen (2013),Adventure|Animation|Comedy|Fantasy|Musical|Romance,2013,3.498640332045227
+106727,31,9 Month Stretch (9 mois ferme) (2013),Comedy,2013,3.225806451612903
+106749,77,Mr. Morgan's Last Love (2013),Comedy|Drama,2013,3.396103896103896
+106766,1637,Inside Llewyn Davis (2013),Drama,2013,3.694257788637752
+106782,14748,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama,2013,3.8691347979387034
+106785,463,Homefront (2013),Action|Crime|Thriller,2013,3.3196544276457884
+106839,98,Mandela: Long Walk to Freedom (2013),Drama,2013,3.38265306122449
+106841,473,August: Osage County (2013),Comedy|Drama,2013,3.5232558139534884
+106861,17,Violette (2013),Drama,2013,3.588235294117647
+106863,13,Concrete Night (Betoniyö) (2013),Drama,2013,3.230769230769231
+106879,26,Fright Night 2: New Blood (2013),Horror,2013,2.3461538461538463
+106881,20,Sweetwater (2013),Thriller|Western,2013,3.025
+106883,32,All is Bright (2013),Comedy|Drama,2013,2.265625
+106889,249,Tim's Vermeer (2013),Documentary,2013,3.9759036144578315
+106892,23,After Tiller (2013),Documentary,2013,3.739130434782609
+106916,4158,American Hustle (2013),Crime|Drama,2013,3.5482202982202984
+106918,3387,"Secret Life of Walter Mitty, The (2013)",Adventure|Comedy|Drama,2013,3.683643342190729
+106920,9777,Her (2013),Drama|Romance|Sci-Fi,2013,3.880280249565306
+106983,179,Young & Beautiful (2013),Drama,2013,3.61731843575419
+107000,24,"Challenger Disaster, The (2013)",Drama,2013,3.7291666666666665
+107002,16,Linsanity (2013),Documentary,2013,3.1875
+107004,17,Some Girl(s) (2013),Comedy|Drama,2013,2.764705882352941
+107017,113,Open Grave (2013),Horror|Mystery|Thriller,2013,3.3805309734513274
+107024,29,Sel8nne (2013),Documentary,2013,3.6206896551724137
+107042,30,Six by Sondheim (2013),Documentary,2013,3.683333333333333
+107052,51,"Punk Singer, The (2013)",Documentary,2013,3.4901960784313726
+107069,1427,Lone Survivor (2013),Action|Drama|Thriller|War,2013,3.6906096706377016
+107083,45,Geography Club (2013),Comedy|Drama|Romance,2013,3.3777777777777778
+107117,68,"Armstrong Lie, The (2013)",Documentary,2013,3.713235294117647
+107130,90,"Adventure in Space and Time, An (2013)",Drama,2013,3.8777777777777778
+107141,1611,Saving Mr. Banks (2013),Comedy|Drama,2013,3.644941030415891
+107196,78,Is the Man Who Is Tall Happy? (2013),Animation|Documentary,2013,3.6025641025641026
+107213,23,"Truth About Emanuel, The (2013)",Drama|Thriller,2013,3.152173913043478
+107314,339,Oldboy (2013),Action|Drama|Mystery,2013,2.8908554572271385
+107348,1660,Anchorman 2: The Legend Continues (2013),Comedy,2013,2.9487951807228914
+107352,22,Killing Lincoln (2013),Drama|War,2013,2.909090909090909
+107354,21,Good Ol' Freda (2013),Documentary,2013,3.0
+107357,18,Call Me Crazy: A Five Film (2013),Drama,2013,3.388888888888889
+107361,20,Unbeatable (Ji zhan) (2013),Action|Drama,2013,3.5
+107368,28,Sarah Silverman:  We Are Miracles (2013),Comedy,2013,3.3392857142857144
+107380,20,Mike Tyson:  Undisputed Truth (2013),Comedy,2013,3.475
+107400,19,Bonnie and Clyde (2013),Crime|Documentary|Drama,2013,3.5
+107406,4267,Snowpiercer (2013),Action|Drama|Sci-Fi,2013,3.4842981017108037
+107436,125,Haunter (2013),Horror|Mystery|Thriller,2013,3.116
+107447,55,Wrong Cops (2013),Comedy|Crime,2013,3.1818181818181817
+107462,40,Ninja: Shadow of a Tear (2013),Action|Crime|Thriller,2013,3.1125
+107541,32,As Cool As I Am (2013),Comedy|Drama,2013,3.140625
+107565,116,"Fuck You, Goethe (Fack Ju Göhte) (2013)",Comedy,2013,3.543103448275862
+107612,13,WNUF Halloween Special (2013),Comedy|Horror,2013,2.423076923076923
+107614,11,White Reindeer (2013),Comedy|Drama,2013,2.590909090909091
+107617,14,Red Obession (2013),Documentary,2013,3.0357142857142856
+107625,29,Gorko! (2013),Comedy,2013,2.8620689655172415
+107627,199,"Physician, The (2013)",Adventure|Drama,2013,3.748743718592965
+107649,125,Borgman (2013),Thriller,2013,3.62
+107675,15,Vendetta (2013),Action|Crime,2013,3.466666666666667
+107677,26,"Human Race, The (2013)",Action|Horror|Sci-Fi,2013,2.6923076923076925
+107692,11,"Hijack That Went South, The (Kaappari) (2013)",Action|Comedy|Crime,2013,2.9545454545454546
+107700,21,I Am Divine (2013),Documentary,2013,3.761904761904762
+107702,179,Grudge Match (2013),Comedy,2013,3.0502793296089385
+107704,19,Justin Bieber's Believe (2013),Documentary,2013,0.7368421052631579
+107737,38,Bounty Killer (2013),Action|Sci-Fi|Thriller,2013,3.1052631578947367
+107743,23,"Class of 92, The (2013)",Documentary,2013,3.8043478260869565
+107745,24,12 Rounds 2: Reloaded (2013),Action|Adventure|Thriller,2013,2.5416666666666665
+107756,78,A.C.O.D. (2013),Comedy,2013,2.826923076923077
+107758,11,Ass Backwards (2013),Comedy,2013,1.8181818181818181
+107771,1077,Only Lovers Left Alive (2013),Drama|Horror|Romance,2013,3.7181987000928505
+107883,352,The Lunchbox (2013),Drama|Romance,2013,3.8636363636363638
+107910,65,I Know That Voice (2013),Documentary,2013,3.623076923076923
+107949,50,"Invisible Woman, The (2013)",Drama|Romance,2013,3.17
+107951,12,Hunting Elephants (2013),Comedy|Crime,2013,3.0416666666666665
+107953,151,Dragon Ball Z: Battle of Gods (2013),Action|Animation|Fantasy|IMAX,2013,3.337748344370861
+107958,23,Foosball (Metegol) (2013),Adventure|Animation|Romance,2013,2.608695652173913
+107978,180,"Like Father, Like Son (Soshite chichi ni naru) (2013)",Drama,2013,3.936111111111111
+107980,191,"Railway Man, The (2013)",Drama,2013,3.392670157068063
+107987,46,Diana (2013),Drama|Romance,2013,2.4347826086956523
+107997,149,We Are What We Are (2013),Drama|Horror|Mystery|Thriller,2013,3.221476510067114
+108041,49,"Me, Myself and Mum (Les garçons et Guillaume, à table!) (2013)",Comedy,2013,3.4081632653061225
+108043,44,Milius (2013),Documentary,2013,3.477272727272727
+108054,62,"Geographer Drank His Globe Away, The (Geograf globus propil) (2013)",Drama,2013,3.4919354838709675
+108056,46,Pokémon Origins (2013),Adventure|Animation,2013,3.4239130434782608
+108078,122,Chinese Puzzle (Casse-tête chinois) (2013),Comedy|Romance,2013,3.610655737704918
+108085,59,+1 (2013),Sci-Fi|Thriller,2013,2.9491525423728815
+108088,12,Monica Z (2013),Drama,2013,3.1666666666666665
+108143,37,Cutie and the Boxer (2013),Documentary,2013,3.2162162162162162
+108149,14,At Berkeley (2013),Documentary,2013,3.75
+108216,25,Cargo (2013),Action|Drama|Fantasy|Horror,2013,3.64
+108220,71,"Square, The (Al Midan) (2013)",Documentary,2013,3.7464788732394365
+108318,51,"Single Shot, A (2013)",Crime|Drama|Film-Noir|Thriller,2013,2.8823529411764706
+108445,27,Concussion (2013),Drama,2013,3.574074074074074
+108488,15,Whitewash (2013),Drama,2013,3.4
+108506,25,Dark Touch (2013),Horror,2013,2.58
+108508,13,Mother of George (2013),Drama,2013,3.1538461538461537
+108514,67,Yeh Jawaani Hai Deewani (2013),Comedy|Drama|Musical|Romance,2013,3.6940298507462686
+108516,11,Visitors (2013),Documentary,2013,3.1363636363636362
+108569,14,"Monkey's Paw, The (2013)",Horror|Thriller,2013,1.9642857142857142
+108575,33,Dear Mr. Watterson (2013),Documentary,2013,3.242424242424242
+108599,60,"Banshee Chapter, The (2013)",Horror|Thriller,2013,3.0166666666666666
+108601,12,Drift (2013),Drama,2013,3.5
+108647,49,It Boy (20 ans d'écart) (2013),Comedy|Romance,2013,3.6122448979591835
+108727,1138,Nymphomaniac: Volume I (2013),Drama,2013,3.5746924428822497
+108729,1460,Enemy (2013),Mystery|Thriller,2013,3.566780821917808
+108760,82,Big Bad Wolves (2013),Crime|Thriller,2013,3.3353658536585367
+108778,84,Stranger by the Lake (L'inconnu du lac) (2013),Drama|Romance,2013,3.607142857142857
+108780,171,Labor Day (2013),Drama|Romance,2013,3.391812865497076
+108787,100,Tom at the Farm (Tom à la ferme) (2013),Drama,2013,3.47
+108825,125,"Young and Prodigious T.S. Spivet, The (L'extravagant voyage du jeune et prodigieux T.S. Spivet) (2013)",Adventure|Children|Drama,2013,3.62
+108879,82,Teen Beach Movie (2013),Children|Musical,2013,3.0304878048780486
+108899,43,Gloria (2013),Comedy|Drama,2013,3.302325581395349
+108949,158,"Art of the Steal, The (2013)",Crime,2013,3.2911392405063293
+108981,918,Nymphomaniac: Volume II (2013),Drama|Mystery,2013,3.5016339869281046
+109027,22,Eyjafjallajökull (2013),Comedy,2013,3.0681818181818183
+109042,123,Knights of Badassdom (2013),Adventure|Comedy|Fantasy,2013,2.813008130081301
+109064,13,"Trials of Muhammad Ali, The (2013)",Documentary,2013,3.3461538461538463
+109161,144,Venus in Fur (La Vénus à la fourrure) (2013),Drama,2013,3.5590277777777777
+109181,134,Adult World (2013),Comedy,2013,3.4141791044776117
+109187,547,"Zero Theorem, The (2013)",Drama|Fantasy|Sci-Fi,2013,3.2541133455210236
+109195,12,Cavemen (2013),Comedy|Romance,2013,3.0416666666666665
+109197,22,"Station, The (Blutgletscher) (2013)",Horror,2013,2.590909090909091
+109243,242,Joe (2013),Drama,2013,3.475206611570248
+109295,35,Cold Comes the Night (2013),Crime|Drama|Thriller,2013,2.7285714285714286
+109323,12,Are All Men Pedophiles (2013),Documentary,2013,3.125
+109359,15,Gerontophilia (2013),Comedy|Romance,2013,2.9
+109379,25,Life of a King (2013),Drama,2013,3.48
+109452,70,Omar (2013),Drama|Romance,2013,3.642857142857143
+109470,14,"Brats, The (Les gamins) (2013)",Comedy,2013,2.7857142857142856
+109472,94,Grand Piano (2013),Mystery|Thriller,2013,2.99468085106383
+109485,22,"Inevitable Defeat of Mister & Pete, The (2013)",Drama,2013,3.5454545454545454
+109489,23,"Amish Murder, An (2013)",Action|Crime|Drama,2013,3.0
+109576,51,Welcome to the Jungle (2013),Comedy,2013,2.4901960784313726
+109580,22,"Look of Love, The (2013)",Comedy|Drama,2013,3.159090909090909
+109607,57,In Fear (2013),Thriller,2013,2.9298245614035086
+109627,46,Mystery Road (2013),Mystery|Thriller,2013,3.5543478260869565
+109629,56,Breathe In (2013),Drama|Romance,2013,3.392857142857143
+109633,347,"Garden of Words, The (Koto no ha no niwa) (2013)",Animation|Romance,2013,3.84149855907781
+109635,19,Pandora's Promise (2013),Documentary,2013,3.526315789473684
+109687,171,Particle Fever (2013),Documentary,2013,3.7953216374269005
+109720,90,Contracted (2013),Drama|Horror|Thriller,2013,2.738888888888889
+109728,32,Kai Po Che! (2013),Drama,2013,3.296875
+109742,148,Cheap Thrills (2013),Comedy|Thriller,2013,3.4054054054054053
+109769,82,"Keeper of Lost Causes, The (Kvinden i buret) (2013)",Crime|Mystery|Thriller,2013,3.5
+109773,11,Crazy Kind of Love (2013),Comedy|Drama|Romance,2013,2.9545454545454546
+109848,1365,Under the Skin (2013),Horror|Sci-Fi|Thriller,2013,3.3135531135531138
+109887,13,"Great Passage, The (Fune wo amu) (2013)",Drama,2013,3.6923076923076925
+109895,392,Bad Words (2013),Comedy,2013,3.3354591836734695
+109945,17,Meu Passado Me Condena: O Filme (2013),Comedy|Romance,2013,2.7941176470588234
+109947,22,My Mom Is a Character (Minha Mãe é uma Peça: O Filme) (2013),Comedy,2013,3.4318181818181817
+109951,13,Daylight (Daglicht) (2013),Action|Thriller,2013,3.269230769230769
+109963,25,"French Minister, The (Quai d'Orsay) (2013)",Comedy,2013,3.56
+109965,23,Shrek the Musical (2013),Children|Comedy|Fantasy|Musical,2013,2.9347826086956523
+109968,78,Why Don't You Play In Hell? (Jigoku de naze warui) (2013),Action|Drama,2013,3.8333333333333335
+109989,12,On My Way (Elle s'en va) (2013),Comedy|Drama,2013,3.4166666666666665
+109995,39,Age of Uprising: The Legend of Michael Kohlhaas (Michael Kohlhaas) (2013),Drama,2013,3.08974358974359
+110039,113,Space Pirate Captain Harlock (2013),Animation|Sci-Fi,2013,3.234513274336283
+110104,16,Pioneer (Pionér) (2013),Thriller,2013,2.875
+110110,332,Starred Up (2013),Drama,2013,3.63855421686747
+110134,15,Belle and Sebastien (Belle et Sébastien) (2013),Adventure,2013,3.8333333333333335
+110173,15,Wolf (2013),Crime|Drama|Thriller,2013,3.2
+110194,51,Mistaken for Strangers (2013),Comedy|Documentary,2013,3.450980392156863
+110324,23,"Missing Picture, The (L'image manquante) (2013)",Documentary,2013,3.5869565217391304
+110337,38,Moebius (2013),Drama,2013,3.263157894736842
+110346,42,Blood Ties (2013),Crime|Drama|Thriller,2013,3.3095238095238093
+110348,92,Wetlands (Feuchtgebiete) (2013),Comedy|Drama,2013,3.1956521739130435
+110387,91,"Unknown Known, The (2013)",Documentary,2013,3.6153846153846154
+110407,365,"Machine, The (2013)",Sci-Fi|Thriller,2013,3.1904109589041094
+110433,24,Möbius (2013),Drama|Thriller,2013,2.8541666666666665
+110461,124,We Are the Best! (Vi är bäst!) (2013),Children|Comedy|Drama,2013,3.5443548387096775
+110484,14,When Jews Were Funny (2013),Documentary,2013,3.2142857142857144
+110503,66,Metro Manila (2013),Action|Crime|Drama,2013,3.742424242424242
+110505,14,Sparks (2013),Action|Fantasy|Mystery|Sci-Fi|Thriller,2013,2.6785714285714284
+110591,812,Oculus (2013),Horror,2013,3.4107142857142856
+110718,158,Fading Gigolo (2013),Comedy,2013,3.2025316455696204
+110746,34,Hatchet III (2013),Comedy|Horror,2013,2.6911764705882355
+110796,55,Le Week-End (2013),Comedy|Drama,2013,3.409090909090909
+110813,22,Girl on a Bicycle (2013),Comedy|Romance,2013,2.977272727272727
+110828,79,Devil's Knot (2013),Crime|Drama|Thriller,2013,2.9936708860759493
+110871,32,"Rocket, The (2013)",Drama,2013,3.453125
+110873,222,"Centenarian Who Climbed Out the Window and Vanished, The (Hundraåringen som klev ut genom fönstret och försvann) (2013)",Adventure|Comedy|Drama,2013,3.6463963963963963
+110882,1151,Locke (2013),Drama,2013,3.6268462206776717
+111050,13,"Haunting at Silver Falls, A (2013)",Horror|Thriller,2013,2.423076923076923
+111144,22,Alpha and Omega 2: A Howl-iday Adventure (Alpha & Omega 2) (2013),Action|Adventure|Animation|Children|Comedy,2013,2.522727272727273
+111235,414,Jodorowsky's Dune (2013),Documentary|Sci-Fi,2013,3.8417874396135265
+111245,57,"Case of You, A (2013)",Comedy|Romance,2013,2.93859649122807
+111249,188,Belle (2013),Drama,2013,3.675531914893617
+111251,154,"Immigrant, The (2013)",Drama|Romance,2013,3.2824675324675323
+111287,32,Magic Magic (2013),Thriller,2013,3.03125
+111290,19,Heli (2013),Crime|Drama,2013,3.736842105263158
+111377,20,Crystal Lake Memories: The Complete History of Friday the 13th (2013),Documentary|Horror,2013,3.725
+111384,776,Blue Ruin (2013),Thriller,2013,3.720360824742268
+111387,222,Palo Alto (2013),Drama,2013,3.554054054054054
+111449,16,Burton and Taylor (2013),Drama,2013,3.28125
+111551,150,Afflicted (2013),Horror|Sci-Fi|Thriller,2013,3.1966666666666668
+111553,11,Interior. Leather Bar. (2013),Drama,2013,3.3181818181818183
+111592,22,Birth of the Living Dead (2013),Documentary,2013,3.659090909090909
+111622,1293,Begin Again (2013),Comedy|Romance,2013,3.74323279195669
+111630,49,Big Ass Spider! (2013),Comedy|Sci-Fi,2013,2.816326530612245
+111647,22,12 O'Clock Boys (2013),Documentary,2013,3.3636363636363638
+111680,40,At Middleton (2013),Comedy|Romance,2013,3.35
+111732,85,"Dance of Reality, The (Danza de la realidad, La) (2013)",Drama|Fantasy,2013,3.8294117647058825
+111734,53,"Love Punch, The (2013)",Comedy,2013,2.6037735849056602
+111755,12,Mile... Mile & a Half (2013),Documentary,2013,3.5416666666666665
+111762,27,Mikra Anglia (2013),Drama|Romance,2013,3.425925925925926
+111778,201,Tracks (2013),Adventure|Drama,2013,3.788557213930348
+111800,74,G.B.F. (2013),Comedy,2013,3.2567567567567566
+111811,13,Sunlight Jr. (2013),Drama,2013,3.6153846153846154
+111813,16,Narco Cultura (2013),Documentary,2013,3.40625
+111817,26,Jimi: All Is by My Side (2013),Drama,2013,2.519230769230769
+111852,39,Generation Iron (2013),Documentary,2013,3.269230769230769
+111861,11,Battle of the Damned (2013),Action|Adventure|Horror|Sci-Fi|Thriller,2013,2.409090909090909
+111915,19,"Night in Old Mexico, A (2013)",Drama|Western,2013,2.8421052631578947
+111924,119,"Grand Seduction, The (2013)",Comedy,2013,3.5672268907563027
+111931,27,Raze (2013),Action|Horror,2013,2.611111111111111
+111993,41,Minuscule: Valley of the Lost Ants (Minuscule - La vallée des fourmis perdues) (2013),Adventure|Animation|Children,2013,3.2439024390243905
+112062,13,Camille Claudel 1915 (2013),Drama,2013,3.423076923076923
+112085,30,Goodbye World (2013),Comedy|Drama,2013,3.0833333333333335
+112087,293,Frequencies (2013),Mystery|Romance|Sci-Fi,2013,3.614334470989761
+112091,102,Anna (2013),Drama|Thriller,2013,3.5392156862745097
+112165,52,Human Capital (Il capitale umano) (2013),Drama,2013,3.673076923076923
+112177,11,Lord of Tears (2013),Drama|Horror,2013,2.5454545454545454
+112245,39,"Dirties, The (2013)",Drama,2013,3.6794871794871793
+112277,46,Haunt (2013),Horror|Mystery,2013,2.652173913043478
+112293,34,"Trials of Cate McCall, The (2013)",Crime|Drama,2013,3.176470588235294
+112381,36,Metalhead (Málmhaus) (2013),Drama,2013,3.5833333333333335
+112399,180,Finding Vivian Maier (2013),Documentary,2013,3.811111111111111
+112434,24,In Bloom (Grzeli nateli dgeebi) (2013),Drama,2013,3.5625
+112446,15,The Escape Artist (2013),Drama|Thriller,2013,3.533333333333333
+112454,14,Honey (Miele) (2013),Drama,2013,3.607142857142857
+112469,19,Elaine Stritch: Shoot Me (2013),Documentary|Musical,2013,2.9210526315789473
+112495,28,Let the Fire Burn (2013),Documentary,2013,3.75
+112689,39,Miss Violence (2013),Drama|Mystery,2013,3.6025641025641026
+112735,12,Charlie's Country (2013),Drama,2013,3.8333333333333335
+112753,14,Torment (2013),Horror|Thriller,2013,2.392857142857143
+112850,44,Words and Pictures (2013),Comedy|Drama|Romance,2013,3.5454545454545454
+112866,26,"Strange Color Of Your Body's Tears, The (L'étrange couleur des larmes de ton corps) (2013)",Mystery|Thriller,2013,3.1346153846153846
+112895,77,Willow Creek (2013),Horror|Mystery,2013,2.6103896103896105
+112905,19,Goliyon Ki Raasleela Ram-Leela (2013),Drama|Romance,2013,2.973684210526316
+112925,11,Hide Your Smiling Faces (2013),Drama,2013,3.4545454545454546
+112929,28,Paradise: Hope (Paradies: Hoffnung) (2013),Drama,2013,3.5892857142857144
+112974,20,C.O.G. (2013),Comedy|Drama,2013,3.125
+113001,16,Family United (La gran familia española) (2013),Comedy,2013,3.21875
+113035,30,"Bachelor Weekend, The (2013)",Comedy|Drama,2013,3.3833333333333333
+113099,16,8-Ball (8-pallo) (2013),Crime|Drama,2013,3.3125
+113186,35,Felony (2013),Thriller,2013,3.2142857142857144
+113214,20,1 (2013),Documentary,2013,3.875
+113216,43,"Suspect, The (Yong-eui-ja) (2013)",Action|Thriller,2013,3.255813953488372
+113300,18,R100 (2013),Comedy|Drama,2013,3.138888888888889
+113313,71,"Den, The (2013)",Horror|Thriller,2013,3.119718309859155
+113350,42,I'll Follow You Down (2013),Drama|Mystery|Sci-Fi,2013,2.9761904761904763
+113394,59,"Pretty One, The (2013)",Comedy|Drama,2013,3.2288135593220337
+113459,14,Paradise (2013),Comedy|Drama,2013,2.642857142857143
+113565,129,"Sacrament, The (2013)",Horror|Thriller,2013,3.2364341085271318
+113582,32,How to Be a Man (2013),Comedy,2013,3.28125
+113642,115,Night Moves (2013),Drama|Thriller,2013,3.143478260869565
+113674,33,Proxy (2013),Drama|Horror|Thriller,2013,2.712121212121212
+113715,85,Lights Out (2013),Horror|Thriller,2013,3.6470588235294117
+113741,1549,Coherence (2013),Drama|Mystery|Sci-Fi|Thriller,2013,3.858618463524855
+113751,18,"Birder's Guide to Everything, A (2013)",Comedy,2013,3.3333333333333335
+113775,92,Life of Crime (2013),Comedy|Crime,2013,2.885869565217391
+113853,16,Antisocial (2013),Horror|Sci-Fi|Thriller,2013,2.40625
+114042,94,Third Person (2013),Drama|Romance,2013,2.898936170212766
+114248,34,"Galapagos Affair: Satan Came to Eden, The (2013)",Crime|Documentary|Mystery,2013,3.1911764705882355
+114273,17,Bethlehem (2013),Drama|Thriller|War,2013,3.5294117647058822
+114378,52,CBGB (2013),Drama,2013,3.4615384615384617
+114497,36,Wer (2013),Horror|Mystery|Thriller,2013,3.125
+114554,445,"Tale of Princess Kaguya, The (Kaguyahime no monogatari) (2013)",Animation|Drama|Fantasy,2013,3.932584269662921
+114563,25,Gore Vidal: The United States of Amnesia (2013),Documentary,2013,3.48
+114680,42,Rigor Mortis (Geung si) (2013),Action|Drama|Horror,2013,3.0952380952380953
+114852,11,As I Lay Dying (2013),Drama,2013,3.272727272727273
+114856,22,"Adventurer: The Curse of the Midas Box, The (2013)",Adventure|Fantasy,2013,2.9545454545454546
+114933,24,Ilo Ilo (2013),Drama,2013,3.6875
+114945,61,Jack and the Cuckoo-Clock Heart (Jack et la mécanique du coeur) (2013),Adventure|Animation|Drama|Fantasy|Musical|Romance,2013,3.1721311475409837
+114980,12,Grace Unplugged (2013),Drama|Musical,2013,3.6666666666666665
+115065,29,Justin and the Knights of Valour (2013),Adventure|Animation,2013,2.5
+115574,12,Child of God (2013),Crime|Drama|Thriller,2013,3.0416666666666665
+115669,28,Young Detective Dee: Rise of the Sea Dragon (Di Renjie: Shen du long wang) (2013),Action|Adventure|Drama|Fantasy|Mystery|IMAX,2013,3.4642857142857144
+115711,21,TINY: A Story About Living Small (2013),Documentary,2013,3.2857142857142856
+115777,24,Beneath (2013),Horror,2013,2.7291666666666665
+115819,40,Mr Hublot (2013),Animation|Comedy,2013,3.125
+115921,25,Dead in Tombstone (2013),Action|Fantasy|Horror,2013,2.46
+115951,17,Stranded (2013),Horror|Sci-Fi,2013,1.9705882352941178
+115969,69,Generation War (2013),Drama|War,2013,3.9420289855072466
+116002,32,History of the Eagles (2013),Documentary,2013,3.828125
+116128,16,Compulsion (2013),Drama|Thriller,2013,2.75
+116155,36,Still Life (2013),Drama,2013,3.6527777777777777
+116191,57,Wolf Creek 2 (2013),Horror|Thriller,2013,2.991228070175439
+116207,34,Zulu (2013),Crime|Drama|Thriller,2013,3.3970588235294117
+116213,27,Walking With Dinosaurs (2013),Adventure|Animation|Children,2013,2.9444444444444446
+116317,22,Crush (2013),Thriller,2013,2.9318181818181817
+116411,160,Tangerines (2013),Drama,2013,3.9
+116453,35,Hateship Loveship (2013),Drama,2013,3.085714285714286
+116465,28,In Secret (2013),Crime|Drama|Romance|Thriller,2013,2.9285714285714284
+116483,17,Hawaii (2013),Romance,2013,3.9411764705882355
+116491,19,The Noble Family (2013),Comedy,2013,3.789473684210526
+116493,36,The Returned (2013),Drama|Horror|Thriller,2013,3.138888888888889
+116529,49,Stalingrad (2013),Action|Drama|War|IMAX,2013,2.704081632653061
+116660,98,Free Fall (2013),Drama,2013,3.770408163265306
+116770,19,Last Passenger (2013),Action|Mystery|Thriller,2013,2.8421052631578947
+116859,45,Remember Sunday (2013),Drama|Romance,2013,3.6666666666666665
+116861,18,The Gilded Cage (2013),Comedy,2013,3.5
+116905,151,Patema Inverted (2013),Adventure|Animation|Drama|Fantasy|Sci-Fi,2013,3.8112582781456954
+116943,33,Thesis on a Homicide (2013),Crime|Mystery|Thriller,2013,3.1666666666666665
+116951,139,Bo Burnham: what. (2013),Comedy,2013,4.014388489208633
+116957,24,The Reunion (2013),Drama,2013,3.6041666666666665
+117136,32,One Chance (2013),Comedy|Drama,2013,3.75
+117146,24,Lucky Them (2013),Drama,2013,3.1875
+117192,394,Doctor Who: The Time of the Doctor (2013),Adventure|Drama,2013,3.9581218274111674
+117310,33,Aashiqui 2 (2013),Drama|Musical|Romance,2013,3.4696969696969697
+117314,13,Neurons to Nirvana (2013),Documentary,2013,3.8846153846153846
+117344,29,Ragnarok (2013),Action|Adventure,2013,3.0344827586206895
+117488,19,A Promise (2013),Drama|Romance,2013,3.026315789473684
+117498,12,Fandry (2013),Children|Drama,2013,3.0416666666666665
+117582,13,I Travel Alone (2013),Drama,2013,3.6538461538461537
+117714,14,Enemies Closer (2013),Action|Thriller,2013,3.107142857142857
+117726,22,Russell Brand: Messiah Complex (2013),Comedy,2013,3.3863636363636362
+117838,14,Lucia (2013),Drama|Romance|Sci-Fi|Thriller,2013,3.7857142857142856
+117897,16,Kink (2013),Documentary,2013,2.8125
+118252,40,All Cheerleaders Die (2013),Comedy|Horror|Thriller,2013,2.9125
+118260,37,The Borderlands (2013),Horror|Mystery,2013,3.0675675675675675
+118328,18,The Protector 2 (2013),Action,2013,3.0277777777777777
+118338,69,Hard to Be a God (2013),Sci-Fi,2013,3.181159420289855
+118466,84,"Kingdom of Dreams and Madness, The (2013)",Animation|Documentary,2013,3.738095238095238
+118686,15,The Face of Love (2013),Drama|Romance,2013,3.3333333333333335
+118862,24,Closer to the Moon (2013),Comedy|Drama,2013,3.2708333333333335
+118876,19,Khumba (2013),Adventure|Animation|Children,2013,2.8684210526315788
+118922,38,Mr. Jones (2013),Drama|Horror|Thriller,2013,2.526315789473684
+119169,14,Special ID (2013),Action|Crime|Drama,2013,2.5714285714285716
+119224,29,Tyler Perry's A Madea Christmas (2013),Comedy|Drama,2013,2.793103448275862
+119651,18,Lemon Tree Passage (2013),Horror|Mystery|Thriller,2013,2.4722222222222223
+119672,24,7th Floor (2013),Mystery|Thriller,2013,3.2291666666666665
+119677,14,Heatstroke (2013),Thriller,2013,2.9285714285714284
+119954,11,Force of Execution (2013),Action|Crime,2013,1.9545454545454546
+120278,18,Another Me (2013),Mystery|Thriller,2013,2.7777777777777777
+120294,16,It Felt Like Love (2013),Drama,2013,2.6875
+120311,37,Drishyam (2013),Children|Drama|Thriller,2013,3.9864864864864864
+120574,24,Gimme Shelter (2013),Drama,2013,3.5416666666666665
+120845,14,Penthouse North (2013),Drama|Mystery|Thriller,2013,2.857142857142857
+121115,38,Tarzan (2013),Adventure|Animation|Children|Drama,2013,2.276315789473684
+121135,43,Nurse 3D (2013),Horror|Thriller,2013,2.3488372093023258
+121143,32,Flu (2013),Action|Drama|Sci-Fi,2013,3.53125
+121155,50,Kevin Hart: Let Me Explain (2013),Comedy|Documentary,2013,3.4
+121182,14,Peeples (2013),Comedy|Romance,2013,2.857142857142857
+121196,15,Nothing Left to Fear (2013),Horror,2013,2.3666666666666667
+121227,41,Supermensch: The Legend of Shep Gordon (2013),Documentary,2013,3.658536585365854
+121302,21,Someone's Gaze (2013),Animation,2013,3.8095238095238093
+121314,30,The Berlin File (2013),Action|Drama|Thriller,2013,3.35
+121316,14,The Attorney (2013),Drama,2013,3.857142857142857
+121366,41,Get a Horse! (2013),Animation|Children|Comedy,2013,3.1341463414634148
+121382,14,Jack the Giant Killer (2013),Action|Fantasy,2013,2.8214285714285716
+121485,14,Reaching for the Moon (2013),Drama|Romance,2013,3.607142857142857
+121787,17,Shadow People (2013),Horror|Thriller,2013,2.0
+122041,21,Trust Me (2013),Comedy|Drama,2013,2.9761904761904763
+122527,12,Super Buddies (2013),Children,2013,2.25
+122569,21,Non-Stop (2013),Drama|Mystery|Thriller,2013,3.119047619047619
+122940,86,Clear History (2013),Comedy,2013,3.1569767441860463
+122946,14,The Gamers: Hands of Fate (2013),Comedy|Fantasy|Romance,2013,3.5357142857142856
+123121,16,Jealousy (2013),Drama,2013,3.5
+123499,13,The Hunters (2013),Adventure,2013,2.3846153846153846
+123589,33,The Major (2013),Action|Crime|Drama,2013,3.696969696969697
+124869,12,Jay And Silent Bob's Super Groovy Cartoon Movie (2013),(no genres listed),2013,2.6666666666666665
+125077,15,Eddie Izzard: Force Majeure Live (2013),Comedy,2013,3.7333333333333334
+125628,11,Citizen Koch (2013),Documentary,2013,3.6363636363636362
+125786,13,Burning Blue (2013),Drama|Romance|War,2013,3.269230769230769
+125912,22,Not Another Happy Ending (2013),Comedy|Drama|Romance,2013,3.0681818181818183
+126803,13,Finsterworld (2013),Drama,2013,3.5384615384615383
+126919,28,Of Horses and Men (2013),Comedy|Drama|Romance,2013,3.7142857142857144
+127021,42,Rewind This! (2013),Documentary,2013,3.4404761904761907
+127724,24,The Retrieval (2013),Drama|Western,2013,3.4583333333333335
+127879,12,Adjust Your Tracking (2013),Documentary,2013,3.6666666666666665
+128097,12,Jim Norton: American Degenerate (2013),Comedy,2013,3.7083333333333335
+128318,11,Charlie Victor Romeo (2013),Documentary|Drama|Thriller,2013,3.0
+128510,21,Attila Marcel (2013),Comedy|Drama,2013,3.761904761904762
+128626,20,The Golden Dream (2013),Drama,2013,3.775
+128812,17,Drew: The Man Behind the Poster (2013),Documentary,2013,3.411764705882353
+128898,18,Life's a Breeze (2013),Comedy|Drama,2013,2.9444444444444446
+128912,39,Mike Birbiglia: My Girlfriend's Boyfriend (2013),Comedy,2013,3.641025641025641
+129009,15,"Getting Go, the Go Doc Project (2013)",Drama,2013,3.8333333333333335
+129340,12,"Norte, the End of History (2013)",Drama,2013,3.75
+129350,15,Hansel & Gretel Get Baked (2013),Comedy|Horror,2013,2.4
+129437,28,Ugly (2013),Mystery|Thriller,2013,3.732142857142857
+129644,14,Jimi Hendrix: Hear My Train A Comin' (2013),Documentary,2013,3.5
+129779,129,Ghost in the Shell Arise - Border 1: Ghost Pain (2013),Action|Animation|Sci-Fi,2013,3.693798449612403
+129788,30,Raanjhanaa (2013),Drama|Romance,2013,3.5833333333333335
+129935,13,Gimme the Loot (2013),Drama,2013,3.6538461538461537
+129958,12,Our Vinyl Weighs a Ton: This Is Stones Throw Records (2013),Documentary,2013,3.7916666666666665
+130290,13,Hotel (2013),Drama,2013,3.3461538461538463
+130442,31,Patrick (2013),Horror|Sci-Fi|Thriller,2013,2.1774193548387095
+130444,30,Ruby Red (2013),Adventure|Children|Fantasy|Sci-Fi,2013,3.183333333333333
+130510,85,Berserk: The Golden Age Arc 3 - Descent (2013),Action|Animation|Fantasy,2013,3.9
+130580,40,The Disappearance of Eleanor Rigby: Her (2013),Drama,2013,3.6
+130582,48,The Disappearance of Eleanor Rigby: Him (2013),Drama|Romance,2013,3.4895833333333335
+130976,75,Legend No. 17 (2013),Drama,2013,3.8866666666666667
+131192,12,App (2013),Thriller,2013,2.2083333333333335
+131502,18,A Wolf at the Door (2013),Drama|Thriller,2013,3.5
+131751,13,Cheatin' (2013),Animation,2013,3.3846153846153846
+131834,20,The Sound of Music Live (2013),Children|Drama,2013,2.45
+131980,13,"Guten Tag, Ramón (2013)",Drama,2013,4.1923076923076925
+132058,22,Viva la libertà (2013),Drama,2013,3.5
+132146,46,The Harvest (2013),Drama|Thriller,2013,2.9565217391304346
+132352,14,Spiders (2013),Horror|Sci-Fi|Thriller,2013,1.9285714285714286
+132432,11,Five Dances (2013),Drama|Romance,2013,3.1363636363636362
+132468,21,Ship of Theseus (2013),Drama,2013,3.4523809523809526
+132472,35,Antarctica: A Year On Ice (2013),Adventure|Documentary,2013,3.6
+132486,11,The Liberator (2013),Drama,2013,3.227272727272727
+132592,11,GMO OMG (2013),Children|Documentary,2013,2.772727272727273
+132888,93,Comedy Central Roast of James Franco (2013),Comedy,2013,3.4946236559139785
+133153,25,Barbie in the Pink Shoes (2013),Animation|Children,2013,2.62
+133159,25,Barbie: Mariposa and The Fairy Princess (2013),Animation|Children|Fantasy,2013,2.78
+133171,13,Barbie & Her Sisters in A Pony Tale (2013),Animation|Children,2013,2.3846153846153846
+133205,48,Doug Stanhope: Beer Hall Putsch (2013),Comedy,2013,3.6458333333333335
+133367,14,LFO (2013),Drama|Sci-Fi,2013,3.5357142857142856
+133437,17,Class Enemy (2013),Drama,2013,3.8823529411764706
+133581,12,Bad Hair (2013),Drama,2013,2.5833333333333335
+134378,30,Living Is Easy With Eyes Closed (2013),Comedy|Drama,2013,3.7333333333333334
+134575,29,The Mafia Only Kills in Summer (2013),Comedy|Crime|Romance,2013,2.9827586206896552
+134861,32,Trevor Noah: African American (2013),(no genres listed),2013,3.390625
+134945,46,Police Story 2013 (2013),Action|Crime|Drama|Thriller,2013,3.152173913043478
+135127,55,Metro (2013),Action|Thriller,2013,3.290909090909091
+135204,21,Madras Cafe (2013),Thriller,2013,3.5238095238095237
+135242,12,On the Way to School (2013),Documentary,2013,3.25
+135502,66,The Boy and the World (2013),Animation,2013,3.8106060606060606
+135619,12,Easy Money 3 (2013),Crime|Drama|Thriller,2013,3.4583333333333335
+135693,37,Iliza Shlesinger: War Paint (2013),Comedy,2013,3.0135135135135136
+135765,25,Vishwaroopam (2013),Action|Crime|Thriller,2013,2.72
+135823,46,Dhoom 3 (2013),Action|Crime|Thriller,2013,2.6956521739130435
+135839,11,Shahid (2013),Drama,2013,3.5454545454545454
+135889,46,The House at the End of Time (2013),Horror,2013,3.032608695652174
+135989,14,The Complex (2013),Horror,2013,2.7142857142857144
+136221,15,Hansel & Gretel: Warriors of Witchcraft (2013),Horror|Thriller,2013,2.3
+136229,11,Sanitarium (2013),Horror|Thriller,2013,2.590909090909091
+136251,22,Scooby-Doo! Stage Fright (2013),Adventure|Animation|Children,2013,3.25
+136576,13,Green Street Hooligans: Underground (2013),Action|Drama,2013,3.0
+136618,18,Pokémon the Movie: Genesect and the Legend Awakened (2013),Action|Adventure|Animation|Children|Fantasy|Sci-Fi,2013,2.2777777777777777
+138154,14,Stalled (2013),Comedy|Horror,2013,2.5
+138402,12,Welcome Mr. President! (2013),Comedy,2013,3.125
+139108,25,Elway To Marino (2013),Documentary,2013,3.86
+139134,11,Soodhu Kavvum (2013),Comedy|Thriller,2013,3.6818181818181817
+139213,12,If I Had Wings (2013),Drama,2013,3.875
+139731,14,Djinn (2013),Horror,2013,2.5
+139803,14,Marina (2013),Drama|Romance,2013,3.4642857142857144
+139859,87,Ghost in the Shell Arise - Border 2: Ghost Whispers (2013),Action|Animation|Sci-Fi|Thriller,2013,3.5344827586206895
+140196,19,Monster High: Scaris City of Frights (2013),Animation|Fantasy,2013,3.0526315789473686
+140365,16,Short Peace (2013),Animation,2013,3.4375
+140709,26,Death Comes to Pemberley (2013),Drama|Mystery|Romance,2013,3.25
+141139,32,The Terror Live (2013),Action|Crime|Thriller,2013,3.5
+141418,25,Sexy Evil Genius (2013),Comedy|Drama|Mystery|Thriller,2013,3.22
+141495,12,HK: Forbidden Super Hero (2013),Action|Comedy,2013,3.0833333333333335
+141670,13,Shield of Straw (2013),Thriller,2013,3.3076923076923075
+142056,13,Iron Man & Hulk: Heroes United (2013),Action|Adventure|Animation,2013,2.8076923076923075
+142150,14,Vamp U (2013),Action|Comedy|Horror,2013,2.107142857142857
+142450,64,Puella Magi Madoka Magica the Movie Part III: Rebellion (2013),Animation|Fantasy|Mystery|Thriller,2013,3.7734375
+142677,21,Lootera (2013),Drama|Romance,2013,3.5714285714285716
+142843,37,Little Witch Academia (2013),Action|Animation|Comedy|Fantasy,2013,3.418918918918919
+143506,18,Sword Art Online Extra Edition (2013),Action|Adventure|Animation|Drama|Fantasy,2013,3.3333333333333335
+143653,15,Kokowaah 2 (2013),Comedy,2013,3.4
+143898,12,Saint Young Men (2013),Animation|Comedy,2013,3.75
+144066,21,Blood Punch (2013),Horror|Thriller,2013,3.5476190476190474
+144222,19,Bros Before Hos (2013),Comedy,2013,2.736842105263158
+144228,12,ABE (2013),Sci-Fi|Thriller,2013,2.8333333333333335
+144302,21,Commitment (2013),Action|Drama|Thriller,2013,3.6666666666666665
+144352,27,Unforgiven (2013),Action|Crime|Drama,2013,3.3518518518518516
+144354,12,The Wrath Of Vajra (2013),Action|Fantasy|Horror,2013,2.9166666666666665
+144370,12,The White Storm (2013),Action|Crime|Drama|Mystery,2013,3.2916666666666665
+144374,17,Psychometry (2013),Mystery,2013,3.1176470588235294
+144376,11,11:00 AM (2013),Fantasy|Sci-Fi,2013,2.727272727272727
+144398,20,Hwayi: A Monster Boy (2013),Action|Thriller,2013,3.825
+144408,14,Firestorm (2013),Action|Crime,2013,3.0357142857142856
+144424,17,Straight A's (2013),Comedy|Drama,2013,2.7941176470588234
+144516,16,The Brain Man (2013),Mystery,2013,3.375
+144524,24,Montage (2013),Crime|Mystery|Thriller,2013,3.6458333333333335
+144532,33,Cold Eyes (2013),Action|Crime,2013,3.772727272727273
+144544,11,Platinum Data (2013),Drama|Mystery,2013,2.8636363636363638
+144546,11,Run-ning-maen (2013),Action|Comedy|Thriller,2013,3.4545454545454546
+144568,14,Killer Toon (2013),Horror|Thriller,2013,3.2142857142857144
+144580,28,"Secretly, Greatly (2013)",Action|Comedy|Drama,2013,3.4107142857142856
+144612,14,Blind Detective (2013),Comedy|Crime|Drama,2013,3.2857142857142856
+144934,16,Go Goa Gone (2013),Comedy|Horror,2013,3.28125
+145132,12,The Butterfly's Dream (2013),Drama,2013,3.6666666666666665
+145468,18,All Hallows' Eve (2013),Horror,2013,2.0833333333333335
+147010,17,Thou Gild'st the Even (2013),Drama|Fantasy|Romance,2013,3.8529411764705883
+147252,19,The Untold History of the United States (2013),Documentary,2013,3.6315789473684212
+147260,29,Ku! Kin-dza-dza (2013),Animation|Comedy|Sci-Fi,2013,3.1206896551724137
+147781,12,Plush (2013),Thriller,2013,3.2083333333333335
+147833,19,Anthony Jeselnik: Caligula (2013),Comedy,2013,3.789473684210526
+147911,30,The Smile Man (2013),Comedy|Drama,2013,3.65
+147942,18,Room 8 (2013),(no genres listed),2013,3.75
+148426,21,Fateful Findings (2013),Drama|Fantasy|Thriller,2013,2.3095238095238093
+148430,14,Naked as We Came (2013),(no genres listed),2013,3.2857142857142856
+150896,11,Walesa: Man of Hope (2013),Drama,2013,2.409090909090909
+151357,19,The Bible (2013),Drama,2013,3.210526315789474
+151577,13,ABCD (Any Body Can Dance) (2013),Drama|Romance,2013,2.8461538461538463
+151587,13,The Staircase II: The Last Chance (2013),Documentary,2013,3.6923076923076925
+152165,11,The Makeover (2013),Comedy,2013,3.0454545454545454
+152238,18,God Loves Uganda (2013),Documentary,2013,3.5833333333333335
+152613,13,Serial Teachers (2013),Comedy,2013,3.0384615384615383
+153530,11,The Frankenstein Theory (2013),Horror|Sci-Fi,2013,2.6363636363636362
+154348,20,Jolly LLB (2013),Comedy|Drama,2013,3.4
+156787,20,Jimmy Carr: Laughing and Joking (2013),Comedy,2013,3.875
+157132,20,Madly Madagascar (2013),Animation|Children|Comedy,2013,2.6
+157164,11,The Priest's Children (2013),Comedy|Drama,2013,3.272727272727273
+157278,22,The Sixties (2013),(no genres listed),2013,4.159090909090909
+160590,20,Survive and Advance (2013),(no genres listed),2013,4.075
+162982,42,Steins;Gate the Movie: The Burden of Déjà vu (2013),Animation|Drama|Sci-Fi,2013,3.7023809523809526
+163809,377,Over the Garden Wall (2013),Adventure|Animation|Drama,2013,4.244031830238727
+164893,11,City of God – 10 Years Later (2013),Documentary,2013,3.272727272727273
+165929,11,Ivan Tsarevich & the Grey Wolf 2 (2013),Adventure|Animation|Children,2013,2.909090909090909
+166024,594,Whiplash (2013),(no genres listed),2013,4.202861952861953
+167678,14,Superheroes: A Never-Ending Battle (2013),Documentary,2013,4.071428571428571
+167766,16,Superman 75th Anniversary Animated Short (2013),Animation|Documentary,2013,3.5625
+168026,50,Marvel One-Shot: Agent Carter (2013),Action|Adventure|Fantasy|Sci-Fi,2013,3.53
+172665,11,The Game of Truth (2013),Comedy|Drama,2013,3.4545454545454546
+174607,12,Six Degrees of Celebration 3 (2013),Comedy,2013,2.7916666666666665
+180161,17,Castello Cavalcanti (2013),Comedy,2013,3.5
