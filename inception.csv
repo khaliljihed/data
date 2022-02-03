@@ -1,4 +1,4 @@
-movieId,timestamp,zeroEtoile,uneEtoile,deuxEtoile,toisEtoile,quatreEtoile,cingEtoile
+movieId,timestamp,zeroEtoile,uneEtoile,deuxEtoile,troisEtoile,quatreEtoile,cinqEtoile
 79132,2010,5.0,4.0,84.0,147.0,1700.0,891.0
 79132,2011,17.0,20.0,141.0,192.0,2022.0,888.0
 79132,2012,18.0,12.0,118.0,156.0,1483.0,635.0
