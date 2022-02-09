@@ -1,0 +1,658 @@
+{
+	"1": [
+		1,
+		"C1N3",
+		"Propose un programme {…} précédent encadré. De plus, ajoute une - des fonctionnalité(s) non demandées, pertinentes et valides. ",
+		"Proposer un programme fonctionnel qui répond au cahier des charges demandé, qui comprend des ajouts de  fonctionnalités par rapport au travail de TD précédent encadré. ",
+		"Répond partiellement aux points obligatoires du cahier des charges et /ou propose un programme non fonctionnel. ",
+		"Sur les seconds rendus dans chaque AF. "
+	],
+	"2": [
+		1,
+		"C1I3",
+		"Montre des améliorations au delà des demandes, prend des initiatives (ex : recherches en autonomie) pour apporter des solutions inédites.",
+		"Prise en compte des retours donnés par les enseignants (commentaires Moddle, notes intermédiaires …) entre le premier et le deuxième rendu de chaque AF. ",
+		"Pas de prise en compte des retours donnés par les enseignants entre le premier et le deuxième rendu de chaque AF. ",
+		"Observation entre les rendus dans chaque AF. Rq : Les enseignants ont des points définis - critères sur lesquels ils font des retours. "
+	],
+	"3": [
+		2,
+		"C1N3",
+		"Propose un programme {…} précédent encadré. De plus, ajoute une - des fonctionnalité(s) non demandées, pertinentes et valides. ",
+		"Proposer un programme fonctionnel qui répond au cahier des charges demandé, qui comprend des ajouts de  fonctionnalités par rapport au travail de TD précédent encadré. ",
+		"Répond partiellement aux points obligatoires du cahier des charges et /ou propose un programme non fonctionnel. ",
+		"Sur les seconds rendus dans chaque AF. "
+	],
+	"4": [
+		2,
+		"C1I3",
+		"Montre des améliorations au delà des demandes, prend des initiatives (ex : recherches en autonomie) pour apporter des solutions inédites.",
+		"Prise en compte des retours donnés par les enseignants (commentaires Moddle, notes intermédiaires …) entre le premier et le deuxième rendu de chaque AF. ",
+		"Pas de prise en compte des retours donnés par les enseignants entre le premier et le deuxième rendu de chaque AF. ",
+		"Observation entre les rendus dans chaque AF. Rq : Les enseignants ont des points définis - critères sur lesquels ils font des retours. "
+	],
+	"5": [
+		3,
+		"C1N3",
+		"Propose une application qui satisfait les fonctionnalités minimales requises, et ajoute des fonctionnalités supplémentaires pertinentes. ",
+		"Propose une application qui satisfait les fonctionnalités minimales requises.",
+		"Propose une application qui satisfait partiellement les fonctionnalités minimales requises.",
+		"Présentation"
+	],
+	"6": [
+		3,
+		"C2N1",
+		"Propose un modèle de données plus complexe pour répondre à des objectifs non imposés.",
+		"Implémente correctement une relation n-n avec trois tables dans une base de données.",
+		"N'implémente pas la relation n-n dans la base de données.",
+		"Présentation"
+	],
+	"7": [
+		3,
+		"C2N3",
+		"Propose une interface ergonomique, exploitable en l'état, avec des messages d'erreur pertinents en cas de saisie incorrecte.",
+		"Propose une IHM adaptée, fonctionnelle et robuste vis-à-vis des interactions utilisateur (saisie aléatoire, ordre des interactions, …), mais perfectible.",
+		"Propose une IHM qui provoque des erreurs lorsque les informations ne sont pas entrées dans un ordre particulier et/ou ne correspondent pas au type/format attendu.",
+		"Présentation"
+	],
+	"8": [
+		3,
+		"C2I2",
+		"Propose une évaluation rigoureuse en élargissant de manière pertinente la grille fournie.",
+		"Evalue exhaustivement et objectivement l'application tierce au regard de la grille fournie.",
+		"Evalue partiellement/superficiellement et/ou de manière subjective.",
+		"Recette"
+	],
+	"9": [
+		4,
+		"C1N3",
+		"Propose une application qui satisfait les fonctionnalités minimales requises, et ajoute des fonctionnalités supplémentaires pertinentes. ",
+		"Propose une application qui satisfait les fonctionnalités minimales requises.",
+		"Propose une application qui satisfait partiellement les fonctionnalités minimales requises.",
+		"Présentation"
+	],
+	"10": [
+		4,
+		"C2N1",
+		"Propose un modèle de données plus complexe pour répondre à des objectifs non imposés.",
+		"Implémente correctement une relation n-n avec trois tables dans une base de données.",
+		"N'implémente pas la relation n-n dans la base de données.",
+		"Présentation"
+	],
+	"11": [
+		4,
+		"C2N3",
+		"Propose une interface ergonomique, exploitable en l'état, avec des messages d'erreur pertinents en cas de saisie incorrecte.",
+		"Propose une IHM adaptée, fonctionnelle et robuste vis-à-vis des interactions utilisateur (saisie aléatoire, ordre des interactions, …), mais perfectible.",
+		"Propose une IHM qui provoque des erreurs lorsque les informations ne sont pas entrées dans un ordre particulier et/ou ne correspondent pas au type/format attendu.",
+		"Présentation"
+	],
+	"12": [
+		4,
+		"C2I2",
+		"Propose une évaluation rigoureuse en élargissant de manière pertinente la grille fournie.",
+		"Evalue exhaustivement et objectivement l'application tierce au regard de la grille fournie.",
+		"Evalue partiellement/superficiellement et/ou de manière subjective.",
+		"Recette"
+	],
+	"13": [
+		5,
+		"C2N3",
+		"Tient compte […] et identifie les limites et difficultés du projet imaginé.",
+		"Tient compte de la complexité des différents contextes (environnementaux, humains …) et de leur évolution dans la conception de son projet.",
+		"N'identifie pas suffisamment les interactions du projet avec l'environnement (au sens large) ou se focalise sur un seul aspect.",
+		null
+	],
+	"14": [
+		5,
+		"C4N3",
+		"Estime l'intérêt, la pertinence de son apport au regard de l'existant, voire d'autres projets. ",
+		"Propose une contextualisation précise du projet \"Ville du futur\" avec une part notable de créativité.",
+		"Ne propose pas une analyse personnelle et approfondie de l'organisation \"Ville du futur\".",
+		null
+	],
+	"15": [
+		5,
+		"C5N2",
+		"Maîtrise les différents aspects du projet, notamment lors des échanges après la présentation.",
+		"Contribue indidviduellement à la dynamique et à la réflexion de l'équipe pour que la présentation finale soit le fruit d'un travail transversal. ",
+		"Se cantone à un aspect de la réflexion, à une partie limitée du projet. ",
+		null
+	],
+	"16": [
+		6,
+		"C2N1",
+		"Montre de la cohérence dans leurs raisonnements.\nRemet en cause les modélisations et leurs hypothèses en les confrontant aux mesures expérimentales.\nFait preuve d'une capacité de synthèse dans l'exploitation des résultats.",
+		"Montre de la cohérence dans leurs raisonnements.\nRemet en cause les modélisations et leurs hypothèses en les confrontant aux mesures expérimentales.",
+		"Prise de recul insuffisante, les raisonnements sont partiels et les hypothèses principales non justifiées.",
+		"Evaluée à la lecture du rapport"
+	],
+	"17": [
+		6,
+		"C4N2",
+		"Travaille en groupe en structurant la répartition des tâches,\nTire profit du travail de chacun en analysant l'ensemble des résultats obtenus.\nLes délais sont respectés grâce à une bonne dynamique de groupe,\nla synergie est excellente.",
+		"Travaille en groupe en structurant la répartition des tâches,\nTire profit du travail de chacun en analysant l'ensemble des résultats obtenus.",
+		"Ne travaille pas ensemble au sein du groupe, trop peu d'interactions,\nTémoigne de peu d'intérêt.",
+		"Evaluée pendant le TP"
+	],
+	"18": [
+		6,
+		"C2I2",
+		"Questionne les résultats par une analyse rigoureuse, confronte les résultats obtenus pour chacune des méthodes utilisées.\nIdentifie les limites de chaque méthode.",
+		"Questionne les résultats par une analyse rigoureuse, confronte les résultats obtenus pour chacune des méthodes utilisées.",
+		"N'interroge pas les résultats,\nmanque de sens critique,\nmanque de curiosité.",
+		"Evaluée à la lecture du rapport"
+	],
+	"19": [
+		6,
+		"C3N3",
+		"Fait preuve de précision et de concision dans la rédaction du compte-rendu.\nPropose une mise en forme rigoureuse et soignée.",
+		"Fait preuve de précision et de concision dans la rédaction du compte-rendu.",
+		"Manque de précision,\nexplications vagues,\nmanque de synthèse.\nRédige un rapport avec une mise en forme inadaptée.\n",
+		"Evaluée à la lecture du rapport"
+	],
+	"20": [
+		7,
+		"C2I2",
+		"Améliore le modèle pour obtenir des résultats de meilleure qualité (par exemple affine le maillage, étudie les sensibilités, …).",
+		"Compare le résultat obtenu aux ordres de grandeurs attendus pour valider la cohérence du modèle.",
+		"Considère comme acquis, sans analyse critique, le résultat brut issu de la simulation.",
+		null
+	],
+	"21": [
+		7,
+		"C5N3",
+		"Saisit des opportunités pour approfondir le sujet.\nRéalise des études complémentaires pertinentes.",
+		"S'approprie la démarche proposée et la met en œuvre dans le temps imparti.",
+		"Ne réalise pas l'intégralité des actions attendues par manque de temps et/ou d'organisation.\nManque de vision globale sur l'étude proposée.",
+		null
+	],
+	"22": [
+		8,
+		"C2I2",
+		"S'organise pour mettre en œuvre la méthode d'analyse en déclinant un plan d'étude détaillé et synthétique.",
+		"S'organise pour mettre en œuvre la méthode d'analyse en déclinant un plan d'étude.",
+		"Déroule la méthode d'analyse sans la planifier au préalable.",
+		null
+	],
+	"23": [
+		8,
+		"C2N3",
+		"Identifie les hypothèses […],\net propose une stratégie de résolution adaptée si besoin.",
+		"Identifie les hypothèses qui pourraient engendrer l'absence de solution.\n",
+		"Ne vérifie pas rigoureusement les hypothèses pour analyser le risque d'absence de solution au problème.",
+		null
+	],
+	"24": [
+		9,
+		"C2N2",
+		"Précise les limites de la méthode employée puis propose éventuellement une méthode alternative.",
+		"Identifie et adapte une méthode vue précédemment dans un contexte nouveau.",
+		"Ne parvient pas à adapter les méthodes vues au préalable au problème posé.",
+		null
+	],
+	"25": [
+		9,
+		"C4N2",
+		"Co-construit une solution en s'appuyant sur les idées de chacun.",
+		"Met en œuvre des échanges, favorise l'expression de chacun.",
+		"Ne réalise pas un travail de groupe.",
+		null
+	],
+	"26": [
+		10,
+		"C2N1",
+		"Modélise les interactions entre les variables aléatoires en donnant l'équation de la quantité d'intérêt.",
+		"Identifie les interactions entre les variables aléatoires et la quantité d'intérêt.",
+		"Ne trouve pas les relations entre les variables aléatoires et la quantitié d'intérêt.",
+		"Mini-soutenance"
+	],
+	"27": [
+		10,
+		"C2N2",
+		"Propose un code Matlab vectorialisé qui résoud le problème (formalisé par l'élève) par la méthode de Monté Carlo.",
+		"Propose un code Matlab qui résoud le problème (formalisé par l'élève) par la méthode de Monté Carlo.",
+		"Propose un code Matlab qui ne met pas en œuvre la méthode de Monté Carlo ou qui ne s'exécute pas.",
+		"Mini-soutenance"
+	],
+	"28": [
+		11,
+		"C2N2",
+		"Propose un code Matlab vectorialisé qui résoud le problème (formalisé par l'élève) par la méthode de Monté Carlo.",
+		"Propose un code Matlab qui résoud le problème (formalisé par l'élève) par la méthode de Monté Carlo.",
+		"Propose un code Matlab qui ne met pas en œuvre la méthode de Monté Carlo ou qui ne s'exécute pas.",
+		"Mini-soutenance"
+	],
+	"29": [
+		12,
+		"C1I1",
+		"Utilise les idées émises par leurs collègues pour imaginer d'autres idées, issus d'autres contextes (sort du contexte de départ pour générer des idées et les adapte au contexte donné). \nApplique la méthode proposée de manière rigoureuse et pertinente pour proposer une solution particulièrement innovante (innovation de rupture).",
+		"Contribue à une bonne dynamique de groupe qui vise à générer  \nun grand nombre d'idées sans évaluer leur pertinence en phase de divergence.\nApplique la méthode proposée de manière rigoureuse et propose une solution argumentée et approfondie.",
+		"Propose un processus qui ne représente pas la diversité (solutions trop proches …).\nLe groupe se limite aux premières idées émises.\nS'appuye insuffisament sur la méthode proposée et/ou propose une solution superficielle.",
+		"Durant la phase d'exploration et à la lecture des canevas\n(groupe de 4)\npar les IM"
+	],
+	"30": [
+		12,
+		"C3N3",
+		"Propose une prestation […] avec une posture constructive s'appuyant sur le collectif. \nConvainct le jury (vainqueur univers partenaire).",
+		"Propose une prestation, structurée, argumentée, en respectant le temps imparti … \nS'implique avec conviction pour convaincre le jury.",
+		"Propose une prestation, non structurée, non argumentée, hors délai ... \nManque d'implication et d'engagement lors de la prestation.",
+		"Phase de restitution lors du pitch 2\n(équipe de 12)\npar le jury 2"
+	],
+	"31": [
+		12,
+		"C1N3",
+		"Propose une solution dont les caractéristiques et spécificités sont pertinentes et détaillées,\n les quantifie avec des ordres de grandeurs raisonnables. Au moins trois des quatre aspects développés lors des ateliers sont pertinemment integrés à la réflexion.",
+		"Propose une solution dont les caractéristiques et spécificités majeures ont été identifiées et quantifiées. Au moins trois des quatre aspects développés lors des ateliers sont integrés à la réflexion.",
+		"Propose une solution dont la caractérisation est insuffisamment quantifiée. Très peu d'aspects développés dans les ateliers sont intégrés à la réflexion.",
+		"Phase d'approfondissement sur la base des livrables\n(équipe de 12)\npar les IM"
+	],
+	"32": [
+		13,
+		"C1N2",
+		"A bien préparé son entretien,\nfait preuve d'écoute active,\nexprime son point de vue et rebondit au cours des échanges pour engager le débat.",
+		"A bien préparé son entretien,\net fait preuve d'écoute active (reformule, demande des précisions, s'intéresse au sujet, montre de la curiosité, …)",
+		"Formule une liste de questions prédéfinies sans interaction avec son interlocuteur\net/ou n'a pas suffisamment préparé son entretien.",
+		"Evaluée par l'ingénieur après l'échange (dans la fiche)"
+	],
+	"33": [
+		13,
+		"C4N2",
+		"Participe […],\n analyse et intègre des points de vue différents pour nourrir le débat.",
+		"Participe activement à la discussion en s'exprimant à plusieurs reprises.",
+		"Ne s'exprime qu'à la demande de l'animateur.",
+		"Lors de la séance de restitution"
+	],
+	"34": [
+		13,
+		"C4N3",
+		"Propose une analyse […],\nidentifie leur positionnement […],\nfait évoluer son propre positionnement et se projette vis-à-vis de ces enjeux.",
+		"Propose une analyse cohérente et critique des parcours des ingénieurs interrogés,\nidentifie leur positionnement sur les enjeux éthiques et responsables au sein de leurs organisations. ",
+		"Résume les réponses aux entretiens sans apporter une analyse critique.",
+		"A la lecture du rapport"
+	],
+	"35": [
+		13,
+		"C3N3",
+		"Produit un rapport bien construit et argumenté, respectant le cahier des charges.",
+		"Produit un rapport respectant le cahier des charges.",
+		"Produit un rapport non conforme au cahier des charges.",
+		"A la lecture du rapport"
+	],
+	"36": [
+		13,
+		"C5N3",
+		"Interroge des ingénieurs aux profils complémentaires et pertinents […],\nenvisage les entretiens effectués dans une perspective de construction d'un réseau professionnel.",
+		"Interroge des ingénieurs aux profils complémentaires et pertinents au regard de la construction de son projet professionnel.",
+		"Interroge des ingénieurs dont les profils sont trop proches et/ou ne respectent pas les attendus.",
+		"A la lecture du rapport et lors de la séance de restitution"
+	],
+	"37": [
+		14,
+		"C3N1",
+		"excellente proposition (exp : organisation intelligente/originale qui permet d’atteindre des objectifs ambitieux ou complexes) – Correspondrait en notation classique à 16-20",
+		"Proposition médiocre qui donne des inquiétudes quant à la compréhension des enjeux ou la capacité à atteindre les objectifs - Correspondrait en notation classique à 08-12",
+		"Travail insuffisant, recommandations et alertes non prises en compte",
+		"RVP 1"
+	],
+	"38": [
+		14,
+		"C1N2",
+		"Reformule pour s'assurer d'avoir bien compris, fait preuve de conviction / sait aussi se remettre en question.",
+		"Est à l'écoute des critiques et argumente son point de vue, sa réponse, ses choix, …",
+		"S'entête sur une position non étayée, manque d'esprit critique.",
+		"RVP 2"
+	],
+	"39": [
+		14,
+		"C2N1",
+		"Propose/confronte plusieurs modèles, identifie des critères de hiérarchisation.",
+		"Propose/maîtrise un modèle idoine.",
+		"Ne maîtrise pas les hypothèses et les domaines de validité.",
+		"RVP 2"
+	],
+	"40": [
+		14,
+		"C3N2",
+		"Hiérarchise les actions correctives et identifie les bons interlocuteurs.",
+		"Amende l'organisation prévue en fonction des aléas rencontrés.",
+		"N'identifie pas les dysfonctionnements nécessitant des actions correctives, et ne les anticipe pas.",
+		"RVP 2"
+	],
+	"41": [
+		14,
+		"C5N3",
+		"Interagit régulièrement de façon proactive avec tous les interlocuteurs pour faciliter la mise à disposition des ressources.",
+		"Interagit régulièrement avec le commanditaire pour valider l'adéquation avec les attentes.",
+		"Interagit insuffisamment ou pas du tout avec le commanditaire",
+		"RVP 2"
+	],
+	"42": [
+		14,
+		"C1N1",
+		"Réalise une bibliographie pertinente avec des références trouvées eu autonomie.",
+		"Réalise une bibliographie qui aborde tous les aspects du problème, il réalise une synthèse de la bibliographie recommandée.",
+		"Réalise une bibliographie avec un nombre insuffisant de références ou une variété trop faible ou inadaptée sur le fond.",
+		"Soutenance"
+	],
+	"43": [
+		14,
+		"C1N3",
+		"Propose un prototype qui fonctionne et/ou un business plan cohérent/étayé. Est capable d'identifier la chaîne de conception et ses points d'amélioration.",
+		"Propose un prototype qui fonctionne et/ou un business plan cohérent/étayé.",
+		"Propose un prototype ou un business plan sans s'appuyer sur une démarche d'ingénieur, ou absence de résultat.",
+		"Soutenance"
+	],
+	"44": [
+		14,
+		"C3N3",
+		"Identifie un fil conducteur à son discours, capte l'attention.",
+		"Propose une structuration/argumentation claire et une mise en évidence des résultats importants.",
+		"Manque de prise de recul et expose de manière trop chronologique, résultats peu identifiables.",
+		"Soutenance"
+	],
+	"45": [
+		14,
+		"C5N1",
+		"A appliqué sa démarche de manière adaptative-agile en sollicitant des ressources pertinentes pour garantir la robustesse du plan d'action.",
+		"A mis en oeuvre son plan d'action de façon efficace en s'appuyant sur les compétences et en tenant compte des contraintes identifiées.",
+		"Manque d'initiative personnelle, définit un plan d'action sans ambition.",
+		"Soutenance"
+	],
+	"46": [
+		14,
+		"C4N3",
+		"Identifie de façon collégiale les opportunités de progrès.",
+		"Adresse correctement les différents critères : synergie, efficience, efficacité, pertinence, flexibilité.",
+		"Refuse la discussion, les échanges, fait preuve de mauvaise foi.",
+		"Rextex"
+	],
+	"47": [
+		15,
+		"C4I2",
+		"Dans un contexte défavorable, il maintient la cohésion du groupe par une communication adaptée et pertinente, contualisée par rapport à l'adversaire.\nDans un contexte favorable, il contribue à l'amélioration des performances.",
+		"Dans un contexte favorable, il maintient un niveau d'exigence quels que soient le score et l'adversité.",
+		"Se relâche par son attitude et sa communication, fait des choix inadaptés par un manque de recul (subit les événements).",
+		"En compétition"
+	],
+	"48": [
+		15,
+		"C5I3",
+		"S'adapte vite à l'évolution du rapport de force, adapte le plan de jeu aux événements du match.",
+		"Permet et facilite la mise en œuvre du plan de jeu défini en amont. Redonne régulièrement les bases de la stratégie.",
+		"Réagit avec trop d'émotivité au cours du match.",
+		"En compétition"
+	],
+	"49": [
+		15,
+		"C5I2",
+		"Propose des situations pertinentes à l'entrainement pour travailler des gestes/techniques transposables en match.",
+		"Propose des activités adaptées mais insuffisamment contextualisées pour être partagées par le groupe.",
+		"Ne contextualise pas les activités proposées à l'entrainement et/ou les activités ne sont pas adaptées au niveau.",
+		"À l’entraînement"
+	],
+	"50": [
+		16,
+		"C4N1",
+		"Propose une analyse réflexive au regard de ses forces et ses faiblesses. ",
+		"Propose une analyse qui lui permet de s'adapter à la situation.",
+		"Propose une analyse faussée du fait d'une estime de soi inadaptée à la situation.",
+		null
+	],
+	"51": [
+		16,
+		"C4N2",
+		"Si l'évaluation du tuteur entreprise est très satisfaisante et argumentée.",
+		"Si l'évaluation du tuteur entreprise est satisfaisante, ou si certaines critiques s'expliquent par un contexte particulier.",
+		"Si l'évaluation du tuteur entreprise est négative sans explication pouvant la justifier.",
+		null
+	],
+	"52": [
+		16,
+		"C4N3",
+		"Approfondit l'analyse en expliquant de manière convaincante les modes d'organisation de l'entreprise.",
+		"Mène une analyse strucuturée de l'organisation de l'entreprise.",
+		"Mène une description superficielle sans questionnement.",
+		null
+	],
+	"53": [
+		17,
+		"C2I3",
+		"Identifie la complexité […], et identifie également les leviers d'action à sa disposition pour améliorer l'efficience et la pérennité du système..",
+		"Identifie la complexité des interactions, les contextulalise et se trouve en mesure de les expliciter clairement.",
+		"Se focalise sur une optimisation locale, ne réfléchit pas au niveau du système.",
+		"Observation lors du dernier TD : synthèse.  "
+	],
+	"54": [
+		17,
+		"C5N2",
+		"Propose une argumentation socio-technique qui emporte la conviction du groupe pour un rendu conforme voire supérieur aux attentes.",
+		"Coopère à la réflexion collective et s'implique dans le résultat obtenu.",
+		"Ne s'implique pas au sein du collectif, et se déresponsabilise du résultat.",
+		" Test possible en 2021-2022 (étude de cas sur crise des Subprimes)"
+	],
+	"55": [
+		18,
+		"C2I3",
+		"Identifie la complexité […], et identifie également les leviers d'action à sa disposition pour améliorer l'efficience et la pérennité du système..",
+		"Identifie la complexité des interactions, les contextulalise et se trouve en mesure de les expliciter clairement.",
+		"Se focalise sur une optimisation locale, ne réfléchit pas au niveau du système.",
+		"Sur toutes les séances de TD"
+	],
+	"56": [
+		18,
+		"C5N2",
+		"Propose une argumentation socio-technique qui emporte la conviction du groupe pour un rendu conforme voire supérieur aux attentes.",
+		"Coopère à la réflexion collective et s'implique dans le résultat obtenu.",
+		"Ne s'implique pas au sein du collectif, et se déresponsabilise du résultat.",
+		"Sur toutes les séances de TD"
+	],
+	"57": [
+		19,
+		"C2I2",
+		"Propose une évolution de la méthode pour améliorer le résultat,\nou adapte la méthode à un autre contexte ou une autre application.",
+		"Questionne la méthode et identifie les limites de celle-ci.",
+		"Ne questionne pas la méthode au regard du résultat obtenu.",
+		"Traitement du signal et électronique"
+	],
+	"58": [
+		19,
+		"C2N3",
+		"S'approprie la globalité […],\nMaîtrise les interactions entre les différentes parties du problème.",
+		"S'approprie la globalité du problème,\npropose une solution globale répondant à toutes les parties du problème, prend du recul.",
+		"Propose des solutions partielles au problème global.",
+		"Traitement du signal (et peut-être électronique)"
+	],
+	"59": [
+		20,
+		"C2N1",
+		"Prévoit-anticipe avec une analyse temporelle fine le comportement du système à partir d'un état initial donné en identifiant les interactions entre les composants.\nJuge le résultat obtenu au regard des cas d'utilisation.",
+		"Prévoit-anticipe le comportement du système à partir d'un état initial donné en identifiant les interactions entre les composants.",
+		"Observe le comportement du système sans analyser les causes\net/ou n'obtient pas le comportement attendu.",
+		"TP de 4h\n(pendant le TP)\nQuestion sur le BUS"
+	],
+	"60": [
+		20,
+		"C2N2",
+		"Propose une évolution de l'architecture,\npuis propose un programme adapté en s'appuyant sur le formalisme imposé.",
+		"Propose un programme adapté en s'appuyant sur le formalisme imposé,\nidentifie les limites de l'architecture imposée.",
+		"Propose un programme incomplet et/ou non fonctionnel,\nn'identifie pas les limites de l'architecture.",
+		"TP de 2h\n(pendant le TP)"
+	],
+	"61": [
+		20,
+		"C2N3",
+		"Identifie le rôle de chaque composant et analyse le déroulement temporel de l'exécution de chaque instruction,\npuis optimise le nombre des instructions.",
+		"Identifie le rôle de chaque composant et analyse le déroulement temporel de l'exécution de chaque instruction.",
+		"Comprend partiellement le rôle des composants et/ou ne traduit pas le fonctionnement attendu en séquence d'instructions.",
+		"TP de 2h\n(pendant le TP)"
+	],
+	"62": [
+		21,
+		"C2N2",
+		"Comprend la méthode de résolution imposée et l'implémente efficacement.\nIdentifie l'influence du choix des paramètres.",
+		"Comprend la méthode de résolution imposée et l'implémente correctement avec de bons paramètres.",
+		"Montre des difficultés à comprendre et implémenter la méthode.",
+		"Pendant le TP de 4h"
+	],
+	"63": [
+		21,
+		"C2I2",
+		"Propose une évolution de la méthode pour améliorer le résultat.",
+		"Questionne la méthode et identifie les limites de celle-ci.",
+		"Ne questionne pas la méthode au regard du résultat obtenu.",
+		"Pendant le TP de 4h"
+	],
+	"64": [
+		21,
+		"C3N3",
+		"Réalise un exposé […].\nReplace la problématique dans un contexte global et propose des ouvertures pertinents.",
+		"Réalise un exposé scientifiquement juste et synthétique en hiérarchisant les informations à communiquer.",
+		"Manque de justesse scientifique,\nne prend pas de recul,\npropose un exposé sans fil conducteur clair.",
+		"Pendant le BE de 2h"
+	],
+	"65": [
+		21,
+		"C5N2",
+		"Echange sur les résultats obtenus pour définir un fil conducteur,\npuis se répartisse le travail collégialement.\nMontre une bonne dynamique de groupe pendant l'exposé.",
+		"Echange sur les résultats obtenus pour définir un fil conducteur,\npuis se répartisse le travail collégialement.",
+		"Propose un exposé dont le déroulement ne suit pas un fil conducteur global.\nPrise de parole déséquilibrée lors de l'exposé.",
+		"Pendant le BE de 2h"
+	],
+	"66": [
+		22,
+		"C2N2",
+		"Analyse les caractéristiques […],\net justifie ses choix par une formulation des caractéristiques et des hypothèses nécessaires.",
+		"Analyse les caractéristiques des composants pour dimensionner le circuit en fonction des contraintes imposées.",
+		"Dimensionne le circuit sans prendre en compte les caractéristiques de celui-ci.",
+		"Durant le TP"
+	],
+	"67": [
+		22,
+		"C2N3",
+		"Analyse les mesures […],\net identifie les causes du bruit.",
+		"Analyse les mesures et met en évidence le comportement attendu malgré la présence de bruit.",
+		"Ne retrouve pas le comportement attendu à partir de l'exploitation des mesures.",
+		"Durant le TP"
+	],
+	"68": [
+		22,
+		"C2N1",
+		"Propose un modèle […],\net justifie les caractéristiques numériques de celui-ci.",
+		"Propose un modèle de comportement du circuit à partir de l'analyse des mesures.",
+		"Observe partiellement les mesures et propose un modèle de comportement inadapté.",
+		"Durant le TP puis à la lecture du CR"
+	],
+	"69": [
+		22,
+		"C3N3",
+		"Synthétise et justifie rigoureusement les résultats obtenus pour répondre à la problématique soulevée avec un vocabulaire adapté et précis.",
+		"Synthétise les résultats obtenus pour répondre à la problématique soulevée avec un vocabulaire adapté.",
+		"Répond partiellement à la problématique par manque de précision et/ou de rigueur.",
+		"A la lecture du CR"
+	],
+	"70": [
+		23,
+		"C2I2",
+		"Propose une évolution de la méthode pour améliorer le résultat,\nou adapte la méthode à un autre contexte ou une autre application.",
+		"Questionne la méthode et identifie les limites de celle-ci.",
+		"Ne questionne pas la méthode au regard du résultat obtenu.",
+		"Traitement du signal et électronique"
+	],
+	"71": [
+		23,
+		"C2N3",
+		"S'approprie la globalité […],\nMaîtrise les interactions entre les différentes parties du problème.",
+		"S'approprie la globalité du problème,\npropose une solution globale répondant à toutes les parties du problème, prend du recul.",
+		"Propose des solutions partielles au problème global.",
+		"Traitement du signal (et peut-être électronique)"
+	],
+	"72": [
+		24,
+		"C2N1",
+		"Prévoit-anticipe avec une analyse temporelle fine le comportement du système à partir d'un état initial donné en identifiant les interactions entre les composants.\nJuge le résultat obtenu au regard des cas d'utilisation.",
+		"Prévoit-anticipe le comportement du système à partir d'un état initial donné en identifiant les interactions entre les composants.",
+		"Observe le comportement du système sans analyser les causes\net/ou n'obtient pas le comportement attendu.",
+		"TP de 4h\n(pendant le TP)\nQuestion sur le BUS"
+	],
+	"73": [
+		24,
+		"C2N2",
+		"Propose une évolution de l'architecture,\npuis propose un programme adapté en s'appuyant sur le formalisme imposé.",
+		"Propose un programme adapté en s'appuyant sur le formalisme imposé,\nidentifie les limites de l'architecture imposée.",
+		"Propose un programme incomplet et/ou non fonctionnel,\nn'identifie pas les limites de l'architecture.",
+		"TP de 2h\n(pendant le TP)"
+	],
+	"74": [
+		24,
+		"C2N3",
+		"Identifie le rôle de chaque composant et analyse le déroulement temporel de l'exécution de chaque instruction,\npuis optimise le nombre des instructions.",
+		"Identifie le rôle de chaque composant et analyse le déroulement temporel de l'exécution de chaque instruction.",
+		"Comprend partiellement le rôle des composants et/ou ne traduit pas le fonctionnement attendu en séquence d'instructions.",
+		"TP de 2h\n(pendant le TP)"
+	],
+	"75": [
+		25,
+		"C2N2",
+		"Comprend la méthode de résolution imposée et l'implémente efficacement.\nIdentifie l'influence du choix des paramètres.",
+		"Comprend la méthode de résolution imposée et l'implémente correctement avec de bons paramètres.",
+		"Montre des difficultés à comprendre et implémenter la méthode.",
+		"Pendant le TP de 4h"
+	],
+	"76": [
+		25,
+		"C2I2",
+		"Propose une évolution de la méthode pour améliorer le résultat.",
+		"Questionne la méthode et identifie les limites de celle-ci.",
+		"Ne questionne pas la méthode au regard du résultat obtenu.",
+		"Pendant le TP de 4h"
+	],
+	"77": [
+		25,
+		"C3N3",
+		"Réalise un exposé […].\nReplace la problématique dans un contexte global et propose des ouvertures pertinents.",
+		"Réalise un exposé scientifiquement juste et synthétique en hiérarchisant les informations à communiquer.",
+		"Manque de justesse scientifique,\nne prend pas de recul,\npropose un exposé sans fil conducteur clair.",
+		"Pendant le BE de 2h"
+	],
+	"78": [
+		25,
+		"C5N2",
+		"Echange sur les résultats obtenus pour définir un fil conducteur,\npuis se répartisse le travail collégialement.\nMontre une bonne dynamique de groupe pendant l'exposé.",
+		"Echange sur les résultats obtenus pour définir un fil conducteur,\npuis se répartisse le travail collégialement.",
+		"Propose un exposé dont le déroulement ne suit pas un fil conducteur global.\nPrise de parole déséquilibrée lors de l'exposé.",
+		"Pendant le BE de 2h"
+	],
+	"79": [
+		26,
+		"C2N2",
+		"Analyse les caractéristiques […],\net justifie ses choix par une formulation des caractéristiques et des hypothèses nécessaires.",
+		"Analyse les caractéristiques des composants pour dimensionner le circuit en fonction des contraintes imposées.",
+		"Dimensionne le circuit sans prendre en compte les caractéristiques de celui-ci.",
+		"Durant le TP"
+	],
+	"80": [
+		26,
+		"C2N3",
+		"Analyse les mesures […],\net identifie les causes du bruit.",
+		"Analyse les mesures et met en évidence le comportement attendu malgré la présence de bruit.",
+		"Ne retrouve pas le comportement attendu à partir de l'exploitation des mesures.",
+		"Durant le TP"
+	],
+	"81": [
+		26,
+		"C2N1",
+		"Propose un modèle […],\net justifie les caractéristiques numériques de celui-ci.",
+		"Propose un modèle de comportement du circuit à partir de l'analyse des mesures.",
+		"Observe partiellement les mesures et propose un modèle de comportement inadapté.",
+		"Durant le TP puis à la lecture du CR"
+	],
+	"82": [
+		26,
+		"C3N3",
+		"Synthétise et justifie rigoureusement les résultats obtenus pour répondre à la problématique soulevée avec un vocabulaire adapté et précis.",
+		"Synthétise les résultats obtenus pour répondre à la problématique soulevée avec un vocabulaire adapté.",
+		"Répond partiellement à la problématique par manque de précision et/ou de rigueur.",
+		"A la lecture du CR"
+	]
+}
